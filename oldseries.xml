@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+<channel id="oldseriesnovo">
+<display-name>Old Series</display-name>
+<url>https://www.hefestometa.com.br</url>
+</channel>
+<programme start="20230927000000 +0000" stop="20230927004316 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep1</title>
+</programme>
+<programme start="20230927004316 +0000" stop="20230927012633 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep3</title>
+</programme>
+<programme start="20230927012633 +0000" stop="20230927020924 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep2</title>
+</programme>
+<programme start="20230927020924 +0000" stop="20230927025241 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep1</title>
+</programme>
+<programme start="20230927025241 +0000" stop="20230927033557 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep3</title>
+</programme>
+<programme start="20230927033557 +0000" stop="20230927041848 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep2</title>
+</programme>
+<programme start="20230927041848 +0000" stop="20230927050205 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep1</title>
+</programme>
+<programme start="20230927050205 +0000" stop="20230927054522 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep3</title>
+</programme>
+<programme start="20230927054522 +0000" stop="20230927062812 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep2</title>
+</programme>
+<programme start="20230927062812 +0000" stop="20230927071129 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep1</title>
+</programme>
+<programme start="20230927071129 +0000" stop="20230927075446 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep3</title>
+</programme>
+<programme start="20230927075446 +0000" stop="20230927083736 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep2</title>
+</programme>
+<programme start="20230927083736 +0000" stop="20230927092053 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep1</title>
+</programme>
+<programme start="20230927092053 +0000" stop="20230927100410 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep3</title>
+</programme>
+<programme start="20230927100410 +0000" stop="20230927104700 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep2</title>
+</programme>
+<programme start="20230927104700 +0000" stop="20230927113017 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep1</title>
+</programme>
+<programme start="20230927113017 +0000" stop="20230927121334 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep3</title>
+</programme>
+<programme start="20230927121334 +0000" stop="20230927125625 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep2</title>
+</programme>
+<programme start="20230927125625 +0000" stop="20230927133941 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep1</title>
+</programme>
+<programme start="20230927133941 +0000" stop="20230927142258 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep3</title>
+</programme>
+<programme start="20230927142258 +0000" stop="20230927150549 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep2</title>
+</programme>
+<programme start="20230927150549 +0000" stop="20230927154906 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep1</title>
+</programme>
+<programme start="20230927154906 +0000" stop="20230927163223 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep3</title>
+</programme>
+<programme start="20230927163223 +0000" stop="20230927171513 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep2</title>
+</programme>
+<programme start="20230927171513 +0000" stop="20230927175830 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep1</title>
+</programme>
+<programme start="20230927175830 +0000" stop="20230927184147 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep3</title>
+</programme>
+<programme start="20230927184147 +0000" stop="20230927192437 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep2</title>
+</programme>
+<programme start="20230927192437 +0000" stop="20230927200754 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep1</title>
+</programme>
+<programme start="20230927200754 +0000" stop="20230927205111 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep3</title>
+</programme>
+<programme start="20230927205111 +0000" stop="20230927213401 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep2</title>
+</programme>
+<programme start="20230927213401 +0000" stop="20230927221718 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep1</title>
+</programme>
+<programme start="20230927221718 +0000" stop="20230927230035 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep3</title>
+</programme>
+<programme start="20230927230035 +0000" stop="20230927234326 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep2</title>
+</programme>
+<programme start="20230927234326 +0000" stop="20230928002642 +0000" channel="oldseriesnovo">
+<title>Chuck-T1-Ep1</title>
+</programme>
+</tv>
