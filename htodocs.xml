@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Hefesto Meta JSON EPG Generator">
+  <channel id="htodocs">
+    <display-name>HtoDocs</display-name>
+  </channel>
+  <programme start="20260402000000 +0000" stop="20260402012304 +0000" channel="htodocs">
+    <title lang="pt">Blackfish Fúria animal</title>
+    <desc lang="pt">Blackfish Fúria animal</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402012304 +0000" stop="20260402021117 +0000" channel="htodocs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   EGEU</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   EGEU</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402021117 +0000" stop="20260402032945 +0000" channel="htodocs">
+    <title lang="pt">Despertar - Data Limite (2019)</title>
+    <desc lang="pt">Despertar - Data Limite (2019)</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402032945 +0000" stop="20260402045509 +0000" channel="htodocs">
+    <title lang="pt">ilumina - Documentário sobre a vida de Jesus</title>
+    <desc lang="pt">ilumina - Documentário sobre a vida de Jesus</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402045509 +0000" stop="20260402061301 +0000" channel="htodocs">
+    <title lang="pt">Fungos Fantasticos - Cogumelos</title>
+    <desc lang="pt">Fungos Fantasticos - Cogumelos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402061301 +0000" stop="20260402065233 +0000" channel="htodocs">
+    <title lang="pt">Marc Ferrez Território e Imagem  por Ynaê Santos Lopes</title>
+    <desc lang="pt">Marc Ferrez Território e Imagem  por Ynaê Santos Lopes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402065233 +0000" stop="20260402081356 +0000" channel="htodocs">
+    <title lang="pt">Quando lembro de Chico</title>
+    <desc lang="pt">Quando lembro de Chico</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402081356 +0000" stop="20260402094110 +0000" channel="htodocs">
+    <title lang="pt">1943 a 1945 - Segunda Guerra Mundial - A Guerra no Ar</title>
+    <desc lang="pt">1943 a 1945 - Segunda Guerra Mundial - A Guerra no Ar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402094110 +0000" stop="20260402100045 +0000" channel="htodocs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402100045 +0000" stop="20260402104714 +0000" channel="htodocs">
+    <title lang="pt">ATO 18 - O golpe contra Lula - Episódio 1</title>
+    <desc lang="pt">ATO 18 - O golpe contra Lula - Episódio 1</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402104714 +0000" stop="20260402121018 +0000" channel="htodocs">
+    <title lang="pt">Blackfish Fúria animal</title>
+    <desc lang="pt">Blackfish Fúria animal</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402121018 +0000" stop="20260402125831 +0000" channel="htodocs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   EGEU</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   EGEU</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402125831 +0000" stop="20260402141659 +0000" channel="htodocs">
+    <title lang="pt">Despertar - Data Limite (2019)</title>
+    <desc lang="pt">Despertar - Data Limite (2019)</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402141659 +0000" stop="20260402154223 +0000" channel="htodocs">
+    <title lang="pt">ilumina - Documentário sobre a vida de Jesus</title>
+    <desc lang="pt">ilumina - Documentário sobre a vida de Jesus</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402154223 +0000" stop="20260402170015 +0000" channel="htodocs">
+    <title lang="pt">Fungos Fantasticos - Cogumelos</title>
+    <desc lang="pt">Fungos Fantasticos - Cogumelos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402170015 +0000" stop="20260402173947 +0000" channel="htodocs">
+    <title lang="pt">Marc Ferrez Território e Imagem  por Ynaê Santos Lopes</title>
+    <desc lang="pt">Marc Ferrez Território e Imagem  por Ynaê Santos Lopes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402173947 +0000" stop="20260402190110 +0000" channel="htodocs">
+    <title lang="pt">Quando lembro de Chico</title>
+    <desc lang="pt">Quando lembro de Chico</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402190110 +0000" stop="20260402202824 +0000" channel="htodocs">
+    <title lang="pt">1943 a 1945 - Segunda Guerra Mundial - A Guerra no Ar</title>
+    <desc lang="pt">1943 a 1945 - Segunda Guerra Mundial - A Guerra no Ar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402202824 +0000" stop="20260402204759 +0000" channel="htodocs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402204759 +0000" stop="20260402213428 +0000" channel="htodocs">
+    <title lang="pt">ATO 18 - O golpe contra Lula - Episódio 1</title>
+    <desc lang="pt">ATO 18 - O golpe contra Lula - Episódio 1</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402213428 +0000" stop="20260402225732 +0000" channel="htodocs">
+    <title lang="pt">Blackfish Fúria animal</title>
+    <desc lang="pt">Blackfish Fúria animal</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402225732 +0000" stop="20260402234545 +0000" channel="htodocs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   EGEU</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   EGEU</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260403010622 +0000" channel="htodocs">
+    <title lang="pt">A Lei</title>
+    <desc lang="pt">A Lei</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403010622 +0000" stop="20260403012841 +0000" channel="htodocs">
+    <title lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403012841 +0000" stop="20260403021654 +0000" channel="htodocs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   EGEU</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   EGEU</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403021654 +0000" stop="20260403025245 +0000" channel="htodocs">
+    <title lang="pt">Documentário A dona do terreiro</title>
+    <desc lang="pt">Documentário A dona do terreiro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403025245 +0000" stop="20260403031821 +0000" channel="htodocs">
+    <title lang="pt">Documentário - Trabalho Escravo Contemporâneo</title>
+    <desc lang="pt">Documentário - Trabalho Escravo Contemporâneo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403031821 +0000" stop="20260403043613 +0000" channel="htodocs">
+    <title lang="pt">Fungos Fantasticos - Cogumelos</title>
+    <desc lang="pt">Fungos Fantasticos - Cogumelos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403043613 +0000" stop="20260403051545 +0000" channel="htodocs">
+    <title lang="pt">Marc Ferrez Território e Imagem  por Ynaê Santos Lopes</title>
+    <desc lang="pt">Marc Ferrez Território e Imagem  por Ynaê Santos Lopes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403051545 +0000" stop="20260403054101 +0000" channel="htodocs">
+    <title lang="pt">Mata Atlântica- a floresta mais antiga da América do Sul - Nossos Biomas</title>
+    <desc lang="pt">Mata Atlântica- a floresta mais antiga da América do Sul - Nossos Biomas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403054101 +0000" stop="20260403064253 +0000" channel="htodocs">
+    <title lang="pt">PIXO</title>
+    <desc lang="pt">PIXO</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403064253 +0000" stop="20260403070810 +0000" channel="htodocs">
+    <title lang="pt">Tauary - Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary - Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403070810 +0000" stop="20260403081815 +0000" channel="htodocs">
+    <title lang="pt">Sabotage - Nós</title>
+    <desc lang="pt">Sabotage - Nós</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403081815 +0000" stop="20260403092437 +0000" channel="htodocs">
+    <title lang="pt">A Lei</title>
+    <desc lang="pt">A Lei</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403092437 +0000" stop="20260403094656 +0000" channel="htodocs">
+    <title lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403094656 +0000" stop="20260403103509 +0000" channel="htodocs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   EGEU</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   EGEU</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403103509 +0000" stop="20260403111100 +0000" channel="htodocs">
+    <title lang="pt">Documentário A dona do terreiro</title>
+    <desc lang="pt">Documentário A dona do terreiro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403111100 +0000" stop="20260403113636 +0000" channel="htodocs">
+    <title lang="pt">Documentário - Trabalho Escravo Contemporâneo</title>
+    <desc lang="pt">Documentário - Trabalho Escravo Contemporâneo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403113636 +0000" stop="20260403125428 +0000" channel="htodocs">
+    <title lang="pt">Fungos Fantasticos - Cogumelos</title>
+    <desc lang="pt">Fungos Fantasticos - Cogumelos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403125428 +0000" stop="20260403133400 +0000" channel="htodocs">
+    <title lang="pt">Marc Ferrez Território e Imagem  por Ynaê Santos Lopes</title>
+    <desc lang="pt">Marc Ferrez Território e Imagem  por Ynaê Santos Lopes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403133400 +0000" stop="20260403135916 +0000" channel="htodocs">
+    <title lang="pt">Mata Atlântica- a floresta mais antiga da América do Sul - Nossos Biomas</title>
+    <desc lang="pt">Mata Atlântica- a floresta mais antiga da América do Sul - Nossos Biomas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403135916 +0000" stop="20260403150108 +0000" channel="htodocs">
+    <title lang="pt">PIXO</title>
+    <desc lang="pt">PIXO</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403150108 +0000" stop="20260403152625 +0000" channel="htodocs">
+    <title lang="pt">Tauary - Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary - Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403152625 +0000" stop="20260403163630 +0000" channel="htodocs">
+    <title lang="pt">Sabotage - Nós</title>
+    <desc lang="pt">Sabotage - Nós</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403163630 +0000" stop="20260403174252 +0000" channel="htodocs">
+    <title lang="pt">A Lei</title>
+    <desc lang="pt">A Lei</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403174252 +0000" stop="20260403180511 +0000" channel="htodocs">
+    <title lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403180511 +0000" stop="20260403185324 +0000" channel="htodocs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   EGEU</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   EGEU</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403185324 +0000" stop="20260403192915 +0000" channel="htodocs">
+    <title lang="pt">Documentário A dona do terreiro</title>
+    <desc lang="pt">Documentário A dona do terreiro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403192915 +0000" stop="20260403195451 +0000" channel="htodocs">
+    <title lang="pt">Documentário - Trabalho Escravo Contemporâneo</title>
+    <desc lang="pt">Documentário - Trabalho Escravo Contemporâneo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403195451 +0000" stop="20260403211243 +0000" channel="htodocs">
+    <title lang="pt">Fungos Fantasticos - Cogumelos</title>
+    <desc lang="pt">Fungos Fantasticos - Cogumelos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403211243 +0000" stop="20260403215215 +0000" channel="htodocs">
+    <title lang="pt">Marc Ferrez Território e Imagem  por Ynaê Santos Lopes</title>
+    <desc lang="pt">Marc Ferrez Território e Imagem  por Ynaê Santos Lopes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403215215 +0000" stop="20260403221731 +0000" channel="htodocs">
+    <title lang="pt">Mata Atlântica- a floresta mais antiga da América do Sul - Nossos Biomas</title>
+    <desc lang="pt">Mata Atlântica- a floresta mais antiga da América do Sul - Nossos Biomas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403221731 +0000" stop="20260403231923 +0000" channel="htodocs">
+    <title lang="pt">PIXO</title>
+    <desc lang="pt">PIXO</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403231923 +0000" stop="20260403234440 +0000" channel="htodocs">
+    <title lang="pt">Tauary - Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary - Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260404011005 +0000" channel="htodocs">
+    <title lang="pt">Sabotage - Nós</title>
+    <desc lang="pt">Sabotage - Nós</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404011005 +0000" stop="20260404024433 +0000" channel="htodocs">
+    <title lang="pt">Terra - Documentário Sobre a Terra e Sua Biodiversidade - Documentário Animal Dublado</title>
+    <desc lang="pt">Terra - Documentário Sobre a Terra e Sua Biodiversidade - Documentário Animal Dublado</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404024433 +0000" stop="20260404042233 +0000" channel="htodocs">
+    <title lang="pt">Terra</title>
+    <desc lang="pt">Terra</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404042233 +0000" stop="20260404044750 +0000" channel="htodocs">
+    <title lang="pt">Tauary - Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary - Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404044750 +0000" stop="20260404054807 +0000" channel="htodocs">
+    <title lang="pt">U-869 - O Submarino perdido de Hitler - Parte 1</title>
+    <desc lang="pt">U-869 - O Submarino perdido de Hitler - Parte 1</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404054807 +0000" stop="20260404062049 +0000" channel="htodocs">
+    <title lang="pt">U-869 - O Submarino perdido de Hitler - Parte 2</title>
+    <desc lang="pt">U-869 - O Submarino perdido de Hitler - Parte 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404062049 +0000" stop="20260404074803 +0000" channel="htodocs">
+    <title lang="pt">1943 a 1945 - Segunda Guerra Mundial - A Guerra no Ar</title>
+    <desc lang="pt">1943 a 1945 - Segunda Guerra Mundial - A Guerra no Ar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404074803 +0000" stop="20260404101122 +0000" channel="htodocs">
+    <title lang="pt">1983 - O Ano dos Videogames no Brasil</title>
+    <desc lang="pt">1983 - O Ano dos Videogames no Brasil</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404101122 +0000" stop="20260404123700 +0000" channel="htodocs">
+    <title lang="pt">A EDUCAÇÃO PROIBIDA</title>
+    <desc lang="pt">A EDUCAÇÃO PROIBIDA</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404123700 +0000" stop="20260404134705 +0000" channel="htodocs">
+    <title lang="pt">Sabotage - Nós</title>
+    <desc lang="pt">Sabotage - Nós</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404134705 +0000" stop="20260404152133 +0000" channel="htodocs">
+    <title lang="pt">Terra - Documentário Sobre a Terra e Sua Biodiversidade - Documentário Animal Dublado</title>
+    <desc lang="pt">Terra - Documentário Sobre a Terra e Sua Biodiversidade - Documentário Animal Dublado</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404152133 +0000" stop="20260404165933 +0000" channel="htodocs">
+    <title lang="pt">Terra</title>
+    <desc lang="pt">Terra</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404165933 +0000" stop="20260404172450 +0000" channel="htodocs">
+    <title lang="pt">Tauary - Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary - Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404172450 +0000" stop="20260404182507 +0000" channel="htodocs">
+    <title lang="pt">U-869 - O Submarino perdido de Hitler - Parte 1</title>
+    <desc lang="pt">U-869 - O Submarino perdido de Hitler - Parte 1</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404182507 +0000" stop="20260404185749 +0000" channel="htodocs">
+    <title lang="pt">U-869 - O Submarino perdido de Hitler - Parte 2</title>
+    <desc lang="pt">U-869 - O Submarino perdido de Hitler - Parte 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404185749 +0000" stop="20260404202503 +0000" channel="htodocs">
+    <title lang="pt">1943 a 1945 - Segunda Guerra Mundial - A Guerra no Ar</title>
+    <desc lang="pt">1943 a 1945 - Segunda Guerra Mundial - A Guerra no Ar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404202503 +0000" stop="20260404224822 +0000" channel="htodocs">
+    <title lang="pt">1983 - O Ano dos Videogames no Brasil</title>
+    <desc lang="pt">1983 - O Ano dos Videogames no Brasil</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404224822 +0000" stop="20260405011400 +0000" channel="htodocs">
+    <title lang="pt">A EDUCAÇÃO PROIBIDA</title>
+    <desc lang="pt">A EDUCAÇÃO PROIBIDA</desc>
+    <category lang="pt">Program</category>
+  </programme>
+</tv>

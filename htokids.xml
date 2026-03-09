@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Hefesto Meta JSON EPG Generator">
+  <channel id="htokids">
+    <display-name>HtoKids</display-name>
+  </channel>
+  <programme start="20260402000000 +0000" stop="20260402013113 +0000" channel="htokids">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <desc lang="pt">O Que Será de Nozes 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402013113 +0000" stop="20260402025203 +0000" channel="htokids">
+    <title lang="pt">O Rei Leão 2 - O reino de simba</title>
+    <desc lang="pt">O Rei Leão 2 - O reino de simba</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402025203 +0000" stop="20260402043040 +0000" channel="htokids">
+    <title lang="pt">Os Croods</title>
+    <desc lang="pt">Os Croods</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402043040 +0000" stop="20260402045433 +0000" channel="htokids">
+    <title lang="pt">[S0 E05] O Show do Garfield - Jogo de gato e rato A pizza perfeita</title>
+    <desc lang="pt">[S0 E05] O Show do Garfield - Jogo de gato e rato A pizza perfeita</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402045433 +0000" stop="20260402051808 +0000" channel="htokids">
+    <title lang="pt">[S0 E06] O Show do Garfield - Nermal, o rei À procura de Pookie</title>
+    <desc lang="pt">[S0 E06] O Show do Garfield - Nermal, o rei À procura de Pookie</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402051808 +0000" stop="20260402054149 +0000" channel="htokids">
+    <title lang="pt">[S0 E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</title>
+    <desc lang="pt">[S0 E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402054149 +0000" stop="20260402060539 +0000" channel="htokids">
+    <title lang="pt">01</title>
+    <desc lang="pt">01</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402060539 +0000" stop="20260402062929 +0000" channel="htokids">
+    <title lang="pt">03</title>
+    <desc lang="pt">03</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402062929 +0000" stop="20260402065319 +0000" channel="htokids">
+    <title lang="pt">02</title>
+    <desc lang="pt">02</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402065319 +0000" stop="20260402071746 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 19</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 19</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402071746 +0000" stop="20260402074213 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402074213 +0000" stop="20260402085859 +0000" channel="htokids">
+    <title lang="pt">Batman do futuro o Retorno do coringa</title>
+    <desc lang="pt">Batman do futuro o Retorno do coringa</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402085859 +0000" stop="20260402102753 +0000" channel="htokids">
+    <title lang="pt">O golfinho a historia de um sonhador</title>
+    <desc lang="pt">O golfinho a historia de um sonhador</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402102753 +0000" stop="20260402114924 +0000" channel="htokids">
+    <title lang="pt">Planeta Hulk</title>
+    <desc lang="pt">Planeta Hulk</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402114924 +0000" stop="20260402132037 +0000" channel="htokids">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <desc lang="pt">O Que Será de Nozes 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402132037 +0000" stop="20260402144127 +0000" channel="htokids">
+    <title lang="pt">O Rei Leão 2 - O reino de simba</title>
+    <desc lang="pt">O Rei Leão 2 - O reino de simba</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402144127 +0000" stop="20260402162004 +0000" channel="htokids">
+    <title lang="pt">Os Croods</title>
+    <desc lang="pt">Os Croods</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402162004 +0000" stop="20260402164357 +0000" channel="htokids">
+    <title lang="pt">[S0 E05] O Show do Garfield - Jogo de gato e rato A pizza perfeita</title>
+    <desc lang="pt">[S0 E05] O Show do Garfield - Jogo de gato e rato A pizza perfeita</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402164357 +0000" stop="20260402170732 +0000" channel="htokids">
+    <title lang="pt">[S0 E06] O Show do Garfield - Nermal, o rei À procura de Pookie</title>
+    <desc lang="pt">[S0 E06] O Show do Garfield - Nermal, o rei À procura de Pookie</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402170732 +0000" stop="20260402173113 +0000" channel="htokids">
+    <title lang="pt">[S0 E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</title>
+    <desc lang="pt">[S0 E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402173113 +0000" stop="20260402175503 +0000" channel="htokids">
+    <title lang="pt">01</title>
+    <desc lang="pt">01</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402175503 +0000" stop="20260402181853 +0000" channel="htokids">
+    <title lang="pt">03</title>
+    <desc lang="pt">03</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402181853 +0000" stop="20260402184243 +0000" channel="htokids">
+    <title lang="pt">02</title>
+    <desc lang="pt">02</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402184243 +0000" stop="20260402190710 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 19</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 19</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402190710 +0000" stop="20260402193137 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402193137 +0000" stop="20260402204823 +0000" channel="htokids">
+    <title lang="pt">Batman do futuro o Retorno do coringa</title>
+    <desc lang="pt">Batman do futuro o Retorno do coringa</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402204823 +0000" stop="20260402221717 +0000" channel="htokids">
+    <title lang="pt">O golfinho a historia de um sonhador</title>
+    <desc lang="pt">O golfinho a historia de um sonhador</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402221717 +0000" stop="20260402233848 +0000" channel="htokids">
+    <title lang="pt">Planeta Hulk</title>
+    <desc lang="pt">Planeta Hulk</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402233848 +0000" stop="20260403011001 +0000" channel="htokids">
+    <title lang="pt">O Que Será de Nozes 2</title>
+    <desc lang="pt">O Que Será de Nozes 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260403012952 +0000" channel="htokids">
+    <title lang="pt">Ta chovendo hamburguer</title>
+    <desc lang="pt">Ta chovendo hamburguer</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403012952 +0000" stop="20260403024143 +0000" channel="htokids">
+    <title lang="pt">Piu-piu da a volta ao mundo</title>
+    <desc lang="pt">Piu-piu da a volta ao mundo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403024143 +0000" stop="20260403040501 +0000" channel="htokids">
+    <title lang="pt">Minúsculos</title>
+    <desc lang="pt">Minúsculos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403040501 +0000" stop="20260403042939 +0000" channel="htokids">
+    <title lang="pt">[S0 E19] O Show do Garfield - Treinamento radical Herdeiro natural</title>
+    <desc lang="pt">[S0 E19] O Show do Garfield - Treinamento radical Herdeiro natural</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403042939 +0000" stop="20260403045416 +0000" channel="htokids">
+    <title lang="pt">[S0 E20] O Show do Garfield - Cantoria natalina Saído do forno</title>
+    <desc lang="pt">[S0 E20] O Show do Garfield - Cantoria natalina Saído do forno</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403045416 +0000" stop="20260403051802 +0000" channel="htokids">
+    <title lang="pt">[S0 E22] O Show do Garfield - Em apuros A terra dos queijos</title>
+    <desc lang="pt">[S0 E22] O Show do Garfield - Em apuros A terra dos queijos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403051802 +0000" stop="20260403054152 +0000" channel="htokids">
+    <title lang="pt">01</title>
+    <desc lang="pt">01</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403054152 +0000" stop="20260403060542 +0000" channel="htokids">
+    <title lang="pt">02</title>
+    <desc lang="pt">02</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403060542 +0000" stop="20260403062932 +0000" channel="htokids">
+    <title lang="pt">03</title>
+    <desc lang="pt">03</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403062932 +0000" stop="20260403065403 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 1</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 1</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403065403 +0000" stop="20260403071831 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 18</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 18</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403071831 +0000" stop="20260403074258 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403074258 +0000" stop="20260403085817 +0000" channel="htokids">
+    <title lang="pt">Garoto cosmico</title>
+    <desc lang="pt">Garoto cosmico</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403085817 +0000" stop="20260403102741 +0000" channel="htokids">
+    <title lang="pt">Madagascar 2 a grande escapada</title>
+    <desc lang="pt">Madagascar 2 a grande escapada</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403102741 +0000" stop="20260403115635 +0000" channel="htokids">
+    <title lang="pt">O golfinho a historia de um sonhador</title>
+    <desc lang="pt">O golfinho a historia de um sonhador</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403115635 +0000" stop="20260403132627 +0000" channel="htokids">
+    <title lang="pt">Ta chovendo hamburguer</title>
+    <desc lang="pt">Ta chovendo hamburguer</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403132627 +0000" stop="20260403143818 +0000" channel="htokids">
+    <title lang="pt">Piu-piu da a volta ao mundo</title>
+    <desc lang="pt">Piu-piu da a volta ao mundo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403143818 +0000" stop="20260403160136 +0000" channel="htokids">
+    <title lang="pt">Minúsculos</title>
+    <desc lang="pt">Minúsculos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403160136 +0000" stop="20260403162614 +0000" channel="htokids">
+    <title lang="pt">[S0 E19] O Show do Garfield - Treinamento radical Herdeiro natural</title>
+    <desc lang="pt">[S0 E19] O Show do Garfield - Treinamento radical Herdeiro natural</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403162614 +0000" stop="20260403165051 +0000" channel="htokids">
+    <title lang="pt">[S0 E20] O Show do Garfield - Cantoria natalina Saído do forno</title>
+    <desc lang="pt">[S0 E20] O Show do Garfield - Cantoria natalina Saído do forno</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403165051 +0000" stop="20260403171437 +0000" channel="htokids">
+    <title lang="pt">[S0 E22] O Show do Garfield - Em apuros A terra dos queijos</title>
+    <desc lang="pt">[S0 E22] O Show do Garfield - Em apuros A terra dos queijos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403171437 +0000" stop="20260403173827 +0000" channel="htokids">
+    <title lang="pt">01</title>
+    <desc lang="pt">01</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403173827 +0000" stop="20260403180217 +0000" channel="htokids">
+    <title lang="pt">02</title>
+    <desc lang="pt">02</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403180217 +0000" stop="20260403182607 +0000" channel="htokids">
+    <title lang="pt">03</title>
+    <desc lang="pt">03</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403182607 +0000" stop="20260403185038 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 1</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 1</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403185038 +0000" stop="20260403191506 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 18</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 18</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403191506 +0000" stop="20260403193933 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403193933 +0000" stop="20260403205452 +0000" channel="htokids">
+    <title lang="pt">Garoto cosmico</title>
+    <desc lang="pt">Garoto cosmico</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403205452 +0000" stop="20260403222416 +0000" channel="htokids">
+    <title lang="pt">Madagascar 2 a grande escapada</title>
+    <desc lang="pt">Madagascar 2 a grande escapada</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403222416 +0000" stop="20260403235310 +0000" channel="htokids">
+    <title lang="pt">O golfinho a historia de um sonhador</title>
+    <desc lang="pt">O golfinho a historia de um sonhador</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260404012457 +0000" channel="htokids">
+    <title lang="pt">Sargento Stubby Um Herói Americano</title>
+    <desc lang="pt">Sargento Stubby Um Herói Americano</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404012457 +0000" stop="20260404025733 +0000" channel="htokids">
+    <title lang="pt">Jack e a Mecânica do Coração</title>
+    <desc lang="pt">Jack e a Mecânica do Coração</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404025733 +0000" stop="20260404042344 +0000" channel="htokids">
+    <title lang="pt">Horton e o mundo dos quem</title>
+    <desc lang="pt">Horton e o mundo dos quem</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404042344 +0000" stop="20260404044727 +0000" channel="htokids">
+    <title lang="pt">[S0 E11] O Show do Garfield - A maldição do cãozarrão Conhecendo os pais</title>
+    <desc lang="pt">[S0 E11] O Show do Garfield - A maldição do cãozarrão Conhecendo os pais</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404044727 +0000" stop="20260404051108 +0000" channel="htokids">
+    <title lang="pt">[S0 E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</title>
+    <desc lang="pt">[S0 E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404051108 +0000" stop="20260404053447 +0000" channel="htokids">
+    <title lang="pt">[S0 E13] O Show do Garfield - A maldição de quem ama gato Glenda e Odessa</title>
+    <desc lang="pt">[S0 E13] O Show do Garfield - A maldição de quem ama gato Glenda e Odessa</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404053447 +0000" stop="20260404055617 +0000" channel="htokids">
+    <title lang="pt">[S02 E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</title>
+    <desc lang="pt">[S02 E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404055617 +0000" stop="20260404061751 +0000" channel="htokids">
+    <title lang="pt">[S02 E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</title>
+    <desc lang="pt">[S02 E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404061751 +0000" stop="20260404063920 +0000" channel="htokids">
+    <title lang="pt">[S02 E02] Os Jovens Titãs em Ação - Piratas De olho em você</title>
+    <desc lang="pt">[S02 E02] Os Jovens Titãs em Ação - Piratas De olho em você</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404063920 +0000" stop="20260404070310 +0000" channel="htokids">
+    <title lang="pt">01</title>
+    <desc lang="pt">01</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404070310 +0000" stop="20260404072700 +0000" channel="htokids">
+    <title lang="pt">04</title>
+    <desc lang="pt">04</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404072700 +0000" stop="20260404075050 +0000" channel="htokids">
+    <title lang="pt">06</title>
+    <desc lang="pt">06</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404075050 +0000" stop="20260404081517 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 19</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 19</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404081517 +0000" stop="20260404083944 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 22</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 22</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404083944 +0000" stop="20260404102439 +0000" channel="htokids">
+    <title lang="pt">Kaisen Filme</title>
+    <desc lang="pt">Kaisen Filme</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404102439 +0000" stop="20260404120341 +0000" channel="htokids">
+    <title lang="pt">Meu amigãozão</title>
+    <desc lang="pt">Meu amigãozão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404120341 +0000" stop="20260404131532 +0000" channel="htokids">
+    <title lang="pt">Piu-piu da a volta ao mundo</title>
+    <desc lang="pt">Piu-piu da a volta ao mundo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404131532 +0000" stop="20260404144029 +0000" channel="htokids">
+    <title lang="pt">Sargento Stubby Um Herói Americano</title>
+    <desc lang="pt">Sargento Stubby Um Herói Americano</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404144029 +0000" stop="20260404161305 +0000" channel="htokids">
+    <title lang="pt">Jack e a Mecânica do Coração</title>
+    <desc lang="pt">Jack e a Mecânica do Coração</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404161305 +0000" stop="20260404173916 +0000" channel="htokids">
+    <title lang="pt">Horton e o mundo dos quem</title>
+    <desc lang="pt">Horton e o mundo dos quem</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404173916 +0000" stop="20260404180259 +0000" channel="htokids">
+    <title lang="pt">[S0 E11] O Show do Garfield - A maldição do cãozarrão Conhecendo os pais</title>
+    <desc lang="pt">[S0 E11] O Show do Garfield - A maldição do cãozarrão Conhecendo os pais</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404180259 +0000" stop="20260404182640 +0000" channel="htokids">
+    <title lang="pt">[S0 E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</title>
+    <desc lang="pt">[S0 E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404182640 +0000" stop="20260404185019 +0000" channel="htokids">
+    <title lang="pt">[S0 E13] O Show do Garfield - A maldição de quem ama gato Glenda e Odessa</title>
+    <desc lang="pt">[S0 E13] O Show do Garfield - A maldição de quem ama gato Glenda e Odessa</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404185019 +0000" stop="20260404191149 +0000" channel="htokids">
+    <title lang="pt">[S02 E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</title>
+    <desc lang="pt">[S02 E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404191149 +0000" stop="20260404193323 +0000" channel="htokids">
+    <title lang="pt">[S02 E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</title>
+    <desc lang="pt">[S02 E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404193323 +0000" stop="20260404195452 +0000" channel="htokids">
+    <title lang="pt">[S02 E02] Os Jovens Titãs em Ação - Piratas De olho em você</title>
+    <desc lang="pt">[S02 E02] Os Jovens Titãs em Ação - Piratas De olho em você</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404195452 +0000" stop="20260404201842 +0000" channel="htokids">
+    <title lang="pt">01</title>
+    <desc lang="pt">01</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404201842 +0000" stop="20260404204232 +0000" channel="htokids">
+    <title lang="pt">04</title>
+    <desc lang="pt">04</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404204232 +0000" stop="20260404210622 +0000" channel="htokids">
+    <title lang="pt">06</title>
+    <desc lang="pt">06</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404210622 +0000" stop="20260404213049 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 19</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 19</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404213049 +0000" stop="20260404215516 +0000" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 22</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 22</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404215516 +0000" stop="20260404234011 +0000" channel="htokids">
+    <title lang="pt">Kaisen Filme</title>
+    <desc lang="pt">Kaisen Filme</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404234011 +0000" stop="20260405011913 +0000" channel="htokids">
+    <title lang="pt">Meu amigãozão</title>
+    <desc lang="pt">Meu amigãozão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+</tv>

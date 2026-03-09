@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Hefesto Meta JSON EPG Generator">
+  <channel id="htofilmes">
+    <display-name>HtoFilmes</display-name>
+  </channel>
+  <programme start="20260402000000 +0000" stop="20260402014749 +0000" channel="htofilmes">
+    <title lang="pt">Brilho Eterno de uma Mente sem Lembranças</title>
+    <desc lang="pt">Brilho Eterno de uma Mente sem Lembranças</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402014749 +0000" stop="20260402031813 +0000" channel="htofilmes">
+    <title lang="pt">Caçada ao Presidente</title>
+    <desc lang="pt">Caçada ao Presidente</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402031813 +0000" stop="20260402050038 +0000" channel="htofilmes">
+    <title lang="pt">Cão de Briga</title>
+    <desc lang="pt">Cão de Briga</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402050038 +0000" stop="20260402064351 +0000" channel="htofilmes">
+    <title lang="pt">Carga Explosiva 3</title>
+    <desc lang="pt">Carga Explosiva 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402064351 +0000" stop="20260402082912 +0000" channel="htofilmes">
+    <title lang="pt">Cartas para Julieta</title>
+    <desc lang="pt">Cartas para Julieta</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402082912 +0000" stop="20260402102222 +0000" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402102222 +0000" stop="20260402120256 +0000" channel="htofilmes">
+    <title lang="pt">Company of Heroes - O Filme</title>
+    <desc lang="pt">Company of Heroes - O Filme</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402120256 +0000" stop="20260402135045 +0000" channel="htofilmes">
+    <title lang="pt">Brilho Eterno de uma Mente sem Lembranças</title>
+    <desc lang="pt">Brilho Eterno de uma Mente sem Lembranças</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402135045 +0000" stop="20260402152109 +0000" channel="htofilmes">
+    <title lang="pt">Caçada ao Presidente</title>
+    <desc lang="pt">Caçada ao Presidente</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402152109 +0000" stop="20260402170334 +0000" channel="htofilmes">
+    <title lang="pt">Cão de Briga</title>
+    <desc lang="pt">Cão de Briga</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402170334 +0000" stop="20260402184647 +0000" channel="htofilmes">
+    <title lang="pt">Carga Explosiva 3</title>
+    <desc lang="pt">Carga Explosiva 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402184647 +0000" stop="20260402203208 +0000" channel="htofilmes">
+    <title lang="pt">Cartas para Julieta</title>
+    <desc lang="pt">Cartas para Julieta</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402203208 +0000" stop="20260402221630 +0000" channel="htofilmes">
+    <title lang="pt">A Lista</title>
+    <desc lang="pt">A Lista</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260402221630 +0000" stop="20260402235704 +0000" channel="htofilmes">
+    <title lang="pt">Company of Heroes - O Filme</title>
+    <desc lang="pt">Company of Heroes - O Filme</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403000000 +0000" stop="20260403012840 +0000" channel="htofilmes">
+    <title lang="pt">Conta comigo</title>
+    <desc lang="pt">Conta comigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403012840 +0000" stop="20260403034336 +0000" channel="htofilmes">
+    <title lang="pt">Corações de Ferro</title>
+    <desc lang="pt">Corações de Ferro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403034336 +0000" stop="20260403055257 +0000" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403055257 +0000" stop="20260403073106 +0000" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403073106 +0000" stop="20260403092712 +0000" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">De Volta para o Futuro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403092712 +0000" stop="20260403111655 +0000" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403111655 +0000" stop="20260403124933 +0000" channel="htofilmes">
+    <title lang="pt">Eu, Deus e Bin Laden</title>
+    <desc lang="pt">Eu, Deus e Bin Laden</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403124933 +0000" stop="20260403141813 +0000" channel="htofilmes">
+    <title lang="pt">Conta comigo</title>
+    <desc lang="pt">Conta comigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403141813 +0000" stop="20260403163309 +0000" channel="htofilmes">
+    <title lang="pt">Corações de Ferro</title>
+    <desc lang="pt">Corações de Ferro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403163309 +0000" stop="20260403184230 +0000" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403184230 +0000" stop="20260403202039 +0000" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403202039 +0000" stop="20260403221645 +0000" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">De Volta para o Futuro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260403221645 +0000" stop="20260404000628 +0000" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404000000 +0000" stop="20260404013058 +0000" channel="htofilmes">
+    <title lang="pt">Taxi 4</title>
+    <desc lang="pt">Taxi 4</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404013058 +0000" stop="20260404025321 +0000" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404025321 +0000" stop="20260404042713 +0000" channel="htofilmes">
+    <title lang="pt">Vingança ao Anoitecer</title>
+    <desc lang="pt">Vingança ao Anoitecer</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404042713 +0000" stop="20260404063135 +0000" channel="htofilmes">
+    <title lang="pt">XXX - Triplo X</title>
+    <desc lang="pt">XXX - Triplo X</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404063135 +0000" stop="20260404084541 +0000" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404084541 +0000" stop="20260404110822 +0000" channel="htofilmes">
+    <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404110822 +0000" stop="20260404130136 +0000" channel="htofilmes">
+    <title lang="pt">A Bússola de Ouro</title>
+    <desc lang="pt">A Bússola de Ouro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404130136 +0000" stop="20260404143234 +0000" channel="htofilmes">
+    <title lang="pt">Taxi 4</title>
+    <desc lang="pt">Taxi 4</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404143234 +0000" stop="20260404155457 +0000" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404155457 +0000" stop="20260404172849 +0000" channel="htofilmes">
+    <title lang="pt">Vingança ao Anoitecer</title>
+    <desc lang="pt">Vingança ao Anoitecer</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404172849 +0000" stop="20260404193311 +0000" channel="htofilmes">
+    <title lang="pt">XXX - Triplo X</title>
+    <desc lang="pt">XXX - Triplo X</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404193311 +0000" stop="20260404214717 +0000" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260404214717 +0000" stop="20260405000958 +0000" channel="htofilmes">
+    <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
+  </programme>
+</tv>
