@@ -1248,4 +1248,69 @@
     <desc lang="pt">De Volta para o Futuro</desc>
     <category lang="pt">Program</category>
   </programme>
+  <programme start="20260517000000 -0300" stop="20260517013809 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517013809 -0300" stop="20260517035648 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517035648 -0300" stop="20260517054631 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517054631 -0300" stop="20260517080902 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Jogos Vorazes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517080902 -0300" stop="20260517094000 -0300" channel="htofilmes">
+    <title lang="pt">Taxi 4</title>
+    <desc lang="pt">Taxi 4</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517094000 -0300" stop="20260517113112 -0300" channel="htofilmes">
+    <title lang="pt">RED - Aposentados e Perigosos</title>
+    <desc lang="pt">RED - Aposentados e Perigosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517113112 -0300" stop="20260517132021 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517132021 -0300" stop="20260517151724 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517151724 -0300" stop="20260517173130 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick ruim</title>
+    <desc lang="pt">A Batalha De Riddick ruim</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517173130 -0300" stop="20260517192440 -0300" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517192440 -0300" stop="20260517211223 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517211223 -0300" stop="20260517225032 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517225032 -0300" stop="20260518010911 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
 </tv>
