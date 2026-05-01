@@ -1,544 +1,1316 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="EPG Generator" generator-info-url="https://lincemedia.com.br/" source-info-name="Lince Media EPG System" source-info-url="EPGSYS 1.0">
-  <channel id="HtoFilmes">
-    <display-name lang="pt">HtoFilmes</display-name>
+<tv generator-info-name="www.hefestometa.com.br">
+  <channel id="htofilmes">
+    <display-name>HtoFilmes</display-name>
   </channel>
-  <programme start="20260501000045 -0300" stop="20260501015748 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/3EkhsU6augJjLU83AiONvs3y97s.jpg" />
+  <programme start="20260429000000 -0300" stop="20260429015703 -0300" channel="htofilmes">
     <title lang="pt">22 Balas</title>
-    <date>2010</date>
-    <desc lang="pt">Depois de anos vivendo fora da lei, Charly Mattei, resolveu nos últimos três anos se dedicar a família e viver harmoniosamente com sua esposa e seus dois filhos pequenos. No entanto, em uma manhã de inverno ele é encontrado em um estacionamento com 22 balas no corpo e apesar de muitos acreditarem que ele havia morrido, Charly misteriosamente sobrevive. Agora ele sai à caça de Tony Zacchia, o único homem que se atreveria a tentar matá-lo. Zacchia cometeu apenas um erro: ele falhou.</desc>
-    <category>Drama</category>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501015833 -0300" stop="20260501033214 -0300" channel="HtoFilmes">
+  <programme start="20260429015703 -0300" stop="20260429033045 -0300" channel="htofilmes">
     <title lang="pt">127 horas</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">127 horas</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501033259 -0300" stop="20260501055540 -0300" channel="HtoFilmes">
+  <programme start="20260429033045 -0300" stop="20260429055326 -0300" channel="htofilmes">
     <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501055625 -0300" stop="20260501074938 -0300" channel="HtoFilmes">
+  <programme start="20260429055326 -0300" stop="20260429074640 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">A Bússola de Ouro</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501075023 -0300" stop="20260501094333 -0300" channel="HtoFilmes">
+  <programme start="20260429074640 -0300" stop="20260429093950 -0300" channel="htofilmes">
     <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501094418 -0300" stop="20260501111642 -0300" channel="HtoFilmes">
+  <programme start="20260429093950 -0300" stop="20260429111215 -0300" channel="htofilmes">
     <title lang="pt">A mentira</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501111727 -0300" stop="20260501125227 -0300" channel="HtoFilmes">
+  <programme start="20260429111215 -0300" stop="20260429124716 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt"></desc>
+    <desc lang="pt">A Primeira Vez</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501125312 -0300" stop="20260501145041 -0300" channel="HtoFilmes">
+  <programme start="20260429124716 -0300" stop="20260429144445 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">À Procura da Felicidade</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501145126 -0300" stop="20260501163812 -0300" channel="HtoFilmes">
+  <programme start="20260429144445 -0300" stop="20260429163132 -0300" channel="htofilmes">
     <title lang="pt">A Onda</title>
-    <desc lang="pt"></desc>
+    <desc lang="pt">A Onda</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501163857 -0300" stop="20260501182640 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/24AOV0MR6NDhUJX7c19Ks5DjvVv.jpg" />
-    <title lang="pt">A Ocasião Faz O Ladrão</title>
-    <date>2010</date>
-    <desc lang="pt">O modesto cobrador de pedágios Henry Torne (Keanu Reeves) é injustamente acusado de ter roubado um banco. Após ter cumprido a pena, Henry decide de fato realizar o crime. O plano é se infiltrar em um teatro para ter acesso ao túnel que o levará ao banco, mas a paixão por uma bela atriz (Vera Farmiga) poderá perturbar o seu projeto.</desc>
-    <category>Crime</category>
+  <programme start="20260429163132 -0300" stop="20260429181915 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501182725 -0300" stop="20260501201147 -0300" channel="HtoFilmes">
+  <programme start="20260429181915 -0300" stop="20260429200337 -0300" channel="htofilmes">
     <title lang="pt">A Lista</title>
-    <desc lang="pt"></desc>
+    <desc lang="pt">A Lista</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501201232 -0300" stop="20260501214326 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/vcgvxKKtvkqhgAhgkv1IADipjJ2.jpg" />
+  <programme start="20260429200337 -0300" stop="20260429213431 -0300" channel="htofilmes">
     <title lang="pt">A Filha do Meu Melhor Amigo</title>
-    <date>2011</date>
-    <desc lang="pt">David (Hugh Laurie) e Paige Walling (Catherine Keener) são vizinhos e amigos de Terry (Oliver Platt) e Carol Ostroff (Allison Janney). Por conta disso, os filhos do primeiro casal, Vanessa (Alia Shawkat) e Toby (Adam Brody), se tornaram amigos de Nina Ostroff (Leighton Meester). Mas ela sempre foi meio rebelde e acabou saindo de casa logo. Depois de cinco anos sem dar as caras, ela retorna depois de um rompimento amoroso. Após a surpresa inicial, as mães ficaram contentes, porque sempre desejaram que rolasse alguma coisa entre ela e Toby. Só que Nina não estava lá muito interessada no jovem e acabou seduzindo, e sendo seduzida, pelo pai de sua ex-melhor amiga. Começa aí uma relação que vai abalar as estruturas da duas famílias, que andavam um tanto quanto acomodadas na rotina diária.</desc>
-    <category>Comédia</category>
+    <desc lang="pt">A Filha do Meu Melhor Amigo</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501214411 -0300" stop="20260501235817 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg" />
-    <title lang="pt">A Batalha de Riddick</title>
-    <date>2004</date>
-    <desc lang="pt">Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.</desc>
-    <category>Ação</category>
+  <programme start="20260429213431 -0300" stop="20260429234837 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260501235902 -0300" stop="20260502015348 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/wfpGtqT5Jq52pCTPELLc9M5hy04.jpg" />
+  <programme start="20260429234837 -0300" stop="20260430014323 -0300" channel="htofilmes">
     <title lang="pt">Zona Verde</title>
-    <date>2010</date>
-    <desc lang="pt">Bagdá, 2003. Roy Miller lidera uma equipe, a serviço da inteligência do exército, em busca de armas de destruição em massa no Iraque. Depois de algumas tentativas frustradas, o militar se vê diante de um cenário caótico entre seus compatriotas, o que o deixa dividido entre aplacar o anseio do governo de encontrar algo que justificasse a invasão ou descobrir a verdade dos fatos.</desc>
-    <category>Guerra</category>
+    <desc lang="pt">Zona Verde</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260502000045 -0300" stop="20260502015748 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/3EkhsU6augJjLU83AiONvs3y97s.jpg" />
+  <programme start="20260430000000 -0300" stop="20260430015703 -0300" channel="htofilmes">
     <title lang="pt">22 Balas</title>
-    <date>2010</date>
-    <desc lang="pt">Depois de anos vivendo fora da lei, Charly Mattei, resolveu nos últimos três anos se dedicar a família e viver harmoniosamente com sua esposa e seus dois filhos pequenos. No entanto, em uma manhã de inverno ele é encontrado em um estacionamento com 22 balas no corpo e apesar de muitos acreditarem que ele havia morrido, Charly misteriosamente sobrevive. Agora ele sai à caça de Tony Zacchia, o único homem que se atreveria a tentar matá-lo. Zacchia cometeu apenas um erro: ele falhou.</desc>
-    <category>Drama</category>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260502015833 -0300" stop="20260502033214 -0300" channel="HtoFilmes">
+  <programme start="20260430015703 -0300" stop="20260430033045 -0300" channel="htofilmes">
     <title lang="pt">127 horas</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">127 horas</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260502033259 -0300" stop="20260502035101 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg" />
-    <title lang="pt">A Batalha de Riddick</title>
-    <date>2004</date>
-    <desc lang="pt">Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.</desc>
-    <category>Ação</category>
-  </programme>
-  <programme start="20260502035146 -0300" stop="20260502060552 -0300" channel="HtoFilmes">
-    <title lang="pt">A Batalha De Riddick_ruim</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
-  </programme>
-  <programme start="20260502060637 -0300" stop="20260502082918 -0300" channel="HtoFilmes">
+  <programme start="20260430033045 -0300" stop="20260430055326 -0300" channel="htofilmes">
     <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260502083003 -0300" stop="20260502102316 -0300" channel="HtoFilmes">
+  <programme start="20260430055326 -0300" stop="20260430074640 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">A Bússola de Ouro</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260502102401 -0300" stop="20260502115455 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/vcgvxKKtvkqhgAhgkv1IADipjJ2.jpg" />
-    <title lang="pt">A Filha do Meu Melhor Amigo</title>
-    <date>2011</date>
-    <desc lang="pt">David (Hugh Laurie) e Paige Walling (Catherine Keener) são vizinhos e amigos de Terry (Oliver Platt) e Carol Ostroff (Allison Janney). Por conta disso, os filhos do primeiro casal, Vanessa (Alia Shawkat) e Toby (Adam Brody), se tornaram amigos de Nina Ostroff (Leighton Meester). Mas ela sempre foi meio rebelde e acabou saindo de casa logo. Depois de cinco anos sem dar as caras, ela retorna depois de um rompimento amoroso. Após a surpresa inicial, as mães ficaram contentes, porque sempre desejaram que rolasse alguma coisa entre ela e Toby. Só que Nina não estava lá muito interessada no jovem e acabou seduzindo, e sendo seduzida, pelo pai de sua ex-melhor amiga. Começa aí uma relação que vai abalar as estruturas da duas famílias, que andavam um tanto quanto acomodadas na rotina diária.</desc>
-    <category>Comédia</category>
-  </programme>
-  <programme start="20260502115540 -0300" stop="20260502134850 -0300" channel="HtoFilmes">
+  <programme start="20260430074640 -0300" stop="20260430093950 -0300" channel="htofilmes">
     <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260502134935 -0300" stop="20260502153357 -0300" channel="HtoFilmes">
-    <title lang="pt">A Lista</title>
-    <desc lang="pt"></desc>
-  </programme>
-  <programme start="20260502153442 -0300" stop="20260502170706 -0300" channel="HtoFilmes">
+  <programme start="20260430093950 -0300" stop="20260430111215 -0300" channel="htofilmes">
     <title lang="pt">A mentira</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260502170751 -0300" stop="20260502185534 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/24AOV0MR6NDhUJX7c19Ks5DjvVv.jpg" />
-    <title lang="pt">A Ocasião Faz O Ladrão</title>
-    <date>2010</date>
-    <desc lang="pt">O modesto cobrador de pedágios Henry Torne (Keanu Reeves) é injustamente acusado de ter roubado um banco. Após ter cumprido a pena, Henry decide de fato realizar o crime. O plano é se infiltrar em um teatro para ter acesso ao túnel que o levará ao banco, mas a paixão por uma bela atriz (Vera Farmiga) poderá perturbar o seu projeto.</desc>
-    <category>Crime</category>
+  <programme start="20260430111215 -0300" stop="20260430124716 -0300" channel="htofilmes">
+    <title lang="pt">A Primeira Vez</title>
+    <desc lang="pt">A Primeira Vez</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260502185619 -0300" stop="20260502204305 -0300" channel="HtoFilmes">
+  <programme start="20260430124716 -0300" stop="20260430144445 -0300" channel="htofilmes">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">À Procura da Felicidade</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430144445 -0300" stop="20260430163132 -0300" channel="htofilmes">
     <title lang="pt">A Onda</title>
-    <desc lang="pt"></desc>
+    <desc lang="pt">A Onda</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260502204350 -0300" stop="20260502224053 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/3EkhsU6augJjLU83AiONvs3y97s.jpg" />
+  <programme start="20260430163132 -0300" stop="20260430181915 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430181915 -0300" stop="20260430200337 -0300" channel="htofilmes">
+    <title lang="pt">A Lista</title>
+    <desc lang="pt">A Lista</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430200337 -0300" stop="20260430213431 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">A Filha do Meu Melhor Amigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430213431 -0300" stop="20260430234837 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430234837 -0300" stop="20260501014323 -0300" channel="htofilmes">
+    <title lang="pt">Zona Verde</title>
+    <desc lang="pt">Zona Verde</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501000000 -0300" stop="20260501015703 -0300" channel="htofilmes">
     <title lang="pt">22 Balas</title>
-    <date>2010</date>
-    <desc lang="pt">Depois de anos vivendo fora da lei, Charly Mattei, resolveu nos últimos três anos se dedicar a família e viver harmoniosamente com sua esposa e seus dois filhos pequenos. No entanto, em uma manhã de inverno ele é encontrado em um estacionamento com 22 balas no corpo e apesar de muitos acreditarem que ele havia morrido, Charly misteriosamente sobrevive. Agora ele sai à caça de Tony Zacchia, o único homem que se atreveria a tentar matá-lo. Zacchia cometeu apenas um erro: ele falhou.</desc>
-    <category>Drama</category>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260502224138 -0300" stop="20260503001519 -0300" channel="HtoFilmes">
+  <programme start="20260501015703 -0300" stop="20260501033045 -0300" channel="htofilmes">
     <title lang="pt">127 horas</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">127 horas</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503000045 -0300" stop="20260503013545 -0300" channel="HtoFilmes">
+  <programme start="20260501033045 -0300" stop="20260501055326 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501055326 -0300" stop="20260501074640 -0300" channel="htofilmes">
+    <title lang="pt">A Bússola de Ouro</title>
+    <desc lang="pt">A Bússola de Ouro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501074640 -0300" stop="20260501093950 -0300" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501093950 -0300" stop="20260501111215 -0300" channel="htofilmes">
+    <title lang="pt">A mentira</title>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501111215 -0300" stop="20260501124716 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt"></desc>
+    <desc lang="pt">A Primeira Vez</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503013630 -0300" stop="20260503033359 -0300" channel="HtoFilmes">
+  <programme start="20260501124716 -0300" stop="20260501144445 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">À Procura da Felicidade</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503033444 -0300" stop="20260503053511 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg" />
+  <programme start="20260501144445 -0300" stop="20260501163132 -0300" channel="htofilmes">
+    <title lang="pt">A Onda</title>
+    <desc lang="pt">A Onda</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501163132 -0300" stop="20260501181915 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501181915 -0300" stop="20260501200337 -0300" channel="htofilmes">
+    <title lang="pt">A Lista</title>
+    <desc lang="pt">A Lista</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501200337 -0300" stop="20260501213431 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">A Filha do Meu Melhor Amigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501213431 -0300" stop="20260501234837 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501234837 -0300" stop="20260502014323 -0300" channel="htofilmes">
+    <title lang="pt">Zona Verde</title>
+    <desc lang="pt">Zona Verde</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502000000 -0300" stop="20260502015703 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502015703 -0300" stop="20260502033045 -0300" channel="htofilmes">
+    <title lang="pt">127 horas</title>
+    <desc lang="pt">127 horas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502033045 -0300" stop="20260502034848 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502034848 -0300" stop="20260502060254 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick ruim</title>
+    <desc lang="pt">A Batalha De Riddick ruim</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502060254 -0300" stop="20260502082535 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502082535 -0300" stop="20260502101849 -0300" channel="htofilmes">
+    <title lang="pt">A Bússola de Ouro</title>
+    <desc lang="pt">A Bússola de Ouro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502101849 -0300" stop="20260502114943 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">A Filha do Meu Melhor Amigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502114943 -0300" stop="20260502134253 -0300" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502134253 -0300" stop="20260502152715 -0300" channel="htofilmes">
+    <title lang="pt">A Lista</title>
+    <desc lang="pt">A Lista</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502152715 -0300" stop="20260502165940 -0300" channel="htofilmes">
+    <title lang="pt">A mentira</title>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502165940 -0300" stop="20260502184723 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502184723 -0300" stop="20260502203410 -0300" channel="htofilmes">
+    <title lang="pt">A Onda</title>
+    <desc lang="pt">A Onda</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502203410 -0300" stop="20260502223113 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502223113 -0300" stop="20260503000455 -0300" channel="htofilmes">
+    <title lang="pt">127 horas</title>
+    <desc lang="pt">127 horas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503000000 -0300" stop="20260503013501 -0300" channel="htofilmes">
+    <title lang="pt">A Primeira Vez</title>
+    <desc lang="pt">A Primeira Vez</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503013501 -0300" stop="20260503033230 -0300" channel="htofilmes">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">À Procura da Felicidade</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503033230 -0300" stop="20260503053257 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <date>2010</date>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
-    <category>Drama</category>
+    <desc lang="pt">A Rede Social</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503053556 -0300" stop="20260503073030 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/73lIe9OZjKvF5Cn78RPeiIot8q7.jpg" />
+  <programme start="20260503053257 -0300" stop="20260503072732 -0300" channel="htofilmes">
     <title lang="pt">A Vida Secreta de Walter Mitty</title>
-    <date>2013</date>
-    <desc lang="pt">Walter Mitty é o responsável pelo departamento de arquivo e revelação de fotografias da tradicional revista Life. Ele é um homem tímido, levando uma vida simples, perdido em seus sonhos. Ao receber um pacote com negativos do importante fotógrafo Sean O'apos;Connell, ele percebe que está faltando uma foto. O problema é que trata-se justamente da foto escolhida para ser a capa da última edição da revista. É quando, Walter, com o apoio de Cheryl é obrigado a embarcar em uma verdadeira aventura.</desc>
-    <category>Aventura</category>
+    <desc lang="pt">A Vida Secreta de Walter Mitty</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503073115 -0300" stop="20260503090705 -0300" channel="HtoFilmes">
+  <programme start="20260503072732 -0300" stop="20260503090323 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina 2 - Alta Voltagem</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Adrenalina 2 - Alta Voltagem</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503090750 -0300" stop="20260503104200 -0300" channel="HtoFilmes">
+  <programme start="20260503090323 -0300" stop="20260503103734 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt"></desc>
+    <desc lang="pt">Adrenalina</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503104245 -0300" stop="20260503125510 -0300" channel="HtoFilmes">
+  <programme start="20260503103734 -0300" stop="20260503125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão- Star Trek</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Além da Escuridão- Star Trek</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503125555 -0300" stop="20260503143302 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/l0uZPc7dTiD9uogumrb1SMWbKMQ.jpg" />
+  <programme start="20260503125000 -0300" stop="20260503142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
-    <date>2010</date>
-    <desc lang="pt">O investigador Henry Harold 'apos;H'apos; Humphries e a agente do FBI Helen tentam descobrir a localização de três bombas atômicas. Eles prendem o suspeito terrorista, covertido ao islamismo, Steven Arthur Younger e conduzem um interrogatório para fazer com que Younger revele as coordenadas das bombas antes que seja tarde demais.</desc>
-    <category>Drama</category>
+    <desc lang="pt">Ameaça Terrorista</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503143347 -0300" stop="20260503161112 -0300" channel="HtoFilmes">
+  <programme start="20260503142708 -0300" stop="20260503160434 -0300" channel="htofilmes">
     <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503161157 -0300" stop="20260503180123 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/SMQJit9clFpQJJHFp41LYJjBMq.jpg" />
+  <programme start="20260503160434 -0300" stop="20260503175400 -0300" channel="htofilmes">
     <title lang="pt">Amizade Colorida</title>
-    <date>2011</date>
-    <desc lang="pt">Dylan não quer mais nada com relacionamentos. Jamie resolve parar de comprar a ideia de amor verdadeiro dada pelos clichês de Hollywood. Quando os dois tornam-se amigos, resolvem tentar algo novo e aproveitam de atração mútua, porém, sem nenhuma conexão emocional. Apenas prazer físico. Parece ser algo bem fácil para dois adultos, certo? Nem tanto. Logo, eles percebem que estereótipos cômicos e românticos tem razão para existir.</desc>
-    <category>Romance</category>
+    <desc lang="pt">Amizade Colorida</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503180208 -0300" stop="20260503192804 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/zy3x1bUJx4YPRyHtBOQde8DzRru.jpg" />
+  <programme start="20260503175400 -0300" stop="20260503191957 -0300" channel="htofilmes">
     <title lang="pt">Apenas Duas Noites</title>
-    <date>2014</date>
-    <desc lang="pt">Desde que Megan terminou o seu noivado, ela passa a maior parte do seu tempo em casa, entendiada. Um dia, seus amigos a convencem a sair um pouco, e encontrar alguém na Internet para uma noite de sexo sem compromisso. Assim ela encontra Alec, com quem passa uma noite desastrosa. No entanto, na hora de ir embora, uma grande nevasca bloqueia a porta, forçando os dois a permanecerem juntos e a se conhecerem melhor.</desc>
-    <category>Romance</category>
+    <desc lang="pt">Apenas Duas Noites</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503192849 -0300" stop="20260503210349 -0300" channel="HtoFilmes">
+  <programme start="20260503191957 -0300" stop="20260503205458 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt"></desc>
+    <desc lang="pt">A Primeira Vez</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503210434 -0300" stop="20260503230203 -0300" channel="HtoFilmes">
+  <programme start="20260503205458 -0300" stop="20260503225227 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">À Procura da Felicidade</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260503230248 -0300" stop="20260504010315 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg" />
+  <programme start="20260503225227 -0300" stop="20260504005254 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <date>2010</date>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
-    <category>Drama</category>
+    <desc lang="pt">A Rede Social</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504000045 -0300" stop="20260504014949 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg" />
+  <programme start="20260504000000 -0300" stop="20260504014905 -0300" channel="htofilmes">
     <title lang="pt">As Branquelas</title>
-    <date>2004</date>
-    <desc lang="pt">O que acontece quando dois atrapalhados agentes do FBI se disfarçam de princesas mega-ricas para se infiltrarem na alta sociedade? O resultado é situações extremamente engraçadas e diversão total ao ver estes dois irmãos azarados transformando-se em duas senhoritas refinadas e com estilo!</desc>
-    <category>Comédia</category>
+    <desc lang="pt">As Branquelas</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504015034 -0300" stop="20260504040138 -0300" channel="HtoFilmes">
+  <programme start="20260504014905 -0300" stop="20260504040009 -0300" channel="htofilmes">
     <title lang="pt">As duas faces de um crime</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">As duas faces de um crime</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504040223 -0300" stop="20260504053300 -0300" channel="HtoFilmes">
+  <programme start="20260504040009 -0300" stop="20260504053047 -0300" channel="htofilmes">
     <title lang="pt">As Loucuras de Dick &amp; Jane</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">As Loucuras de Dick &amp; Jane</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504053345 -0300" stop="20260504071625 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/pUYWbq0I6oCrysxuL0OCxwB8wFp.jpg" />
+  <programme start="20260504053047 -0300" stop="20260504071327 -0300" channel="htofilmes">
     <title lang="pt">As Vantagens de Ser Invisível</title>
-    <date>2012</date>
-    <desc lang="pt">Charlie é um jovem que tem dificuldades para interagir em sua nova escola. Com os nervos à flor da pele, ele se sente deslocado no ambiente. Sua professora de literatura, no entanto, acredita nele e o vê como um gênio. Mas Charlie continua a pensar pouco de si… até o dia em que dois amigos, Patrick e Sam, passam a andar com ele.</desc>
-    <category>Drama</category>
+    <desc lang="pt">As Vantagens de Ser Invisível</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504071710 -0300" stop="20260504084753 -0300" channel="HtoFilmes">
+  <programme start="20260504071327 -0300" stop="20260504084411 -0300" channel="htofilmes">
     <title lang="pt">Atividade Paranormal em Tóquio</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Atividade Paranormal em Tóquio</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504084838 -0300" stop="20260504102924 -0300" channel="HtoFilmes">
+  <programme start="20260504084411 -0300" stop="20260504102458 -0300" channel="htofilmes">
     <title lang="pt">B13-U - 13º Distrito Ultimato</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">B13-U - 13º Distrito Ultimato</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504103009 -0300" stop="20260504125659 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/43uHXNlX3Ip7HgLOvxMHOpCxYC0.jpg" />
-    <title lang="pt">Os Bad Boys II</title>
-    <date>2003</date>
-    <desc lang="pt">Os detetives da Narcóticos Marcus Burnett e Mike Lowrey foram designados para investigar a proliferação do ecstasy na cidade de Miami. As investigações os levam a um alvo maior, Johnny Tapia, um traficante cuja ambição de tomar conta do tráfico na cidade inicia uma verdadeira guerra entre quadrilhas. Em meio a esta situação, Lowrey passa a se interessar por Syd, irmã de Burnett, o que põe a amizade deles à prova.</desc>
-    <category>Ação</category>
+  <programme start="20260504102458 -0300" stop="20260504125149 -0300" channel="htofilmes">
+    <title lang="pt">Bad Boys 2</title>
+    <desc lang="pt">Bad Boys 2</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504125744 -0300" stop="20260504150151 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/kxV3r4H1BRB3QFySbgFyrlOwwXg.jpg" />
+  <programme start="20260504125149 -0300" stop="20260504145557 -0300" channel="htofilmes">
     <title lang="pt">Bad Boys Para Sempre</title>
-    <date>2020</date>
-    <desc lang="pt">Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</desc>
-    <category>Thriller</category>
+    <desc lang="pt">Bad Boys Para Sempre</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504150236 -0300" stop="20260504171620 -0300" channel="HtoFilmes">
+  <programme start="20260504145557 -0300" stop="20260504170942 -0300" channel="htofilmes">
     <title lang="pt">Bem-vindo aos 40</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Bem-vindo aos 40</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504171705 -0300" stop="20260504184053 -0300" channel="HtoFilmes">
+  <programme start="20260504170942 -0300" stop="20260504183330 -0300" channel="htofilmes">
     <title lang="pt">Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504184138 -0300" stop="20260504202926 -0300" channel="HtoFilmes">
+  <programme start="20260504183330 -0300" stop="20260504202119 -0300" channel="htofilmes">
     <title lang="pt">Brilho Eterno de uma Mente sem Lembranças</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Brilho Eterno de uma Mente sem Lembranças</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504203011 -0300" stop="20260504221915 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg" />
+  <programme start="20260504202119 -0300" stop="20260504221024 -0300" channel="htofilmes">
     <title lang="pt">As Branquelas</title>
-    <date>2004</date>
-    <desc lang="pt">O que acontece quando dois atrapalhados agentes do FBI se disfarçam de princesas mega-ricas para se infiltrarem na alta sociedade? O resultado é situações extremamente engraçadas e diversão total ao ver estes dois irmãos azarados transformando-se em duas senhoritas refinadas e com estilo!</desc>
-    <category>Comédia</category>
+    <desc lang="pt">As Branquelas</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260504222000 -0300" stop="20260505003104 -0300" channel="HtoFilmes">
+  <programme start="20260504221024 -0300" stop="20260505002128 -0300" channel="htofilmes">
     <title lang="pt">As duas faces de um crime</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">As duas faces de um crime</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505000045 -0300" stop="20260505021023 -0300" channel="HtoFilmes">
-    <title lang="pt">Bruce Lee, Meu Irmão </title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+  <programme start="20260505000000 -0300" stop="20260505020939 -0300" channel="htofilmes">
+    <title lang="pt">Bruce Lee, Meu Irmão</title>
+    <desc lang="pt">Bruce Lee, Meu Irmão</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505021108 -0300" stop="20260505041006 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/oCTvLdp6YDmKl525uk6qlJUiViS.jpg" />
+  <programme start="20260505020939 -0300" stop="20260505040838 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
-    <date>2010</date>
-    <desc lang="pt">Ali (Christina Aguilera) deixou sua pequena cidade natal em busca do sucesso em Los Angeles. Logo ao chegar ela conhece a boate Burlesque, especializada em shows musicais de belas mulheres, que sempre se apresentam usando playback. O local é gerenciado por Tess (Cher), que nega uma chance a Ali. Ela insiste e consegue ser contratada como garçonete, graças à ajuda do balconista Jack (Cam Gigandet). Ali passa a acompanhar todos os shows, decorando as canções e coreografias. Quando Tess e seu braço-direito Sean (Stanley Tucci) realizam uma audição em busca de novas bailarinas, Ali aproveita a chance para mostrar do que é capaz.</desc>
-    <category>Drama</category>
+    <desc lang="pt">Burlesque</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505041051 -0300" stop="20260505055316 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/l0yMxpDDqs1WdDfMrG3ZZK34UTi.jpg" />
+  <programme start="20260505040838 -0300" stop="20260505055103 -0300" channel="htofilmes">
     <title lang="pt">Cão de Briga</title>
-    <date>2005</date>
-    <desc lang="pt">Desde que Bart tirou Danny da rua, com a idade de 4 anos, sempre o tratou como um cão, treinando-o literalmente para o ataque. Danny é hoje sua grande arma, capaz de se atirar sobre qualquer um com uma simples ordem. Mas as coisas mudam quando ele conhece Sam, um cego que ganha a vida como afinador de pianos. Sam faz Danny descobrir um lado humano que até então lhe era desconhecido.</desc>
-    <category>Ação</category>
+    <desc lang="pt">Cão de Briga</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505055401 -0300" stop="20260505072424 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/67CBNSVu4HCr3gDijYDS8xPLmoO.jpg" />
+  <programme start="20260505055103 -0300" stop="20260505072127 -0300" channel="htofilmes">
     <title lang="pt">Caçada ao Presidente</title>
-    <date>2014</date>
-    <desc lang="pt">Após o avião em que estava ter sido abatido por terroristas, o presidente dos Estados Unidos (Samuel L. Jackson) está ferido e perdido no meio de uma zona rural finlandesa. E sua vida agora está nas mãos de Oskari (Onni Tommila), um tímido jovem de treze anos de idade que embarcou em uma viagem para provar sua maturidade a si mesmo e sua família, passando 24 horas sozinho na selva, armado apenas com um arco e flecha. Essa improvável dupla terá que se unir para sobreviver aos criminosos que seguem atrás do presidente.</desc>
-    <category>Ação</category>
+    <desc lang="pt">Caçada ao Presidente</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505072509 -0300" stop="20260505090822 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/t6ayrfuhmKl6VUOByP7RJL047X1.jpg" />
+  <programme start="20260505072127 -0300" stop="20260505090440 -0300" channel="htofilmes">
     <title lang="pt">Carga Explosiva 3</title>
-    <date>2008</date>
-    <desc lang="pt">Frank Martin é obrigado a conduzir Valentina, a filha de Leonid Vasilev, o chefe da Agência de Proteção Ambiental da Ucrânia. Ela foi sequestrada por Jonas Johnson, contratado por uma empresa de gerenciamento internacional de resíduos que deseja operar na Ucrânia. Para ter Frank e Valentina sob controle, Jonas prende em seus pulsos um dispositivo que determina que não possam se afastar muito do carro que os conduz, caso contrário o bracelete explode. Contando com a ajuda do inspetor Tarconi, Frank busca um meio de deixar a armadilha.</desc>
-    <category>Ação</category>
+    <desc lang="pt">Carga Explosiva 3</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505090907 -0300" stop="20260505105428 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/xcrkatLWdrI0662uKo7LTyLEY38.jpg" />
+  <programme start="20260505090440 -0300" stop="20260505105001 -0300" channel="htofilmes">
     <title lang="pt">Cartas para Julieta</title>
-    <date>2010</date>
-    <desc lang="pt">Em visita à cidade italiana de Verona com seu noivo ocupado, uma jovem chamada Sophie visita um muro onde os desiludidos deixam cartas para a trágica heroína de Shakespeare, Julieta Capuleto. Ao encontrar uma dessas cartas, de 1957, a jovem decide escrever à autora, Claire. Inspirada pela atitude de Sophie, Claire decide procurar por seu antigo amor.</desc>
-    <category>Comédia</category>
+    <desc lang="pt">Cartas para Julieta</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505105513 -0300" stop="20260505123239 -0300" channel="HtoFilmes">
+  <programme start="20260505105001 -0300" stop="20260505122727 -0300" channel="htofilmes">
     <title lang="pt">Chat A Sala Negra</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Chat A Sala Negra</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505123324 -0300" stop="20260505140230 -0300" channel="HtoFilmes">
+  <programme start="20260505122727 -0300" stop="20260505135634 -0300" channel="htofilmes">
     <title lang="pt">Como treinar o seu dragao</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Como treinar o seu dragao</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505140315 -0300" stop="20260505154349 -0300" channel="HtoFilmes">
+  <programme start="20260505135634 -0300" stop="20260505153708 -0300" channel="htofilmes">
     <title lang="pt">Company of Heroes - O Filme</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Company of Heroes - O Filme</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505154434 -0300" stop="20260505173010 -0300" channel="HtoFilmes">
+  <programme start="20260505153708 -0300" stop="20260505172244 -0300" channel="htofilmes">
     <title lang="pt">confiar</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">confiar</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505173055 -0300" stop="20260505185934 -0300" channel="HtoFilmes">
+  <programme start="20260505172244 -0300" stop="20260505185124 -0300" channel="htofilmes">
     <title lang="pt">Conta comigo</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Conta comigo</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505190019 -0300" stop="20260505210957 -0300" channel="HtoFilmes">
-    <title lang="pt">Bruce Lee, Meu Irmão </title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+  <programme start="20260505185124 -0300" stop="20260505210103 -0300" channel="htofilmes">
+    <title lang="pt">Bruce Lee, Meu Irmão</title>
+    <desc lang="pt">Bruce Lee, Meu Irmão</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505211042 -0300" stop="20260505230940 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/oCTvLdp6YDmKl525uk6qlJUiViS.jpg" />
+  <programme start="20260505210103 -0300" stop="20260505230002 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
-    <date>2010</date>
-    <desc lang="pt">Ali (Christina Aguilera) deixou sua pequena cidade natal em busca do sucesso em Los Angeles. Logo ao chegar ela conhece a boate Burlesque, especializada em shows musicais de belas mulheres, que sempre se apresentam usando playback. O local é gerenciado por Tess (Cher), que nega uma chance a Ali. Ela insiste e consegue ser contratada como garçonete, graças à ajuda do balconista Jack (Cam Gigandet). Ali passa a acompanhar todos os shows, decorando as canções e coreografias. Quando Tess e seu braço-direito Sean (Stanley Tucci) realizam uma audição em busca de novas bailarinas, Ali aproveita a chance para mostrar do que é capaz.</desc>
-    <category>Drama</category>
+    <desc lang="pt">Burlesque</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260505231025 -0300" stop="20260506005250 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/l0yMxpDDqs1WdDfMrG3ZZK34UTi.jpg" />
+  <programme start="20260505230002 -0300" stop="20260506004227 -0300" channel="htofilmes">
     <title lang="pt">Cão de Briga</title>
-    <date>2005</date>
-    <desc lang="pt">Desde que Bart tirou Danny da rua, com a idade de 4 anos, sempre o tratou como um cão, treinando-o literalmente para o ataque. Danny é hoje sua grande arma, capaz de se atirar sobre qualquer um com uma simples ordem. Mas as coisas mudam quando ele conhece Sam, um cego que ganha a vida como afinador de pianos. Sam faz Danny descobrir um lado humano que até então lhe era desconhecido.</desc>
-    <category>Ação</category>
+    <desc lang="pt">Cão de Briga</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506000045 -0300" stop="20260506021541 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/tVZXsjBC9HIoKv6WnAv0nWObbrT.jpg" />
+  <programme start="20260506000000 -0300" stop="20260506021456 -0300" channel="htofilmes">
     <title lang="pt">Corações de Ferro</title>
-    <date>2014</date>
-    <desc lang="pt">Durante o final da Segunda Guerra Mundial, um grupo de cinco soldados americanos é encarregado de atacar os nazistas dentro da própria Alemanha. Apesar de estarem em quantidade inferior e terem poucas armas, eles são liderados pelo enfurecido Wardaddy, sargento que pretende levá-los à vitória, enquanto ensina o novato Norman a lutar.</desc>
-    <category>Guerra</category>
+    <desc lang="pt">Corações de Ferro</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506021626 -0300" stop="20260506042546 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg" />
+  <programme start="20260506021456 -0300" stop="20260506042417 -0300" channel="htofilmes">
     <title lang="pt">Corajosos</title>
-    <date>2011</date>
-    <desc lang="pt">Quatro policiais questionam sua fé e seu papel como pais e maridos após uma tragédia que acontece próximo a casa deles. Juntos, eles tomam uma decisão que muda suas vidas.</desc>
-    <category>Drama</category>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506042631 -0300" stop="20260506060656 -0300" channel="HtoFilmes">
+  <programme start="20260506042417 -0300" stop="20260506060442 -0300" channel="htofilmes">
     <title lang="pt">Corrida mortal 2</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Corrida mortal 2</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506060741 -0300" stop="20260506074550 -0300" channel="HtoFilmes">
+  <programme start="20260506060442 -0300" stop="20260506074251 -0300" channel="htofilmes">
     <title lang="pt">Cymbeline (2014) · Dublado Português</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506074635 -0300" stop="20260506094240 -0300" channel="HtoFilmes">
+  <programme start="20260506074251 -0300" stop="20260506093857 -0300" channel="htofilmes">
     <title lang="pt">De Volta para o Futuro</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">De Volta para o Futuro</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506094325 -0300" stop="20260506111604 -0300" channel="HtoFilmes">
-    <title lang="pt">Dupla Implacável </title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+  <programme start="20260506093857 -0300" stop="20260506111136 -0300" channel="htofilmes">
+    <title lang="pt">Dupla Implacável</title>
+    <desc lang="pt">Dupla Implacável</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506111649 -0300" stop="20260506130631 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg" />
+  <programme start="20260506111136 -0300" stop="20260506130119 -0300" channel="htofilmes">
     <title lang="pt">Elysium</title>
-    <date>2013</date>
-    <desc lang="pt">Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.</desc>
-    <category>Ficção científica</category>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506130716 -0300" stop="20260506144243 -0300" channel="HtoFilmes">
+  <programme start="20260506130119 -0300" stop="20260506143647 -0300" channel="htofilmes">
     <title lang="pt">Enterrado vivo</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Enterrado vivo</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506144328 -0300" stop="20260506164035 -0300" channel="HtoFilmes">
+  <programme start="20260506143647 -0300" stop="20260506163354 -0300" channel="htofilmes">
     <title lang="pt">Encontro explosivo</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Encontro explosivo</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506164120 -0300" stop="20260506181357 -0300" channel="HtoFilmes">
+  <programme start="20260506163354 -0300" stop="20260506180632 -0300" channel="htofilmes">
     <title lang="pt">Eu, Deus e Bin Laden</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Eu, Deus e Bin Laden</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506181442 -0300" stop="20260506200754 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/2oCqYAm00tMOPNgYPYfYAwMhcPn.jpg" />
+  <programme start="20260506180632 -0300" stop="20260506195944 -0300" channel="htofilmes">
     <title lang="pt">Extraordinário</title>
-    <date>2017</date>
-    <desc lang="pt">Auggie Pullman é um garoto que nasceu com uma deformação facial. Pela primeira vez, ele irá frequentar uma escola regular, como qualquer outra criança. No quinto ano, ele irá precisar se esforçar para conseguir se encaixar em sua nova realidade.</desc>
-    <category>Família</category>
+    <desc lang="pt">Extraordinário</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506200839 -0300" stop="20260506222335 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/tVZXsjBC9HIoKv6WnAv0nWObbrT.jpg" />
+  <programme start="20260506195944 -0300" stop="20260506221440 -0300" channel="htofilmes">
     <title lang="pt">Corações de Ferro</title>
-    <date>2014</date>
-    <desc lang="pt">Durante o final da Segunda Guerra Mundial, um grupo de cinco soldados americanos é encarregado de atacar os nazistas dentro da própria Alemanha. Apesar de estarem em quantidade inferior e terem poucas armas, eles são liderados pelo enfurecido Wardaddy, sargento que pretende levá-los à vitória, enquanto ensina o novato Norman a lutar.</desc>
-    <category>Guerra</category>
+    <desc lang="pt">Corações de Ferro</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260506222420 -0300" stop="20260507003340 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg" />
+  <programme start="20260506221440 -0300" stop="20260507002401 -0300" channel="htofilmes">
     <title lang="pt">Corajosos</title>
-    <date>2011</date>
-    <desc lang="pt">Quatro policiais questionam sua fé e seu papel como pais e maridos após uma tragédia que acontece próximo a casa deles. Juntos, eles tomam uma decisão que muda suas vidas.</desc>
-    <category>Drama</category>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260507000045 -0300" stop="20260507015740 -0300" channel="HtoFilmes">
+  <programme start="20260507000000 -0300" stop="20260507015655 -0300" channel="htofilmes">
     <title lang="pt">Fique rico ou morra tentando</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Fique rico ou morra tentando</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260507015825 -0300" stop="20260507042126 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/d74WpIsH8379TIL4wUxDneRCYv2.jpg" />
-    <title lang="pt">Forrest Gump: O Contador de Histórias</title>
-    <date>1994</date>
-    <desc lang="pt">Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran.</desc>
-    <category>Comédia</category>
+  <programme start="20260507015655 -0300" stop="20260507041956 -0300" channel="htofilmes">
+    <title lang="pt">Forrest Gump</title>
+    <desc lang="pt">Forrest Gump</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260507042211 -0300" stop="20260507062330 -0300" channel="HtoFilmes">
+  <programme start="20260507041956 -0300" stop="20260507062115 -0300" channel="htofilmes">
     <title lang="pt">Fúria em Alto Mar</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Fúria em Alto Mar</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260507062415 -0300" stop="20260507081020 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/dSl4R3xZs2fV1LJLlqdBEoabQOV.jpg" />
+  <programme start="20260507062115 -0300" stop="20260507080721 -0300" channel="htofilmes">
     <title lang="pt">Grandes Olhos</title>
-    <date>2014</date>
-    <desc lang="pt">Este drama apresenta a história da pintora Margaret Keane, uma das artistas comerciais mais rentáveis dos anos 1950, graças aos seus retratos de crianças com olhos grandes e assustadores. Esta mulher, defensora das causas feministas, teve que lutar contra o próprio marido no tribunal, já que o também pintor Walter Keane afirmava ser o verdadeiro autor de suas obras.</desc>
-    <category>Drama</category>
+    <desc lang="pt">Grandes Olhos</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260507081105 -0300" stop="20260507095504 -0300" channel="HtoFilmes">
+  <programme start="20260507080721 -0300" stop="20260507095121 -0300" channel="htofilmes">
     <title lang="pt">Guerreiros do Amanha</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Guerreiros do Amanha</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260507095549 -0300" stop="20260507115809 -0300" channel="HtoFilmes">
+  <programme start="20260507095121 -0300" stop="20260507115342 -0300" channel="htofilmes">
     <title lang="pt">Homens e Deus</title>
-    <desc lang="pt"></desc>
+    <desc lang="pt">Homens e Deus</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260507115854 -0300" stop="20260507133854 -0300" channel="HtoFilmes">
+  <programme start="20260507115342 -0300" stop="20260507133342 -0300" channel="htofilmes">
     <title lang="pt">Hudson Hawk – O Falcão está à Solta</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Hudson Hawk – O Falcão está à Solta</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260507133939 -0300" stop="20260507155818 -0300" channel="HtoFilmes">
+  <programme start="20260507133342 -0300" stop="20260507155221 -0300" channel="htofilmes">
     <title lang="pt">Ilha Do Medo</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260507155903 -0300" stop="20260507182133 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/l6jn53LMu07uPt8A42JWIKi1Beb.jpg" />
+  <programme start="20260507155221 -0300" stop="20260507181452 -0300" channel="htofilmes">
     <title lang="pt">Jogos Vorazes</title>
-    <date>2012</date>
-    <desc lang="pt">Num futuro distante, boa parte da população é controlada por um regime totalitário, que relembra esse domínio realizando um evento anual – e mortal – entre os 12 distritos sob sua tutela. Para salvar sua irmã caçula, a jovem Katniss Everdeen se oferece como voluntária para representar seu distrito na competição e acaba contando com a companhia de Peeta Melark, desafiando não só o sistema dominante, mas também a força dos outros oponentes.</desc>
-    <category>Ficção científica</category>
+    <desc lang="pt">Jogos Vorazes</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260507182218 -0300" stop="20260507194432 -0300" channel="HtoFilmes">
+  <programme start="20260507181452 -0300" stop="20260507193706 -0300" channel="htofilmes">
     <title lang="pt">Johnny  Todos Tem Uma Missão Especial</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Johnny  Todos Tem Uma Missão Especial</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260507194517 -0300" stop="20260507214212 -0300" channel="HtoFilmes">
+  <programme start="20260507193706 -0300" stop="20260507213401 -0300" channel="htofilmes">
     <title lang="pt">Fique rico ou morra tentando</title>
-    <desc lang="pt">Sem descrição disponível.</desc>
-    <category>Desconhecido</category>
+    <desc lang="pt">Fique rico ou morra tentando</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260507214257 -0300" stop="20260508000558 -0300" channel="HtoFilmes">
-    <icon src="https://image.tmdb.org/t/p/w500/d74WpIsH8379TIL4wUxDneRCYv2.jpg" />
-    <title lang="pt">Forrest Gump: O Contador de Histórias</title>
-    <date>1994</date>
-    <desc lang="pt">Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran.</desc>
-    <category>Comédia</category>
+  <programme start="20260507213401 -0300" stop="20260507235702 -0300" channel="htofilmes">
+    <title lang="pt">Forrest Gump</title>
+    <desc lang="pt">Forrest Gump</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508000000 -0300" stop="20260508022001 -0300" channel="htofilmes">
+    <title lang="pt">Karate Kid</title>
+    <desc lang="pt">Karate Kid</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508022001 -0300" stop="20260508034810 -0300" channel="htofilmes">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508034810 -0300" stop="20260508052259 -0300" channel="htofilmes">
+    <title lang="pt">Meu malvado favorito</title>
+    <desc lang="pt">Meu malvado favorito</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508052259 -0300" stop="20260508065518 -0300" channel="htofilmes">
+    <title lang="pt">Morte no funeral</title>
+    <desc lang="pt">Morte no funeral</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508065518 -0300" stop="20260508082030 -0300" channel="htofilmes">
+    <title lang="pt">Naruto Shippuden 4   A Torre Perdida</title>
+    <desc lang="pt">Naruto Shippuden 4   A Torre Perdida</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508082030 -0300" stop="20260508100952 -0300" channel="htofilmes">
+    <title lang="pt">Nosso Lar</title>
+    <desc lang="pt">Nosso Lar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508100952 -0300" stop="20260508113540 -0300" channel="htofilmes">
+    <title lang="pt">O Feitiço Do Mal</title>
+    <desc lang="pt">O Feitiço Do Mal</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508113540 -0300" stop="20260508131623 -0300" channel="htofilmes">
+    <title lang="pt">O julgamento</title>
+    <desc lang="pt">O julgamento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508131623 -0300" stop="20260508143931 -0300" channel="htofilmes">
+    <title lang="pt">O Natal Encantado</title>
+    <desc lang="pt">O Natal Encantado</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508143931 -0300" stop="20260508160917 -0300" channel="htofilmes">
+    <title lang="pt">O Primeiro Amor</title>
+    <desc lang="pt">O Primeiro Amor</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508160917 -0300" stop="20260508175636 -0300" channel="htofilmes">
+    <title lang="pt">O solteirão</title>
+    <desc lang="pt">O solteirão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508175636 -0300" stop="20260508194310 -0300" channel="htofilmes">
+    <title lang="pt">O Último Caçador de Bruxas</title>
+    <desc lang="pt">O Último Caçador de Bruxas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508194310 -0300" stop="20260508220311 -0300" channel="htofilmes">
+    <title lang="pt">Karate Kid</title>
+    <desc lang="pt">Karate Kid</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508220311 -0300" stop="20260508233120 -0300" channel="htofilmes">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508233120 -0300" stop="20260509010609 -0300" channel="htofilmes">
+    <title lang="pt">Meu malvado favorito</title>
+    <desc lang="pt">Meu malvado favorito</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509000000 -0300" stop="20260509013836 -0300" channel="htofilmes">
+    <title lang="pt">Ong-Bak 3</title>
+    <desc lang="pt">Ong-Bak 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509013836 -0300" stop="20260509032745 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509032745 -0300" stop="20260509051518 -0300" channel="htofilmes">
+    <title lang="pt">Os outros Caras</title>
+    <desc lang="pt">Os outros Caras</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509051518 -0300" stop="20260509051603 -0300" channel="htofilmes">
+    <title lang="pt">IntroCanais</title>
+    <desc lang="pt">IntroCanais</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509051603 -0300" stop="20260509071540 -0300" channel="htofilmes">
+    <title lang="pt">Repo Men O Resgate de Órgãos</title>
+    <desc lang="pt">Repo Men O Resgate de Órgãos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509071540 -0300" stop="20260509091418 -0300" channel="htofilmes">
+    <title lang="pt">Riddick 3</title>
+    <desc lang="pt">Riddick 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509091418 -0300" stop="20260509105822 -0300" channel="htofilmes">
+    <title lang="pt">Salt</title>
+    <desc lang="pt">Salt</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509105822 -0300" stop="20260509122045 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509122045 -0300" stop="20260509134308 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509134308 -0300" stop="20260509151425 -0300" channel="htofilmes">
+    <title lang="pt">Viagem do medo</title>
+    <desc lang="pt">Viagem do medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509151425 -0300" stop="20260509164817 -0300" channel="htofilmes">
+    <title lang="pt">Vingança ao Anoitecer</title>
+    <desc lang="pt">Vingança ao Anoitecer</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509164817 -0300" stop="20260509185239 -0300" channel="htofilmes">
+    <title lang="pt">XXX - Triplo X</title>
+    <desc lang="pt">XXX - Triplo X</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509185239 -0300" stop="20260509203115 -0300" channel="htofilmes">
+    <title lang="pt">Ong-Bak 3</title>
+    <desc lang="pt">Ong-Bak 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509203115 -0300" stop="20260509222024 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510000000 -0300" stop="20260510022241 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510022241 -0300" stop="20260510035506 -0300" channel="htofilmes">
+    <title lang="pt">A mentira</title>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510035506 -0300" stop="20260510052917 -0300" channel="htofilmes">
+    <title lang="pt">Adrenalina</title>
+    <desc lang="pt">Adrenalina</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510052917 -0300" stop="20260510072816 -0300" channel="htofilmes">
+    <title lang="pt">Burlesque</title>
+    <desc lang="pt">Burlesque</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510072816 -0300" stop="20260510085656 -0300" channel="htofilmes">
+    <title lang="pt">Conta comigo</title>
+    <desc lang="pt">Conta comigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510085656 -0300" stop="20260510105008 -0300" channel="htofilmes">
+    <title lang="pt">Extraordinário</title>
+    <desc lang="pt">Extraordinário</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510105008 -0300" stop="20260510125127 -0300" channel="htofilmes">
+    <title lang="pt">Fúria em Alto Mar</title>
+    <desc lang="pt">Fúria em Alto Mar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510125127 -0300" stop="20260510143127 -0300" channel="htofilmes">
+    <title lang="pt">Hudson Hawk – O Falcão está à Solta</title>
+    <desc lang="pt">Hudson Hawk – O Falcão está à Solta</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510143127 -0300" stop="20260510165358 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Jogos Vorazes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510165358 -0300" stop="20260510181612 -0300" channel="htofilmes">
+    <title lang="pt">Johnny  Todos Tem Uma Missão Especial</title>
+    <desc lang="pt">Johnny  Todos Tem Uma Missão Especial</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510181612 -0300" stop="20260510194831 -0300" channel="htofilmes">
+    <title lang="pt">Morte no funeral</title>
+    <desc lang="pt">Morte no funeral</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510194831 -0300" stop="20260510221112 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510221112 -0300" stop="20260510234337 -0300" channel="htofilmes">
+    <title lang="pt">A mentira</title>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510234337 -0300" stop="20260511011748 -0300" channel="htofilmes">
+    <title lang="pt">Adrenalina</title>
+    <desc lang="pt">Adrenalina</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511000000 -0300" stop="20260511020422 -0300" channel="htofilmes">
+    <title lang="pt">XXX - Triplo X</title>
+    <desc lang="pt">XXX - Triplo X</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511020422 -0300" stop="20260511032645 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511032645 -0300" stop="20260511051418 -0300" channel="htofilmes">
+    <title lang="pt">Os outros Caras</title>
+    <desc lang="pt">Os outros Caras</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511051418 -0300" stop="20260511070137 -0300" channel="htofilmes">
+    <title lang="pt">O solteirão</title>
+    <desc lang="pt">O solteirão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511070137 -0300" stop="20260511082946 -0300" channel="htofilmes">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511082946 -0300" stop="20260511100946 -0300" channel="htofilmes">
+    <title lang="pt">Hudson Hawk – O Falcão está à Solta</title>
+    <desc lang="pt">Hudson Hawk – O Falcão está à Solta</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511100946 -0300" stop="20260511121105 -0300" channel="htofilmes">
+    <title lang="pt">Fúria em Alto Mar</title>
+    <desc lang="pt">Fúria em Alto Mar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511121105 -0300" stop="20260511140812 -0300" channel="htofilmes">
+    <title lang="pt">Encontro explosivo</title>
+    <desc lang="pt">Encontro explosivo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511140812 -0300" stop="20260511153652 -0300" channel="htofilmes">
+    <title lang="pt">Conta comigo</title>
+    <desc lang="pt">Conta comigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511153652 -0300" stop="20260511172005 -0300" channel="htofilmes">
+    <title lang="pt">Carga Explosiva 3</title>
+    <desc lang="pt">Carga Explosiva 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511172005 -0300" stop="20260511184353 -0300" channel="htofilmes">
+    <title lang="pt">Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América</title>
+    <desc lang="pt">Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511184353 -0300" stop="20260511203258 -0300" channel="htofilmes">
+    <title lang="pt">As Branquelas</title>
+    <desc lang="pt">As Branquelas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511203258 -0300" stop="20260511223720 -0300" channel="htofilmes">
+    <title lang="pt">XXX - Triplo X</title>
+    <desc lang="pt">XXX - Triplo X</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511223720 -0300" stop="20260511235943 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512000000 -0300" stop="20260512020408 -0300" channel="htofilmes">
+    <title lang="pt">Bad Boys Para Sempre</title>
+    <desc lang="pt">Bad Boys Para Sempre</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512020408 -0300" stop="20260512041347 -0300" channel="htofilmes">
+    <title lang="pt">Bruce Lee, Meu Irmão</title>
+    <desc lang="pt">Bruce Lee, Meu Irmão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512041347 -0300" stop="20260512062308 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512062308 -0300" stop="20260512081914 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">De Volta para o Futuro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512081914 -0300" stop="20260512100857 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512100857 -0300" stop="20260512120604 -0300" channel="htofilmes">
+    <title lang="pt">Encontro explosivo</title>
+    <desc lang="pt">Encontro explosivo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512120604 -0300" stop="20260512140307 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512140307 -0300" stop="20260512161713 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick ruim</title>
+    <desc lang="pt">A Batalha De Riddick ruim</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512161713 -0300" stop="20260512175202 -0300" channel="htofilmes">
+    <title lang="pt">Meu malvado favorito</title>
+    <desc lang="pt">Meu malvado favorito</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512175202 -0300" stop="20260512193245 -0300" channel="htofilmes">
+    <title lang="pt">O julgamento</title>
+    <desc lang="pt">O julgamento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512193245 -0300" stop="20260512213653 -0300" channel="htofilmes">
+    <title lang="pt">Bad Boys Para Sempre</title>
+    <desc lang="pt">Bad Boys Para Sempre</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512213653 -0300" stop="20260512234632 -0300" channel="htofilmes">
+    <title lang="pt">Bruce Lee, Meu Irmão</title>
+    <desc lang="pt">Bruce Lee, Meu Irmão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512234632 -0300" stop="20260513015553 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513000000 -0300" stop="20260513013809 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513013809 -0300" stop="20260513035648 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513035648 -0300" stop="20260513054631 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513054631 -0300" stop="20260513080902 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Jogos Vorazes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513080902 -0300" stop="20260513094000 -0300" channel="htofilmes">
+    <title lang="pt">Taxi 4</title>
+    <desc lang="pt">Taxi 4</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513094000 -0300" stop="20260513113112 -0300" channel="htofilmes">
+    <title lang="pt">RED - Aposentados e Perigosos</title>
+    <desc lang="pt">RED - Aposentados e Perigosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513113112 -0300" stop="20260513132021 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513132021 -0300" stop="20260513151724 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513151724 -0300" stop="20260513173130 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick ruim</title>
+    <desc lang="pt">A Batalha De Riddick ruim</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513173130 -0300" stop="20260513192440 -0300" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513192440 -0300" stop="20260513211223 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513211223 -0300" stop="20260513225032 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513225032 -0300" stop="20260514010911 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514000000 -0300" stop="20260514014943 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514014943 -0300" stop="20260514033852 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514033852 -0300" stop="20260514052547 -0300" channel="htofilmes">
+    <title lang="pt">O Último Mestre do Ar</title>
+    <desc lang="pt">O Último Mestre do Ar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514052547 -0300" stop="20260514064855 -0300" channel="htofilmes">
+    <title lang="pt">O Natal Encantado</title>
+    <desc lang="pt">O Natal Encantado</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514064855 -0300" stop="20260514081704 -0300" channel="htofilmes">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514081704 -0300" stop="20260514093918 -0300" channel="htofilmes">
+    <title lang="pt">Johnny  Todos Tem Uma Missão Especial</title>
+    <desc lang="pt">Johnny  Todos Tem Uma Missão Especial</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514093918 -0300" stop="20260514112524 -0300" channel="htofilmes">
+    <title lang="pt">Grandes Olhos</title>
+    <desc lang="pt">Grandes Olhos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514112524 -0300" stop="20260514132231 -0300" channel="htofilmes">
+    <title lang="pt">Encontro explosivo</title>
+    <desc lang="pt">Encontro explosivo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514132231 -0300" stop="20260514145509 -0300" channel="htofilmes">
+    <title lang="pt">Eu, Deus e Bin Laden</title>
+    <desc lang="pt">Eu, Deus e Bin Laden</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514145509 -0300" stop="20260514163534 -0300" channel="htofilmes">
+    <title lang="pt">Corrida mortal 2</title>
+    <desc lang="pt">Corrida mortal 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514163534 -0300" stop="20260514180441 -0300" channel="htofilmes">
+    <title lang="pt">Como treinar o seu dragao</title>
+    <desc lang="pt">Como treinar o seu dragao</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514180441 -0300" stop="20260514194207 -0300" channel="htofilmes">
+    <title lang="pt">Chat A Sala Negra</title>
+    <desc lang="pt">Chat A Sala Negra</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514194207 -0300" stop="20260514213150 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514213150 -0300" stop="20260514232059 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514232059 -0300" stop="20260515010754 -0300" channel="htofilmes">
+    <title lang="pt">O Último Mestre do Ar</title>
+    <desc lang="pt">O Último Mestre do Ar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515000000 -0300" stop="20260515001803 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515001803 -0300" stop="20260515014857 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">A Filha do Meu Melhor Amigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515014857 -0300" stop="20260515031935 -0300" channel="htofilmes">
+    <title lang="pt">As Loucuras de Dick &amp; Jane</title>
+    <desc lang="pt">As Loucuras de Dick &amp; Jane</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515031935 -0300" stop="20260515053320 -0300" channel="htofilmes">
+    <title lang="pt">Bem-vindo aos 40</title>
+    <desc lang="pt">Bem-vindo aos 40</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515053320 -0300" stop="20260515071345 -0300" channel="htofilmes">
+    <title lang="pt">Corrida mortal 2</title>
+    <desc lang="pt">Corrida mortal 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515071345 -0300" stop="20260515093646 -0300" channel="htofilmes">
+    <title lang="pt">Forrest Gump</title>
+    <desc lang="pt">Forrest Gump</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515093646 -0300" stop="20260515112252 -0300" channel="htofilmes">
+    <title lang="pt">Grandes Olhos</title>
+    <desc lang="pt">Grandes Olhos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515112252 -0300" stop="20260515130652 -0300" channel="htofilmes">
+    <title lang="pt">Guerreiros do Amanha</title>
+    <desc lang="pt">Guerreiros do Amanha</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515130652 -0300" stop="20260515152923 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Jogos Vorazes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515152923 -0300" stop="20260515171557 -0300" channel="htofilmes">
+    <title lang="pt">O Último Caçador de Bruxas</title>
+    <desc lang="pt">O Último Caçador de Bruxas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515171557 -0300" stop="20260515185433 -0300" channel="htofilmes">
+    <title lang="pt">Ong-Bak 3</title>
+    <desc lang="pt">Ong-Bak 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515185433 -0300" stop="20260515201656 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515201656 -0300" stop="20260515203459 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515203459 -0300" stop="20260515220553 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">A Filha do Meu Melhor Amigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515220553 -0300" stop="20260515233631 -0300" channel="htofilmes">
+    <title lang="pt">As Loucuras de Dick &amp; Jane</title>
+    <desc lang="pt">As Loucuras de Dick &amp; Jane</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515233631 -0300" stop="20260516015016 -0300" channel="htofilmes">
+    <title lang="pt">Bem-vindo aos 40</title>
+    <desc lang="pt">Bem-vindo aos 40</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516000000 -0300" stop="20260516020921 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516020921 -0300" stop="20260516040527 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">De Volta para o Futuro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516040527 -0300" stop="20260516054927 -0300" channel="htofilmes">
+    <title lang="pt">Guerreiros do Amanha</title>
+    <desc lang="pt">Guerreiros do Amanha</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516054927 -0300" stop="20260516072205 -0300" channel="htofilmes">
+    <title lang="pt">Eu, Deus e Bin Laden</title>
+    <desc lang="pt">Eu, Deus e Bin Laden</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516072205 -0300" stop="20260516094044 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516094044 -0300" stop="20260516120045 -0300" channel="htofilmes">
+    <title lang="pt">Karate Kid</title>
+    <desc lang="pt">Karate Kid</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516120045 -0300" stop="20260516133534 -0300" channel="htofilmes">
+    <title lang="pt">Meu malvado favorito</title>
+    <desc lang="pt">Meu malvado favorito</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516133534 -0300" stop="20260516150122 -0300" channel="htofilmes">
+    <title lang="pt">O Feitiço Do Mal</title>
+    <desc lang="pt">O Feitiço Do Mal</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516150122 -0300" stop="20260516164855 -0300" channel="htofilmes">
+    <title lang="pt">Os outros Caras</title>
+    <desc lang="pt">Os outros Caras</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516164855 -0300" stop="20260516181118 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516181118 -0300" stop="20260516200230 -0300" channel="htofilmes">
+    <title lang="pt">RED - Aposentados e Perigosos</title>
+    <desc lang="pt">RED - Aposentados e Perigosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516200230 -0300" stop="20260516221151 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516221151 -0300" stop="20260517000757 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">De Volta para o Futuro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517000000 -0300" stop="20260517013809 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517013809 -0300" stop="20260517035648 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517035648 -0300" stop="20260517054631 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517054631 -0300" stop="20260517080902 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Jogos Vorazes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517080902 -0300" stop="20260517094000 -0300" channel="htofilmes">
+    <title lang="pt">Taxi 4</title>
+    <desc lang="pt">Taxi 4</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517094000 -0300" stop="20260517113112 -0300" channel="htofilmes">
+    <title lang="pt">RED - Aposentados e Perigosos</title>
+    <desc lang="pt">RED - Aposentados e Perigosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517113112 -0300" stop="20260517132021 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517132021 -0300" stop="20260517151724 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517151724 -0300" stop="20260517173130 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick ruim</title>
+    <desc lang="pt">A Batalha De Riddick ruim</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517173130 -0300" stop="20260517192440 -0300" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517192440 -0300" stop="20260517211223 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517211223 -0300" stop="20260517225032 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517225032 -0300" stop="20260518010911 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
   </programme>
 </tv>
