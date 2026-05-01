@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="www.hefestometa.com.br">
+  <channel id="htofilmes">
+    <display-name>HtoFilmes</display-name>
+  </channel>
+  <programme start="20260429000000 -0300" stop="20260429015703 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429015703 -0300" stop="20260429033045 -0300" channel="htofilmes">
+    <title lang="pt">127 horas</title>
+    <desc lang="pt">127 horas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429033045 -0300" stop="20260429055326 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429055326 -0300" stop="20260429074640 -0300" channel="htofilmes">
+    <title lang="pt">A Bússola de Ouro</title>
+    <desc lang="pt">A Bússola de Ouro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429074640 -0300" stop="20260429093950 -0300" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429093950 -0300" stop="20260429111215 -0300" channel="htofilmes">
+    <title lang="pt">A mentira</title>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429111215 -0300" stop="20260429124716 -0300" channel="htofilmes">
+    <title lang="pt">A Primeira Vez</title>
+    <desc lang="pt">A Primeira Vez</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429124716 -0300" stop="20260429144445 -0300" channel="htofilmes">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">À Procura da Felicidade</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429144445 -0300" stop="20260429163132 -0300" channel="htofilmes">
+    <title lang="pt">A Onda</title>
+    <desc lang="pt">A Onda</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429163132 -0300" stop="20260429181915 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429181915 -0300" stop="20260429200337 -0300" channel="htofilmes">
+    <title lang="pt">A Lista</title>
+    <desc lang="pt">A Lista</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429200337 -0300" stop="20260429213431 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">A Filha do Meu Melhor Amigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429213431 -0300" stop="20260429234837 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260429234837 -0300" stop="20260430014323 -0300" channel="htofilmes">
+    <title lang="pt">Zona Verde</title>
+    <desc lang="pt">Zona Verde</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430000000 -0300" stop="20260430015703 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430015703 -0300" stop="20260430033045 -0300" channel="htofilmes">
+    <title lang="pt">127 horas</title>
+    <desc lang="pt">127 horas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430033045 -0300" stop="20260430055326 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430055326 -0300" stop="20260430074640 -0300" channel="htofilmes">
+    <title lang="pt">A Bússola de Ouro</title>
+    <desc lang="pt">A Bússola de Ouro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430074640 -0300" stop="20260430093950 -0300" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430093950 -0300" stop="20260430111215 -0300" channel="htofilmes">
+    <title lang="pt">A mentira</title>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430111215 -0300" stop="20260430124716 -0300" channel="htofilmes">
+    <title lang="pt">A Primeira Vez</title>
+    <desc lang="pt">A Primeira Vez</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430124716 -0300" stop="20260430144445 -0300" channel="htofilmes">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">À Procura da Felicidade</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430144445 -0300" stop="20260430163132 -0300" channel="htofilmes">
+    <title lang="pt">A Onda</title>
+    <desc lang="pt">A Onda</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430163132 -0300" stop="20260430181915 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430181915 -0300" stop="20260430200337 -0300" channel="htofilmes">
+    <title lang="pt">A Lista</title>
+    <desc lang="pt">A Lista</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430200337 -0300" stop="20260430213431 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">A Filha do Meu Melhor Amigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430213431 -0300" stop="20260430234837 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260430234837 -0300" stop="20260501014323 -0300" channel="htofilmes">
+    <title lang="pt">Zona Verde</title>
+    <desc lang="pt">Zona Verde</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501000000 -0300" stop="20260501015703 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501015703 -0300" stop="20260501033045 -0300" channel="htofilmes">
+    <title lang="pt">127 horas</title>
+    <desc lang="pt">127 horas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501033045 -0300" stop="20260501055326 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501055326 -0300" stop="20260501074640 -0300" channel="htofilmes">
+    <title lang="pt">A Bússola de Ouro</title>
+    <desc lang="pt">A Bússola de Ouro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501074640 -0300" stop="20260501093950 -0300" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501093950 -0300" stop="20260501111215 -0300" channel="htofilmes">
+    <title lang="pt">A mentira</title>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501111215 -0300" stop="20260501124716 -0300" channel="htofilmes">
+    <title lang="pt">A Primeira Vez</title>
+    <desc lang="pt">A Primeira Vez</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501124716 -0300" stop="20260501144445 -0300" channel="htofilmes">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">À Procura da Felicidade</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501144445 -0300" stop="20260501163132 -0300" channel="htofilmes">
+    <title lang="pt">A Onda</title>
+    <desc lang="pt">A Onda</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501163132 -0300" stop="20260501181915 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501181915 -0300" stop="20260501200337 -0300" channel="htofilmes">
+    <title lang="pt">A Lista</title>
+    <desc lang="pt">A Lista</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501200337 -0300" stop="20260501213431 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">A Filha do Meu Melhor Amigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501213431 -0300" stop="20260501234837 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260501234837 -0300" stop="20260502014323 -0300" channel="htofilmes">
+    <title lang="pt">Zona Verde</title>
+    <desc lang="pt">Zona Verde</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502000000 -0300" stop="20260502015703 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502015703 -0300" stop="20260502033045 -0300" channel="htofilmes">
+    <title lang="pt">127 horas</title>
+    <desc lang="pt">127 horas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502033045 -0300" stop="20260502034848 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502034848 -0300" stop="20260502060254 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick ruim</title>
+    <desc lang="pt">A Batalha De Riddick ruim</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502060254 -0300" stop="20260502082535 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502082535 -0300" stop="20260502101849 -0300" channel="htofilmes">
+    <title lang="pt">A Bússola de Ouro</title>
+    <desc lang="pt">A Bússola de Ouro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502101849 -0300" stop="20260502114943 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">A Filha do Meu Melhor Amigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502114943 -0300" stop="20260502134253 -0300" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502134253 -0300" stop="20260502152715 -0300" channel="htofilmes">
+    <title lang="pt">A Lista</title>
+    <desc lang="pt">A Lista</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502152715 -0300" stop="20260502165940 -0300" channel="htofilmes">
+    <title lang="pt">A mentira</title>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502165940 -0300" stop="20260502184723 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502184723 -0300" stop="20260502203410 -0300" channel="htofilmes">
+    <title lang="pt">A Onda</title>
+    <desc lang="pt">A Onda</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502203410 -0300" stop="20260502223113 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260502223113 -0300" stop="20260503000455 -0300" channel="htofilmes">
+    <title lang="pt">127 horas</title>
+    <desc lang="pt">127 horas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503000000 -0300" stop="20260503013501 -0300" channel="htofilmes">
+    <title lang="pt">A Primeira Vez</title>
+    <desc lang="pt">A Primeira Vez</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503013501 -0300" stop="20260503033230 -0300" channel="htofilmes">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">À Procura da Felicidade</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503033230 -0300" stop="20260503053257 -0300" channel="htofilmes">
+    <title lang="pt">A Rede Social</title>
+    <desc lang="pt">A Rede Social</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503053257 -0300" stop="20260503072732 -0300" channel="htofilmes">
+    <title lang="pt">A Vida Secreta de Walter Mitty</title>
+    <desc lang="pt">A Vida Secreta de Walter Mitty</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503072732 -0300" stop="20260503090323 -0300" channel="htofilmes">
+    <title lang="pt">Adrenalina 2 - Alta Voltagem</title>
+    <desc lang="pt">Adrenalina 2 - Alta Voltagem</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503090323 -0300" stop="20260503103734 -0300" channel="htofilmes">
+    <title lang="pt">Adrenalina</title>
+    <desc lang="pt">Adrenalina</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503103734 -0300" stop="20260503125000 -0300" channel="htofilmes">
+    <title lang="pt">Além da Escuridão- Star Trek</title>
+    <desc lang="pt">Além da Escuridão- Star Trek</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503125000 -0300" stop="20260503142708 -0300" channel="htofilmes">
+    <title lang="pt">Ameaça Terrorista</title>
+    <desc lang="pt">Ameaça Terrorista</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503142708 -0300" stop="20260503160434 -0300" channel="htofilmes">
+    <title lang="pt">Apartamento 2012 - A Insfestação</title>
+    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503160434 -0300" stop="20260503175400 -0300" channel="htofilmes">
+    <title lang="pt">Amizade Colorida</title>
+    <desc lang="pt">Amizade Colorida</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503175400 -0300" stop="20260503191957 -0300" channel="htofilmes">
+    <title lang="pt">Apenas Duas Noites</title>
+    <desc lang="pt">Apenas Duas Noites</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503191957 -0300" stop="20260503205458 -0300" channel="htofilmes">
+    <title lang="pt">A Primeira Vez</title>
+    <desc lang="pt">A Primeira Vez</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503205458 -0300" stop="20260503225227 -0300" channel="htofilmes">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">À Procura da Felicidade</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260503225227 -0300" stop="20260504005254 -0300" channel="htofilmes">
+    <title lang="pt">A Rede Social</title>
+    <desc lang="pt">A Rede Social</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504000000 -0300" stop="20260504014905 -0300" channel="htofilmes">
+    <title lang="pt">As Branquelas</title>
+    <desc lang="pt">As Branquelas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504014905 -0300" stop="20260504040009 -0300" channel="htofilmes">
+    <title lang="pt">As duas faces de um crime</title>
+    <desc lang="pt">As duas faces de um crime</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504040009 -0300" stop="20260504053047 -0300" channel="htofilmes">
+    <title lang="pt">As Loucuras de Dick &amp; Jane</title>
+    <desc lang="pt">As Loucuras de Dick &amp; Jane</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504053047 -0300" stop="20260504071327 -0300" channel="htofilmes">
+    <title lang="pt">As Vantagens de Ser Invisível</title>
+    <desc lang="pt">As Vantagens de Ser Invisível</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504071327 -0300" stop="20260504084411 -0300" channel="htofilmes">
+    <title lang="pt">Atividade Paranormal em Tóquio</title>
+    <desc lang="pt">Atividade Paranormal em Tóquio</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504084411 -0300" stop="20260504102458 -0300" channel="htofilmes">
+    <title lang="pt">B13-U - 13º Distrito Ultimato</title>
+    <desc lang="pt">B13-U - 13º Distrito Ultimato</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504102458 -0300" stop="20260504125149 -0300" channel="htofilmes">
+    <title lang="pt">Bad Boys 2</title>
+    <desc lang="pt">Bad Boys 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504125149 -0300" stop="20260504145557 -0300" channel="htofilmes">
+    <title lang="pt">Bad Boys Para Sempre</title>
+    <desc lang="pt">Bad Boys Para Sempre</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504145557 -0300" stop="20260504170942 -0300" channel="htofilmes">
+    <title lang="pt">Bem-vindo aos 40</title>
+    <desc lang="pt">Bem-vindo aos 40</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504170942 -0300" stop="20260504183330 -0300" channel="htofilmes">
+    <title lang="pt">Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América</title>
+    <desc lang="pt">Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504183330 -0300" stop="20260504202119 -0300" channel="htofilmes">
+    <title lang="pt">Brilho Eterno de uma Mente sem Lembranças</title>
+    <desc lang="pt">Brilho Eterno de uma Mente sem Lembranças</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504202119 -0300" stop="20260504221024 -0300" channel="htofilmes">
+    <title lang="pt">As Branquelas</title>
+    <desc lang="pt">As Branquelas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260504221024 -0300" stop="20260505002128 -0300" channel="htofilmes">
+    <title lang="pt">As duas faces de um crime</title>
+    <desc lang="pt">As duas faces de um crime</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505000000 -0300" stop="20260505020939 -0300" channel="htofilmes">
+    <title lang="pt">Bruce Lee, Meu Irmão</title>
+    <desc lang="pt">Bruce Lee, Meu Irmão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505020939 -0300" stop="20260505040838 -0300" channel="htofilmes">
+    <title lang="pt">Burlesque</title>
+    <desc lang="pt">Burlesque</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505040838 -0300" stop="20260505055103 -0300" channel="htofilmes">
+    <title lang="pt">Cão de Briga</title>
+    <desc lang="pt">Cão de Briga</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505055103 -0300" stop="20260505072127 -0300" channel="htofilmes">
+    <title lang="pt">Caçada ao Presidente</title>
+    <desc lang="pt">Caçada ao Presidente</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505072127 -0300" stop="20260505090440 -0300" channel="htofilmes">
+    <title lang="pt">Carga Explosiva 3</title>
+    <desc lang="pt">Carga Explosiva 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505090440 -0300" stop="20260505105001 -0300" channel="htofilmes">
+    <title lang="pt">Cartas para Julieta</title>
+    <desc lang="pt">Cartas para Julieta</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505105001 -0300" stop="20260505122727 -0300" channel="htofilmes">
+    <title lang="pt">Chat A Sala Negra</title>
+    <desc lang="pt">Chat A Sala Negra</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505122727 -0300" stop="20260505135634 -0300" channel="htofilmes">
+    <title lang="pt">Como treinar o seu dragao</title>
+    <desc lang="pt">Como treinar o seu dragao</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505135634 -0300" stop="20260505153708 -0300" channel="htofilmes">
+    <title lang="pt">Company of Heroes - O Filme</title>
+    <desc lang="pt">Company of Heroes - O Filme</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505153708 -0300" stop="20260505172244 -0300" channel="htofilmes">
+    <title lang="pt">confiar</title>
+    <desc lang="pt">confiar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505172244 -0300" stop="20260505185124 -0300" channel="htofilmes">
+    <title lang="pt">Conta comigo</title>
+    <desc lang="pt">Conta comigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505185124 -0300" stop="20260505210103 -0300" channel="htofilmes">
+    <title lang="pt">Bruce Lee, Meu Irmão</title>
+    <desc lang="pt">Bruce Lee, Meu Irmão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505210103 -0300" stop="20260505230002 -0300" channel="htofilmes">
+    <title lang="pt">Burlesque</title>
+    <desc lang="pt">Burlesque</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260505230002 -0300" stop="20260506004227 -0300" channel="htofilmes">
+    <title lang="pt">Cão de Briga</title>
+    <desc lang="pt">Cão de Briga</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506000000 -0300" stop="20260506021456 -0300" channel="htofilmes">
+    <title lang="pt">Corações de Ferro</title>
+    <desc lang="pt">Corações de Ferro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506021456 -0300" stop="20260506042417 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506042417 -0300" stop="20260506060442 -0300" channel="htofilmes">
+    <title lang="pt">Corrida mortal 2</title>
+    <desc lang="pt">Corrida mortal 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506060442 -0300" stop="20260506074251 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506074251 -0300" stop="20260506093857 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">De Volta para o Futuro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506093857 -0300" stop="20260506111136 -0300" channel="htofilmes">
+    <title lang="pt">Dupla Implacável</title>
+    <desc lang="pt">Dupla Implacável</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506111136 -0300" stop="20260506130119 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506130119 -0300" stop="20260506143647 -0300" channel="htofilmes">
+    <title lang="pt">Enterrado vivo</title>
+    <desc lang="pt">Enterrado vivo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506143647 -0300" stop="20260506163354 -0300" channel="htofilmes">
+    <title lang="pt">Encontro explosivo</title>
+    <desc lang="pt">Encontro explosivo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506163354 -0300" stop="20260506180632 -0300" channel="htofilmes">
+    <title lang="pt">Eu, Deus e Bin Laden</title>
+    <desc lang="pt">Eu, Deus e Bin Laden</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506180632 -0300" stop="20260506195944 -0300" channel="htofilmes">
+    <title lang="pt">Extraordinário</title>
+    <desc lang="pt">Extraordinário</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506195944 -0300" stop="20260506221440 -0300" channel="htofilmes">
+    <title lang="pt">Corações de Ferro</title>
+    <desc lang="pt">Corações de Ferro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260506221440 -0300" stop="20260507002401 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260507000000 -0300" stop="20260507015655 -0300" channel="htofilmes">
+    <title lang="pt">Fique rico ou morra tentando</title>
+    <desc lang="pt">Fique rico ou morra tentando</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260507015655 -0300" stop="20260507041956 -0300" channel="htofilmes">
+    <title lang="pt">Forrest Gump</title>
+    <desc lang="pt">Forrest Gump</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260507041956 -0300" stop="20260507062115 -0300" channel="htofilmes">
+    <title lang="pt">Fúria em Alto Mar</title>
+    <desc lang="pt">Fúria em Alto Mar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260507062115 -0300" stop="20260507080721 -0300" channel="htofilmes">
+    <title lang="pt">Grandes Olhos</title>
+    <desc lang="pt">Grandes Olhos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260507080721 -0300" stop="20260507095121 -0300" channel="htofilmes">
+    <title lang="pt">Guerreiros do Amanha</title>
+    <desc lang="pt">Guerreiros do Amanha</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260507095121 -0300" stop="20260507115342 -0300" channel="htofilmes">
+    <title lang="pt">Homens e Deus</title>
+    <desc lang="pt">Homens e Deus</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260507115342 -0300" stop="20260507133342 -0300" channel="htofilmes">
+    <title lang="pt">Hudson Hawk – O Falcão está à Solta</title>
+    <desc lang="pt">Hudson Hawk – O Falcão está à Solta</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260507133342 -0300" stop="20260507155221 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260507155221 -0300" stop="20260507181452 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Jogos Vorazes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260507181452 -0300" stop="20260507193706 -0300" channel="htofilmes">
+    <title lang="pt">Johnny  Todos Tem Uma Missão Especial</title>
+    <desc lang="pt">Johnny  Todos Tem Uma Missão Especial</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260507193706 -0300" stop="20260507213401 -0300" channel="htofilmes">
+    <title lang="pt">Fique rico ou morra tentando</title>
+    <desc lang="pt">Fique rico ou morra tentando</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260507213401 -0300" stop="20260507235702 -0300" channel="htofilmes">
+    <title lang="pt">Forrest Gump</title>
+    <desc lang="pt">Forrest Gump</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508000000 -0300" stop="20260508022001 -0300" channel="htofilmes">
+    <title lang="pt">Karate Kid</title>
+    <desc lang="pt">Karate Kid</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508022001 -0300" stop="20260508034810 -0300" channel="htofilmes">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508034810 -0300" stop="20260508052259 -0300" channel="htofilmes">
+    <title lang="pt">Meu malvado favorito</title>
+    <desc lang="pt">Meu malvado favorito</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508052259 -0300" stop="20260508065518 -0300" channel="htofilmes">
+    <title lang="pt">Morte no funeral</title>
+    <desc lang="pt">Morte no funeral</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508065518 -0300" stop="20260508082030 -0300" channel="htofilmes">
+    <title lang="pt">Naruto Shippuden 4   A Torre Perdida</title>
+    <desc lang="pt">Naruto Shippuden 4   A Torre Perdida</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508082030 -0300" stop="20260508100952 -0300" channel="htofilmes">
+    <title lang="pt">Nosso Lar</title>
+    <desc lang="pt">Nosso Lar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508100952 -0300" stop="20260508113540 -0300" channel="htofilmes">
+    <title lang="pt">O Feitiço Do Mal</title>
+    <desc lang="pt">O Feitiço Do Mal</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508113540 -0300" stop="20260508131623 -0300" channel="htofilmes">
+    <title lang="pt">O julgamento</title>
+    <desc lang="pt">O julgamento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508131623 -0300" stop="20260508143931 -0300" channel="htofilmes">
+    <title lang="pt">O Natal Encantado</title>
+    <desc lang="pt">O Natal Encantado</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508143931 -0300" stop="20260508160917 -0300" channel="htofilmes">
+    <title lang="pt">O Primeiro Amor</title>
+    <desc lang="pt">O Primeiro Amor</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508160917 -0300" stop="20260508175636 -0300" channel="htofilmes">
+    <title lang="pt">O solteirão</title>
+    <desc lang="pt">O solteirão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508175636 -0300" stop="20260508194310 -0300" channel="htofilmes">
+    <title lang="pt">O Último Caçador de Bruxas</title>
+    <desc lang="pt">O Último Caçador de Bruxas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508194310 -0300" stop="20260508220311 -0300" channel="htofilmes">
+    <title lang="pt">Karate Kid</title>
+    <desc lang="pt">Karate Kid</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508220311 -0300" stop="20260508233120 -0300" channel="htofilmes">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260508233120 -0300" stop="20260509010609 -0300" channel="htofilmes">
+    <title lang="pt">Meu malvado favorito</title>
+    <desc lang="pt">Meu malvado favorito</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509000000 -0300" stop="20260509013836 -0300" channel="htofilmes">
+    <title lang="pt">Ong-Bak 3</title>
+    <desc lang="pt">Ong-Bak 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509013836 -0300" stop="20260509032745 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509032745 -0300" stop="20260509051518 -0300" channel="htofilmes">
+    <title lang="pt">Os outros Caras</title>
+    <desc lang="pt">Os outros Caras</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509051518 -0300" stop="20260509051603 -0300" channel="htofilmes">
+    <title lang="pt">IntroCanais</title>
+    <desc lang="pt">IntroCanais</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509051603 -0300" stop="20260509071540 -0300" channel="htofilmes">
+    <title lang="pt">Repo Men O Resgate de Órgãos</title>
+    <desc lang="pt">Repo Men O Resgate de Órgãos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509071540 -0300" stop="20260509091418 -0300" channel="htofilmes">
+    <title lang="pt">Riddick 3</title>
+    <desc lang="pt">Riddick 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509091418 -0300" stop="20260509105822 -0300" channel="htofilmes">
+    <title lang="pt">Salt</title>
+    <desc lang="pt">Salt</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509105822 -0300" stop="20260509122045 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509122045 -0300" stop="20260509134308 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509134308 -0300" stop="20260509151425 -0300" channel="htofilmes">
+    <title lang="pt">Viagem do medo</title>
+    <desc lang="pt">Viagem do medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509151425 -0300" stop="20260509164817 -0300" channel="htofilmes">
+    <title lang="pt">Vingança ao Anoitecer</title>
+    <desc lang="pt">Vingança ao Anoitecer</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509164817 -0300" stop="20260509185239 -0300" channel="htofilmes">
+    <title lang="pt">XXX - Triplo X</title>
+    <desc lang="pt">XXX - Triplo X</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509185239 -0300" stop="20260509203115 -0300" channel="htofilmes">
+    <title lang="pt">Ong-Bak 3</title>
+    <desc lang="pt">Ong-Bak 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260509203115 -0300" stop="20260509222024 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510000000 -0300" stop="20260510022241 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510022241 -0300" stop="20260510035506 -0300" channel="htofilmes">
+    <title lang="pt">A mentira</title>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510035506 -0300" stop="20260510052917 -0300" channel="htofilmes">
+    <title lang="pt">Adrenalina</title>
+    <desc lang="pt">Adrenalina</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510052917 -0300" stop="20260510072816 -0300" channel="htofilmes">
+    <title lang="pt">Burlesque</title>
+    <desc lang="pt">Burlesque</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510072816 -0300" stop="20260510085656 -0300" channel="htofilmes">
+    <title lang="pt">Conta comigo</title>
+    <desc lang="pt">Conta comigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510085656 -0300" stop="20260510105008 -0300" channel="htofilmes">
+    <title lang="pt">Extraordinário</title>
+    <desc lang="pt">Extraordinário</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510105008 -0300" stop="20260510125127 -0300" channel="htofilmes">
+    <title lang="pt">Fúria em Alto Mar</title>
+    <desc lang="pt">Fúria em Alto Mar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510125127 -0300" stop="20260510143127 -0300" channel="htofilmes">
+    <title lang="pt">Hudson Hawk – O Falcão está à Solta</title>
+    <desc lang="pt">Hudson Hawk – O Falcão está à Solta</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510143127 -0300" stop="20260510165358 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Jogos Vorazes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510165358 -0300" stop="20260510181612 -0300" channel="htofilmes">
+    <title lang="pt">Johnny  Todos Tem Uma Missão Especial</title>
+    <desc lang="pt">Johnny  Todos Tem Uma Missão Especial</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510181612 -0300" stop="20260510194831 -0300" channel="htofilmes">
+    <title lang="pt">Morte no funeral</title>
+    <desc lang="pt">Morte no funeral</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510194831 -0300" stop="20260510221112 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha Na Montanha Do Tigre-1920</title>
+    <desc lang="pt">A Batalha Na Montanha Do Tigre-1920</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510221112 -0300" stop="20260510234337 -0300" channel="htofilmes">
+    <title lang="pt">A mentira</title>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260510234337 -0300" stop="20260511011748 -0300" channel="htofilmes">
+    <title lang="pt">Adrenalina</title>
+    <desc lang="pt">Adrenalina</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511000000 -0300" stop="20260511020422 -0300" channel="htofilmes">
+    <title lang="pt">XXX - Triplo X</title>
+    <desc lang="pt">XXX - Triplo X</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511020422 -0300" stop="20260511032645 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511032645 -0300" stop="20260511051418 -0300" channel="htofilmes">
+    <title lang="pt">Os outros Caras</title>
+    <desc lang="pt">Os outros Caras</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511051418 -0300" stop="20260511070137 -0300" channel="htofilmes">
+    <title lang="pt">O solteirão</title>
+    <desc lang="pt">O solteirão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511070137 -0300" stop="20260511082946 -0300" channel="htofilmes">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511082946 -0300" stop="20260511100946 -0300" channel="htofilmes">
+    <title lang="pt">Hudson Hawk – O Falcão está à Solta</title>
+    <desc lang="pt">Hudson Hawk – O Falcão está à Solta</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511100946 -0300" stop="20260511121105 -0300" channel="htofilmes">
+    <title lang="pt">Fúria em Alto Mar</title>
+    <desc lang="pt">Fúria em Alto Mar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511121105 -0300" stop="20260511140812 -0300" channel="htofilmes">
+    <title lang="pt">Encontro explosivo</title>
+    <desc lang="pt">Encontro explosivo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511140812 -0300" stop="20260511153652 -0300" channel="htofilmes">
+    <title lang="pt">Conta comigo</title>
+    <desc lang="pt">Conta comigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511153652 -0300" stop="20260511172005 -0300" channel="htofilmes">
+    <title lang="pt">Carga Explosiva 3</title>
+    <desc lang="pt">Carga Explosiva 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511172005 -0300" stop="20260511184353 -0300" channel="htofilmes">
+    <title lang="pt">Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América</title>
+    <desc lang="pt">Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511184353 -0300" stop="20260511203258 -0300" channel="htofilmes">
+    <title lang="pt">As Branquelas</title>
+    <desc lang="pt">As Branquelas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511203258 -0300" stop="20260511223720 -0300" channel="htofilmes">
+    <title lang="pt">XXX - Triplo X</title>
+    <desc lang="pt">XXX - Triplo X</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260511223720 -0300" stop="20260511235943 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512000000 -0300" stop="20260512020408 -0300" channel="htofilmes">
+    <title lang="pt">Bad Boys Para Sempre</title>
+    <desc lang="pt">Bad Boys Para Sempre</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512020408 -0300" stop="20260512041347 -0300" channel="htofilmes">
+    <title lang="pt">Bruce Lee, Meu Irmão</title>
+    <desc lang="pt">Bruce Lee, Meu Irmão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512041347 -0300" stop="20260512062308 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512062308 -0300" stop="20260512081914 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">De Volta para o Futuro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512081914 -0300" stop="20260512100857 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512100857 -0300" stop="20260512120604 -0300" channel="htofilmes">
+    <title lang="pt">Encontro explosivo</title>
+    <desc lang="pt">Encontro explosivo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512120604 -0300" stop="20260512140307 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512140307 -0300" stop="20260512161713 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick ruim</title>
+    <desc lang="pt">A Batalha De Riddick ruim</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512161713 -0300" stop="20260512175202 -0300" channel="htofilmes">
+    <title lang="pt">Meu malvado favorito</title>
+    <desc lang="pt">Meu malvado favorito</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512175202 -0300" stop="20260512193245 -0300" channel="htofilmes">
+    <title lang="pt">O julgamento</title>
+    <desc lang="pt">O julgamento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512193245 -0300" stop="20260512213653 -0300" channel="htofilmes">
+    <title lang="pt">Bad Boys Para Sempre</title>
+    <desc lang="pt">Bad Boys Para Sempre</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512213653 -0300" stop="20260512234632 -0300" channel="htofilmes">
+    <title lang="pt">Bruce Lee, Meu Irmão</title>
+    <desc lang="pt">Bruce Lee, Meu Irmão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512234632 -0300" stop="20260513015553 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513000000 -0300" stop="20260513013809 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513013809 -0300" stop="20260513035648 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513035648 -0300" stop="20260513054631 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513054631 -0300" stop="20260513080902 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Jogos Vorazes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513080902 -0300" stop="20260513094000 -0300" channel="htofilmes">
+    <title lang="pt">Taxi 4</title>
+    <desc lang="pt">Taxi 4</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513094000 -0300" stop="20260513113112 -0300" channel="htofilmes">
+    <title lang="pt">RED - Aposentados e Perigosos</title>
+    <desc lang="pt">RED - Aposentados e Perigosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513113112 -0300" stop="20260513132021 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513132021 -0300" stop="20260513151724 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513151724 -0300" stop="20260513173130 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick ruim</title>
+    <desc lang="pt">A Batalha De Riddick ruim</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513173130 -0300" stop="20260513192440 -0300" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513192440 -0300" stop="20260513211223 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513211223 -0300" stop="20260513225032 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260513225032 -0300" stop="20260514010911 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514000000 -0300" stop="20260514014943 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514014943 -0300" stop="20260514033852 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514033852 -0300" stop="20260514052547 -0300" channel="htofilmes">
+    <title lang="pt">O Último Mestre do Ar</title>
+    <desc lang="pt">O Último Mestre do Ar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514052547 -0300" stop="20260514064855 -0300" channel="htofilmes">
+    <title lang="pt">O Natal Encantado</title>
+    <desc lang="pt">O Natal Encantado</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514064855 -0300" stop="20260514081704 -0300" channel="htofilmes">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514081704 -0300" stop="20260514093918 -0300" channel="htofilmes">
+    <title lang="pt">Johnny  Todos Tem Uma Missão Especial</title>
+    <desc lang="pt">Johnny  Todos Tem Uma Missão Especial</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514093918 -0300" stop="20260514112524 -0300" channel="htofilmes">
+    <title lang="pt">Grandes Olhos</title>
+    <desc lang="pt">Grandes Olhos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514112524 -0300" stop="20260514132231 -0300" channel="htofilmes">
+    <title lang="pt">Encontro explosivo</title>
+    <desc lang="pt">Encontro explosivo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514132231 -0300" stop="20260514145509 -0300" channel="htofilmes">
+    <title lang="pt">Eu, Deus e Bin Laden</title>
+    <desc lang="pt">Eu, Deus e Bin Laden</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514145509 -0300" stop="20260514163534 -0300" channel="htofilmes">
+    <title lang="pt">Corrida mortal 2</title>
+    <desc lang="pt">Corrida mortal 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514163534 -0300" stop="20260514180441 -0300" channel="htofilmes">
+    <title lang="pt">Como treinar o seu dragao</title>
+    <desc lang="pt">Como treinar o seu dragao</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514180441 -0300" stop="20260514194207 -0300" channel="htofilmes">
+    <title lang="pt">Chat A Sala Negra</title>
+    <desc lang="pt">Chat A Sala Negra</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514194207 -0300" stop="20260514213150 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514213150 -0300" stop="20260514232059 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260514232059 -0300" stop="20260515010754 -0300" channel="htofilmes">
+    <title lang="pt">O Último Mestre do Ar</title>
+    <desc lang="pt">O Último Mestre do Ar</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515000000 -0300" stop="20260515001803 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515001803 -0300" stop="20260515014857 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">A Filha do Meu Melhor Amigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515014857 -0300" stop="20260515031935 -0300" channel="htofilmes">
+    <title lang="pt">As Loucuras de Dick &amp; Jane</title>
+    <desc lang="pt">As Loucuras de Dick &amp; Jane</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515031935 -0300" stop="20260515053320 -0300" channel="htofilmes">
+    <title lang="pt">Bem-vindo aos 40</title>
+    <desc lang="pt">Bem-vindo aos 40</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515053320 -0300" stop="20260515071345 -0300" channel="htofilmes">
+    <title lang="pt">Corrida mortal 2</title>
+    <desc lang="pt">Corrida mortal 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515071345 -0300" stop="20260515093646 -0300" channel="htofilmes">
+    <title lang="pt">Forrest Gump</title>
+    <desc lang="pt">Forrest Gump</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515093646 -0300" stop="20260515112252 -0300" channel="htofilmes">
+    <title lang="pt">Grandes Olhos</title>
+    <desc lang="pt">Grandes Olhos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515112252 -0300" stop="20260515130652 -0300" channel="htofilmes">
+    <title lang="pt">Guerreiros do Amanha</title>
+    <desc lang="pt">Guerreiros do Amanha</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515130652 -0300" stop="20260515152923 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Jogos Vorazes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515152923 -0300" stop="20260515171557 -0300" channel="htofilmes">
+    <title lang="pt">O Último Caçador de Bruxas</title>
+    <desc lang="pt">O Último Caçador de Bruxas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515171557 -0300" stop="20260515185433 -0300" channel="htofilmes">
+    <title lang="pt">Ong-Bak 3</title>
+    <desc lang="pt">Ong-Bak 3</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515185433 -0300" stop="20260515201656 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515201656 -0300" stop="20260515203459 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick</title>
+    <desc lang="pt">A Batalha De Riddick</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515203459 -0300" stop="20260515220553 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">A Filha do Meu Melhor Amigo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515220553 -0300" stop="20260515233631 -0300" channel="htofilmes">
+    <title lang="pt">As Loucuras de Dick &amp; Jane</title>
+    <desc lang="pt">As Loucuras de Dick &amp; Jane</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260515233631 -0300" stop="20260516015016 -0300" channel="htofilmes">
+    <title lang="pt">Bem-vindo aos 40</title>
+    <desc lang="pt">Bem-vindo aos 40</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516000000 -0300" stop="20260516020921 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516020921 -0300" stop="20260516040527 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">De Volta para o Futuro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516040527 -0300" stop="20260516054927 -0300" channel="htofilmes">
+    <title lang="pt">Guerreiros do Amanha</title>
+    <desc lang="pt">Guerreiros do Amanha</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516054927 -0300" stop="20260516072205 -0300" channel="htofilmes">
+    <title lang="pt">Eu, Deus e Bin Laden</title>
+    <desc lang="pt">Eu, Deus e Bin Laden</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516072205 -0300" stop="20260516094044 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516094044 -0300" stop="20260516120045 -0300" channel="htofilmes">
+    <title lang="pt">Karate Kid</title>
+    <desc lang="pt">Karate Kid</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516120045 -0300" stop="20260516133534 -0300" channel="htofilmes">
+    <title lang="pt">Meu malvado favorito</title>
+    <desc lang="pt">Meu malvado favorito</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516133534 -0300" stop="20260516150122 -0300" channel="htofilmes">
+    <title lang="pt">O Feitiço Do Mal</title>
+    <desc lang="pt">O Feitiço Do Mal</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516150122 -0300" stop="20260516164855 -0300" channel="htofilmes">
+    <title lang="pt">Os outros Caras</title>
+    <desc lang="pt">Os outros Caras</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516164855 -0300" stop="20260516181118 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Todo Mundo em Pânico 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516181118 -0300" stop="20260516200230 -0300" channel="htofilmes">
+    <title lang="pt">RED - Aposentados e Perigosos</title>
+    <desc lang="pt">RED - Aposentados e Perigosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516200230 -0300" stop="20260516221151 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Corajosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260516221151 -0300" stop="20260517000757 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">De Volta para o Futuro</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517000000 -0300" stop="20260517013809 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517013809 -0300" stop="20260517035648 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517035648 -0300" stop="20260517054631 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Elysium</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517054631 -0300" stop="20260517080902 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Jogos Vorazes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517080902 -0300" stop="20260517094000 -0300" channel="htofilmes">
+    <title lang="pt">Taxi 4</title>
+    <desc lang="pt">Taxi 4</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517094000 -0300" stop="20260517113112 -0300" channel="htofilmes">
+    <title lang="pt">RED - Aposentados e Perigosos</title>
+    <desc lang="pt">RED - Aposentados e Perigosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517113112 -0300" stop="20260517132021 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Operação Zodíaco</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517132021 -0300" stop="20260517151724 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">22 Balas</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517151724 -0300" stop="20260517173130 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick ruim</title>
+    <desc lang="pt">A Batalha De Riddick ruim</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517173130 -0300" stop="20260517192440 -0300" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</title>
+    <desc lang="pt">A Lenda do Rei Macaco 2 viagem ao oeste</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517192440 -0300" stop="20260517211223 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz o Ladrão</title>
+    <desc lang="pt">A Ocasião Faz o Ladrão</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517211223 -0300" stop="20260517225032 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline (2014) · Dublado Português</title>
+    <desc lang="pt">Cymbeline (2014) · Dublado Português</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260517225032 -0300" stop="20260518010911 -0300" channel="htofilmes">
+    <title lang="pt">Ilha Do Medo</title>
+    <desc lang="pt">Ilha Do Medo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+</tv>
