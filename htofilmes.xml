@@ -1166,90 +1166,93 @@
     <icon src="https://image.tmdb.org/t/p/w500/549UoU38uoikbqgXG09rkkfIEWf.jpg"/>
     <date>2001</date>
   </programme>
-  <programme start="20260512000000 -0300" stop="20260512020408 -0300" channel="htofilmes">
-    <title lang="pt">Bad Boys Para Sempre</title>
-    <desc lang="pt">Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</desc>
+  <programme start="20260512000000 -0300" stop="20260512022241 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha na Montanha do Tigre</title>
+    <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
     <category lang="pt">Thriller</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kxV3r4H1BRB3QFySbgFyrlOwwXg.jpg"/>
-    <date>2020</date>
+    <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
+    <date>2014</date>
   </programme>
-  <programme start="20260512020408 -0300" stop="20260512041347 -0300" channel="htofilmes">
-    <title lang="pt">Bruce Lee, Meu Irmão</title>
-    <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
+  <programme start="20260512022241 -0300" stop="20260512035506 -0300" channel="htofilmes">
+    <title lang="pt">A mentira</title>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512035506 -0300" stop="20260512052917 -0300" channel="htofilmes">
+    <title lang="pt">Adrenalina</title>
+    <desc lang="pt">Adrenalina</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260512052917 -0300" stop="20260512072816 -0300" channel="htofilmes">
+    <title lang="pt">Burlesque</title>
+    <desc lang="pt">Ali (Christina Aguilera) deixou sua pequena cidade natal em busca do sucesso em Los Angeles. Logo ao chegar ela conhece a boate Burlesque, especializada em shows musicais de belas mulheres, que sempre se apresentam usando playback. O local é gerenciado por Tess (Cher), que nega uma chance a Ali. Ela insiste e consegue ser contratada como garçonete, graças à ajuda do balconista Jack (Cam Gigandet). Ali passa a acompanhar todos os shows, decorando as canções e coreografias. Quando Tess e seu braço-direito Sean (Stanley Tucci) realizam uma audição em busca de novas bailarinas, Ali aproveita a chance para mostrar do que é capaz.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oCTvLdp6YDmKl525uk6qlJUiViS.jpg"/>
     <date>2010</date>
   </programme>
-  <programme start="20260512041347 -0300" stop="20260512062308 -0300" channel="htofilmes">
-    <title lang="pt">Corajosos</title>
-    <desc lang="pt">Quatro policiais questionam sua fé e seu papel como pais e maridos após uma tragédia que acontece próximo a casa deles. Juntos, eles tomam uma decisão que muda suas vidas.</desc>
-    <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg"/>
-    <date>2011</date>
+  <programme start="20260512072816 -0300" stop="20260512085656 -0300" channel="htofilmes">
+    <title lang="pt">Conta Comigo</title>
+    <desc lang="pt">Em uma pequena cidade do Oregon, quatro amigos - o sensível Gordie, o durão Chris, o destemido Teddy e o acovardado Vern - resolvem sair à procura do cadáver de um adolescente desaparecido, que foi atropelado por um trem. O objetivo dos garotos é o de ser vistos como heróis diante dos amigos e dos moradores da cidade. Assim, eles partem numa inesquecível viagem de dois dias que se transforma em uma odisseia de autodescoberta e que evolui para um evento marcante em suas vidas.</desc>
+    <category lang="pt">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/w500/w77Y4Bdgfi2emYaAkKIDcH0jfjP.jpg"/>
+    <date>1986</date>
   </programme>
-  <programme start="20260512062308 -0300" stop="20260512081914 -0300" channel="htofilmes">
-    <title lang="pt">De Volta para o Futuro</title>
-    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
-    <category lang="pt">Aventura</category>
-    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
-    <date>1985</date>
+  <programme start="20260512085656 -0300" stop="20260512105008 -0300" channel="htofilmes">
+    <title lang="pt">Extraordinário</title>
+    <desc lang="pt">Auggie Pullman é um garoto que nasceu com uma deformação facial. Pela primeira vez, ele irá frequentar uma escola regular, como qualquer outra criança. No quinto ano, ele irá precisar se esforçar para conseguir se encaixar em sua nova realidade.</desc>
+    <category lang="pt">Família</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2oCqYAm00tMOPNgYPYfYAwMhcPn.jpg"/>
+    <date>2017</date>
   </programme>
-  <programme start="20260512081914 -0300" stop="20260512100857 -0300" channel="htofilmes">
-    <title lang="pt">Elysium</title>
-    <desc lang="pt">Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.</desc>
+  <programme start="20260512105008 -0300" stop="20260512125127 -0300" channel="htofilmes">
+    <title lang="pt">Fúria em Alto Mar</title>
+    <desc lang="pt">Dono de métodos próprios nada convencionais, o Comandante Joe Glass é o responsável por liderar uma delicada missão pelas perigosas águas do Mar de Barents à bordo do submarino USS Arkansas. O objetivo da tarefa é monitorar a atividade militar russa na região após outro submarino americano desaparecer naqueles mares. Enquanto isso, a situação política na região se acirra ao ponto de Glass ter de tomar decisões cruciais para impedir que se deflagre um conflito de escala continental entre as duas potências.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ral7cnZBQZGFmGaJUxrpcY8Xj3l.jpg"/>
+    <date>2018</date>
+  </programme>
+  <programme start="20260512125127 -0300" stop="20260512143127 -0300" channel="htofilmes">
+    <title lang="pt">Hudson Hawk, o Falcão Está à Solta</title>
+    <desc lang="pt">Um ex-presidário é chantageado por um casal rico para descobrir os detalhes da alquimia de Leonardo da Vinci.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/60Pnz4psjEUEAoFdBO6NT7GLEV9.jpg"/>
+    <date>1991</date>
+  </programme>
+  <programme start="20260512143127 -0300" stop="20260512165358 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Num futuro distante, boa parte da população é controlada por um regime totalitário, que relembra esse domínio realizando um evento anual – e mortal – entre os 12 distritos sob sua tutela. Para salvar sua irmã caçula, a jovem Katniss Everdeen se oferece como voluntária para representar seu distrito na competição e acaba contando com a companhia de Peeta Melark, desafiando não só o sistema dominante, mas também a força dos outros oponentes.</desc>
     <category lang="pt">Ficção científica</category>
-    <icon src="https://image.tmdb.org/t/p/w500/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg"/>
-    <date>2013</date>
+    <icon src="https://image.tmdb.org/t/p/w500/l6jn53LMu07uPt8A42JWIKi1Beb.jpg"/>
+    <date>2012</date>
   </programme>
-  <programme start="20260512100857 -0300" stop="20260512120604 -0300" channel="htofilmes">
-    <title lang="pt">Encontro Explosivo</title>
-    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260512120604 -0300" stop="20260512140307 -0300" channel="htofilmes">
-    <title lang="pt">22 Balas</title>
-    <desc lang="pt">Depois de anos vivendo fora da lei, Charly Mattei, resolveu nos últimos três anos se dedicar a família e viver harmoniosamente com sua esposa e seus dois filhos pequenos. No entanto, em uma manhã de inverno ele é encontrado em um estacionamento com 22 balas no corpo e apesar de muitos acreditarem que ele havia morrido, Charly misteriosamente sobrevive. Agora ele sai à caça de Tony Zacchia, o único homem que se atreveria a tentar matá-lo. Zacchia cometeu apenas um erro: ele falhou.</desc>
+  <programme start="20260512165358 -0300" stop="20260512181612 -0300" channel="htofilmes">
+    <title lang="pt">Johnny: Todos Tem Uma Missão Especial</title>
+    <desc lang="pt">Quando Dr. Drew Carter tragicamente perde seu filho de dez anos em um acidente de carro, ele não esperava perder toda a sua família também. Desde o acidente, sua esposa (Julia) se tornou emocionalmente ausente em relação a ele e a sua filha. Quando Johnny, um filho adotivo terminal com leucemia, é encaminhado para Drew, ele vê a chance de curar sua família. Com Julia contra a ideia, Drew toma as coisas em suas próprias mãos e adota Johnny. Johnny não sabe o que ele é, mas acredita que ele está aqui para uma missão especial.</desc>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/3EkhsU6augJjLU83AiONvs3y97s.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/wSIXdHiGlQPdE1X8K25c1g73qOI.jpg"/>
     <date>2010</date>
   </programme>
-  <programme start="20260512140307 -0300" stop="20260512161713 -0300" channel="htofilmes">
-    <title lang="pt">A Batalha De Riddick ruim</title>
-    <desc lang="pt">A Batalha De Riddick ruim</desc>
+  <programme start="20260512181612 -0300" stop="20260512194831 -0300" channel="htofilmes">
+    <title lang="pt">Morte no funeral</title>
+    <desc lang="pt">Morte no funeral</desc>
     <category lang="pt">Program</category>
   </programme>
-  <programme start="20260512161713 -0300" stop="20260512175202 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
-  </programme>
-  <programme start="20260512175202 -0300" stop="20260512193245 -0300" channel="htofilmes">
-    <title lang="pt">O julgamento</title>
-    <desc lang="pt">O julgamento</desc>
-    <category lang="pt">Program</category>
-  </programme>
-  <programme start="20260512193245 -0300" stop="20260512213653 -0300" channel="htofilmes">
-    <title lang="pt">Bad Boys Para Sempre</title>
-    <desc lang="pt">Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</desc>
+  <programme start="20260512194831 -0300" stop="20260512221112 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha na Montanha do Tigre</title>
+    <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
     <category lang="pt">Thriller</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kxV3r4H1BRB3QFySbgFyrlOwwXg.jpg"/>
-    <date>2020</date>
+    <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
+    <date>2014</date>
   </programme>
-  <programme start="20260512213653 -0300" stop="20260512234632 -0300" channel="htofilmes">
-    <title lang="pt">Bruce Lee, Meu Irmão</title>
-    <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
-    <date>2010</date>
+  <programme start="20260512221112 -0300" stop="20260512234337 -0300" channel="htofilmes">
+    <title lang="pt">A mentira</title>
+    <desc lang="pt">A mentira</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260512234632 -0300" stop="20260513015553 -0300" channel="htofilmes">
-    <title lang="pt">Corajosos</title>
-    <desc lang="pt">Quatro policiais questionam sua fé e seu papel como pais e maridos após uma tragédia que acontece próximo a casa deles. Juntos, eles tomam uma decisão que muda suas vidas.</desc>
-    <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg"/>
-    <date>2011</date>
+  <programme start="20260512234337 -0300" stop="20260513011748 -0300" channel="htofilmes">
+    <title lang="pt">Adrenalina</title>
+    <desc lang="pt">Adrenalina</desc>
+    <category lang="pt">Program</category>
   </programme>
   <programme start="20260513000000 -0300" stop="20260513013809 -0300" channel="htofilmes">
     <title lang="pt">Cymbeline</title>
