@@ -2495,9 +2495,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260526140307 -0300" stop="20260526161713 -0300" channel="htofilmes">
-    <title lang="pt">A Batalha De Riddick ruim</title>
-    <desc lang="pt">A Batalha De Riddick ruim</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Batalha de Riddick</title>
+    <desc lang="pt">Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg"/>
+    <date>2004</date>
   </programme>
   <programme start="20260526161713 -0300" stop="20260526175202 -0300" channel="htofilmes">
     <title lang="pt">Meu malvado favorito</title>
