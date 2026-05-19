@@ -1732,96 +1732,110 @@
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
   </programme>
-  <programme start="20260518000000 -0300" stop="20260518014905 -0300" channel="htofilmes">
-    <title lang="pt">As Branquelas</title>
-    <desc lang="pt">O que acontece quando dois atrapalhados agentes do FBI se disfarçam de princesas mega-ricas para se infiltrarem na alta sociedade? O resultado é situações extremamente engraçadas e diversão total ao ver estes dois irmãos azarados transformando-se em duas senhoritas refinadas e com estilo!</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg"/>
-    <date>2004</date>
+  <programme start="20260518000000 -0300" stop="20260518014943 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg"/>
+    <date>2013</date>
   </programme>
-  <programme start="20260518014905 -0300" stop="20260518040009 -0300" channel="htofilmes">
-    <title lang="pt">As Duas Faces de um Crime</title>
-    <desc lang="pt">Em Chicago, um arcebispo (Stanley Anderson) assassinado com 78 facadas. O crime choca a opinião pública e tudo indica que o assassino um jovem de 19 anos (Edward Norton), que foi preso com as roupas cobertas de sangue da vítima. No entanto, um ex-promotor (Richard Gere) que se tornou um advogado bem-sucedido se propõe a defendê-lo, sem cobrar honorários, tendo um motivo para isto: adora ser coberto pela mídia, além de ter uma incrível necessidade de vencer.</desc>
-    <category lang="pt">Crime</category>
-    <icon src="https://image.tmdb.org/t/p/w500/4S48ddVZl2KygeNRIRLotyaTlJZ.jpg"/>
-    <date>1996</date>
-  </programme>
-  <programme start="20260518040009 -0300" stop="20260518053047 -0300" channel="htofilmes">
-    <title lang="pt">As Loucuras de Dick &amp; Jane</title>
-    <desc lang="pt">O casal Dick e Jane vive de maneira confortável, mas ele acaba perdendo o emprego. Com o acúmulo de contas, a dupla decide roubar para pagar as dívidas e manter o estilo de vida, mas percebem que uma carreira criminosa pode ferir pessoas inocentes.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/5g03eRFOILs4crO6vUCWehdzKto.jpg"/>
-    <date>2005</date>
-  </programme>
-  <programme start="20260518053047 -0300" stop="20260518071327 -0300" channel="htofilmes">
-    <title lang="pt">As Vantagens de Ser Invisível</title>
-    <desc lang="pt">Charlie é um jovem que tem dificuldades para interagir em sua nova escola. Com os nervos à flor da pele, ele se sente deslocado no ambiente. Sua professora de literatura, no entanto, acredita nele e o vê como um gênio. Mas Charlie continua a pensar pouco de si… até o dia em que dois amigos, Patrick e Sam, passam a andar com ele.</desc>
-    <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/pUYWbq0I6oCrysxuL0OCxwB8wFp.jpg"/>
+  <programme start="20260518014943 -0300" stop="20260518033852 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Asian Hawk (Jackie Chan) parte em busca de doze artefatos mágicos desaparecidos desde o século XIX: doze cabeças de animais em bronze que representam os signos do horóscopo chinês. Auxiliado por um estudante chinês e uma bela francesa, ele não desistirá fácil de seu complicado objetivo, mesmo que para isto tenha que cruzar o mundo.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tobYv4VtrbTO6BQ8a1MU88ndUuT.jpg"/>
     <date>2012</date>
   </programme>
-  <programme start="20260518071327 -0300" stop="20260518084411 -0300" channel="htofilmes">
-    <title lang="pt">Atividade Paranormal: Tóquio</title>
-    <desc lang="pt">A estudante Haruka volta a Tóquio, após um programa de intercâmbio nos Estados Unidos, e traz em sua bagagem algo mais que os pertences.</desc>
-    <category lang="pt">Terror</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fu4bPmvK5lSFTHpeb8Y8YcxcFKV.jpg"/>
+  <programme start="20260518033852 -0300" stop="20260518052547 -0300" channel="htofilmes">
+    <title lang="pt">O Último Mestre do Ar</title>
+    <desc lang="pt">As quatro nações, Ar, Água, Terra e Fogo, viviam em harmonia, até que a nação do Fogo declarou guerra com o objetivo de dominar o mundo. Um século depois, não há perspectiva para o fim da destruição, até que um avatar chamado Aang descobre ter o poder de controlar os quatro elementos. Ele se une aos irmãos Katara e Sokka, da Água, e juntos partem em uma grande e perigosa aventura em busca da paz, para restaurar o equilíbrio e a harmonia.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/sQGFIDDScR6tX3KXotHaQywewYU.jpg"/>
     <date>2010</date>
   </programme>
-  <programme start="20260518084411 -0300" stop="20260518102458 -0300" channel="htofilmes">
-    <title lang="pt">B13-U 13º Distrito - Ultimato</title>
-    <desc lang="pt">Paris, 2016. O governo continua mantendo criminosos de várias etnias e crenças num bairro cercado por muros, o B13. Contudo, um plano radical está em curso para exterminar todos em prol de um programa de reconstrução do bairro. O capitão Damien Tomaso e seu parceiro Leïto se envolvem numa trama de conspiração e união entre inimigos, em busca de uma solução para o problema.</desc>
+  <programme start="20260518052547 -0300" stop="20260518064855 -0300" channel="htofilmes">
+    <title lang="pt">O Natal Encantado</title>
+    <desc lang="pt">Bebê Urso foge na manhã de Natal para encontrar o presente perfeito para seus pais, e leva com ele Benny, o castor. No caminho cruzam com uma bruxa malvada que transforma Bebê urso em humano. A aventura se completa quando Goldie, uma humana que fugiu de casa para saber como é o natal, pois seu pai, um caçador, não comemora o natal desde que a mãe natureza, jogou um feitiço na sua mãe.</desc>
+    <category lang="pt">Família</category>
+    <icon src="https://image.tmdb.org/t/p/w500/t7RWYLh5vuHY6zIf794gyjrRQG3.jpg"/>
+    <date>2019</date>
+  </programme>
+  <programme start="20260518064855 -0300" stop="20260518081704 -0300" channel="htofilmes">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke é um dog alemão adolescente de 90 quilos muito bagunceiro, que mora com a família Winslow. Quando os Winslows mudam-se para Califórnia, Marmaduke apaixona-se pela linda afegã Jezebel e terá de passar por vários desafios para aprender que o caráter e a beleza interior são as verdadeiras provas de um ‘TOP DOG”.</desc>
+    <category lang="pt">Família</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260518081704 -0300" stop="20260518093918 -0300" channel="htofilmes">
+    <title lang="pt">Johnny: Todos Tem Uma Missão Especial</title>
+    <desc lang="pt">Quando Dr. Drew Carter tragicamente perde seu filho de dez anos em um acidente de carro, ele não esperava perder toda a sua família também. Desde o acidente, sua esposa (Julia) se tornou emocionalmente ausente em relação a ele e a sua filha. Quando Johnny, um filho adotivo terminal com leucemia, é encaminhado para Drew, ele vê a chance de curar sua família. Com Julia contra a ideia, Drew toma as coisas em suas próprias mãos e adota Johnny. Johnny não sabe o que ele é, mas acredita que ele está aqui para uma missão especial.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/wSIXdHiGlQPdE1X8K25c1g73qOI.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260518093918 -0300" stop="20260518112524 -0300" channel="htofilmes">
+    <title lang="pt">Grandes Olhos</title>
+    <desc lang="pt">Este drama apresenta a história da pintora Margaret Keane, uma das artistas comerciais mais rentáveis dos anos 1950, graças aos seus retratos de crianças com olhos grandes e assustadores. Esta mulher, defensora das causas feministas, teve que lutar contra o próprio marido no tribunal, já que o também pintor Walter Keane afirmava ser o verdadeiro autor de suas obras.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dSl4R3xZs2fV1LJLlqdBEoabQOV.jpg"/>
+    <date>2014</date>
+  </programme>
+  <programme start="20260518112524 -0300" stop="20260518132231 -0300" channel="htofilmes">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
     <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/upp2UFZAi7lLh3nUW67cfsvLTFR.jpg"/>
-    <date>2009</date>
+    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
+    <date>2010</date>
   </programme>
-  <programme start="20260518102458 -0300" stop="20260518125149 -0300" channel="htofilmes">
-    <title lang="pt">Os Bad Boys II</title>
-    <desc lang="pt">Os detetives da Narcóticos Marcus Burnett e Mike Lowrey foram designados para investigar a proliferação do ecstasy na cidade de Miami. As investigações os levam a um alvo maior, Johnny Tapia, um traficante cuja ambição de tomar conta do tráfico na cidade inicia uma verdadeira guerra entre quadrilhas. Em meio a esta situação, Lowrey passa a se interessar por Syd, irmã de Burnett, o que põe a amizade deles à prova.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/43uHXNlX3Ip7HgLOvxMHOpCxYC0.jpg"/>
-    <date>2003</date>
-  </programme>
-  <programme start="20260518125149 -0300" stop="20260518145557 -0300" channel="htofilmes">
-    <title lang="pt">Bad Boys Para Sempre</title>
-    <desc lang="pt">Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</desc>
-    <category lang="pt">Thriller</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kxV3r4H1BRB3QFySbgFyrlOwwXg.jpg"/>
-    <date>2020</date>
-  </programme>
-  <programme start="20260518145557 -0300" stop="20260518170942 -0300" channel="htofilmes">
-    <title lang="pt">Bem-Vindo aos 40</title>
-    <desc lang="pt">Após anos de casamento, Pete e Debbie estão chegando em uma fase de decadência. Enquanto tentam equilibrar romance, carreiras profissionais, pais e filhos, com seu próprio e hilariante, eles também tem que imaginar como aproveitar o resto de suas vidas.</desc>
+  <programme start="20260518132231 -0300" stop="20260518145509 -0300" channel="htofilmes">
+    <title lang="pt">Eu, Deus e Bin Laden</title>
+    <desc lang="pt">Gary Faulkner é um ex-prisioneiro americano que não tira uma coisa da cabeça. Ele quer matar Osama Bin Laden. Para isso ele viaja nada menos que 11 vezes ao Paquistão, armado apenas com uma espada, na caça ao terrorista e quem sabe assim se tornar um herói.</desc>
     <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/j2Zt3IaAtRwHBIUrgArpXQzpOPP.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/tUSD5vubdimvBYQB7zhVa9EfBny.jpg"/>
+    <date>2016</date>
+  </programme>
+  <programme start="20260518145509 -0300" stop="20260518163534 -0300" channel="htofilmes">
+    <title lang="pt">Corrida Mortal 2</title>
+    <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260518163534 -0300" stop="20260518180441 -0300" channel="htofilmes">
+    <title lang="pt">Como Treinar o Seu Dragão</title>
+    <desc lang="pt">Soluço é um jovem viking que desafia a tradição, quando fica amigo de um dos mais mortais inimigos — um feroz dragão que ele chama de Banguela.</desc>
+    <category lang="pt">Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spZbO7Ss6U9W5zSHjtH6FvXvCF7.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260518180441 -0300" stop="20260518194207 -0300" channel="htofilmes">
+    <title lang="pt">Chat: A Sala Negra</title>
+    <desc lang="pt">William é um jovem de 17 anos que resolve criar um chat para adolescentes de sua idade. Lá, eles podem conversar sobre traumas, problemas e frustrações. Mas o que esses jovens não sabem é que William pode estar manipulando todos eles, e o resultado pode ser fatal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260518194207 -0300" stop="20260518213150 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg"/>
+    <date>2013</date>
+  </programme>
+  <programme start="20260518213150 -0300" stop="20260518232059 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Asian Hawk (Jackie Chan) parte em busca de doze artefatos mágicos desaparecidos desde o século XIX: doze cabeças de animais em bronze que representam os signos do horóscopo chinês. Auxiliado por um estudante chinês e uma bela francesa, ele não desistirá fácil de seu complicado objetivo, mesmo que para isto tenha que cruzar o mundo.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tobYv4VtrbTO6BQ8a1MU88ndUuT.jpg"/>
     <date>2012</date>
   </programme>
-  <programme start="20260518170942 -0300" stop="20260518183330 -0300" channel="htofilmes">
-    <title lang="pt">Borat: O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América</title>
-    <desc lang="pt">Um famoso repórter do Cazaquistão viaja aos Estados Unidos para fazer um documentário sobre os hábitos dos cidadãos norte-americanos, provocando situações absurdas por onde passa.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/5egR3ywkiXbaqvrZrkisiF9Llzh.jpg"/>
-    <date>2006</date>
-  </programme>
-  <programme start="20260518183330 -0300" stop="20260518202119 -0300" channel="htofilmes">
-    <title lang="pt">Brilho Eterno de uma Mente sem Lembranças</title>
-    <desc lang="pt">Joel se surpreende ao saber que seu amor verdadeiro, Clementine, o apagou completamente de sua memória. Ele decide fazer o mesmo, mas muda de ideia. Preso dentro da própria mente enquanto os especialistas se mantêm ocupados em seu apartamento, Joel precisa avisá-los para parar.</desc>
-    <category lang="pt">Ficção científica</category>
-    <icon src="https://image.tmdb.org/t/p/w500/zqbwK2ugTPauBQwzcNAM3PxVoww.jpg"/>
-    <date>2004</date>
-  </programme>
-  <programme start="20260518202119 -0300" stop="20260518221024 -0300" channel="htofilmes">
-    <title lang="pt">As Branquelas</title>
-    <desc lang="pt">O que acontece quando dois atrapalhados agentes do FBI se disfarçam de princesas mega-ricas para se infiltrarem na alta sociedade? O resultado é situações extremamente engraçadas e diversão total ao ver estes dois irmãos azarados transformando-se em duas senhoritas refinadas e com estilo!</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg"/>
-    <date>2004</date>
-  </programme>
-  <programme start="20260518221024 -0300" stop="20260519002128 -0300" channel="htofilmes">
-    <title lang="pt">As Duas Faces de um Crime</title>
-    <desc lang="pt">Em Chicago, um arcebispo (Stanley Anderson) assassinado com 78 facadas. O crime choca a opinião pública e tudo indica que o assassino um jovem de 19 anos (Edward Norton), que foi preso com as roupas cobertas de sangue da vítima. No entanto, um ex-promotor (Richard Gere) que se tornou um advogado bem-sucedido se propõe a defendê-lo, sem cobrar honorários, tendo um motivo para isto: adora ser coberto pela mídia, além de ter uma incrível necessidade de vencer.</desc>
-    <category lang="pt">Crime</category>
-    <icon src="https://image.tmdb.org/t/p/w500/4S48ddVZl2KygeNRIRLotyaTlJZ.jpg"/>
-    <date>1996</date>
+  <programme start="20260518232059 -0300" stop="20260519010754 -0300" channel="htofilmes">
+    <title lang="pt">O Último Mestre do Ar</title>
+    <desc lang="pt">As quatro nações, Ar, Água, Terra e Fogo, viviam em harmonia, até que a nação do Fogo declarou guerra com o objetivo de dominar o mundo. Um século depois, não há perspectiva para o fim da destruição, até que um avatar chamado Aang descobre ter o poder de controlar os quatro elementos. Ele se une aos irmãos Katara e Sokka, da Água, e juntos partem em uma grande e perigosa aventura em busca da paz, para restaurar o equilíbrio e a harmonia.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/sQGFIDDScR6tX3KXotHaQywewYU.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260519000000 -0300" stop="20260519020939 -0300" channel="htofilmes">
     <title lang="pt">Bruce Lee, Meu Irmão</title>
