@@ -1837,103 +1837,88 @@
     <icon src="https://image.tmdb.org/t/p/w500/sQGFIDDScR6tX3KXotHaQywewYU.jpg"/>
     <date>2010</date>
   </programme>
-  <programme start="20260519000000 -0300" stop="20260519020939 -0300" channel="htofilmes">
-    <title lang="pt">Bruce Lee, Meu Irmão</title>
-    <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260519020939 -0300" stop="20260519040838 -0300" channel="htofilmes">
-    <title lang="pt">Burlesque</title>
-    <desc lang="pt">Ali (Christina Aguilera) deixou sua pequena cidade natal em busca do sucesso em Los Angeles. Logo ao chegar ela conhece a boate Burlesque, especializada em shows musicais de belas mulheres, que sempre se apresentam usando playback. O local é gerenciado por Tess (Cher), que nega uma chance a Ali. Ela insiste e consegue ser contratada como garçonete, graças à ajuda do balconista Jack (Cam Gigandet). Ali passa a acompanhar todos os shows, decorando as canções e coreografias. Quando Tess e seu braço-direito Sean (Stanley Tucci) realizam uma audição em busca de novas bailarinas, Ali aproveita a chance para mostrar do que é capaz.</desc>
+  <programme start="20260519000000 -0300" stop="20260519020921 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Quatro policiais questionam sua fé e seu papel como pais e maridos após uma tragédia que acontece próximo a casa deles. Juntos, eles tomam uma decisão que muda suas vidas.</desc>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/oCTvLdp6YDmKl525uk6qlJUiViS.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg"/>
+    <date>2011</date>
+  </programme>
+  <programme start="20260519020921 -0300" stop="20260519040527 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
+    <date>1985</date>
+  </programme>
+  <programme start="20260519040527 -0300" stop="20260519054927 -0300" channel="htofilmes">
+    <title lang="pt">Guerreiros do Amanhã</title>
+    <desc lang="pt">A jornada de oito amigos numa remota cidade do interior, cujas vidas são súbita e violentamente abaladas por uma inesperada guerra. Separados dos amigos e familiares, estes oito extraordinários adolescentes têm de aprender a escapar, sobreviver e lutar contra uma força militar hostil.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/by1Euf1ry1psyip7Y4w05PM0jZA.jpg"/>
     <date>2010</date>
   </programme>
-  <programme start="20260519040838 -0300" stop="20260519055103 -0300" channel="htofilmes">
-    <title lang="pt">Cão de Briga</title>
-    <desc lang="pt">Desde que Bart tirou Danny da rua, com a idade de 4 anos, sempre o tratou como um cão, treinando-o literalmente para o ataque. Danny é hoje sua grande arma, capaz de se atirar sobre qualquer um com uma simples ordem. Mas as coisas mudam quando ele conhece Sam, um cego que ganha a vida como afinador de pianos. Sam faz Danny descobrir um lado humano que até então lhe era desconhecido.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/l0yMxpDDqs1WdDfMrG3ZZK34UTi.jpg"/>
-    <date>2005</date>
-  </programme>
-  <programme start="20260519055103 -0300" stop="20260519072127 -0300" channel="htofilmes">
-    <title lang="pt">Caçada ao Presidente</title>
-    <desc lang="pt">Após o avião em que estava ter sido abatido por terroristas, o presidente dos Estados Unidos (Samuel L. Jackson) está ferido e perdido no meio de uma zona rural finlandesa. E sua vida agora está nas mãos de Oskari (Onni Tommila), um tímido jovem de treze anos de idade que embarcou em uma viagem para provar sua maturidade a si mesmo e sua família, passando 24 horas sozinho na selva, armado apenas com um arco e flecha. Essa improvável dupla terá que se unir para sobreviver aos criminosos que seguem atrás do presidente.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/67CBNSVu4HCr3gDijYDS8xPLmoO.jpg"/>
-    <date>2014</date>
-  </programme>
-  <programme start="20260519072127 -0300" stop="20260519090440 -0300" channel="htofilmes">
-    <title lang="pt">Carga Explosiva 3</title>
-    <desc lang="pt">Frank Martin é obrigado a conduzir Valentina, a filha de Leonid Vasilev, o chefe da Agência de Proteção Ambiental da Ucrânia. Ela foi sequestrada por Jonas Johnson, contratado por uma empresa de gerenciamento internacional de resíduos que deseja operar na Ucrânia. Para ter Frank e Valentina sob controle, Jonas prende em seus pulsos um dispositivo que determina que não possam se afastar muito do carro que os conduz, caso contrário o bracelete explode. Contando com a ajuda do inspetor Tarconi, Frank busca um meio de deixar a armadilha.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/t6ayrfuhmKl6VUOByP7RJL047X1.jpg"/>
-    <date>2008</date>
-  </programme>
-  <programme start="20260519090440 -0300" stop="20260519105001 -0300" channel="htofilmes">
-    <title lang="pt">Cartas para Julieta</title>
-    <desc lang="pt">Em visita à cidade italiana de Verona com seu noivo ocupado, uma jovem chamada Sophie visita um muro onde os desiludidos deixam cartas para a trágica heroína de Shakespeare, Julieta Capuleto. Ao encontrar uma dessas cartas, de 1957, a jovem decide escrever à autora, Claire. Inspirada pela atitude de Sophie, Claire decide procurar por seu antigo amor.</desc>
+  <programme start="20260519054927 -0300" stop="20260519072205 -0300" channel="htofilmes">
+    <title lang="pt">Eu, Deus e Bin Laden</title>
+    <desc lang="pt">Gary Faulkner é um ex-prisioneiro americano que não tira uma coisa da cabeça. Ele quer matar Osama Bin Laden. Para isso ele viaja nada menos que 11 vezes ao Paquistão, armado apenas com uma espada, na caça ao terrorista e quem sabe assim se tornar um herói.</desc>
     <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/xcrkatLWdrI0662uKo7LTyLEY38.jpg"/>
-    <date>2010</date>
+    <icon src="https://image.tmdb.org/t/p/w500/tUSD5vubdimvBYQB7zhVa9EfBny.jpg"/>
+    <date>2016</date>
   </programme>
-  <programme start="20260519105001 -0300" stop="20260519122727 -0300" channel="htofilmes">
-    <title lang="pt">Chat: A Sala Negra</title>
-    <desc lang="pt">William é um jovem de 17 anos que resolve criar um chat para adolescentes de sua idade. Lá, eles podem conversar sobre traumas, problemas e frustrações. Mas o que esses jovens não sabem é que William pode estar manipulando todos eles, e o resultado pode ser fatal.</desc>
+  <programme start="20260519072205 -0300" stop="20260519094044 -0300" channel="htofilmes">
+    <title lang="pt">Ilha do Medo</title>
+    <desc lang="pt">No verão de 1954, os agentes judiciais Teddy Daniels (DiCaprio) e Chuck Aule (Ruffalo) foram designados para uma ilha remota do porto de Boston para investigar o desaparecimento de uma perigosa assassina (Mortimer) que estava reclusa no hospital psiquiátrico Ashecliffe, um centro penitenciário para criminosos perturbados dirigido pelo sinistro médico John Cawley. (Kingsley). Logo eles descobrem que o centro guarda muitos segredos e que a ilha esconde algo mais perigoso que os pacientes.</desc>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg"/>
     <date>2010</date>
   </programme>
-  <programme start="20260519122727 -0300" stop="20260519135634 -0300" channel="htofilmes">
-    <title lang="pt">Como Treinar o Seu Dragão</title>
-    <desc lang="pt">Soluço é um jovem viking que desafia a tradição, quando fica amigo de um dos mais mortais inimigos — um feroz dragão que ele chama de Banguela.</desc>
-    <category lang="pt">Fantasia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/spZbO7Ss6U9W5zSHjtH6FvXvCF7.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260519135634 -0300" stop="20260519153708 -0300" channel="htofilmes">
-    <title lang="pt">Companhia de Heróis</title>
-    <desc lang="pt">Ambientado na segunda guerra mundial o filme retrata a busca incessante dos soldados americanos por cientistas, oficiais do exército alemão, que estariam desenvolvendo bombas com alto poder de destruição.</desc>
+  <programme start="20260519094044 -0300" stop="20260519120045 -0300" channel="htofilmes">
+    <title lang="pt">Karate Kid</title>
+    <desc lang="pt">Dre Parker se mudou com a mãe para Pequim, devido ao trabalho dela. Logo ao chegar, ele se interessa por Meiying, uma garota que conhece praticando violino em uma praça. A aproximação deles provoca a irritação de Cheng, que lhe dá uma surra usando a técnica do kung fu. A partir de então a vida de Dre se torna um inferno, já que passa a ser perseguido na escola por Cheng e seus colegas. Um dia, ao escapar deles, Dre é auxiliado pelo Sr. Han, o zelador de seu prédio, que é também um mestre de kung fu.</desc>
     <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/5Y99mqIU4t9u5DhmLE2epET4P6L.jpg"/>
-    <date>2013</date>
-  </programme>
-  <programme start="20260519153708 -0300" stop="20260519172244 -0300" channel="htofilmes">
-    <title lang="pt">Confiar</title>
-    <desc lang="pt">Will (Clive Owen) e Lynn (Catherine Keener) têm três filhos. Enquanto um está prestes a entrar para a faculdade, a filha do meio, Annie (Liana Liberato), começa a apresentar os sintomas comuns das adolescentes que querem se parecer mais velhas e ser aceitas entre seus pares. Publicitário bem sucedido e super envolvido com a profissão, Will procura ter uma relação de confiança com os filhos, mas Annie inicia um relacionamento no computador com um jovem de 16 anos e dá continuidade através do telefone. Sem que seus pais soubessem, ela aceita o convite dele para um encontro, mas a surpresa que ela tem no primeiro momento é só o começo de um pesadelo que marcará para sempre a sua vida e a de sua família.</desc>
-    <category lang="pt">Crime</category>
-    <icon src="https://image.tmdb.org/t/p/w500/bvRhYBZ1owaHgq93ymYMK40gDS0.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/uC57SSZAkkLBCuWVsEfbqYkRda5.jpg"/>
     <date>2010</date>
   </programme>
-  <programme start="20260519172244 -0300" stop="20260519185124 -0300" channel="htofilmes">
-    <title lang="pt">Conta Comigo</title>
-    <desc lang="pt">Em uma pequena cidade do Oregon, quatro amigos - o sensível Gordie, o durão Chris, o destemido Teddy e o acovardado Vern - resolvem sair à procura do cadáver de um adolescente desaparecido, que foi atropelado por um trem. O objetivo dos garotos é o de ser vistos como heróis diante dos amigos e dos moradores da cidade. Assim, eles partem numa inesquecível viagem de dois dias que se transforma em uma odisseia de autodescoberta e que evolui para um evento marcante em suas vidas.</desc>
-    <category lang="pt">Crime</category>
-    <icon src="https://image.tmdb.org/t/p/w500/w77Y4Bdgfi2emYaAkKIDcH0jfjP.jpg"/>
-    <date>1986</date>
+  <programme start="20260519120045 -0300" stop="20260519133534 -0300" channel="htofilmes">
+    <title lang="pt">Meu malvado favorito</title>
+    <desc lang="pt">Meu malvado favorito</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260519185124 -0300" stop="20260519210103 -0300" channel="htofilmes">
-    <title lang="pt">Bruce Lee, Meu Irmão</title>
-    <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
-    <date>2010</date>
+  <programme start="20260519133534 -0300" stop="20260519150122 -0300" channel="htofilmes">
+    <title lang="pt">O Feitiço Do Mal</title>
+    <desc lang="pt">O Feitiço Do Mal</desc>
+    <category lang="pt">Program</category>
   </programme>
-  <programme start="20260519210103 -0300" stop="20260519230002 -0300" channel="htofilmes">
-    <title lang="pt">Burlesque</title>
-    <desc lang="pt">Ali (Christina Aguilera) deixou sua pequena cidade natal em busca do sucesso em Los Angeles. Logo ao chegar ela conhece a boate Burlesque, especializada em shows musicais de belas mulheres, que sempre se apresentam usando playback. O local é gerenciado por Tess (Cher), que nega uma chance a Ali. Ela insiste e consegue ser contratada como garçonete, graças à ajuda do balconista Jack (Cam Gigandet). Ali passa a acompanhar todos os shows, decorando as canções e coreografias. Quando Tess e seu braço-direito Sean (Stanley Tucci) realizam uma audição em busca de novas bailarinas, Ali aproveita a chance para mostrar do que é capaz.</desc>
+  <programme start="20260519150122 -0300" stop="20260519164855 -0300" channel="htofilmes">
+    <title lang="pt">Os outros Caras</title>
+    <desc lang="pt">Os outros Caras</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260519164855 -0300" stop="20260519181118 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Brincando com o terror, o professor Oldman e Dwight seu assistente, preparam um final de semana hilariante e super especial. Um experiência sobre exorcismo, onde Cindy e "aquele" grupo de jovens malucos e assustados deverão ficar sem dormir. A incrível arapuca terá lugar na "Casa do Inferno", um casarão mal-assombrado afastado da cidade, e onde não falta nem o repulsivo mordono sempre presente nas melhores histórias de terror. Como alvos desta comédia escrachada, encontramos "O Exorcista", "Poltergeist", "A Casa da Colina", "Revelação" e até mesmo "As Panteras" e "Missão Impossível 2". Agora muito mais engraçado. Imperdível!</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/549UoU38uoikbqgXG09rkkfIEWf.jpg"/>
+    <date>2001</date>
+  </programme>
+  <programme start="20260519181118 -0300" stop="20260519200230 -0300" channel="htofilmes">
+    <title lang="pt">RED - Aposentados e Perigosos</title>
+    <desc lang="pt">RED - Aposentados e Perigosos</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260519200230 -0300" stop="20260519221151 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Quatro policiais questionam sua fé e seu papel como pais e maridos após uma tragédia que acontece próximo a casa deles. Juntos, eles tomam uma decisão que muda suas vidas.</desc>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/oCTvLdp6YDmKl525uk6qlJUiViS.jpg"/>
-    <date>2010</date>
+    <icon src="https://image.tmdb.org/t/p/w500/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg"/>
+    <date>2011</date>
   </programme>
-  <programme start="20260519230002 -0300" stop="20260520004227 -0300" channel="htofilmes">
-    <title lang="pt">Cão de Briga</title>
-    <desc lang="pt">Desde que Bart tirou Danny da rua, com a idade de 4 anos, sempre o tratou como um cão, treinando-o literalmente para o ataque. Danny é hoje sua grande arma, capaz de se atirar sobre qualquer um com uma simples ordem. Mas as coisas mudam quando ele conhece Sam, um cego que ganha a vida como afinador de pianos. Sam faz Danny descobrir um lado humano que até então lhe era desconhecido.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/l0yMxpDDqs1WdDfMrG3ZZK34UTi.jpg"/>
-    <date>2005</date>
+  <programme start="20260519221151 -0300" stop="20260520000757 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
+    <date>1985</date>
   </programme>
   <programme start="20260520000000 -0300" stop="20260520021456 -0300" channel="htofilmes">
     <title lang="pt">Corações de Ferro</title>
