@@ -923,8 +923,9 @@
   </programme>
   <programme start="20260509051518 -0300" stop="20260509051603 -0300" channel="htofilmes">
     <title lang="pt">IntroCanais</title>
-    <desc lang="pt">IntroCanais</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Intro Canais Hto</desc>
+    <category lang="pt">Intro</category>
+    <date>2026</date>
   </programme>
   <programme start="20260509051603 -0300" stop="20260509071540 -0300" channel="htofilmes">
     <title lang="pt">Repo Men O Resgate de Órgãos</title>
@@ -2201,8 +2202,9 @@
   </programme>
   <programme start="20260523051518 -0300" stop="20260523051603 -0300" channel="htofilmes">
     <title lang="pt">IntroCanais</title>
-    <desc lang="pt">IntroCanais</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Intro Canais Hto</desc>
+    <category lang="pt">Intro</category>
+    <date>2026</date>
   </programme>
   <programme start="20260523051603 -0300" stop="20260523071540 -0300" channel="htofilmes">
     <title lang="pt">Repo Men O Resgate de Órgãos</title>
@@ -3476,8 +3478,9 @@
   </programme>
   <programme start="20260606051518 -0300" stop="20260606051603 -0300" channel="htofilmes">
     <title lang="pt">IntroCanais</title>
-    <desc lang="pt">IntroCanais</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Intro Canais Hto</desc>
+    <category lang="pt">Intro</category>
+    <date>2026</date>
   </programme>
   <programme start="20260606051603 -0300" stop="20260606071540 -0300" channel="htofilmes">
     <title lang="pt">Repo Men O Resgate de Órgãos</title>
