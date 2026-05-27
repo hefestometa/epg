@@ -4194,4 +4194,53 @@
     <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
     <date>1985</date>
   </programme>
+  <programme start="20260614000000 -0300" stop="20260614020408 -0300" channel="htofilmes">
+    <title lang="pt">Bad Boys Para Sempre</title>
+    <desc lang="pt">Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/kxV3r4H1BRB3QFySbgFyrlOwwXg.jpg"/>
+    <date>2020</date>
+  </programme>
+  <programme start="20260614020408 -0300" stop="20260614041753 -0300" channel="htofilmes">
+    <title lang="pt">Bem-Vindo aos 40</title>
+    <desc lang="pt">Após anos de casamento, Pete e Debbie estão chegando em uma fase de decadência. Enquanto tentam equilibrar romance, carreiras profissionais, pais e filhos, com seu próprio e hilariante, eles também tem que imaginar como aproveitar o resto de suas vidas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/j2Zt3IaAtRwHBIUrgArpXQzpOPP.jpg"/>
+    <date>2012</date>
+  </programme>
+  <programme start="20260614041753 -0300" stop="20260614061652 -0300" channel="htofilmes">
+    <title lang="pt">Burlesque</title>
+    <desc lang="pt">Ali (Christina Aguilera) deixou sua pequena cidade natal em busca do sucesso em Los Angeles. Logo ao chegar ela conhece a boate Burlesque, especializada em shows musicais de belas mulheres, que sempre se apresentam usando playback. O local é gerenciado por Tess (Cher), que nega uma chance a Ali. Ela insiste e consegue ser contratada como garçonete, graças à ajuda do balconista Jack (Cam Gigandet). Ali passa a acompanhar todos os shows, decorando as canções e coreografias. Quando Tess e seu braço-direito Sean (Stanley Tucci) realizam uma audição em busca de novas bailarinas, Ali aproveita a chance para mostrar do que é capaz.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oCTvLdp6YDmKl525uk6qlJUiViS.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260614061652 -0300" stop="20260614081258 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
+    <date>1985</date>
+  </programme>
+  <programme start="20260614081258 -0300" stop="20260614100904 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
+    <date>1985</date>
+  </programme>
+  <programme start="20260614100904 -0300" stop="20260614114432 -0300" channel="htofilmes">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260614114432 -0300" stop="20260614132000 -0300" channel="htofilmes">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
+  </programme>
 </tv>
