@@ -56484,4 +56484,792 @@
     <desc lang="pt">Garoto cosmico</desc>
     <category lang="pt">Program</category>
   </programme>
+  <programme start="20260623000000 -0300" stop="20260623014754 -0300" channel="htokids">
+    <title lang="pt">Sing - Quem Canta Seus Males Espanta</title>
+    <desc lang="pt">Um empolgado coala chamado Buster decide criar uma competição de canto para aumentar os rendimentos de seu antigo teatro. A disputa movimenta o mundo animal e promove a revelação de diversos talentos da cidade, todos de olho nos 15 minutos de fama e US$ 100 mil dólares de prêmio.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rkPf3AH4DPJC1T26T8CwAjBHHvc.jpg"/>
+    <date>2016</date>
+  </programme>
+  <programme start="20260623014754 -0300" stop="20260623032501 -0300" channel="htokids">
+    <title lang="pt">Uma Floresta Muito Louca</title>
+    <desc lang="pt">Acompanhe as aventuras de Maurice: ele pode parecer um pinguim, mas se sente um tigre! Após a morte de sua mãe, será sua responsabilidade manter a ordem e a justiça na selva, ainda mais agora que um malvado coala planeja destruir tudo.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7GpMbVpbBSCH7eDDRKUQDMtvYX4.jpg"/>
+    <date>2017</date>
+  </programme>
+  <programme start="20260623032501 -0300" stop="20260623050338 -0300" channel="htokids">
+    <title lang="pt">Os Croods</title>
+    <desc lang="pt">Um terremoto destrói a caverna de uma família pré-histórica, que vive novas experiências em terras desconhecidas em sua busca por um novo lar.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7k9w3RgKYoJ9MCwdBY0ZBxC323L.jpg"/>
+    <date>2013</date>
+  </programme>
+  <programme start="20260623050338 -0300" stop="20260623062933 -0300" channel="htokids">
+    <title lang="pt">O Segredo dos Animais</title>
+    <desc lang="pt">Otis (Kevin James) é um bezerro de bem com a vida, que vive em uma fazenda e adora dançar, cantar e se divertir pregando peças nos humanos. Ao contrário de seus pais, Ben (Sam Elliott) e Miles (Danny Glover), Otis não está preocupado em esconder dos humanos os talentos que os animais da fazenda possuem. Até ser colocado à prova, quando precisa demonstrar coragem e responsabilidade.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nG4eJPNA4M4odMPR9bso3RZUKOL.jpg"/>
+    <date>2006</date>
+  </programme>
+  <programme start="20260623062933 -0300" stop="20260623075537 -0300" channel="htokids">
+    <title lang="pt">Pets: A Vida Secreta dos Bichos 2</title>
+    <desc lang="pt">Max se vê enganado por Katie no primeiro trailer da animação e acaba dentro de uma clínica veterinária onde os pets não parecem nada normais. Nesta sequência, o protagonista ainda terá que se acostumar com um recém-chegado à família.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lLfEOjuzNK7c8c0PpQL3UDZRde0.jpg"/>
+    <date>2019</date>
+  </programme>
+  <programme start="20260623075537 -0300" stop="20260623090037 -0300" channel="htokids">
+    <title lang="pt">Kick Buttowski</title>
+    <desc lang="pt">Kick Buttowski</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623090037 -0300" stop="20260623092420 -0300" channel="htokids">
+    <title lang="pt">[S0.E04] O Show do Garfield - O gapto Agente X</title>
+    <desc lang="pt">[S0.E04] O Show do Garfield - O gapto Agente X</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623092420 -0300" stop="20260623094813 -0300" channel="htokids">
+    <title lang="pt">[S0.E05] O Show do Garfield - Jogo de gato e rato A pizza perfeita</title>
+    <desc lang="pt">[S0.E05] O Show do Garfield - Jogo de gato e rato A pizza perfeita</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623094813 -0300" stop="20260623101148 -0300" channel="htokids">
+    <title lang="pt">[S0.E06] O Show do Garfield - Nermal, o rei À procura de Pookie</title>
+    <desc lang="pt">[S0.E06] O Show do Garfield - Nermal, o rei À procura de Pookie</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623101148 -0300" stop="20260623103331 -0300" channel="htokids">
+    <title lang="pt">[S01.E26] Os Jovens Titãs em Ação - Mágica de verdade O mago dos fantoches</title>
+    <desc lang="pt">[S01.E26] Os Jovens Titãs em Ação - Mágica de verdade O mago dos fantoches</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623103331 -0300" stop="20260623105500 -0300" channel="htokids">
+    <title lang="pt">[S02.E02] Os Jovens Titãs em Ação - Piratas De olho em você</title>
+    <desc lang="pt">[S02.E02] Os Jovens Titãs em Ação - Piratas De olho em você</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623105500 -0300" stop="20260623111850 -0300" channel="htokids">
+    <title lang="pt">02</title>
+    <desc lang="pt">02</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623111850 -0300" stop="20260623114240 -0300" channel="htokids">
+    <title lang="pt">03</title>
+    <desc lang="pt">03</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623114240 -0300" stop="20260623120630 -0300" channel="htokids">
+    <title lang="pt">04</title>
+    <desc lang="pt">04</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623120630 -0300" stop="20260623123057 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623123057 -0300" stop="20260623125524 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 17</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 17</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623125524 -0300" stop="20260623144318 -0300" channel="htokids">
+    <title lang="pt">Sing - Quem Canta Seus Males Espanta</title>
+    <desc lang="pt">Um empolgado coala chamado Buster decide criar uma competição de canto para aumentar os rendimentos de seu antigo teatro. A disputa movimenta o mundo animal e promove a revelação de diversos talentos da cidade, todos de olho nos 15 minutos de fama e US$ 100 mil dólares de prêmio.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rkPf3AH4DPJC1T26T8CwAjBHHvc.jpg"/>
+    <date>2016</date>
+  </programme>
+  <programme start="20260623144318 -0300" stop="20260623162025 -0300" channel="htokids">
+    <title lang="pt">Uma Floresta Muito Louca</title>
+    <desc lang="pt">Acompanhe as aventuras de Maurice: ele pode parecer um pinguim, mas se sente um tigre! Após a morte de sua mãe, será sua responsabilidade manter a ordem e a justiça na selva, ainda mais agora que um malvado coala planeja destruir tudo.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7GpMbVpbBSCH7eDDRKUQDMtvYX4.jpg"/>
+    <date>2017</date>
+  </programme>
+  <programme start="20260623162025 -0300" stop="20260623175902 -0300" channel="htokids">
+    <title lang="pt">Os Croods</title>
+    <desc lang="pt">Um terremoto destrói a caverna de uma família pré-histórica, que vive novas experiências em terras desconhecidas em sua busca por um novo lar.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7k9w3RgKYoJ9MCwdBY0ZBxC323L.jpg"/>
+    <date>2013</date>
+  </programme>
+  <programme start="20260623175902 -0300" stop="20260623192457 -0300" channel="htokids">
+    <title lang="pt">O Segredo dos Animais</title>
+    <desc lang="pt">Otis (Kevin James) é um bezerro de bem com a vida, que vive em uma fazenda e adora dançar, cantar e se divertir pregando peças nos humanos. Ao contrário de seus pais, Ben (Sam Elliott) e Miles (Danny Glover), Otis não está preocupado em esconder dos humanos os talentos que os animais da fazenda possuem. Até ser colocado à prova, quando precisa demonstrar coragem e responsabilidade.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nG4eJPNA4M4odMPR9bso3RZUKOL.jpg"/>
+    <date>2006</date>
+  </programme>
+  <programme start="20260623192457 -0300" stop="20260623205101 -0300" channel="htokids">
+    <title lang="pt">Pets: A Vida Secreta dos Bichos 2</title>
+    <desc lang="pt">Max se vê enganado por Katie no primeiro trailer da animação e acaba dentro de uma clínica veterinária onde os pets não parecem nada normais. Nesta sequência, o protagonista ainda terá que se acostumar com um recém-chegado à família.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lLfEOjuzNK7c8c0PpQL3UDZRde0.jpg"/>
+    <date>2019</date>
+  </programme>
+  <programme start="20260623205101 -0300" stop="20260623215601 -0300" channel="htokids">
+    <title lang="pt">Kick Buttowski</title>
+    <desc lang="pt">Kick Buttowski</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623215601 -0300" stop="20260623221944 -0300" channel="htokids">
+    <title lang="pt">[S0.E04] O Show do Garfield - O gapto Agente X</title>
+    <desc lang="pt">[S0.E04] O Show do Garfield - O gapto Agente X</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623221944 -0300" stop="20260623224337 -0300" channel="htokids">
+    <title lang="pt">[S0.E05] O Show do Garfield - Jogo de gato e rato A pizza perfeita</title>
+    <desc lang="pt">[S0.E05] O Show do Garfield - Jogo de gato e rato A pizza perfeita</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623224337 -0300" stop="20260623230712 -0300" channel="htokids">
+    <title lang="pt">[S0.E06] O Show do Garfield - Nermal, o rei À procura de Pookie</title>
+    <desc lang="pt">[S0.E06] O Show do Garfield - Nermal, o rei À procura de Pookie</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623230712 -0300" stop="20260623232855 -0300" channel="htokids">
+    <title lang="pt">[S01.E26] Os Jovens Titãs em Ação - Mágica de verdade O mago dos fantoches</title>
+    <desc lang="pt">[S01.E26] Os Jovens Titãs em Ação - Mágica de verdade O mago dos fantoches</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260623232855 -0300" stop="20260623235024 -0300" channel="htokids">
+    <title lang="pt">[S02.E02] Os Jovens Titãs em Ação - Piratas De olho em você</title>
+    <desc lang="pt">[S02.E02] Os Jovens Titãs em Ação - Piratas De olho em você</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624000000 -0300" stop="20260624012131 -0300" channel="htokids">
+    <title lang="pt">Planeta Hulk</title>
+    <desc lang="pt">Ele era um monstro, impossível de controlar, demasiado perigoso para ser ignorado. Assim, os heróis mais poderosos da Terra o exilaram no espaço. Mas agora O Incrível Hulk está em Sakaar, um planeta distante, governado pelo tirano Rei Vermelho. Vendido como escravo, Hulk se torna o mais poderoso gladiador do planeta, mas seus novos donos recebem mais do que esperava quando ele forja um vínculo de fraternidade com outros lutadores. Ao contrário da Terra, as pessoas desesperadas de Sakaar acreditam que Hulk é tudo o que eles precisam.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rfJBYlVRAAxFCcbDX1thYhwwoK4.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260624012131 -0300" stop="20260624025025 -0300" channel="htokids">
+    <title lang="pt">O Golfinho - A História de Um Sonhador</title>
+    <desc lang="pt">O Golfinho - A História de Um Sonhador</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/okbH63UnhVHD1FJZDrTCvvAA8.jpg"/>
+    <date>2009</date>
+  </programme>
+  <programme start="20260624025025 -0300" stop="20260624040650 -0300" channel="htokids">
+    <title lang="pt">O Bicho Vai Pegar 2</title>
+    <desc lang="pt">Animais se juntam para salvar o Sr. Weenie, sequestrado por um grupo de bichos domesticados que quer devolvê-lo aos antigos donos.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/itTdFkQd8WdGirR2ooNgWgJPqkS.jpg"/>
+    <date>2008</date>
+  </programme>
+  <programme start="20260624040650 -0300" stop="20260624053459 -0300" channel="htokids">
+    <title lang="pt">Inferno de dante uma animacao epica 2</title>
+    <desc lang="pt">Inferno de dante uma animacao epica 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624053459 -0300" stop="20260624065018 -0300" channel="htokids">
+    <title lang="pt">Garoto cosmico</title>
+    <desc lang="pt">Garoto cosmico</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624065018 -0300" stop="20260624071458 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 20</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 20</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624071458 -0300" stop="20260624073926 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 18</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 18</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624073926 -0300" stop="20260624091125 -0300" channel="htokids">
+    <title lang="pt">A Lenda de Oz</title>
+    <desc lang="pt">Na história, Dorothy volta para casa e descobre que o Kansas foi devastado pelo tornado que a arrastou para Oz. Antes que consiga aceitar a situação, ela é levada de volta para Oz, que está em perigo. Seus amigos Espantalho, Homem de Lata e Leão Covarde desapareceram e todo o lugar está em estado de decadência. Na jornada para salvar seus amigos, Dorothy encontra novos personagens, como um homem de marshmallow que não consegue pensar por si mesmo, uma boneca chinesa que esconde sua fragilidade sendo mandona e um caminhão rebocador de múltiplas personalidades, e um novo vilão, um Bobo da Corte que quer tomar o controle de Oz.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/u5lqfdWj4vR82lDn2BJdT8b2hyf.jpg"/>
+    <date>2014</date>
+  </programme>
+  <programme start="20260624091125 -0300" stop="20260624093515 -0300" channel="htokids">
+    <title lang="pt">01</title>
+    <desc lang="pt">01</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624093515 -0300" stop="20260624095905 -0300" channel="htokids">
+    <title lang="pt">02</title>
+    <desc lang="pt">02</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624095905 -0300" stop="20260624102255 -0300" channel="htokids">
+    <title lang="pt">03</title>
+    <desc lang="pt">03</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624102255 -0300" stop="20260624104650 -0300" channel="htokids">
+    <title lang="pt">[S0.E23] O Show do Garfield - Seja gentil com o Nermal Em cima da árvore</title>
+    <desc lang="pt">[S0.E23] O Show do Garfield - Seja gentil com o Nermal Em cima da árvore</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624104650 -0300" stop="20260624111122 -0300" channel="htokids">
+    <title lang="pt">[S0.E24] O Show do Garfield - O ultrapoderoso Poder da mente</title>
+    <desc lang="pt">[S0.E24] O Show do Garfield - O ultrapoderoso Poder da mente</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624111122 -0300" stop="20260624113542 -0300" channel="htokids">
+    <title lang="pt">[S0.E26] O Show do Garfield - O homem de gelo T3000</title>
+    <desc lang="pt">[S0.E26] O Show do Garfield - O homem de gelo T3000</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624113542 -0300" stop="20260624125713 -0300" channel="htokids">
+    <title lang="pt">Planeta Hulk</title>
+    <desc lang="pt">Ele era um monstro, impossível de controlar, demasiado perigoso para ser ignorado. Assim, os heróis mais poderosos da Terra o exilaram no espaço. Mas agora O Incrível Hulk está em Sakaar, um planeta distante, governado pelo tirano Rei Vermelho. Vendido como escravo, Hulk se torna o mais poderoso gladiador do planeta, mas seus novos donos recebem mais do que esperava quando ele forja um vínculo de fraternidade com outros lutadores. Ao contrário da Terra, as pessoas desesperadas de Sakaar acreditam que Hulk é tudo o que eles precisam.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rfJBYlVRAAxFCcbDX1thYhwwoK4.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260624125713 -0300" stop="20260624142607 -0300" channel="htokids">
+    <title lang="pt">O Golfinho - A História de Um Sonhador</title>
+    <desc lang="pt">O Golfinho - A História de Um Sonhador</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/okbH63UnhVHD1FJZDrTCvvAA8.jpg"/>
+    <date>2009</date>
+  </programme>
+  <programme start="20260624142607 -0300" stop="20260624154232 -0300" channel="htokids">
+    <title lang="pt">O Bicho Vai Pegar 2</title>
+    <desc lang="pt">Animais se juntam para salvar o Sr. Weenie, sequestrado por um grupo de bichos domesticados que quer devolvê-lo aos antigos donos.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/itTdFkQd8WdGirR2ooNgWgJPqkS.jpg"/>
+    <date>2008</date>
+  </programme>
+  <programme start="20260624154232 -0300" stop="20260624171041 -0300" channel="htokids">
+    <title lang="pt">Inferno de dante uma animacao epica 2</title>
+    <desc lang="pt">Inferno de dante uma animacao epica 2</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624171041 -0300" stop="20260624182600 -0300" channel="htokids">
+    <title lang="pt">Garoto cosmico</title>
+    <desc lang="pt">Garoto cosmico</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624182600 -0300" stop="20260624185040 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 20</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 20</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624185040 -0300" stop="20260624191508 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 18</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 18</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624191508 -0300" stop="20260624204707 -0300" channel="htokids">
+    <title lang="pt">A Lenda de Oz</title>
+    <desc lang="pt">Na história, Dorothy volta para casa e descobre que o Kansas foi devastado pelo tornado que a arrastou para Oz. Antes que consiga aceitar a situação, ela é levada de volta para Oz, que está em perigo. Seus amigos Espantalho, Homem de Lata e Leão Covarde desapareceram e todo o lugar está em estado de decadência. Na jornada para salvar seus amigos, Dorothy encontra novos personagens, como um homem de marshmallow que não consegue pensar por si mesmo, uma boneca chinesa que esconde sua fragilidade sendo mandona e um caminhão rebocador de múltiplas personalidades, e um novo vilão, um Bobo da Corte que quer tomar o controle de Oz.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/u5lqfdWj4vR82lDn2BJdT8b2hyf.jpg"/>
+    <date>2014</date>
+  </programme>
+  <programme start="20260624204707 -0300" stop="20260624211057 -0300" channel="htokids">
+    <title lang="pt">01</title>
+    <desc lang="pt">01</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624211057 -0300" stop="20260624213447 -0300" channel="htokids">
+    <title lang="pt">02</title>
+    <desc lang="pt">02</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624213447 -0300" stop="20260624215837 -0300" channel="htokids">
+    <title lang="pt">03</title>
+    <desc lang="pt">03</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624215837 -0300" stop="20260624222232 -0300" channel="htokids">
+    <title lang="pt">[S0.E23] O Show do Garfield - Seja gentil com o Nermal Em cima da árvore</title>
+    <desc lang="pt">[S0.E23] O Show do Garfield - Seja gentil com o Nermal Em cima da árvore</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624222232 -0300" stop="20260624224704 -0300" channel="htokids">
+    <title lang="pt">[S0.E24] O Show do Garfield - O ultrapoderoso Poder da mente</title>
+    <desc lang="pt">[S0.E24] O Show do Garfield - O ultrapoderoso Poder da mente</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624224704 -0300" stop="20260624231124 -0300" channel="htokids">
+    <title lang="pt">[S0.E26] O Show do Garfield - O homem de gelo T3000</title>
+    <desc lang="pt">[S0.E26] O Show do Garfield - O homem de gelo T3000</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260624231124 -0300" stop="20260625003255 -0300" channel="htokids">
+    <title lang="pt">Planeta Hulk</title>
+    <desc lang="pt">Ele era um monstro, impossível de controlar, demasiado perigoso para ser ignorado. Assim, os heróis mais poderosos da Terra o exilaram no espaço. Mas agora O Incrível Hulk está em Sakaar, um planeta distante, governado pelo tirano Rei Vermelho. Vendido como escravo, Hulk se torna o mais poderoso gladiador do planeta, mas seus novos donos recebem mais do que esperava quando ele forja um vínculo de fraternidade com outros lutadores. Ao contrário da Terra, as pessoas desesperadas de Sakaar acreditam que Hulk é tudo o que eles precisam.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rfJBYlVRAAxFCcbDX1thYhwwoK4.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260625000000 -0300" stop="20260625012955 -0300" channel="htokids">
+    <title lang="pt">O Espanta Tubarões</title>
+    <desc lang="pt">Oscar é um pequeno peixe que tem sonhos grandes, que se torna um herói involuntário após pregar uma grande mentira. Após ser perseguido pelo filho do tubarão-chefe, Oscar presencia sua morte. Querendo bancar o herói, ele assume a autoria do assassinato e, com isso, se torna uma grande celebridade no mundo aquático. Porém a situação se complica quando ele é designado para repetir a façanha, eliminando outros tubarões.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1tPhFqGScPYbaLuczBnlFGjNUqj.jpg"/>
+    <date>2004</date>
+  </programme>
+  <programme start="20260625012955 -0300" stop="20260625030048 -0300" channel="htokids">
+    <title lang="pt">Minions</title>
+    <desc lang="pt">Seres amarelos milenares, os minions têm uma missão: servir os maiores vilões. Em depressão desde a morte de seu antigo mestre, eles tentam encontrar um novo chefe. Três voluntários, Kevin, Stuart e Bob, vão até uma convenção de vilões nos Estados Unidos e lá se encantam com Scarlet Overkill, que ambiciona ser a primeira mulher a dominar o mundo.</desc>
+    <category lang="pt">Família</category>
+    <icon src="https://image.tmdb.org/t/p/w500/caq9Xi6b1sZNREfzFBO2tRIBzWn.jpg"/>
+    <date>2015</date>
+  </programme>
+  <programme start="20260625030048 -0300" stop="20260625042834 -0300" channel="htokids">
+    <title lang="pt">Minions 2: A Origem de Gru</title>
+    <desc lang="pt">A continuação das aventuras dos Minions, sempre em busca de um líder tirânico. Dessa vez, eles ajudam um Gru ainda criança, descobrindo como ser vilão.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/iTP3mMw0AoqmScYzDoMmYeKxYe.jpg"/>
+    <date>2022</date>
+  </programme>
+  <programme start="20260625042834 -0300" stop="20260625061304 -0300" channel="htokids">
+    <title lang="pt">Lego Batman: O Filme</title>
+    <desc lang="pt">No spin-off de Uma Aventura Lego, Batman (Will Arnett) descobre que adotou acidentalmente um garoto órfão. Ele se torna ninguém menos que seu ajudante Robin (Michael Cera). A dupla formada pelo arrogante Homem-Morcego e o seu empolgado ajudante deve combater o crime e prender o Coringa (Zach Galifianakis).</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/jUZAAKHfHwZj8bEvghaY9MrGCRG.jpg"/>
+    <date>2017</date>
+  </programme>
+  <programme start="20260625061304 -0300" stop="20260625073316 -0300" channel="htokids">
+    <title lang="pt">Garfield: O Filme</title>
+    <desc lang="pt">O gato mais famoso do mundo, Garfield, passa seu tempo dormindo, comendo lasanha e aprontando travessuras, até que seu dono Jon se apaixona por uma linda veterinária chamada Liz. Ela convence Jon a adotar Odie, um filhote de cachorro adoravelmente tolinho, que imediatamente coloca a confortável vida de Garfield de pernas para o ar. Quando um malígno treinador de cães sequestra Odie, Garfield tem que se levantar do sofá e comandar a heróica operação de resgate.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/sFkRpWVC9PDop5IGvcHF1ZeGqIQ.jpg"/>
+    <date>2004</date>
+  </programme>
+  <programme start="20260625073316 -0300" stop="20260625092952 -0300" channel="htokids">
+    <title lang="pt">Carros</title>
+    <desc lang="pt">Ao viajar para a Califórnia, o famoso carro de corridas Relâmpago McQueen se perde e vai parar em Radiator Springs, uma cidadezinha na Rota 66. Ele conhece novos amigos e aprende lições que mudam sua forma de encarar a vida.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/A7nssMRIPauZhEVf2dzwsf4EALO.jpg"/>
+    <date>2006</date>
+  </programme>
+  <programme start="20260625092952 -0300" stop="20260625095441 -0300" channel="htokids">
+    <title lang="pt">[S0.E21] O Show do Garfield - O vizinho Nathan A história sobre os cães</title>
+    <desc lang="pt">[S0.E21] O Show do Garfield - O vizinho Nathan A história sobre os cães</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260625095441 -0300" stop="20260625101918 -0300" channel="htokids">
+    <title lang="pt">[S0.E20] O Show do Garfield - Cantoria natalina Saído do forno</title>
+    <desc lang="pt">[S0.E20] O Show do Garfield - Cantoria natalina Saído do forno</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260625101918 -0300" stop="20260625104356 -0300" channel="htokids">
+    <title lang="pt">[S0.E19] O Show do Garfield - Treinamento radical Herdeiro natural</title>
+    <desc lang="pt">[S0.E19] O Show do Garfield - Treinamento radical Herdeiro natural</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260625104356 -0300" stop="20260625110549 -0300" channel="htokids">
+    <title lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</title>
+    <desc lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260625110549 -0300" stop="20260625112719 -0300" channel="htokids">
+    <title lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</title>
+    <desc lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260625112719 -0300" stop="20260625114853 -0300" channel="htokids">
+    <title lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</title>
+    <desc lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260625114853 -0300" stop="20260625131848 -0300" channel="htokids">
+    <title lang="pt">O Espanta Tubarões</title>
+    <desc lang="pt">Oscar é um pequeno peixe que tem sonhos grandes, que se torna um herói involuntário após pregar uma grande mentira. Após ser perseguido pelo filho do tubarão-chefe, Oscar presencia sua morte. Querendo bancar o herói, ele assume a autoria do assassinato e, com isso, se torna uma grande celebridade no mundo aquático. Porém a situação se complica quando ele é designado para repetir a façanha, eliminando outros tubarões.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1tPhFqGScPYbaLuczBnlFGjNUqj.jpg"/>
+    <date>2004</date>
+  </programme>
+  <programme start="20260625131848 -0300" stop="20260625144941 -0300" channel="htokids">
+    <title lang="pt">Minions</title>
+    <desc lang="pt">Seres amarelos milenares, os minions têm uma missão: servir os maiores vilões. Em depressão desde a morte de seu antigo mestre, eles tentam encontrar um novo chefe. Três voluntários, Kevin, Stuart e Bob, vão até uma convenção de vilões nos Estados Unidos e lá se encantam com Scarlet Overkill, que ambiciona ser a primeira mulher a dominar o mundo.</desc>
+    <category lang="pt">Família</category>
+    <icon src="https://image.tmdb.org/t/p/w500/caq9Xi6b1sZNREfzFBO2tRIBzWn.jpg"/>
+    <date>2015</date>
+  </programme>
+  <programme start="20260625144941 -0300" stop="20260625161727 -0300" channel="htokids">
+    <title lang="pt">Minions 2: A Origem de Gru</title>
+    <desc lang="pt">A continuação das aventuras dos Minions, sempre em busca de um líder tirânico. Dessa vez, eles ajudam um Gru ainda criança, descobrindo como ser vilão.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/iTP3mMw0AoqmScYzDoMmYeKxYe.jpg"/>
+    <date>2022</date>
+  </programme>
+  <programme start="20260625161727 -0300" stop="20260625180157 -0300" channel="htokids">
+    <title lang="pt">Lego Batman: O Filme</title>
+    <desc lang="pt">No spin-off de Uma Aventura Lego, Batman (Will Arnett) descobre que adotou acidentalmente um garoto órfão. Ele se torna ninguém menos que seu ajudante Robin (Michael Cera). A dupla formada pelo arrogante Homem-Morcego e o seu empolgado ajudante deve combater o crime e prender o Coringa (Zach Galifianakis).</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/jUZAAKHfHwZj8bEvghaY9MrGCRG.jpg"/>
+    <date>2017</date>
+  </programme>
+  <programme start="20260625180157 -0300" stop="20260625192209 -0300" channel="htokids">
+    <title lang="pt">Garfield: O Filme</title>
+    <desc lang="pt">O gato mais famoso do mundo, Garfield, passa seu tempo dormindo, comendo lasanha e aprontando travessuras, até que seu dono Jon se apaixona por uma linda veterinária chamada Liz. Ela convence Jon a adotar Odie, um filhote de cachorro adoravelmente tolinho, que imediatamente coloca a confortável vida de Garfield de pernas para o ar. Quando um malígno treinador de cães sequestra Odie, Garfield tem que se levantar do sofá e comandar a heróica operação de resgate.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/sFkRpWVC9PDop5IGvcHF1ZeGqIQ.jpg"/>
+    <date>2004</date>
+  </programme>
+  <programme start="20260625192209 -0300" stop="20260625211845 -0300" channel="htokids">
+    <title lang="pt">Carros</title>
+    <desc lang="pt">Ao viajar para a Califórnia, o famoso carro de corridas Relâmpago McQueen se perde e vai parar em Radiator Springs, uma cidadezinha na Rota 66. Ele conhece novos amigos e aprende lições que mudam sua forma de encarar a vida.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/A7nssMRIPauZhEVf2dzwsf4EALO.jpg"/>
+    <date>2006</date>
+  </programme>
+  <programme start="20260625211845 -0300" stop="20260625214334 -0300" channel="htokids">
+    <title lang="pt">[S0.E21] O Show do Garfield - O vizinho Nathan A história sobre os cães</title>
+    <desc lang="pt">[S0.E21] O Show do Garfield - O vizinho Nathan A história sobre os cães</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260625214334 -0300" stop="20260625220811 -0300" channel="htokids">
+    <title lang="pt">[S0.E20] O Show do Garfield - Cantoria natalina Saído do forno</title>
+    <desc lang="pt">[S0.E20] O Show do Garfield - Cantoria natalina Saído do forno</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260625220811 -0300" stop="20260625223249 -0300" channel="htokids">
+    <title lang="pt">[S0.E19] O Show do Garfield - Treinamento radical Herdeiro natural</title>
+    <desc lang="pt">[S0.E19] O Show do Garfield - Treinamento radical Herdeiro natural</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260625223249 -0300" stop="20260625225442 -0300" channel="htokids">
+    <title lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</title>
+    <desc lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260625225442 -0300" stop="20260625231612 -0300" channel="htokids">
+    <title lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</title>
+    <desc lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260625231612 -0300" stop="20260625233746 -0300" channel="htokids">
+    <title lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</title>
+    <desc lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260625233746 -0300" stop="20260626010741 -0300" channel="htokids">
+    <title lang="pt">O Espanta Tubarões</title>
+    <desc lang="pt">Oscar é um pequeno peixe que tem sonhos grandes, que se torna um herói involuntário após pregar uma grande mentira. Após ser perseguido pelo filho do tubarão-chefe, Oscar presencia sua morte. Querendo bancar o herói, ele assume a autoria do assassinato e, com isso, se torna uma grande celebridade no mundo aquático. Porém a situação se complica quando ele é designado para repetir a façanha, eliminando outros tubarões.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1tPhFqGScPYbaLuczBnlFGjNUqj.jpg"/>
+    <date>2004</date>
+  </programme>
+  <programme start="20260626000000 -0300" stop="20260626012744 -0300" channel="htokids">
+    <title lang="pt">Dois Velhos Rabugentos</title>
+    <desc lang="pt">John (Jack Lemmon) e Max (Walter Matthau) são dois vizinhos que passaram a vida brigando por nada. O principal prazer que eles têm na vida é um provocar o outro e eles não medem esforços para isto. Até que uma bela e extrovertida viúva (Ann-Margret) se muda para perto de suas casas, despertando o amor dos dois e mais uma competição entre John e Max.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vYt1vDRv8qBDbdLGg9v8mLDhKWb.jpg"/>
+    <date>1993</date>
+  </programme>
+  <programme start="20260626012744 -0300" stop="20260626030451 -0300" channel="htokids">
+    <title lang="pt">Uma Floresta Muito Louca</title>
+    <desc lang="pt">Acompanhe as aventuras de Maurice: ele pode parecer um pinguim, mas se sente um tigre! Após a morte de sua mãe, será sua responsabilidade manter a ordem e a justiça na selva, ainda mais agora que um malvado coala planeja destruir tudo.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7GpMbVpbBSCH7eDDRKUQDMtvYX4.jpg"/>
+    <date>2017</date>
+  </programme>
+  <programme start="20260626030451 -0300" stop="20260626043358 -0300" channel="htokids">
+    <title lang="pt">A Bailarina</title>
+    <desc lang="pt">Felicie é uma menina órfã apaixonada pela dança. Ao lado do seu melhor amigo Victor, que deseja se tornar um grande inventor, eles desenvolvem um grande plano de fuga para conseguirem o que querem. Eles fogem do orfanato em que vivem para Paris, a Cidade Luz, onde a torre Eiffel ainda está sendo construída. Felicie terá que se superar e aprender com seus erros para tornar o seu grande sonho em realidade: ser uma grande bailarina da Ópera Nacional de Paris.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/xKPMlQ3v6KJD3u6ik3urzGesh5g.jpg"/>
+    <date>2016</date>
+  </programme>
+  <programme start="20260626043358 -0300" stop="20260626060922 -0300" channel="htokids">
+    <title lang="pt">Bob Esponja: O Incrível Resgate</title>
+    <desc lang="pt">Onde está Gary? Segundo Bob Esponja, Gary foi "caracolstrado" pelo temível Rei Poseidon e levado para a cidade perdida de Atlantic City. Junto a Patrick Estrela, ele sai em uma missão de resgate ao querido amigo, e nesta jornada os dois vão conhecer novos personagens e viver inimagináveis aventuras.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/d88x4Jnyhr4xErOYeJCspcxI34h.jpg"/>
+    <date>2020</date>
+  </programme>
+  <programme start="20260626060922 -0300" stop="20260626075328 -0300" channel="htokids">
+    <title lang="pt">Como Treinar o Seu Dragão 3</title>
+    <desc lang="pt">Decidido a fazer de Berk um verdadeiro libelo ao ideal da convivência pacífica entre homens e dragões, Soluço e seus amigos seguem atrás de caçadores, para não só libertar suas presas mas também impedir a matança desenfreada dos animais. O esforço do grupo desperta a atenção de Grimmel ao descobrir que entre eles está Banguela, um legítimo Fúria da Noite. O vilão então desenvolve um plano para capturá-lo a todo custo, usando como arma uma fêmea capturada, da mesma espécie.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg"/>
+    <date>2019</date>
+  </programme>
+  <programme start="20260626075328 -0300" stop="20260626093454 -0300" channel="htokids">
+    <title lang="pt">Dragon Ball Super: Broly</title>
+    <desc lang="pt">A Terra está em paz depois do fim do Torneio do Poder. Goku não quer nada além de treinar, já que agora compreende quantas pessoas fortes existem nos universos que ele ainda não conheceu. Então, um dia, um Saiyajin desconhecido chamado Broly aparece diante de Goku e Vegeta. Como é possível que um Saiyajin esteja na Terra quando ele deveria ter sido destruído junto com o Planeta Vegeta? De volta do inferno mais uma vez, Freeza também aparece e os três Saiyajins que tiveram caminhos completamente diferentes se encontram em um intenso conflito.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tuay76gZt7kOIb806hTzIktsQDT.jpg"/>
+    <date>2018</date>
+  </programme>
+  <programme start="20260626093454 -0300" stop="20260626095844 -0300" channel="htokids">
+    <title lang="pt">03</title>
+    <desc lang="pt">03</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260626095844 -0300" stop="20260626102234 -0300" channel="htokids">
+    <title lang="pt">05</title>
+    <desc lang="pt">05</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260626102234 -0300" stop="20260626104624 -0300" channel="htokids">
+    <title lang="pt">06</title>
+    <desc lang="pt">06</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260626104624 -0300" stop="20260626111052 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 18</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 18</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260626111052 -0300" stop="20260626113532 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 20</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 20</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260626113532 -0300" stop="20260626115959 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 22</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 22</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260626115959 -0300" stop="20260626131645 -0300" channel="htokids">
+    <title lang="pt">Batman do Futuro: O Retorno do Coringa</title>
+    <desc lang="pt">Enquanto busca descobrir os segredos por trás do Coringa, Terry McGinnis, o novo Batman, descobre também a verdade por trás do maior mistério da carreira do Batman original: a verdadeira história em que Bruce Wayne e o Coringa se enfrentaram pela última vez. Mas quando o Coringa retorna à ativa e quase mata Wayne, é hora do novo Batman vingar seu mentor e acabar de uma vez por todas com a ameaça do palhaço assassino.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/wd9fppMrD3KbH8jAMTqCF28QejD.jpg"/>
+    <date>2000</date>
+  </programme>
+  <programme start="20260626131645 -0300" stop="20260626144429 -0300" channel="htokids">
+    <title lang="pt">Dois Velhos Rabugentos</title>
+    <desc lang="pt">John (Jack Lemmon) e Max (Walter Matthau) são dois vizinhos que passaram a vida brigando por nada. O principal prazer que eles têm na vida é um provocar o outro e eles não medem esforços para isto. Até que uma bela e extrovertida viúva (Ann-Margret) se muda para perto de suas casas, despertando o amor dos dois e mais uma competição entre John e Max.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vYt1vDRv8qBDbdLGg9v8mLDhKWb.jpg"/>
+    <date>1993</date>
+  </programme>
+  <programme start="20260626144429 -0300" stop="20260626162136 -0300" channel="htokids">
+    <title lang="pt">Uma Floresta Muito Louca</title>
+    <desc lang="pt">Acompanhe as aventuras de Maurice: ele pode parecer um pinguim, mas se sente um tigre! Após a morte de sua mãe, será sua responsabilidade manter a ordem e a justiça na selva, ainda mais agora que um malvado coala planeja destruir tudo.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7GpMbVpbBSCH7eDDRKUQDMtvYX4.jpg"/>
+    <date>2017</date>
+  </programme>
+  <programme start="20260626162136 -0300" stop="20260626175043 -0300" channel="htokids">
+    <title lang="pt">A Bailarina</title>
+    <desc lang="pt">Felicie é uma menina órfã apaixonada pela dança. Ao lado do seu melhor amigo Victor, que deseja se tornar um grande inventor, eles desenvolvem um grande plano de fuga para conseguirem o que querem. Eles fogem do orfanato em que vivem para Paris, a Cidade Luz, onde a torre Eiffel ainda está sendo construída. Felicie terá que se superar e aprender com seus erros para tornar o seu grande sonho em realidade: ser uma grande bailarina da Ópera Nacional de Paris.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/xKPMlQ3v6KJD3u6ik3urzGesh5g.jpg"/>
+    <date>2016</date>
+  </programme>
+  <programme start="20260626175043 -0300" stop="20260626192607 -0300" channel="htokids">
+    <title lang="pt">Bob Esponja: O Incrível Resgate</title>
+    <desc lang="pt">Onde está Gary? Segundo Bob Esponja, Gary foi "caracolstrado" pelo temível Rei Poseidon e levado para a cidade perdida de Atlantic City. Junto a Patrick Estrela, ele sai em uma missão de resgate ao querido amigo, e nesta jornada os dois vão conhecer novos personagens e viver inimagináveis aventuras.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/d88x4Jnyhr4xErOYeJCspcxI34h.jpg"/>
+    <date>2020</date>
+  </programme>
+  <programme start="20260626192607 -0300" stop="20260626211013 -0300" channel="htokids">
+    <title lang="pt">Como Treinar o Seu Dragão 3</title>
+    <desc lang="pt">Decidido a fazer de Berk um verdadeiro libelo ao ideal da convivência pacífica entre homens e dragões, Soluço e seus amigos seguem atrás de caçadores, para não só libertar suas presas mas também impedir a matança desenfreada dos animais. O esforço do grupo desperta a atenção de Grimmel ao descobrir que entre eles está Banguela, um legítimo Fúria da Noite. O vilão então desenvolve um plano para capturá-lo a todo custo, usando como arma uma fêmea capturada, da mesma espécie.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg"/>
+    <date>2019</date>
+  </programme>
+  <programme start="20260626211013 -0300" stop="20260626225139 -0300" channel="htokids">
+    <title lang="pt">Dragon Ball Super: Broly</title>
+    <desc lang="pt">A Terra está em paz depois do fim do Torneio do Poder. Goku não quer nada além de treinar, já que agora compreende quantas pessoas fortes existem nos universos que ele ainda não conheceu. Então, um dia, um Saiyajin desconhecido chamado Broly aparece diante de Goku e Vegeta. Como é possível que um Saiyajin esteja na Terra quando ele deveria ter sido destruído junto com o Planeta Vegeta? De volta do inferno mais uma vez, Freeza também aparece e os três Saiyajins que tiveram caminhos completamente diferentes se encontram em um intenso conflito.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tuay76gZt7kOIb806hTzIktsQDT.jpg"/>
+    <date>2018</date>
+  </programme>
+  <programme start="20260626225139 -0300" stop="20260626231529 -0300" channel="htokids">
+    <title lang="pt">03</title>
+    <desc lang="pt">03</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260626231529 -0300" stop="20260626233919 -0300" channel="htokids">
+    <title lang="pt">05</title>
+    <desc lang="pt">05</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260626233919 -0300" stop="20260627000309 -0300" channel="htokids">
+    <title lang="pt">06</title>
+    <desc lang="pt">06</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627000000 -0300" stop="20260627012131 -0300" channel="htokids">
+    <title lang="pt">Planeta Hulk</title>
+    <desc lang="pt">Ele era um monstro, impossível de controlar, demasiado perigoso para ser ignorado. Assim, os heróis mais poderosos da Terra o exilaram no espaço. Mas agora O Incrível Hulk está em Sakaar, um planeta distante, governado pelo tirano Rei Vermelho. Vendido como escravo, Hulk se torna o mais poderoso gladiador do planeta, mas seus novos donos recebem mais do que esperava quando ele forja um vínculo de fraternidade com outros lutadores. Ao contrário da Terra, as pessoas desesperadas de Sakaar acreditam que Hulk é tudo o que eles precisam.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rfJBYlVRAAxFCcbDX1thYhwwoK4.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260627012131 -0300" stop="20260627023322 -0300" channel="htokids">
+    <title lang="pt">Piu-Piu Dá a Volta ao Mundo</title>
+    <desc lang="pt">Vovó aposta com um rico senhor chamado coronel Rimfire que seu canarinho, Piu-Piu, é mais inteligente que qualquer gato. Para isso Piu-Piu terá que dar a volta ao mundo em 80 dias, visitando países e colecionando “vistos” com as patas dos gatos.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/uN5eJDFF5VuL8IuPVUdjI3Oe9Yd.jpg"/>
+    <date>2000</date>
+  </programme>
+  <programme start="20260627023322 -0300" stop="20260627035819 -0300" channel="htokids">
+    <title lang="pt">Sargento Stubby</title>
+    <desc lang="pt">Sargento Stubbym, era um cão de rua que foi adotado por um soldado enquanto treinava para a Primeira Guerra Mundial. Por suas ações valorosas e relações duradouras que forjou com seus irmãos-de-guerra nas trincheiras, ele é reconhecido como o cão mais condecorado da história americana.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/b2vD2UvZsf9mFjolrwyxIVuhyV0.jpg"/>
+    <date>2018</date>
+  </programme>
+  <programme start="20260627035819 -0300" stop="20260627042250 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 1</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 1</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627042250 -0300" stop="20260627044717 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627044717 -0300" stop="20260627051144 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 22</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 22</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627051144 -0300" stop="20260627053534 -0300" channel="htokids">
+    <title lang="pt">04</title>
+    <desc lang="pt">04</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627053534 -0300" stop="20260627055924 -0300" channel="htokids">
+    <title lang="pt">02</title>
+    <desc lang="pt">02</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627055924 -0300" stop="20260627062402 -0300" channel="htokids">
+    <title lang="pt">[S0.E19] O Show do Garfield - Treinamento radical Herdeiro natural</title>
+    <desc lang="pt">[S0.E19] O Show do Garfield - Treinamento radical Herdeiro natural</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627062402 -0300" stop="20260627064745 -0300" channel="htokids">
+    <title lang="pt">[S0.E18] O Show do Garfield - Mundo de gatos O carteiro substituto</title>
+    <desc lang="pt">[S0.E18] O Show do Garfield - Mundo de gatos O carteiro substituto</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627064745 -0300" stop="20260627071118 -0300" channel="htokids">
+    <title lang="pt">[S0.E17] O Show do Garfield - Fama Fatal O Odeon virtual</title>
+    <desc lang="pt">[S0.E17] O Show do Garfield - Fama Fatal O Odeon virtual</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627071118 -0300" stop="20260627084642 -0300" channel="htokids">
+    <title lang="pt">Bob Esponja: O Incrível Resgate</title>
+    <desc lang="pt">Onde está Gary? Segundo Bob Esponja, Gary foi "caracolstrado" pelo temível Rei Poseidon e levado para a cidade perdida de Atlantic City. Junto a Patrick Estrela, ele sai em uma missão de resgate ao querido amigo, e nesta jornada os dois vão conhecer novos personagens e viver inimagináveis aventuras.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/d88x4Jnyhr4xErOYeJCspcxI34h.jpg"/>
+    <date>2020</date>
+  </programme>
+  <programme start="20260627084642 -0300" stop="20260627090812 -0300" channel="htokids">
+    <title lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</title>
+    <desc lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627090812 -0300" stop="20260627093005 -0300" channel="htokids">
+    <title lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</title>
+    <desc lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627093005 -0300" stop="20260627095139 -0300" channel="htokids">
+    <title lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</title>
+    <desc lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627095139 -0300" stop="20260627113634 -0300" channel="htokids">
+    <title lang="pt">Kaisen Filme</title>
+    <desc lang="pt">Kaisen Filme</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627113634 -0300" stop="20260627125805 -0300" channel="htokids">
+    <title lang="pt">Planeta Hulk</title>
+    <desc lang="pt">Ele era um monstro, impossível de controlar, demasiado perigoso para ser ignorado. Assim, os heróis mais poderosos da Terra o exilaram no espaço. Mas agora O Incrível Hulk está em Sakaar, um planeta distante, governado pelo tirano Rei Vermelho. Vendido como escravo, Hulk se torna o mais poderoso gladiador do planeta, mas seus novos donos recebem mais do que esperava quando ele forja um vínculo de fraternidade com outros lutadores. Ao contrário da Terra, as pessoas desesperadas de Sakaar acreditam que Hulk é tudo o que eles precisam.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rfJBYlVRAAxFCcbDX1thYhwwoK4.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260627125805 -0300" stop="20260627140956 -0300" channel="htokids">
+    <title lang="pt">Piu-Piu Dá a Volta ao Mundo</title>
+    <desc lang="pt">Vovó aposta com um rico senhor chamado coronel Rimfire que seu canarinho, Piu-Piu, é mais inteligente que qualquer gato. Para isso Piu-Piu terá que dar a volta ao mundo em 80 dias, visitando países e colecionando “vistos” com as patas dos gatos.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/uN5eJDFF5VuL8IuPVUdjI3Oe9Yd.jpg"/>
+    <date>2000</date>
+  </programme>
+  <programme start="20260627140956 -0300" stop="20260627153453 -0300" channel="htokids">
+    <title lang="pt">Sargento Stubby</title>
+    <desc lang="pt">Sargento Stubbym, era um cão de rua que foi adotado por um soldado enquanto treinava para a Primeira Guerra Mundial. Por suas ações valorosas e relações duradouras que forjou com seus irmãos-de-guerra nas trincheiras, ele é reconhecido como o cão mais condecorado da história americana.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/b2vD2UvZsf9mFjolrwyxIVuhyV0.jpg"/>
+    <date>2018</date>
+  </programme>
+  <programme start="20260627153453 -0300" stop="20260627155924 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 1</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 1</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627155924 -0300" stop="20260627162351 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627162351 -0300" stop="20260627164818 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 22</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 22</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627164818 -0300" stop="20260627171208 -0300" channel="htokids">
+    <title lang="pt">04</title>
+    <desc lang="pt">04</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627171208 -0300" stop="20260627173558 -0300" channel="htokids">
+    <title lang="pt">02</title>
+    <desc lang="pt">02</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627173558 -0300" stop="20260627180036 -0300" channel="htokids">
+    <title lang="pt">[S0.E19] O Show do Garfield - Treinamento radical Herdeiro natural</title>
+    <desc lang="pt">[S0.E19] O Show do Garfield - Treinamento radical Herdeiro natural</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627180036 -0300" stop="20260627182419 -0300" channel="htokids">
+    <title lang="pt">[S0.E18] O Show do Garfield - Mundo de gatos O carteiro substituto</title>
+    <desc lang="pt">[S0.E18] O Show do Garfield - Mundo de gatos O carteiro substituto</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627182419 -0300" stop="20260627184752 -0300" channel="htokids">
+    <title lang="pt">[S0.E17] O Show do Garfield - Fama Fatal O Odeon virtual</title>
+    <desc lang="pt">[S0.E17] O Show do Garfield - Fama Fatal O Odeon virtual</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627184752 -0300" stop="20260627202316 -0300" channel="htokids">
+    <title lang="pt">Bob Esponja: O Incrível Resgate</title>
+    <desc lang="pt">Onde está Gary? Segundo Bob Esponja, Gary foi "caracolstrado" pelo temível Rei Poseidon e levado para a cidade perdida de Atlantic City. Junto a Patrick Estrela, ele sai em uma missão de resgate ao querido amigo, e nesta jornada os dois vão conhecer novos personagens e viver inimagináveis aventuras.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/d88x4Jnyhr4xErOYeJCspcxI34h.jpg"/>
+    <date>2020</date>
+  </programme>
+  <programme start="20260627202316 -0300" stop="20260627204446 -0300" channel="htokids">
+    <title lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</title>
+    <desc lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627204446 -0300" stop="20260627210639 -0300" channel="htokids">
+    <title lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</title>
+    <desc lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627210639 -0300" stop="20260627212813 -0300" channel="htokids">
+    <title lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</title>
+    <desc lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627212813 -0300" stop="20260627231308 -0300" channel="htokids">
+    <title lang="pt">Kaisen Filme</title>
+    <desc lang="pt">Kaisen Filme</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260627231308 -0300" stop="20260628003439 -0300" channel="htokids">
+    <title lang="pt">Planeta Hulk</title>
+    <desc lang="pt">Ele era um monstro, impossível de controlar, demasiado perigoso para ser ignorado. Assim, os heróis mais poderosos da Terra o exilaram no espaço. Mas agora O Incrível Hulk está em Sakaar, um planeta distante, governado pelo tirano Rei Vermelho. Vendido como escravo, Hulk se torna o mais poderoso gladiador do planeta, mas seus novos donos recebem mais do que esperava quando ele forja um vínculo de fraternidade com outros lutadores. Ao contrário da Terra, as pessoas desesperadas de Sakaar acreditam que Hulk é tudo o que eles precisam.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rfJBYlVRAAxFCcbDX1thYhwwoK4.jpg"/>
+    <date>2010</date>
+  </programme>
 </tv>
