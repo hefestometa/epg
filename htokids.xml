@@ -59534,4 +59534,741 @@
     <icon src="https://image.tmdb.org/t/p/w500/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg"/>
     <date>1994</date>
   </programme>
+  <programme start="20260712131450 -0300" stop="20260712143958 -0300" channel="htokids">
+    <title lang="pt">Lost Angels</title>
+    <desc lang="pt">Lost Angels</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/aAzUbWzWsAw7WCAtezpqwe8jtZt.jpg"/>
+    <date>1989</date>
+  </programme>
+  <programme start="20260712143958 -0300" stop="20260712150429 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 1</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 1</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260712150429 -0300" stop="20260712152857 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 18</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 18</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260712152857 -0300" stop="20260712155337 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 20</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 20</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260712155337 -0300" stop="20260712172301 -0300" channel="htokids">
+    <title lang="pt">Madagascar 2 a grande escapada</title>
+    <desc lang="pt">Madagascar 2 a grande escapada</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260712172301 -0300" stop="20260712184619 -0300" channel="htokids">
+    <title lang="pt">Los que Danzan</title>
+    <desc lang="pt">Los que Danzan</desc>
+    <category lang="pt">Romance</category>
+    <icon src="https://image.tmdb.org/t/p/w500/A3e3VSRPmV5xYIHmizUsBxlYurq.jpg"/>
+    <date>1930</date>
+  </programme>
+  <programme start="20260712184619 -0300" stop="20260712200750 -0300" channel="htokids">
+    <title lang="pt">Planeta Hulk</title>
+    <desc lang="pt">Ele era um monstro, impossível de controlar, demasiado perigoso para ser ignorado. Assim, os heróis mais poderosos da Terra o exilaram no espaço. Mas agora O Incrível Hulk está em Sakaar, um planeta distante, governado pelo tirano Rei Vermelho. Vendido como escravo, Hulk se torna o mais poderoso gladiador do planeta, mas seus novos donos recebem mais do que esperava quando ele forja um vínculo de fraternidade com outros lutadores. Ao contrário da Terra, as pessoas desesperadas de Sakaar acreditam que Hulk é tudo o que eles precisam.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rfJBYlVRAAxFCcbDX1thYhwwoK4.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260712200750 -0300" stop="20260712203144 -0300" channel="htokids">
+    <title lang="pt">[S0.E01] O Show do Garfield - Guerra das massas Mamãe Garfield (cópia)</title>
+    <desc lang="pt">[S0.E01] O Show do Garfield - Guerra das massas Mamãe Garfield (cópia)</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260712203144 -0300" stop="20260712205527 -0300" channel="htokids">
+    <title lang="pt">[S0.E11] O Show do Garfield - A maldição do cãozarrão Conhecendo os pais</title>
+    <desc lang="pt">[S0.E11] O Show do Garfield - A maldição do cãozarrão Conhecendo os pais</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260712205527 -0300" stop="20260712211910 -0300" channel="htokids">
+    <title lang="pt">[S0.E18] O Show do Garfield - Mundo de gatos O carteiro substituto</title>
+    <desc lang="pt">[S0.E18] O Show do Garfield - Mundo de gatos O carteiro substituto</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260712211910 -0300" stop="20260712214103 -0300" channel="htokids">
+    <title lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</title>
+    <desc lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260712214103 -0300" stop="20260712220233 -0300" channel="htokids">
+    <title lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</title>
+    <desc lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260712220233 -0300" stop="20260712222623 -0300" channel="htokids">
+    <title lang="pt">01</title>
+    <desc lang="pt">01</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260712222623 -0300" stop="20260712225013 -0300" channel="htokids">
+    <title lang="pt">03</title>
+    <desc lang="pt">03</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260712225013 -0300" stop="20260712231403 -0300" channel="htokids">
+    <title lang="pt">06</title>
+    <desc lang="pt">06</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260712231403 -0300" stop="20260713010116 -0300" channel="htokids">
+    <title lang="pt">O Poderoso Chefinho 2: Negócios da Família</title>
+    <desc lang="pt">Em O Poderoso Chefinho 2 acompanha novamente os irmãos Tim e Ted, agora adultos e vivendo vidas separadas. Enquanto Tim construiu uma vida calma no subúrbio com sua esposa, Carol, e as filhas, Tabitha e Tina, Ted se transformou em um mega empresário que resolve todos os problemas com dinheiro. Mas quando Tim descobre que sua filha caçula também é agente do BabyCorp, ele precisará da ajuda do irmão mais novo para lidar com a situação.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/olnWkuNwCDHPYTkLKktUnFLyHFg.jpg"/>
+    <date>2021</date>
+  </programme>
+  <programme start="20260713000000 -0300" stop="20260713012611 -0300" channel="htokids">
+    <title lang="pt">Horton e o Mundo dos Quem</title>
+    <desc lang="pt">Horton e o Mundo dos Quem</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713012611 -0300" stop="20260713023111 -0300" channel="htokids">
+    <title lang="pt">Kick Buttowski</title>
+    <desc lang="pt">Kick Buttowski</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713023111 -0300" stop="20260713025304 -0300" channel="htokids">
+    <title lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</title>
+    <desc lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713025304 -0300" stop="20260713031434 -0300" channel="htokids">
+    <title lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</title>
+    <desc lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713031434 -0300" stop="20260713033905 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 1</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 1</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713033905 -0300" stop="20260713040332 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713040332 -0300" stop="20260713042759 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713042759 -0300" stop="20260713045231 -0300" channel="htokids">
+    <title lang="pt">[S0.E24] O Show do Garfield - O ultrapoderoso Poder da mente</title>
+    <desc lang="pt">[S0.E24] O Show do Garfield - O ultrapoderoso Poder da mente</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713045231 -0300" stop="20260713051626 -0300" channel="htokids">
+    <title lang="pt">[S0.E23] O Show do Garfield - Seja gentil com o Nermal Em cima da árvore</title>
+    <desc lang="pt">[S0.E23] O Show do Garfield - Seja gentil com o Nermal Em cima da árvore</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713051626 -0300" stop="20260713054007 -0300" channel="htokids">
+    <title lang="pt">[S0.E25] O Show do Garfield - O fantástico cão voador A aposta</title>
+    <desc lang="pt">[S0.E25] O Show do Garfield - O fantástico cão voador A aposta</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713054007 -0300" stop="20260713065526 -0300" channel="htokids">
+    <title lang="pt">Garoto cosmico</title>
+    <desc lang="pt">Garoto cosmico</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713065526 -0300" stop="20260713080655 -0300" channel="htokids">
+    <title lang="pt">Em Busca do Vale Encantado V: A Ilha Misteriosa</title>
+    <desc lang="pt">Além do Vale Encantado existe uma ilha de beleza e mistério. Neste lugar maravilhoso, Littlefoot, Saura, Espora, Patassaura e Petrúcio descobrirão velhos e novos amigos, enfrentarão incríveis desafios e viverão a maior aventura de suas vidas! É a mais nova história recheada de canções do clássico Em Busca do Vale Encantado. Um dia, uma nuvem de insetos devoradores de plantas desce sobre o Vale Encantado, e acabam com todas as folhinhas à vista. Agora, o Vale está totalmente destruído e todos precisam buscar um novo lar até que as plantas cresçam novamente. Mas quando as brigas entre os adultos ameaçam separa-los, Littlefoot e seus amigos resolvem partir sozinhos. Em sua busca, eles encontram, as Grandes Águas – onde estranhas criaturas vivem e nadam – que os levam à uma misteriosa ilha onde eles encontram Chomper, o adorável amigo de dentes afiados de “A Grande Aventura no Vale”. Porém, agora Chomper precisa proteger seus amiguinhos das feras, incluindo seus próprios país!.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5qO9Vow7VJSFn6pcrGt8s20lYb1.jpg"/>
+    <date>1997</date>
+  </programme>
+  <programme start="20260713080655 -0300" stop="20260713093340 -0300" channel="htokids">
+    <title lang="pt">O Fantástico Sr. Raposo</title>
+    <desc lang="pt">O Sr. Raposo e a Sra. Raposa levam uma vida feliz com seu filho excêntrico Ash e Kristofferson, o sobrinho que está de visita. Isso até o Sr. Raposo voltar aos velhos hábitos e planejar o maior roubo de galinhas que o mundo animal já viu.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1Ey4LYUzTqzizPNjcBi20pU9joC.jpg"/>
+    <date>2009</date>
+  </programme>
+  <programme start="20260713093340 -0300" stop="20260713105837 -0300" channel="htokids">
+    <title lang="pt">Sargento Stubby</title>
+    <desc lang="pt">Sargento Stubbym, era um cão de rua que foi adotado por um soldado enquanto treinava para a Primeira Guerra Mundial. Por suas ações valorosas e relações duradouras que forjou com seus irmãos-de-guerra nas trincheiras, ele é reconhecido como o cão mais condecorado da história americana.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/b2vD2UvZsf9mFjolrwyxIVuhyV0.jpg"/>
+    <date>2018</date>
+  </programme>
+  <programme start="20260713105837 -0300" stop="20260713122219 -0300" channel="htokids">
+    <title lang="pt">Três Espiãs Demais: O Filme</title>
+    <desc lang="pt">Sam, Clover e Alex, que acabaram de chegar na escola de Beverly Hills, são recrutadas pelas líderes WOOHP - Organização Mundial de Proteção Humana - para se tornarem espiãs internacionais.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ooz0jOHw6M7oA2UKoGz7hycWZEh.jpg"/>
+    <date>2009</date>
+  </programme>
+  <programme start="20260713122219 -0300" stop="20260713134830 -0300" channel="htokids">
+    <title lang="pt">Horton e o Mundo dos Quem</title>
+    <desc lang="pt">Horton e o Mundo dos Quem</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713134830 -0300" stop="20260713145330 -0300" channel="htokids">
+    <title lang="pt">Kick Buttowski</title>
+    <desc lang="pt">Kick Buttowski</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713145330 -0300" stop="20260713151523 -0300" channel="htokids">
+    <title lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</title>
+    <desc lang="pt">[S02.E01] Os Jovens Titãs em Ação - Minha irmã é uma parada Coisa de macho</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713151523 -0300" stop="20260713153653 -0300" channel="htokids">
+    <title lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</title>
+    <desc lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713153653 -0300" stop="20260713160124 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 1</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 1</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713160124 -0300" stop="20260713162551 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713162551 -0300" stop="20260713165018 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713165018 -0300" stop="20260713171450 -0300" channel="htokids">
+    <title lang="pt">[S0.E24] O Show do Garfield - O ultrapoderoso Poder da mente</title>
+    <desc lang="pt">[S0.E24] O Show do Garfield - O ultrapoderoso Poder da mente</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713171450 -0300" stop="20260713173845 -0300" channel="htokids">
+    <title lang="pt">[S0.E23] O Show do Garfield - Seja gentil com o Nermal Em cima da árvore</title>
+    <desc lang="pt">[S0.E23] O Show do Garfield - Seja gentil com o Nermal Em cima da árvore</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713173845 -0300" stop="20260713180226 -0300" channel="htokids">
+    <title lang="pt">[S0.E25] O Show do Garfield - O fantástico cão voador A aposta</title>
+    <desc lang="pt">[S0.E25] O Show do Garfield - O fantástico cão voador A aposta</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713180226 -0300" stop="20260713191745 -0300" channel="htokids">
+    <title lang="pt">Garoto cosmico</title>
+    <desc lang="pt">Garoto cosmico</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260713191745 -0300" stop="20260713202914 -0300" channel="htokids">
+    <title lang="pt">Em Busca do Vale Encantado V: A Ilha Misteriosa</title>
+    <desc lang="pt">Além do Vale Encantado existe uma ilha de beleza e mistério. Neste lugar maravilhoso, Littlefoot, Saura, Espora, Patassaura e Petrúcio descobrirão velhos e novos amigos, enfrentarão incríveis desafios e viverão a maior aventura de suas vidas! É a mais nova história recheada de canções do clássico Em Busca do Vale Encantado. Um dia, uma nuvem de insetos devoradores de plantas desce sobre o Vale Encantado, e acabam com todas as folhinhas à vista. Agora, o Vale está totalmente destruído e todos precisam buscar um novo lar até que as plantas cresçam novamente. Mas quando as brigas entre os adultos ameaçam separa-los, Littlefoot e seus amigos resolvem partir sozinhos. Em sua busca, eles encontram, as Grandes Águas – onde estranhas criaturas vivem e nadam – que os levam à uma misteriosa ilha onde eles encontram Chomper, o adorável amigo de dentes afiados de “A Grande Aventura no Vale”. Porém, agora Chomper precisa proteger seus amiguinhos das feras, incluindo seus próprios país!.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5qO9Vow7VJSFn6pcrGt8s20lYb1.jpg"/>
+    <date>1997</date>
+  </programme>
+  <programme start="20260713202914 -0300" stop="20260713215559 -0300" channel="htokids">
+    <title lang="pt">O Fantástico Sr. Raposo</title>
+    <desc lang="pt">O Sr. Raposo e a Sra. Raposa levam uma vida feliz com seu filho excêntrico Ash e Kristofferson, o sobrinho que está de visita. Isso até o Sr. Raposo voltar aos velhos hábitos e planejar o maior roubo de galinhas que o mundo animal já viu.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1Ey4LYUzTqzizPNjcBi20pU9joC.jpg"/>
+    <date>2009</date>
+  </programme>
+  <programme start="20260713215559 -0300" stop="20260713232056 -0300" channel="htokids">
+    <title lang="pt">Sargento Stubby</title>
+    <desc lang="pt">Sargento Stubbym, era um cão de rua que foi adotado por um soldado enquanto treinava para a Primeira Guerra Mundial. Por suas ações valorosas e relações duradouras que forjou com seus irmãos-de-guerra nas trincheiras, ele é reconhecido como o cão mais condecorado da história americana.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/b2vD2UvZsf9mFjolrwyxIVuhyV0.jpg"/>
+    <date>2018</date>
+  </programme>
+  <programme start="20260713232056 -0300" stop="20260714004438 -0300" channel="htokids">
+    <title lang="pt">Três Espiãs Demais: O Filme</title>
+    <desc lang="pt">Sam, Clover e Alex, que acabaram de chegar na escola de Beverly Hills, são recrutadas pelas líderes WOOHP - Organização Mundial de Proteção Humana - para se tornarem espiãs internacionais.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ooz0jOHw6M7oA2UKoGz7hycWZEh.jpg"/>
+    <date>2009</date>
+  </programme>
+  <programme start="20260714000000 -0300" stop="20260714002143 -0300" channel="htokids">
+    <title lang="pt">[S01.E26] Os Jovens Titãs em Ação - Mágica de verdade O mago dos fantoches</title>
+    <desc lang="pt">[S01.E26] Os Jovens Titãs em Ação - Mágica de verdade O mago dos fantoches</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714002143 -0300" stop="20260714004313 -0300" channel="htokids">
+    <title lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</title>
+    <desc lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714004313 -0300" stop="20260714010447 -0300" channel="htokids">
+    <title lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</title>
+    <desc lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714010447 -0300" stop="20260714012840 -0300" channel="htokids">
+    <title lang="pt">[S0.E15] O Show do Garfield - A curva no tempo Senhor do tempo</title>
+    <desc lang="pt">[S0.E15] O Show do Garfield - A curva no tempo Senhor do tempo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714012840 -0300" stop="20260714015317 -0300" channel="htokids">
+    <title lang="pt">[S0.E20] O Show do Garfield - Cantoria natalina Saído do forno</title>
+    <desc lang="pt">[S0.E20] O Show do Garfield - Cantoria natalina Saído do forno</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714015317 -0300" stop="20260714021806 -0300" channel="htokids">
+    <title lang="pt">[S0.E21] O Show do Garfield - O vizinho Nathan A história sobre os cães</title>
+    <desc lang="pt">[S0.E21] O Show do Garfield - O vizinho Nathan A história sobre os cães</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714021806 -0300" stop="20260714034022 -0300" channel="htokids">
+    <title lang="pt">Cacadores de dragoes</title>
+    <desc lang="pt">Cacadores de dragoes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714034022 -0300" stop="20260714050916 -0300" channel="htokids">
+    <title lang="pt">O Golfinho - A História de Um Sonhador</title>
+    <desc lang="pt">O Golfinho - A História de Um Sonhador</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/okbH63UnhVHD1FJZDrTCvvAA8.jpg"/>
+    <date>2009</date>
+  </programme>
+  <programme start="20260714050916 -0300" stop="20260714063413 -0300" channel="htokids">
+    <title lang="pt">Sargento Stubby</title>
+    <desc lang="pt">Sargento Stubbym, era um cão de rua que foi adotado por um soldado enquanto treinava para a Primeira Guerra Mundial. Por suas ações valorosas e relações duradouras que forjou com seus irmãos-de-guerra nas trincheiras, ele é reconhecido como o cão mais condecorado da história americana.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/b2vD2UvZsf9mFjolrwyxIVuhyV0.jpg"/>
+    <date>2018</date>
+  </programme>
+  <programme start="20260714063413 -0300" stop="20260714075944 -0300" channel="htokids">
+    <title lang="pt">Tá Dando Onda</title>
+    <desc lang="pt">Cadu Maverick (Shia LaBeouf) é um jovem pinguim, que tem o lendário surfista Big Z como ídolo. Um dia ele decide deixar sua família e sua cidade, Shiverpool, na Antártida, para participar do Big Z Memorial Surf Off, um torneio de surf realizado na ilha Pen-Gu. Cadu acredita que caso vença o torneio ganhará respeito e admiração, seu grande sonho. Mas lá ele conhece um veterano surfista chamado Grego (Jeff Bridges), com quem aprende que o campeão nem sempre é aquele que chega em 1º lugar nas competições.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/edR3BjwAwUGHtOQMXJTWRfMYBvt.jpg"/>
+    <date>2007</date>
+  </programme>
+  <programme start="20260714075944 -0300" stop="20260714094144 -0300" channel="htokids">
+    <title lang="pt">Rio 2</title>
+    <desc lang="pt">As araras Blu e Jade vivem felizes com seus filhos no Rio de Janeiro. Quando seus donos, Túlio e Linda, encontram pássaros de sua espécie na Amazônia, eles decidem partir para novas aventuras na região Norte do país. Só que nem tudo é perfeito: Nigel, o velho inimigo de Blu e Jade, está de volta para se vingar.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/e0CKmNlKfWwc8LSgfyf4gYsTjjP.jpg"/>
+    <date>2014</date>
+  </programme>
+  <programme start="20260714094144 -0300" stop="20260714111909 -0300" channel="htokids">
+    <title lang="pt">Cantando de Galo</title>
+    <desc lang="pt">Toto é um jovem galo que é o menor de todos na granja onde nasceu. Ele tem o grande sonho de se tornar o grande galo do povoado. Mas quando um fazendeiro ameaça destruir o seu lar e a sua família, Toto e seus amigos irão viajar para encontrar um treinador que possa ajudá-lo a defender seu lar ao mesmo tempo em que vivem uma grande aventura e a descoberta do amor.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/xQaBACPhk4MoYsDw1w5P0NDY9xv.jpg"/>
+    <date>2015</date>
+  </programme>
+  <programme start="20260714111909 -0300" stop="20260714130601 -0300" channel="htokids">
+    <title lang="pt">As Aventuras de Tintim</title>
+    <desc lang="pt">As Aventuras de Tintim</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714130601 -0300" stop="20260714132744 -0300" channel="htokids">
+    <title lang="pt">[S01.E26] Os Jovens Titãs em Ação - Mágica de verdade O mago dos fantoches</title>
+    <desc lang="pt">[S01.E26] Os Jovens Titãs em Ação - Mágica de verdade O mago dos fantoches</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714132744 -0300" stop="20260714134914 -0300" channel="htokids">
+    <title lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</title>
+    <desc lang="pt">[S02.E03] Os Jovens Titãs em Ação - Brian resgate surpresa Natureza</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714134914 -0300" stop="20260714141048 -0300" channel="htokids">
+    <title lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</title>
+    <desc lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714141048 -0300" stop="20260714143441 -0300" channel="htokids">
+    <title lang="pt">[S0.E15] O Show do Garfield - A curva no tempo Senhor do tempo</title>
+    <desc lang="pt">[S0.E15] O Show do Garfield - A curva no tempo Senhor do tempo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714143441 -0300" stop="20260714145918 -0300" channel="htokids">
+    <title lang="pt">[S0.E20] O Show do Garfield - Cantoria natalina Saído do forno</title>
+    <desc lang="pt">[S0.E20] O Show do Garfield - Cantoria natalina Saído do forno</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714145918 -0300" stop="20260714152407 -0300" channel="htokids">
+    <title lang="pt">[S0.E21] O Show do Garfield - O vizinho Nathan A história sobre os cães</title>
+    <desc lang="pt">[S0.E21] O Show do Garfield - O vizinho Nathan A história sobre os cães</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714152407 -0300" stop="20260714164623 -0300" channel="htokids">
+    <title lang="pt">Cacadores de dragoes</title>
+    <desc lang="pt">Cacadores de dragoes</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260714164623 -0300" stop="20260714181517 -0300" channel="htokids">
+    <title lang="pt">O Golfinho - A História de Um Sonhador</title>
+    <desc lang="pt">O Golfinho - A História de Um Sonhador</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/okbH63UnhVHD1FJZDrTCvvAA8.jpg"/>
+    <date>2009</date>
+  </programme>
+  <programme start="20260714181517 -0300" stop="20260714194014 -0300" channel="htokids">
+    <title lang="pt">Sargento Stubby</title>
+    <desc lang="pt">Sargento Stubbym, era um cão de rua que foi adotado por um soldado enquanto treinava para a Primeira Guerra Mundial. Por suas ações valorosas e relações duradouras que forjou com seus irmãos-de-guerra nas trincheiras, ele é reconhecido como o cão mais condecorado da história americana.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/b2vD2UvZsf9mFjolrwyxIVuhyV0.jpg"/>
+    <date>2018</date>
+  </programme>
+  <programme start="20260714194014 -0300" stop="20260714210545 -0300" channel="htokids">
+    <title lang="pt">Tá Dando Onda</title>
+    <desc lang="pt">Cadu Maverick (Shia LaBeouf) é um jovem pinguim, que tem o lendário surfista Big Z como ídolo. Um dia ele decide deixar sua família e sua cidade, Shiverpool, na Antártida, para participar do Big Z Memorial Surf Off, um torneio de surf realizado na ilha Pen-Gu. Cadu acredita que caso vença o torneio ganhará respeito e admiração, seu grande sonho. Mas lá ele conhece um veterano surfista chamado Grego (Jeff Bridges), com quem aprende que o campeão nem sempre é aquele que chega em 1º lugar nas competições.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/edR3BjwAwUGHtOQMXJTWRfMYBvt.jpg"/>
+    <date>2007</date>
+  </programme>
+  <programme start="20260714210545 -0300" stop="20260714224745 -0300" channel="htokids">
+    <title lang="pt">Rio 2</title>
+    <desc lang="pt">As araras Blu e Jade vivem felizes com seus filhos no Rio de Janeiro. Quando seus donos, Túlio e Linda, encontram pássaros de sua espécie na Amazônia, eles decidem partir para novas aventuras na região Norte do país. Só que nem tudo é perfeito: Nigel, o velho inimigo de Blu e Jade, está de volta para se vingar.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/e0CKmNlKfWwc8LSgfyf4gYsTjjP.jpg"/>
+    <date>2014</date>
+  </programme>
+  <programme start="20260714224745 -0300" stop="20260715002510 -0300" channel="htokids">
+    <title lang="pt">Cantando de Galo</title>
+    <desc lang="pt">Toto é um jovem galo que é o menor de todos na granja onde nasceu. Ele tem o grande sonho de se tornar o grande galo do povoado. Mas quando um fazendeiro ameaça destruir o seu lar e a sua família, Toto e seus amigos irão viajar para encontrar um treinador que possa ajudá-lo a defender seu lar ao mesmo tempo em que vivem uma grande aventura e a descoberta do amor.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/xQaBACPhk4MoYsDw1w5P0NDY9xv.jpg"/>
+    <date>2015</date>
+  </programme>
+  <programme start="20260715000000 -0300" stop="20260715013902 -0300" channel="htokids">
+    <title lang="pt">Silent Scream</title>
+    <desc lang="pt">Silent Scream</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1BnnPjTqaypoaMNClUuRtvHkD6p.jpg"/>
+    <date>1990</date>
+  </programme>
+  <programme start="20260715013902 -0300" stop="20260715030547 -0300" channel="htokids">
+    <title lang="pt">O Fantástico Sr. Raposo</title>
+    <desc lang="pt">O Sr. Raposo e a Sra. Raposa levam uma vida feliz com seu filho excêntrico Ash e Kristofferson, o sobrinho que está de visita. Isso até o Sr. Raposo voltar aos velhos hábitos e planejar o maior roubo de galinhas que o mundo animal já viu.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1Ey4LYUzTqzizPNjcBi20pU9joC.jpg"/>
+    <date>2009</date>
+  </programme>
+  <programme start="20260715030547 -0300" stop="20260715035134 -0300" channel="htokids">
+    <title lang="pt">Os Cavaleiros do Zodíaco: O Santo Guerreiro</title>
+    <desc lang="pt">Eris, a deusa do caos, encarna na jovem Eiri e sequestra Saori Kido, com o objetivo de roubar seus poderes usando o pomo dourado. Os Cavaleiros de Bronze vão até o santuário de Eris para resgatar Saori, mas precisam enfrentar um grupo de cavaleiros traidores que agora são fantasmas a mando da deusa.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nziTxFxx0l2hO7ZddZo903kVVU0.jpg"/>
+    <date>1987</date>
+  </programme>
+  <programme start="20260715035134 -0300" stop="20260715053225 -0300" channel="htokids">
+    <title lang="pt">Ponyo - Uma Amizade que Veio do Mar</title>
+    <desc lang="pt">Um garoto de 5 anos chamado Sosuke fica amigo de uma princesa peixinho-dourado chamada Ponyo, que quer desesperadamente virar humana.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/cvpsmNWc8nyePJMbyMc9X5lLN6L.jpg"/>
+    <date>2008</date>
+  </programme>
+  <programme start="20260715053225 -0300" stop="20260715055615 -0300" channel="htokids">
+    <title lang="pt">02</title>
+    <desc lang="pt">02</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715055615 -0300" stop="20260715062005 -0300" channel="htokids">
+    <title lang="pt">03</title>
+    <desc lang="pt">03</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715062005 -0300" stop="20260715064355 -0300" channel="htokids">
+    <title lang="pt">05</title>
+    <desc lang="pt">05</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715064355 -0300" stop="20260715070822 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 22</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 22</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715070822 -0300" stop="20260715073249 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715073249 -0300" stop="20260715075716 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 19</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 19</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715075716 -0300" stop="20260715082109 -0300" channel="htokids">
+    <title lang="pt">[S0.E15] O Show do Garfield - A curva no tempo Senhor do tempo</title>
+    <desc lang="pt">[S0.E15] O Show do Garfield - A curva no tempo Senhor do tempo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715082109 -0300" stop="20260715084450 -0300" channel="htokids">
+    <title lang="pt">[S0.E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</title>
+    <desc lang="pt">[S0.E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715084450 -0300" stop="20260715090833 -0300" channel="htokids">
+    <title lang="pt">[S0.E18] O Show do Garfield - Mundo de gatos O carteiro substituto</title>
+    <desc lang="pt">[S0.E18] O Show do Garfield - Mundo de gatos O carteiro substituto</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715090833 -0300" stop="20260715102845 -0300" channel="htokids">
+    <title lang="pt">Garfield: O Filme</title>
+    <desc lang="pt">O gato mais famoso do mundo, Garfield, passa seu tempo dormindo, comendo lasanha e aprontando travessuras, até que seu dono Jon se apaixona por uma linda veterinária chamada Liz. Ela convence Jon a adotar Odie, um filhote de cachorro adoravelmente tolinho, que imediatamente coloca a confortável vida de Garfield de pernas para o ar. Quando um malígno treinador de cães sequestra Odie, Garfield tem que se levantar do sofá e comandar a heróica operação de resgate.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/sFkRpWVC9PDop5IGvcHF1ZeGqIQ.jpg"/>
+    <date>2004</date>
+  </programme>
+  <programme start="20260715102845 -0300" stop="20260715115442 -0300" channel="htokids">
+    <title lang="pt">Dois Irmãos: Uma Jornada Fantástica</title>
+    <desc lang="pt">Em um mundo transformado, no qual as criaturas não dependiam mais da magia para viver, dois irmãos elfos recebem um cajado de bruxo de seu falecido pai, capaz de trazê-lo de volta à vida. Inexperientes com qualquer tipo de magia, Ian e Barley não conseguem executar o feitiço e acabam gerando uma criatura sem cabeça. Para passar mais um dia com seu pai, eles embarcam em uma jornada fantástica. Ao perceber a ausência dos filhos, sua mãe se une à uma lendária manticora para encontrá-los.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg"/>
+    <date>2020</date>
+  </programme>
+  <programme start="20260715115442 -0300" stop="20260715132040 -0300" channel="htokids">
+    <title lang="pt">Madagascar</title>
+    <desc lang="pt">O leão Alex é a grande atração do zoológico do Central Park, em Nova York. Ele e seus melhores amigos, a zebra Marty, a girafa Melman e a hipopótamo Gloria, sempre passaram a vida em cativeiro e desconhecem o que é morar na selva. Curioso em saber o que há por trás dos muros do zoo, Marty decide fugir e explorar o mundo. Ao perceberem, Alex, Gloria e Melman decidem partir à sua procura. O trio encontra Marty na estação Grand Central do metrô, mas antes que consigam voltar para casa são atingidos por dardos tranquilizantes e capturados. Embarcados em um navio rumo à África, eles acabam na ilha de Madagascar, onde precisam encontrar meios de sobrevivência em uma selva verdadeira.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/9OFYnKQBdSfoSunwkImoTtYo9S9.jpg"/>
+    <date>2005</date>
+  </programme>
+  <programme start="20260715132040 -0300" stop="20260715145942 -0300" channel="htokids">
+    <title lang="pt">Silent Scream</title>
+    <desc lang="pt">Silent Scream</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1BnnPjTqaypoaMNClUuRtvHkD6p.jpg"/>
+    <date>1990</date>
+  </programme>
+  <programme start="20260715145942 -0300" stop="20260715162627 -0300" channel="htokids">
+    <title lang="pt">O Fantástico Sr. Raposo</title>
+    <desc lang="pt">O Sr. Raposo e a Sra. Raposa levam uma vida feliz com seu filho excêntrico Ash e Kristofferson, o sobrinho que está de visita. Isso até o Sr. Raposo voltar aos velhos hábitos e planejar o maior roubo de galinhas que o mundo animal já viu.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1Ey4LYUzTqzizPNjcBi20pU9joC.jpg"/>
+    <date>2009</date>
+  </programme>
+  <programme start="20260715162627 -0300" stop="20260715171214 -0300" channel="htokids">
+    <title lang="pt">Os Cavaleiros do Zodíaco: O Santo Guerreiro</title>
+    <desc lang="pt">Eris, a deusa do caos, encarna na jovem Eiri e sequestra Saori Kido, com o objetivo de roubar seus poderes usando o pomo dourado. Os Cavaleiros de Bronze vão até o santuário de Eris para resgatar Saori, mas precisam enfrentar um grupo de cavaleiros traidores que agora são fantasmas a mando da deusa.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nziTxFxx0l2hO7ZddZo903kVVU0.jpg"/>
+    <date>1987</date>
+  </programme>
+  <programme start="20260715171214 -0300" stop="20260715185305 -0300" channel="htokids">
+    <title lang="pt">Ponyo - Uma Amizade que Veio do Mar</title>
+    <desc lang="pt">Um garoto de 5 anos chamado Sosuke fica amigo de uma princesa peixinho-dourado chamada Ponyo, que quer desesperadamente virar humana.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/cvpsmNWc8nyePJMbyMc9X5lLN6L.jpg"/>
+    <date>2008</date>
+  </programme>
+  <programme start="20260715185305 -0300" stop="20260715191655 -0300" channel="htokids">
+    <title lang="pt">02</title>
+    <desc lang="pt">02</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715191655 -0300" stop="20260715194045 -0300" channel="htokids">
+    <title lang="pt">03</title>
+    <desc lang="pt">03</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715194045 -0300" stop="20260715200435 -0300" channel="htokids">
+    <title lang="pt">05</title>
+    <desc lang="pt">05</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715200435 -0300" stop="20260715202902 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 22</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 22</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715202902 -0300" stop="20260715205329 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 21</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 21</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715205329 -0300" stop="20260715211756 -0300" channel="htokids">
+    <title lang="pt">Akai Koudan Zillion Episodio 19</title>
+    <desc lang="pt">Akai Koudan Zillion Episodio 19</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715211756 -0300" stop="20260715214149 -0300" channel="htokids">
+    <title lang="pt">[S0.E15] O Show do Garfield - A curva no tempo Senhor do tempo</title>
+    <desc lang="pt">[S0.E15] O Show do Garfield - A curva no tempo Senhor do tempo</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715214149 -0300" stop="20260715220530 -0300" channel="htokids">
+    <title lang="pt">[S0.E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</title>
+    <desc lang="pt">[S0.E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715220530 -0300" stop="20260715222913 -0300" channel="htokids">
+    <title lang="pt">[S0.E18] O Show do Garfield - Mundo de gatos O carteiro substituto</title>
+    <desc lang="pt">[S0.E18] O Show do Garfield - Mundo de gatos O carteiro substituto</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260715222913 -0300" stop="20260715234925 -0300" channel="htokids">
+    <title lang="pt">Garfield: O Filme</title>
+    <desc lang="pt">O gato mais famoso do mundo, Garfield, passa seu tempo dormindo, comendo lasanha e aprontando travessuras, até que seu dono Jon se apaixona por uma linda veterinária chamada Liz. Ela convence Jon a adotar Odie, um filhote de cachorro adoravelmente tolinho, que imediatamente coloca a confortável vida de Garfield de pernas para o ar. Quando um malígno treinador de cães sequestra Odie, Garfield tem que se levantar do sofá e comandar a heróica operação de resgate.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/sFkRpWVC9PDop5IGvcHF1ZeGqIQ.jpg"/>
+    <date>2004</date>
+  </programme>
+  <programme start="20260716000000 -0300" stop="20260716011646 -0300" channel="htokids">
+    <title lang="pt">Batman do Futuro: O Retorno do Coringa</title>
+    <desc lang="pt">Enquanto busca descobrir os segredos por trás do Coringa, Terry McGinnis, o novo Batman, descobre também a verdade por trás do maior mistério da carreira do Batman original: a verdadeira história em que Bruce Wayne e o Coringa se enfrentaram pela última vez. Mas quando o Coringa retorna à ativa e quase mata Wayne, é hora do novo Batman vingar seu mentor e acabar de uma vez por todas com a ameaça do palhaço assassino.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/wd9fppMrD3KbH8jAMTqCF28QejD.jpg"/>
+    <date>2000</date>
+  </programme>
+  <programme start="20260716011646 -0300" stop="20260716020233 -0300" channel="htokids">
+    <title lang="pt">Os Cavaleiros do Zodíaco: O Santo Guerreiro</title>
+    <desc lang="pt">Eris, a deusa do caos, encarna na jovem Eiri e sequestra Saori Kido, com o objetivo de roubar seus poderes usando o pomo dourado. Os Cavaleiros de Bronze vão até o santuário de Eris para resgatar Saori, mas precisam enfrentar um grupo de cavaleiros traidores que agora são fantasmas a mando da deusa.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nziTxFxx0l2hO7ZddZo903kVVU0.jpg"/>
+    <date>1987</date>
+  </programme>
+  <programme start="20260716020233 -0300" stop="20260716031424 -0300" channel="htokids">
+    <title lang="pt">Piu-Piu Dá a Volta ao Mundo</title>
+    <desc lang="pt">Vovó aposta com um rico senhor chamado coronel Rimfire que seu canarinho, Piu-Piu, é mais inteligente que qualquer gato. Para isso Piu-Piu terá que dar a volta ao mundo em 80 dias, visitando países e colecionando “vistos” com as patas dos gatos.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/uN5eJDFF5VuL8IuPVUdjI3Oe9Yd.jpg"/>
+    <date>2000</date>
+  </programme>
+  <programme start="20260716031424 -0300" stop="20260716043806 -0300" channel="htokids">
+    <title lang="pt">Três Espiãs Demais: O Filme</title>
+    <desc lang="pt">Sam, Clover e Alex, que acabaram de chegar na escola de Beverly Hills, são recrutadas pelas líderes WOOHP - Organização Mundial de Proteção Humana - para se tornarem espiãs internacionais.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ooz0jOHw6M7oA2UKoGz7hycWZEh.jpg"/>
+    <date>2009</date>
+  </programme>
+  <programme start="20260716043806 -0300" stop="20260716050149 -0300" channel="htokids">
+    <title lang="pt">[S0.E04] O Show do Garfield - O gapto Agente X</title>
+    <desc lang="pt">[S0.E04] O Show do Garfield - O gapto Agente X</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260716050149 -0300" stop="20260716052524 -0300" channel="htokids">
+    <title lang="pt">[S0.E06] O Show do Garfield - Nermal, o rei À procura de Pookie</title>
+    <desc lang="pt">[S0.E06] O Show do Garfield - Nermal, o rei À procura de Pookie</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260716052524 -0300" stop="20260716054905 -0300" channel="htokids">
+    <title lang="pt">[S0.E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</title>
+    <desc lang="pt">[S0.E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260716054905 -0300" stop="20260716061034 -0300" channel="htokids">
+    <title lang="pt">[S02.E02] Os Jovens Titãs em Ação - Piratas De olho em você</title>
+    <desc lang="pt">[S02.E02] Os Jovens Titãs em Ação - Piratas De olho em você</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260716061034 -0300" stop="20260716063208 -0300" channel="htokids">
+    <title lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</title>
+    <desc lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260716063208 -0300" stop="20260716065351 -0300" channel="htokids">
+    <title lang="pt">[S01.E26] Os Jovens Titãs em Ação - Mágica de verdade O mago dos fantoches</title>
+    <desc lang="pt">[S01.E26] Os Jovens Titãs em Ação - Mágica de verdade O mago dos fantoches</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260716065351 -0300" stop="20260716082258 -0300" channel="htokids">
+    <title lang="pt">A Bailarina</title>
+    <desc lang="pt">Felicie é uma menina órfã apaixonada pela dança. Ao lado do seu melhor amigo Victor, que deseja se tornar um grande inventor, eles desenvolvem um grande plano de fuga para conseguirem o que querem. Eles fogem do orfanato em que vivem para Paris, a Cidade Luz, onde a torre Eiffel ainda está sendo construída. Felicie terá que se superar e aprender com seus erros para tornar o seu grande sonho em realidade: ser uma grande bailarina da Ópera Nacional de Paris.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/xKPMlQ3v6KJD3u6ik3urzGesh5g.jpg"/>
+    <date>2016</date>
+  </programme>
+  <programme start="20260716082258 -0300" stop="20260716095459 -0300" channel="htokids">
+    <title lang="pt">Alvin e os Esquilos: Na Estrada</title>
+    <desc lang="pt">Quando Alvin, Simon e Theodore pensam que Dave poderá abandoná-los por conta de sua nova namorada e do irritante filho dela, os esquilos se apressam em ir a Miami para impedir Dave de pedir a garota em casamento e, assim, manter a família unida.</desc>
+    <category lang="pt">Família</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1XuMjOFkfSpMz0ID6SSG2ISawVP.jpg"/>
+    <date>2015</date>
+  </programme>
+  <programme start="20260716095459 -0300" stop="20260716113929 -0300" channel="htokids">
+    <title lang="pt">Lego Batman: O Filme</title>
+    <desc lang="pt">No spin-off de Uma Aventura Lego, Batman (Will Arnett) descobre que adotou acidentalmente um garoto órfão. Ele se torna ninguém menos que seu ajudante Robin (Michael Cera). A dupla formada pelo arrogante Homem-Morcego e o seu empolgado ajudante deve combater o crime e prender o Coringa (Zach Galifianakis).</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/jUZAAKHfHwZj8bEvghaY9MrGCRG.jpg"/>
+    <date>2017</date>
+  </programme>
+  <programme start="20260716113929 -0300" stop="20260716131149 -0300" channel="htokids">
+    <title lang="pt">The Fest</title>
+    <desc lang="pt">The Fest</desc>
+    <category lang="pt">Program</category>
+    <date>2005</date>
+  </programme>
+  <programme start="20260716131149 -0300" stop="20260716142835 -0300" channel="htokids">
+    <title lang="pt">Batman do Futuro: O Retorno do Coringa</title>
+    <desc lang="pt">Enquanto busca descobrir os segredos por trás do Coringa, Terry McGinnis, o novo Batman, descobre também a verdade por trás do maior mistério da carreira do Batman original: a verdadeira história em que Bruce Wayne e o Coringa se enfrentaram pela última vez. Mas quando o Coringa retorna à ativa e quase mata Wayne, é hora do novo Batman vingar seu mentor e acabar de uma vez por todas com a ameaça do palhaço assassino.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/wd9fppMrD3KbH8jAMTqCF28QejD.jpg"/>
+    <date>2000</date>
+  </programme>
+  <programme start="20260716142835 -0300" stop="20260716151422 -0300" channel="htokids">
+    <title lang="pt">Os Cavaleiros do Zodíaco: O Santo Guerreiro</title>
+    <desc lang="pt">Eris, a deusa do caos, encarna na jovem Eiri e sequestra Saori Kido, com o objetivo de roubar seus poderes usando o pomo dourado. Os Cavaleiros de Bronze vão até o santuário de Eris para resgatar Saori, mas precisam enfrentar um grupo de cavaleiros traidores que agora são fantasmas a mando da deusa.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nziTxFxx0l2hO7ZddZo903kVVU0.jpg"/>
+    <date>1987</date>
+  </programme>
+  <programme start="20260716151422 -0300" stop="20260716162613 -0300" channel="htokids">
+    <title lang="pt">Piu-Piu Dá a Volta ao Mundo</title>
+    <desc lang="pt">Vovó aposta com um rico senhor chamado coronel Rimfire que seu canarinho, Piu-Piu, é mais inteligente que qualquer gato. Para isso Piu-Piu terá que dar a volta ao mundo em 80 dias, visitando países e colecionando “vistos” com as patas dos gatos.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/uN5eJDFF5VuL8IuPVUdjI3Oe9Yd.jpg"/>
+    <date>2000</date>
+  </programme>
+  <programme start="20260716162613 -0300" stop="20260716174955 -0300" channel="htokids">
+    <title lang="pt">Três Espiãs Demais: O Filme</title>
+    <desc lang="pt">Sam, Clover e Alex, que acabaram de chegar na escola de Beverly Hills, são recrutadas pelas líderes WOOHP - Organização Mundial de Proteção Humana - para se tornarem espiãs internacionais.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ooz0jOHw6M7oA2UKoGz7hycWZEh.jpg"/>
+    <date>2009</date>
+  </programme>
+  <programme start="20260716174955 -0300" stop="20260716181338 -0300" channel="htokids">
+    <title lang="pt">[S0.E04] O Show do Garfield - O gapto Agente X</title>
+    <desc lang="pt">[S0.E04] O Show do Garfield - O gapto Agente X</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260716181338 -0300" stop="20260716183713 -0300" channel="htokids">
+    <title lang="pt">[S0.E06] O Show do Garfield - Nermal, o rei À procura de Pookie</title>
+    <desc lang="pt">[S0.E06] O Show do Garfield - Nermal, o rei À procura de Pookie</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260716183713 -0300" stop="20260716190054 -0300" channel="htokids">
+    <title lang="pt">[S0.E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</title>
+    <desc lang="pt">[S0.E12] O Show do Garfield - Na fazenda O concurso de animais de estimação</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260716190054 -0300" stop="20260716192223 -0300" channel="htokids">
+    <title lang="pt">[S02.E02] Os Jovens Titãs em Ação - Piratas De olho em você</title>
+    <desc lang="pt">[S02.E02] Os Jovens Titãs em Ação - Piratas De olho em você</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260716192223 -0300" stop="20260716194357 -0300" channel="htokids">
+    <title lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</title>
+    <desc lang="pt">[S02.E04] Os Jovens Titãs em Ação - Na terceira idade Conhecimento</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260716194357 -0300" stop="20260716200540 -0300" channel="htokids">
+    <title lang="pt">[S01.E26] Os Jovens Titãs em Ação - Mágica de verdade O mago dos fantoches</title>
+    <desc lang="pt">[S01.E26] Os Jovens Titãs em Ação - Mágica de verdade O mago dos fantoches</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260716200540 -0300" stop="20260716213447 -0300" channel="htokids">
+    <title lang="pt">A Bailarina</title>
+    <desc lang="pt">Felicie é uma menina órfã apaixonada pela dança. Ao lado do seu melhor amigo Victor, que deseja se tornar um grande inventor, eles desenvolvem um grande plano de fuga para conseguirem o que querem. Eles fogem do orfanato em que vivem para Paris, a Cidade Luz, onde a torre Eiffel ainda está sendo construída. Felicie terá que se superar e aprender com seus erros para tornar o seu grande sonho em realidade: ser uma grande bailarina da Ópera Nacional de Paris.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/xKPMlQ3v6KJD3u6ik3urzGesh5g.jpg"/>
+    <date>2016</date>
+  </programme>
+  <programme start="20260716213447 -0300" stop="20260716230648 -0300" channel="htokids">
+    <title lang="pt">Alvin e os Esquilos: Na Estrada</title>
+    <desc lang="pt">Quando Alvin, Simon e Theodore pensam que Dave poderá abandoná-los por conta de sua nova namorada e do irritante filho dela, os esquilos se apressam em ir a Miami para impedir Dave de pedir a garota em casamento e, assim, manter a família unida.</desc>
+    <category lang="pt">Família</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1XuMjOFkfSpMz0ID6SSG2ISawVP.jpg"/>
+    <date>2015</date>
+  </programme>
+  <programme start="20260716230648 -0300" stop="20260717005118 -0300" channel="htokids">
+    <title lang="pt">Lego Batman: O Filme</title>
+    <desc lang="pt">No spin-off de Uma Aventura Lego, Batman (Will Arnett) descobre que adotou acidentalmente um garoto órfão. Ele se torna ninguém menos que seu ajudante Robin (Michael Cera). A dupla formada pelo arrogante Homem-Morcego e o seu empolgado ajudante deve combater o crime e prender o Coringa (Zach Galifianakis).</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/jUZAAKHfHwZj8bEvghaY9MrGCRG.jpg"/>
+    <date>2017</date>
+  </programme>
 </tv>
