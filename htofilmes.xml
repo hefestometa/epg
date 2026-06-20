@@ -430,8 +430,10 @@
   </programme>
   <programme start="20260503090323 -0300" stop="20260503103734 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260503103734 -0300" stop="20260503125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
@@ -448,9 +450,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260503142708 -0300" stop="20260503160434 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260503160434 -0300" stop="20260503175400 -0300" channel="htofilmes">
     <title lang="pt">Amizade Colorida</title>
@@ -864,14 +868,18 @@
     <date>2010</date>
   </programme>
   <programme start="20260508034810 -0300" stop="20260508052259 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260508052259 -0300" stop="20260508065518 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260508065518 -0300" stop="20260508082030 -0300" channel="htofilmes">
     <title lang="pt">Naruto Shippuden 4   A Torre Perdida</title>
@@ -934,9 +942,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260508233120 -0300" stop="20260509010609 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260509000000 -0300" stop="20260509013836 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
@@ -1039,8 +1049,10 @@
   </programme>
   <programme start="20260510035506 -0300" stop="20260510052917 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260510052917 -0300" stop="20260510072816 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
@@ -1092,9 +1104,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260510181612 -0300" stop="20260510194831 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260510194831 -0300" stop="20260510221112 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
@@ -1112,8 +1126,10 @@
   </programme>
   <programme start="20260510234337 -0300" stop="20260511011748 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260511000000 -0300" stop="20260511020422 -0300" channel="htofilmes">
     <title lang="pt">XXX - Triplo X</title>
@@ -1221,8 +1237,10 @@
   </programme>
   <programme start="20260512035506 -0300" stop="20260512052917 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260512052917 -0300" stop="20260512072816 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
@@ -1274,9 +1292,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260512181612 -0300" stop="20260512194831 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260512194831 -0300" stop="20260512221112 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
@@ -1294,8 +1314,10 @@
   </programme>
   <programme start="20260512234337 -0300" stop="20260513011748 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260513000000 -0300" stop="20260513020422 -0300" channel="htofilmes">
     <title lang="pt">XXX - Triplo X</title>
@@ -1645,9 +1667,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260516120045 -0300" stop="20260516133534 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260516133534 -0300" stop="20260516150122 -0300" channel="htofilmes">
     <title lang="pt">O Feitiço Do Mal</title>
@@ -1722,8 +1746,10 @@
   </programme>
   <programme start="20260517090323 -0300" stop="20260517103734 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260517103734 -0300" stop="20260517125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
@@ -1740,9 +1766,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260517142708 -0300" stop="20260517160434 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260517160434 -0300" stop="20260517175400 -0300" channel="htofilmes">
     <title lang="pt">Amizade Colorida</title>
@@ -1927,9 +1955,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260519120045 -0300" stop="20260519133534 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260519133534 -0300" stop="20260519150122 -0300" channel="htofilmes">
     <title lang="pt">O Feitiço Do Mal</title>
@@ -2155,14 +2185,18 @@
     <date>2010</date>
   </programme>
   <programme start="20260522034810 -0300" stop="20260522052259 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260522052259 -0300" stop="20260522065518 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260522065518 -0300" stop="20260522082030 -0300" channel="htofilmes">
     <title lang="pt">Naruto Shippuden 4   A Torre Perdida</title>
@@ -2225,9 +2259,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260522233120 -0300" stop="20260523010609 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260523000000 -0300" stop="20260523013836 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
@@ -2330,8 +2366,10 @@
   </programme>
   <programme start="20260524035506 -0300" stop="20260524052917 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260524052917 -0300" stop="20260524072816 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
@@ -2383,9 +2421,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260524181612 -0300" stop="20260524194831 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260524194831 -0300" stop="20260524221112 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
@@ -2403,8 +2443,10 @@
   </programme>
   <programme start="20260524234337 -0300" stop="20260525011748 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260525000000 -0300" stop="20260525020422 -0300" channel="htofilmes">
     <title lang="pt">XXX - Triplo X</title>
@@ -2553,9 +2595,11 @@
     <date>2004</date>
   </programme>
   <programme start="20260526161713 -0300" stop="20260526175202 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260526175202 -0300" stop="20260526193245 -0300" channel="htofilmes">
     <title lang="pt">O julgamento</title>
@@ -2620,8 +2664,10 @@
   </programme>
   <programme start="20260527090323 -0300" stop="20260527103734 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260527103734 -0300" stop="20260527125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
@@ -2638,9 +2684,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260527142708 -0300" stop="20260527160434 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260527160434 -0300" stop="20260527175400 -0300" channel="htofilmes">
     <title lang="pt">Amizade Colorida</title>
@@ -2714,8 +2762,10 @@
   </programme>
   <programme start="20260528090323 -0300" stop="20260528103734 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260528103734 -0300" stop="20260528125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
@@ -2732,9 +2782,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260528142708 -0300" stop="20260528160434 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260528160434 -0300" stop="20260528175400 -0300" channel="htofilmes">
     <title lang="pt">Amizade Colorida</title>
@@ -2924,9 +2976,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260530120045 -0300" stop="20260530133534 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260530133534 -0300" stop="20260530150122 -0300" channel="htofilmes">
     <title lang="pt">O Feitiço Do Mal</title>
@@ -3001,8 +3055,10 @@
   </programme>
   <programme start="20260531090323 -0300" stop="20260531103734 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260531103734 -0300" stop="20260531125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
@@ -3019,9 +3075,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260531142708 -0300" stop="20260531160434 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260531160434 -0300" stop="20260531175400 -0300" channel="htofilmes">
     <title lang="pt">Amizade Colorida</title>
@@ -3419,14 +3477,18 @@
     <date>2010</date>
   </programme>
   <programme start="20260605034810 -0300" stop="20260605052259 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260605052259 -0300" stop="20260605065518 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260605065518 -0300" stop="20260605082030 -0300" channel="htofilmes">
     <title lang="pt">Naruto Shippuden 4   A Torre Perdida</title>
@@ -3489,9 +3551,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260605233120 -0300" stop="20260606010609 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260606000000 -0300" stop="20260606013836 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
@@ -3594,8 +3658,10 @@
   </programme>
   <programme start="20260607035506 -0300" stop="20260607052917 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260607052917 -0300" stop="20260607072816 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
@@ -3647,9 +3713,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260607181612 -0300" stop="20260607194831 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260607194831 -0300" stop="20260607221112 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
@@ -3667,8 +3735,10 @@
   </programme>
   <programme start="20260607234337 -0300" stop="20260608011748 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260608000000 -0300" stop="20260608020422 -0300" channel="htofilmes">
     <title lang="pt">XXX - Triplo X</title>
@@ -3817,9 +3887,11 @@
     <date>2004</date>
   </programme>
   <programme start="20260609161713 -0300" stop="20260609175202 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260609175202 -0300" stop="20260609193245 -0300" channel="htofilmes">
     <title lang="pt">O julgamento</title>
@@ -4215,9 +4287,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260613120045 -0300" stop="20260613133534 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260613133534 -0300" stop="20260613150122 -0300" channel="htofilmes">
     <title lang="pt">O Feitiço Do Mal</title>
@@ -4347,9 +4421,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260615000000 -0300" stop="20260615013726 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260615013726 -0300" stop="20260615030810 -0300" channel="htofilmes">
     <title lang="pt">Atividade Paranormal: Tóquio</title>
@@ -4401,9 +4477,11 @@
     <date>2014</date>
   </programme>
   <programme start="20260615140046 -0300" stop="20260615153812 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260615153812 -0300" stop="20260615170856 -0300" channel="htofilmes">
     <title lang="pt">Atividade Paranormal: Tóquio</title>
@@ -4469,9 +4547,11 @@
     <date>1985</date>
   </programme>
   <programme start="20260616071930 -0300" stop="20260616085149 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260616085149 -0300" stop="20260616101457 -0300" channel="htofilmes">
     <title lang="pt">O Natal Encantado</title>
@@ -4523,9 +4603,11 @@
     <date>1985</date>
   </programme>
   <programme start="20260616205223 -0300" stop="20260616222442 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260616222442 -0300" stop="20260616234750 -0300" channel="htofilmes">
     <title lang="pt">O Natal Encantado</title>
@@ -4835,9 +4917,11 @@
     <date>2004</date>
   </programme>
   <programme start="20260620041109 -0300" stop="20260620054835 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260620054835 -0300" stop="20260620073411 -0300" channel="htofilmes">
     <title lang="pt">Confiar</title>
@@ -4889,9 +4973,11 @@
     <date>2004</date>
   </programme>
   <programme start="20260620180830 -0300" stop="20260620194556 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260620194556 -0300" stop="20260620213132 -0300" channel="htofilmes">
     <title lang="pt">Confiar</title>
@@ -5275,14 +5361,18 @@
     <date>2010</date>
   </programme>
   <programme start="20260625034810 -0300" stop="20260625052259 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260625052259 -0300" stop="20260625065518 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260625065518 -0300" stop="20260625082030 -0300" channel="htofilmes">
     <title lang="pt">Naruto Shippuden 4   A Torre Perdida</title>
@@ -5345,9 +5435,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260625233120 -0300" stop="20260626010609 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260626000000 -0300" stop="20260626013836 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
@@ -5450,8 +5542,10 @@
   </programme>
   <programme start="20260627035506 -0300" stop="20260627052917 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260627052917 -0300" stop="20260627072816 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
@@ -5503,9 +5597,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260627181612 -0300" stop="20260627194831 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260627194831 -0300" stop="20260627221112 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
@@ -5523,8 +5619,10 @@
   </programme>
   <programme start="20260627234337 -0300" stop="20260628011748 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
-    <desc lang="pt">Adrenalina</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Chev Chelios é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ygBQ8FdjFRgv1lDVG7V4Io3NwWg.jpg"/>
+    <date>2006</date>
   </programme>
   <programme start="20260628000000 -0300" stop="20260628020422 -0300" channel="htofilmes">
     <title lang="pt">XXX - Triplo X</title>
@@ -5673,9 +5771,11 @@
     <date>2004</date>
   </programme>
   <programme start="20260629161713 -0300" stop="20260629175202 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260629175202 -0300" stop="20260629193245 -0300" channel="htofilmes">
     <title lang="pt">O julgamento</title>
@@ -6048,9 +6148,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260703120045 -0300" stop="20260703133534 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260703133534 -0300" stop="20260703150122 -0300" channel="htofilmes">
     <title lang="pt">O Feitiço Do Mal</title>
@@ -6180,9 +6282,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260705000000 -0300" stop="20260705013726 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260705013726 -0300" stop="20260705030810 -0300" channel="htofilmes">
     <title lang="pt">Atividade Paranormal: Tóquio</title>
@@ -6234,9 +6338,11 @@
     <date>2014</date>
   </programme>
   <programme start="20260705140046 -0300" stop="20260705153812 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260705153812 -0300" stop="20260705170856 -0300" channel="htofilmes">
     <title lang="pt">Atividade Paranormal: Tóquio</title>
@@ -6302,9 +6408,11 @@
     <date>1985</date>
   </programme>
   <programme start="20260706071930 -0300" stop="20260706085149 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260706085149 -0300" stop="20260706101457 -0300" channel="htofilmes">
     <title lang="pt">O Natal Encantado</title>
@@ -6356,9 +6464,11 @@
     <date>1985</date>
   </programme>
   <programme start="20260706205223 -0300" stop="20260706222442 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260706222442 -0300" stop="20260706234750 -0300" channel="htofilmes">
     <title lang="pt">O Natal Encantado</title>
@@ -6668,9 +6778,11 @@
     <date>2004</date>
   </programme>
   <programme start="20260710041109 -0300" stop="20260710054835 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260710054835 -0300" stop="20260710073411 -0300" channel="htofilmes">
     <title lang="pt">Confiar</title>
@@ -6722,9 +6834,11 @@
     <date>2004</date>
   </programme>
   <programme start="20260710180830 -0300" stop="20260710194556 -0300" channel="htofilmes">
-    <title lang="pt">Apartamento 2012 - A Insfestação</title>
-    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">1303: Apartamento do Mal</title>
+    <desc lang="pt">Uma história de fantasmas que tranforma a relação de amor/ódio entre mãe e filha em um horripilante conto de terror.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n3MlYZPW6erXCyDf2EHf269qUnu.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260710194556 -0300" stop="20260710213132 -0300" channel="htofilmes">
     <title lang="pt">Confiar</title>
@@ -6973,9 +7087,11 @@
     <date>2019</date>
   </programme>
   <programme start="20260713095745 -0300" stop="20260713113004 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260713113004 -0300" stop="20260713135005 -0300" channel="htofilmes">
     <title lang="pt">Karate Kid</title>
@@ -7058,9 +7174,11 @@
     <date>1991</date>
   </programme>
   <programme start="20260714080733 -0300" stop="20260714094222 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260714094222 -0300" stop="20260714113144 -0300" channel="htofilmes">
     <title lang="pt">Nosso Lar</title>
@@ -7070,9 +7188,11 @@
     <date>2010</date>
   </programme>
   <programme start="20260714113144 -0300" stop="20260714130403 -0300" channel="htofilmes">
-    <title lang="pt">Morte no funeral</title>
-    <desc lang="pt">Morte no funeral</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Morte no Funeral</title>
+    <desc lang="pt">Uma família desajustada se junta para o enterro do patriarca. Quando um homem misterioso aparece e ameaça chantagear a família com um segredo obscuro do falecido, seus filhos tentam de tudo para não deixar que os presentes descubram.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/raHwBfrpOQ2B24EXg2ntTD1Qn4g.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260714130403 -0300" stop="20260714145122 -0300" channel="htofilmes">
     <title lang="pt">O solteirão</title>
@@ -7115,9 +7235,11 @@
     <date>1991</date>
   </programme>
   <programme start="20260714225855 -0300" stop="20260715003344 -0300" channel="htofilmes">
-    <title lang="pt">Meu malvado favorito</title>
-    <desc lang="pt">Meu malvado favorito</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260715000000 -0300" stop="20260715014719 -0300" channel="htofilmes">
     <title lang="pt">O solteirão</title>
