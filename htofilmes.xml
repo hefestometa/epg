@@ -28,7 +28,7 @@
     <title lang="pt">A Bússola de Ouro</title>
     <desc lang="pt">Lyra Belacqua é uma órfã que foi criada na Universidade Oxford. No mundo em que vive todas as pessoas têm um "daemon", ou seja, uma manifestação de sua própria alma em forma animal. Lyra leva uma vida tranqüila até ela e seu daemon, Pantalaimon, descobrirem a existência de uma substância misteriosa chamada "pó". Isto provoca um estranho efeito nas crianças, o que faz com que as autoridades religiosas se convençam de que representa o mal. Seguindo o misterioso Lorde Asriel, seu protetor, Lyra parte em busca de uma resposta. Em Londres ela descobre que diversas crianças estão desaparecendo, entre elas Roger, seu melhor amigo. Com a ajuda de um instrumento ancestral, que se parece com uma bússola de ouro, ela parte numa jornada que pode alterar o mundo para sempre.</desc>
     <category lang="pt">Aventura</category>
-    <icon src="https://image.tmdb.org/t/p/w500/A9KqGkas7C6Cp802HhKNGQTDnbw.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/zJMDcGJXFbsT56yTKLE5jdms0VF.jpg"/>
     <date>2007</date>
   </programme>
   <programme start="20260429074640 -0300" stop="20260429093950 -0300" channel="htofilmes">
@@ -39,14 +39,18 @@
     <date>2016</date>
   </programme>
   <programme start="20260429093950 -0300" stop="20260429111215 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260429111215 -0300" stop="20260429124716 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260429124716 -0300" stop="20260429144445 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -57,8 +61,10 @@
   </programme>
   <programme start="20260429144445 -0300" stop="20260429163132 -0300" channel="htofilmes">
     <title lang="pt">A Onda</title>
-    <desc lang="pt">A Onda</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Rainer Wegner, professor de ensino médio, deve ensinar seus alunos sobre autocracia. Devido ao desinteresse deles, propõe um experimento que explique na prática os mecanismos do fascismo e do poder. Wegner se denomina o líder daquele grupo, escolhe o lema “força pela disciplina” e dá ao movimento o nome de A Onda. Em pouco tempo, os alunos começam a propagar o poder da unidade e ameaçar os outros. Quando o jogo fica sério, Wegner decide interrompê-lo. Mas é tarde demais, e A Onda já saiu de seu controle. Baseado em uma história real ocorrida na Califórnia em 1967.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1No5oxuNfsIlAX05ddjOJRcLlM1.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260429163132 -0300" stop="20260429181915 -0300" channel="htofilmes">
     <title lang="pt">A Ocasião Faz O Ladrão</title>
@@ -69,8 +75,10 @@
   </programme>
   <programme start="20260429181915 -0300" stop="20260429200337 -0300" channel="htofilmes">
     <title lang="pt">A Lista</title>
-    <desc lang="pt">A Lista</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Após uma longa investigação, o assassino de aluguel Jesse Weiland é preso pelo detetive Bud Carter. Com medo de enfrentar a prisão, o criminoso aceita ser um informante da polícia, em troca de proteção. Mas quando começa a delatar a rede mafiosa, revelando a existência de uma lista com os próximos alvos dos assassinos, os chefes do crime tentam descobrir o quanto antes a fonte destas informações. Quando o nome de Weiland é descoberto, ele e Carter passam a correr sério risco de morte.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qcKpohw8gFHAo4reNG6s52xn7Y7.jpg"/>
+    <date>2014</date>
   </programme>
   <programme start="20260429200337 -0300" stop="20260429213431 -0300" channel="htofilmes">
     <title lang="pt">A Filha do Meu Melhor Amigo</title>
@@ -118,7 +126,7 @@
     <title lang="pt">A Bússola de Ouro</title>
     <desc lang="pt">Lyra Belacqua é uma órfã que foi criada na Universidade Oxford. No mundo em que vive todas as pessoas têm um "daemon", ou seja, uma manifestação de sua própria alma em forma animal. Lyra leva uma vida tranqüila até ela e seu daemon, Pantalaimon, descobrirem a existência de uma substância misteriosa chamada "pó". Isto provoca um estranho efeito nas crianças, o que faz com que as autoridades religiosas se convençam de que representa o mal. Seguindo o misterioso Lorde Asriel, seu protetor, Lyra parte em busca de uma resposta. Em Londres ela descobre que diversas crianças estão desaparecendo, entre elas Roger, seu melhor amigo. Com a ajuda de um instrumento ancestral, que se parece com uma bússola de ouro, ela parte numa jornada que pode alterar o mundo para sempre.</desc>
     <category lang="pt">Aventura</category>
-    <icon src="https://image.tmdb.org/t/p/w500/A9KqGkas7C6Cp802HhKNGQTDnbw.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/zJMDcGJXFbsT56yTKLE5jdms0VF.jpg"/>
     <date>2007</date>
   </programme>
   <programme start="20260430074640 -0300" stop="20260430093950 -0300" channel="htofilmes">
@@ -129,14 +137,18 @@
     <date>2016</date>
   </programme>
   <programme start="20260430093950 -0300" stop="20260430111215 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260430111215 -0300" stop="20260430124716 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260430124716 -0300" stop="20260430144445 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -147,8 +159,10 @@
   </programme>
   <programme start="20260430144445 -0300" stop="20260430163132 -0300" channel="htofilmes">
     <title lang="pt">A Onda</title>
-    <desc lang="pt">A Onda</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Rainer Wegner, professor de ensino médio, deve ensinar seus alunos sobre autocracia. Devido ao desinteresse deles, propõe um experimento que explique na prática os mecanismos do fascismo e do poder. Wegner se denomina o líder daquele grupo, escolhe o lema “força pela disciplina” e dá ao movimento o nome de A Onda. Em pouco tempo, os alunos começam a propagar o poder da unidade e ameaçar os outros. Quando o jogo fica sério, Wegner decide interrompê-lo. Mas é tarde demais, e A Onda já saiu de seu controle. Baseado em uma história real ocorrida na Califórnia em 1967.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1No5oxuNfsIlAX05ddjOJRcLlM1.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260430163132 -0300" stop="20260430181915 -0300" channel="htofilmes">
     <title lang="pt">A Ocasião Faz O Ladrão</title>
@@ -159,8 +173,10 @@
   </programme>
   <programme start="20260430181915 -0300" stop="20260430200337 -0300" channel="htofilmes">
     <title lang="pt">A Lista</title>
-    <desc lang="pt">A Lista</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Após uma longa investigação, o assassino de aluguel Jesse Weiland é preso pelo detetive Bud Carter. Com medo de enfrentar a prisão, o criminoso aceita ser um informante da polícia, em troca de proteção. Mas quando começa a delatar a rede mafiosa, revelando a existência de uma lista com os próximos alvos dos assassinos, os chefes do crime tentam descobrir o quanto antes a fonte destas informações. Quando o nome de Weiland é descoberto, ele e Carter passam a correr sério risco de morte.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qcKpohw8gFHAo4reNG6s52xn7Y7.jpg"/>
+    <date>2014</date>
   </programme>
   <programme start="20260430200337 -0300" stop="20260430213431 -0300" channel="htofilmes">
     <title lang="pt">A Filha do Meu Melhor Amigo</title>
@@ -208,7 +224,7 @@
     <title lang="pt">A Bússola de Ouro</title>
     <desc lang="pt">Lyra Belacqua é uma órfã que foi criada na Universidade Oxford. No mundo em que vive todas as pessoas têm um "daemon", ou seja, uma manifestação de sua própria alma em forma animal. Lyra leva uma vida tranqüila até ela e seu daemon, Pantalaimon, descobrirem a existência de uma substância misteriosa chamada "pó". Isto provoca um estranho efeito nas crianças, o que faz com que as autoridades religiosas se convençam de que representa o mal. Seguindo o misterioso Lorde Asriel, seu protetor, Lyra parte em busca de uma resposta. Em Londres ela descobre que diversas crianças estão desaparecendo, entre elas Roger, seu melhor amigo. Com a ajuda de um instrumento ancestral, que se parece com uma bússola de ouro, ela parte numa jornada que pode alterar o mundo para sempre.</desc>
     <category lang="pt">Aventura</category>
-    <icon src="https://image.tmdb.org/t/p/w500/A9KqGkas7C6Cp802HhKNGQTDnbw.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/zJMDcGJXFbsT56yTKLE5jdms0VF.jpg"/>
     <date>2007</date>
   </programme>
   <programme start="20260501074640 -0300" stop="20260501093950 -0300" channel="htofilmes">
@@ -219,14 +235,18 @@
     <date>2016</date>
   </programme>
   <programme start="20260501093950 -0300" stop="20260501111215 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260501111215 -0300" stop="20260501124716 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260501124716 -0300" stop="20260501144445 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -237,8 +257,10 @@
   </programme>
   <programme start="20260501144445 -0300" stop="20260501163132 -0300" channel="htofilmes">
     <title lang="pt">A Onda</title>
-    <desc lang="pt">A Onda</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Rainer Wegner, professor de ensino médio, deve ensinar seus alunos sobre autocracia. Devido ao desinteresse deles, propõe um experimento que explique na prática os mecanismos do fascismo e do poder. Wegner se denomina o líder daquele grupo, escolhe o lema “força pela disciplina” e dá ao movimento o nome de A Onda. Em pouco tempo, os alunos começam a propagar o poder da unidade e ameaçar os outros. Quando o jogo fica sério, Wegner decide interrompê-lo. Mas é tarde demais, e A Onda já saiu de seu controle. Baseado em uma história real ocorrida na Califórnia em 1967.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1No5oxuNfsIlAX05ddjOJRcLlM1.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260501163132 -0300" stop="20260501181915 -0300" channel="htofilmes">
     <title lang="pt">A Ocasião Faz O Ladrão</title>
@@ -249,8 +271,10 @@
   </programme>
   <programme start="20260501181915 -0300" stop="20260501200337 -0300" channel="htofilmes">
     <title lang="pt">A Lista</title>
-    <desc lang="pt">A Lista</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Após uma longa investigação, o assassino de aluguel Jesse Weiland é preso pelo detetive Bud Carter. Com medo de enfrentar a prisão, o criminoso aceita ser um informante da polícia, em troca de proteção. Mas quando começa a delatar a rede mafiosa, revelando a existência de uma lista com os próximos alvos dos assassinos, os chefes do crime tentam descobrir o quanto antes a fonte destas informações. Quando o nome de Weiland é descoberto, ele e Carter passam a correr sério risco de morte.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qcKpohw8gFHAo4reNG6s52xn7Y7.jpg"/>
+    <date>2014</date>
   </programme>
   <programme start="20260501200337 -0300" stop="20260501213431 -0300" channel="htofilmes">
     <title lang="pt">A Filha do Meu Melhor Amigo</title>
@@ -310,7 +334,7 @@
     <title lang="pt">A Bússola de Ouro</title>
     <desc lang="pt">Lyra Belacqua é uma órfã que foi criada na Universidade Oxford. No mundo em que vive todas as pessoas têm um "daemon", ou seja, uma manifestação de sua própria alma em forma animal. Lyra leva uma vida tranqüila até ela e seu daemon, Pantalaimon, descobrirem a existência de uma substância misteriosa chamada "pó". Isto provoca um estranho efeito nas crianças, o que faz com que as autoridades religiosas se convençam de que representa o mal. Seguindo o misterioso Lorde Asriel, seu protetor, Lyra parte em busca de uma resposta. Em Londres ela descobre que diversas crianças estão desaparecendo, entre elas Roger, seu melhor amigo. Com a ajuda de um instrumento ancestral, que se parece com uma bússola de ouro, ela parte numa jornada que pode alterar o mundo para sempre.</desc>
     <category lang="pt">Aventura</category>
-    <icon src="https://image.tmdb.org/t/p/w500/A9KqGkas7C6Cp802HhKNGQTDnbw.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/zJMDcGJXFbsT56yTKLE5jdms0VF.jpg"/>
     <date>2007</date>
   </programme>
   <programme start="20260502101849 -0300" stop="20260502114943 -0300" channel="htofilmes">
@@ -329,13 +353,17 @@
   </programme>
   <programme start="20260502134253 -0300" stop="20260502152715 -0300" channel="htofilmes">
     <title lang="pt">A Lista</title>
-    <desc lang="pt">A Lista</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Após uma longa investigação, o assassino de aluguel Jesse Weiland é preso pelo detetive Bud Carter. Com medo de enfrentar a prisão, o criminoso aceita ser um informante da polícia, em troca de proteção. Mas quando começa a delatar a rede mafiosa, revelando a existência de uma lista com os próximos alvos dos assassinos, os chefes do crime tentam descobrir o quanto antes a fonte destas informações. Quando o nome de Weiland é descoberto, ele e Carter passam a correr sério risco de morte.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qcKpohw8gFHAo4reNG6s52xn7Y7.jpg"/>
+    <date>2014</date>
   </programme>
   <programme start="20260502152715 -0300" stop="20260502165940 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260502165940 -0300" stop="20260502184723 -0300" channel="htofilmes">
     <title lang="pt">A Ocasião Faz O Ladrão</title>
@@ -346,8 +374,10 @@
   </programme>
   <programme start="20260502184723 -0300" stop="20260502203410 -0300" channel="htofilmes">
     <title lang="pt">A Onda</title>
-    <desc lang="pt">A Onda</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Rainer Wegner, professor de ensino médio, deve ensinar seus alunos sobre autocracia. Devido ao desinteresse deles, propõe um experimento que explique na prática os mecanismos do fascismo e do poder. Wegner se denomina o líder daquele grupo, escolhe o lema “força pela disciplina” e dá ao movimento o nome de A Onda. Em pouco tempo, os alunos começam a propagar o poder da unidade e ameaçar os outros. Quando o jogo fica sério, Wegner decide interrompê-lo. Mas é tarde demais, e A Onda já saiu de seu controle. Baseado em uma história real ocorrida na Califórnia em 1967.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1No5oxuNfsIlAX05ddjOJRcLlM1.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260502203410 -0300" stop="20260502223113 -0300" channel="htofilmes">
     <title lang="pt">22 Balas</title>
@@ -365,8 +395,10 @@
   </programme>
   <programme start="20260503000000 -0300" stop="20260503013501 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260503013501 -0300" stop="20260503033230 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -377,7 +409,7 @@
   </programme>
   <programme start="20260503033230 -0300" stop="20260503053257 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -436,8 +468,10 @@
   </programme>
   <programme start="20260503191957 -0300" stop="20260503205458 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260503205458 -0300" stop="20260503225227 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -448,7 +482,7 @@
   </programme>
   <programme start="20260503225227 -0300" stop="20260504005254 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -943,7 +977,7 @@
     <title lang="pt">Salt</title>
     <desc lang="pt">Evelyn Salt (Angelina Jolie) jurou servir e honrar seu país. Agora trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã russa infiltrada. Decidida a provar sua inocência, ela foge e passa a usar suas habilidades para proteger não apenas sua vida, mas também a de seu marido.</desc>
     <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg"/>
     <date>2010</date>
   </programme>
   <programme start="20260509105822 -0300" stop="20260509122045 -0300" channel="htofilmes">
@@ -997,9 +1031,11 @@
     <date>2014</date>
   </programme>
   <programme start="20260510022241 -0300" stop="20260510035506 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260510035506 -0300" stop="20260510052917 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
@@ -1068,9 +1104,11 @@
     <date>2014</date>
   </programme>
   <programme start="20260510221112 -0300" stop="20260510234337 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260510234337 -0300" stop="20260511011748 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
@@ -1175,9 +1213,11 @@
     <date>2014</date>
   </programme>
   <programme start="20260512022241 -0300" stop="20260512035506 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260512035506 -0300" stop="20260512052917 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
@@ -1246,9 +1286,11 @@
     <date>2014</date>
   </programme>
   <programme start="20260512221112 -0300" stop="20260512234337 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260512234337 -0300" stop="20260513011748 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
@@ -1645,8 +1687,10 @@
   </programme>
   <programme start="20260517000000 -0300" stop="20260517013501 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260517013501 -0300" stop="20260517033230 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -1657,7 +1701,7 @@
   </programme>
   <programme start="20260517033230 -0300" stop="20260517053257 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -1716,8 +1760,10 @@
   </programme>
   <programme start="20260517191957 -0300" stop="20260517205458 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260517205458 -0300" stop="20260517225227 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -1728,7 +1774,7 @@
   </programme>
   <programme start="20260517225227 -0300" stop="20260518005254 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -2222,7 +2268,7 @@
     <title lang="pt">Salt</title>
     <desc lang="pt">Evelyn Salt (Angelina Jolie) jurou servir e honrar seu país. Agora trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã russa infiltrada. Decidida a provar sua inocência, ela foge e passa a usar suas habilidades para proteger não apenas sua vida, mas também a de seu marido.</desc>
     <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg"/>
     <date>2010</date>
   </programme>
   <programme start="20260523105822 -0300" stop="20260523122045 -0300" channel="htofilmes">
@@ -2276,9 +2322,11 @@
     <date>2014</date>
   </programme>
   <programme start="20260524022241 -0300" stop="20260524035506 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260524035506 -0300" stop="20260524052917 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
@@ -2347,9 +2395,11 @@
     <date>2014</date>
   </programme>
   <programme start="20260524221112 -0300" stop="20260524234337 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260524234337 -0300" stop="20260525011748 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
@@ -2535,8 +2585,10 @@
   </programme>
   <programme start="20260527000000 -0300" stop="20260527013501 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260527013501 -0300" stop="20260527033230 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -2547,7 +2599,7 @@
   </programme>
   <programme start="20260527033230 -0300" stop="20260527053257 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -2606,8 +2658,10 @@
   </programme>
   <programme start="20260527191957 -0300" stop="20260527205458 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260527205458 -0300" stop="20260527225227 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -2618,15 +2672,17 @@
   </programme>
   <programme start="20260527225227 -0300" stop="20260528005254 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
   </programme>
   <programme start="20260528000000 -0300" stop="20260528013501 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260528013501 -0300" stop="20260528033230 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -2637,7 +2693,7 @@
   </programme>
   <programme start="20260528033230 -0300" stop="20260528053257 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -2696,8 +2752,10 @@
   </programme>
   <programme start="20260528191957 -0300" stop="20260528205458 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260528205458 -0300" stop="20260528225227 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -2708,7 +2766,7 @@
   </programme>
   <programme start="20260528225227 -0300" stop="20260529005254 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -2908,8 +2966,10 @@
   </programme>
   <programme start="20260531000000 -0300" stop="20260531013501 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260531013501 -0300" stop="20260531033230 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -2920,7 +2980,7 @@
   </programme>
   <programme start="20260531033230 -0300" stop="20260531053257 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -2979,8 +3039,10 @@
   </programme>
   <programme start="20260531191957 -0300" stop="20260531205458 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260531205458 -0300" stop="20260531225227 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -2991,7 +3053,7 @@
   </programme>
   <programme start="20260531225227 -0300" stop="20260601005254 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -3470,7 +3532,7 @@
     <title lang="pt">Salt</title>
     <desc lang="pt">Evelyn Salt (Angelina Jolie) jurou servir e honrar seu país. Agora trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã russa infiltrada. Decidida a provar sua inocência, ela foge e passa a usar suas habilidades para proteger não apenas sua vida, mas também a de seu marido.</desc>
     <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg"/>
     <date>2010</date>
   </programme>
   <programme start="20260606105822 -0300" stop="20260606122045 -0300" channel="htofilmes">
@@ -3524,9 +3586,11 @@
     <date>2014</date>
   </programme>
   <programme start="20260607022241 -0300" stop="20260607035506 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260607035506 -0300" stop="20260607052917 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
@@ -3595,9 +3659,11 @@
     <date>2014</date>
   </programme>
   <programme start="20260607221112 -0300" stop="20260607234337 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260607234337 -0300" stop="20260608011748 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
@@ -4418,7 +4484,7 @@
     <title lang="pt">Salt</title>
     <desc lang="pt">Evelyn Salt (Angelina Jolie) jurou servir e honrar seu país. Agora trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã russa infiltrada. Decidida a provar sua inocência, ela foge e passa a usar suas habilidades para proteger não apenas sua vida, mas também a de seu marido.</desc>
     <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg"/>
     <date>2010</date>
   </programme>
   <programme start="20260616115901 -0300" stop="20260616133253 -0300" channel="htofilmes">
@@ -4472,7 +4538,7 @@
     <title lang="pt">Salt</title>
     <desc lang="pt">Evelyn Salt (Angelina Jolie) jurou servir e honrar seu país. Agora trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã russa infiltrada. Decidida a provar sua inocência, ela foge e passa a usar suas habilidades para proteger não apenas sua vida, mas também a de seu marido.</desc>
     <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg"/>
     <date>2010</date>
   </programme>
   <programme start="20260617000000 -0300" stop="20260617015446 -0300" channel="htofilmes">
@@ -4578,7 +4644,7 @@
   </programme>
   <programme start="20260618015435 -0300" stop="20260618035502 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -4634,7 +4700,7 @@
   </programme>
   <programme start="20260618163022 -0300" stop="20260618183049 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -5322,7 +5388,7 @@
     <title lang="pt">Salt</title>
     <desc lang="pt">Evelyn Salt (Angelina Jolie) jurou servir e honrar seu país. Agora trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã russa infiltrada. Decidida a provar sua inocência, ela foge e passa a usar suas habilidades para proteger não apenas sua vida, mas também a de seu marido.</desc>
     <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg"/>
     <date>2010</date>
   </programme>
   <programme start="20260626105822 -0300" stop="20260626122045 -0300" channel="htofilmes">
@@ -5376,9 +5442,11 @@
     <date>2014</date>
   </programme>
   <programme start="20260627022241 -0300" stop="20260627035506 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260627035506 -0300" stop="20260627052917 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
@@ -5447,9 +5515,11 @@
     <date>2014</date>
   </programme>
   <programme start="20260627221112 -0300" stop="20260627234337 -0300" channel="htofilmes">
-    <title lang="pt">A mentira</title>
-    <desc lang="pt">A mentira</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
   </programme>
   <programme start="20260627234337 -0300" stop="20260628011748 -0300" channel="htofilmes">
     <title lang="pt">Adrenalina</title>
@@ -6247,7 +6317,7 @@
     <title lang="pt">Salt</title>
     <desc lang="pt">Evelyn Salt (Angelina Jolie) jurou servir e honrar seu país. Agora trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã russa infiltrada. Decidida a provar sua inocência, ela foge e passa a usar suas habilidades para proteger não apenas sua vida, mas também a de seu marido.</desc>
     <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg"/>
     <date>2010</date>
   </programme>
   <programme start="20260706115901 -0300" stop="20260706133253 -0300" channel="htofilmes">
@@ -6301,7 +6371,7 @@
     <title lang="pt">Salt</title>
     <desc lang="pt">Evelyn Salt (Angelina Jolie) jurou servir e honrar seu país. Agora trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã russa infiltrada. Decidida a provar sua inocência, ela foge e passa a usar suas habilidades para proteger não apenas sua vida, mas também a de seu marido.</desc>
     <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg"/>
     <date>2010</date>
   </programme>
   <programme start="20260707000000 -0300" stop="20260707015446 -0300" channel="htofilmes">
@@ -6407,7 +6477,7 @@
   </programme>
   <programme start="20260708015435 -0300" stop="20260708035502 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -6463,7 +6533,7 @@
   </programme>
   <programme start="20260708163022 -0300" stop="20260708183049 -0300" channel="htofilmes">
     <title lang="pt">A Rede Social</title>
-    <desc lang="pt">Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.</desc>
+    <desc lang="pt">Em uma noite de outono, Mark Zuckerberg, um brilhante estudante de Harvard, começa a trabalhar em um novo conceito que acaba se transformando em uma rede social global conhecida como Facebook. Seis anos e 500 milhões de amigos mais tarde, Zuckerberg se torna o mais jovem bilionário da história com o sucesso de sua rede social. No entanto, a sua ascensão sem precedentes traz complicações legais e pessoais.</desc>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTKU02ULMhCWlp3otBrgyRxh6YB.jpg"/>
     <date>2010</date>
@@ -6784,8 +6854,10 @@
   </programme>
   <programme start="20260712032404 -0300" stop="20260712045905 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260712045905 -0300" stop="20260712065634 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -6836,8 +6908,10 @@
   </programme>
   <programme start="20260712171257 -0300" stop="20260712184758 -0300" channel="htofilmes">
     <title lang="pt">A Primeira Vez</title>
-    <desc lang="pt">A Primeira Vez</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Dave (Dylan O'Brien) é platonicamente apaixonado pela melhor amiga Jane (Victoria Justice). Já Aubrey (Britt Robertson) namora Ronny (James Frecheville), um músico que não a compreende. Em uma sexta à noite, os caminhos de Dave e Aubrey se entrelaçarão, e ao longo do fim de semana muitas descobertas serão feitas pelo casal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7Pz55oseP541NY03E0pCmviB1b6.jpg"/>
+    <date>2012</date>
   </programme>
   <programme start="20260712184758 -0300" stop="20260712204527 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -7165,8 +7239,10 @@
   </programme>
   <programme start="20260716032652 -0300" stop="20260716051339 -0300" channel="htofilmes">
     <title lang="pt">A Onda</title>
-    <desc lang="pt">A Onda</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Rainer Wegner, professor de ensino médio, deve ensinar seus alunos sobre autocracia. Devido ao desinteresse deles, propõe um experimento que explique na prática os mecanismos do fascismo e do poder. Wegner se denomina o líder daquele grupo, escolhe o lema “força pela disciplina” e dá ao movimento o nome de A Onda. Em pouco tempo, os alunos começam a propagar o poder da unidade e ameaçar os outros. Quando o jogo fica sério, Wegner decide interrompê-lo. Mas é tarde demais, e A Onda já saiu de seu controle. Baseado em uma história real ocorrida na Califórnia em 1967.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1No5oxuNfsIlAX05ddjOJRcLlM1.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260716051339 -0300" stop="20260716071108 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -7219,8 +7295,10 @@
   </programme>
   <programme start="20260716165958 -0300" stop="20260716184645 -0300" channel="htofilmes">
     <title lang="pt">A Onda</title>
-    <desc lang="pt">A Onda</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">Rainer Wegner, professor de ensino médio, deve ensinar seus alunos sobre autocracia. Devido ao desinteresse deles, propõe um experimento que explique na prática os mecanismos do fascismo e do poder. Wegner se denomina o líder daquele grupo, escolhe o lema “força pela disciplina” e dá ao movimento o nome de A Onda. Em pouco tempo, os alunos começam a propagar o poder da unidade e ameaçar os outros. Quando o jogo fica sério, Wegner decide interrompê-lo. Mas é tarde demais, e A Onda já saiu de seu controle. Baseado em uma história real ocorrida na Califórnia em 1967.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1No5oxuNfsIlAX05ddjOJRcLlM1.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260716184645 -0300" stop="20260716204414 -0300" channel="htofilmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -7254,7 +7332,7 @@
     <title lang="pt">Salt</title>
     <desc lang="pt">Evelyn Salt (Angelina Jolie) jurou servir e honrar seu país. Agora trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã russa infiltrada. Decidida a provar sua inocência, ela foge e passa a usar suas habilidades para proteger não apenas sua vida, mas também a de seu marido.</desc>
     <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg"/>
     <date>2010</date>
   </programme>
   <programme start="20260717031756 -0300" stop="20260717044854 -0300" channel="htofilmes">
@@ -7308,7 +7386,7 @@
     <title lang="pt">Salt</title>
     <desc lang="pt">Evelyn Salt (Angelina Jolie) jurou servir e honrar seu país. Agora trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã russa infiltrada. Decidida a provar sua inocência, ela foge e passa a usar suas habilidades para proteger não apenas sua vida, mas também a de seu marido.</desc>
     <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kqeIJG7VjwkcTR26QHg8D01x8yI.jpg"/>
+    <icon src="https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg"/>
     <date>2010</date>
   </programme>
   <programme start="20260717162544 -0300" stop="20260717175642 -0300" channel="htofilmes">
