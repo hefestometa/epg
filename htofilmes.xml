@@ -3,4 +3,401 @@
   <channel id="htofilmes">
     <display-name>HtoFilmes</display-name>
   </channel>
+  <programme start="20260629000000 -0300" stop="20260629020408 -0300" channel="htofilmes">
+    <title lang="pt">Bad Boys Para Sempre</title>
+    <desc lang="pt">Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/kxV3r4H1BRB3QFySbgFyrlOwwXg.jpg"/>
+    <date>2020</date>
+  </programme>
+  <programme start="20260629020408 -0300" stop="20260629041347 -0300" channel="htofilmes">
+    <title lang="pt">Bruce Lee, Meu Irmão</title>
+    <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260629041347 -0300" stop="20260629062308 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Quatro policiais questionam sua fé e seu papel como pais e maridos após uma tragédia que acontece próximo a casa deles. Juntos, eles tomam uma decisão que muda suas vidas.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg"/>
+    <date>2011</date>
+  </programme>
+  <programme start="20260629062308 -0300" stop="20260629081914 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
+    <date>1985</date>
+  </programme>
+  <programme start="20260629081914 -0300" stop="20260629100857 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg"/>
+    <date>2013</date>
+  </programme>
+  <programme start="20260629100857 -0300" stop="20260629120604 -0300" channel="htofilmes">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260629120604 -0300" stop="20260629140307 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">Depois de anos vivendo fora da lei, Charly Mattei, resolveu nos últimos três anos se dedicar a família e viver harmoniosamente com sua esposa e seus dois filhos pequenos. No entanto, em uma manhã de inverno ele é encontrado em um estacionamento com 22 balas no corpo e apesar de muitos acreditarem que ele havia morrido, Charly misteriosamente sobrevive. Agora ele sai à caça de Tony Zacchia, o único homem que se atreveria a tentar matá-lo. Zacchia cometeu apenas um erro: ele falhou.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/3EkhsU6augJjLU83AiONvs3y97s.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260629140307 -0300" stop="20260629161713 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha de Riddick</title>
+    <desc lang="pt">Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg"/>
+    <date>2004</date>
+  </programme>
+  <programme start="20260629161713 -0300" stop="20260629175202 -0300" channel="htofilmes">
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260629175202 -0300" stop="20260629193245 -0300" channel="htofilmes">
+    <title lang="pt">O Julgamento</title>
+    <desc lang="pt">Mac (Matthew Modine), um advogado abalado emocionalmente que perdeu sua fé em Deus e em si mesmo, quando decide relutantemente pegar um último caso: o do jovem Pete Thomason (Randy Wayne), respondendo por um assassinato de primeiro grau, sob pena de morte. Nada pode prevenir Mac das reviravoltas impressionantes do julgamento decorrente, à medida que o determinado advogado luta por justiça e busca um caminho para sua própria redenção. .</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rOMUEjC9mLPOWsn40qC66C8gOf5.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260629193245 -0300" stop="20260629213653 -0300" channel="htofilmes">
+    <title lang="pt">Bad Boys Para Sempre</title>
+    <desc lang="pt">Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/kxV3r4H1BRB3QFySbgFyrlOwwXg.jpg"/>
+    <date>2020</date>
+  </programme>
+  <programme start="20260629213653 -0300" stop="20260629234632 -0300" channel="htofilmes">
+    <title lang="pt">Bruce Lee, Meu Irmão</title>
+    <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260629234632 -0300" stop="20260630015553 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Quatro policiais questionam sua fé e seu papel como pais e maridos após uma tragédia que acontece próximo a casa deles. Juntos, eles tomam uma decisão que muda suas vidas.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg"/>
+    <date>2011</date>
+  </programme>
+  <programme start="20260630000000 -0300" stop="20260630013809 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline</title>
+    <desc lang="pt">Cymbeline (Ed Harris) é líder de um clube de motociclistas envolvido com tráfico de drogas. Perseguido por policiais corruptos, ele sofre tentativas de ususpação do poder por parte da própria esposa (Milla Jovovich) e ainda precisa lidar com as questões da problemática filha, Imogen (Dakota Johnson).</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/uNajzrrYttWofGj3zu672J3NUbA.jpg"/>
+    <date>2014</date>
+  </programme>
+  <programme start="20260630013809 -0300" stop="20260630035648 -0300" channel="htofilmes">
+    <title lang="pt">Ilha do Medo</title>
+    <desc lang="pt">No verão de 1954, os agentes judiciais Teddy Daniels (DiCaprio) e Chuck Aule (Ruffalo) foram designados para uma ilha remota do porto de Boston para investigar o desaparecimento de uma perigosa assassina (Mortimer) que estava reclusa no hospital psiquiátrico Ashecliffe, um centro penitenciário para criminosos perturbados dirigido pelo sinistro médico John Cawley. (Kingsley). Logo eles descobrem que o centro guarda muitos segredos e que a ilha esconde algo mais perigoso que os pacientes.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260630035648 -0300" stop="20260630054631 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg"/>
+    <date>2013</date>
+  </programme>
+  <programme start="20260630054631 -0300" stop="20260630080902 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Num futuro distante, boa parte da população é controlada por um regime totalitário, que relembra esse domínio realizando um evento anual – e mortal – entre os 12 distritos sob sua tutela. Para salvar sua irmã caçula, a jovem Katniss Everdeen se oferece como voluntária para representar seu distrito na competição e acaba contando com a companhia de Peeta Melark, desafiando não só o sistema dominante, mas também a força dos outros oponentes.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/l6jn53LMu07uPt8A42JWIKi1Beb.jpg"/>
+    <date>2012</date>
+  </programme>
+  <programme start="20260630080902 -0300" stop="20260630094000 -0300" channel="htofilmes">
+    <title lang="pt">Táxi 4</title>
+    <desc lang="pt">Depois de algum tempo de ausência, o comissionário de polícia Gilbert e seus parceiros Emilien e Daniel voltaram com a corda toda, agora numa aventura de tirar o fôlego. Um notório bandido belga consegue enganar os policiais de Marselha quando esta o tem sob custória antes de extraditá-lo para sua prisão na África. Mas as coisas se complicam quando a bela esposa de Emilien infiltra-se na perigosa gangue do criminoso. Num final digno das melhores filmes de ação, o comissário Gilbert mostra toda sua habilidade em manejar uma arma e coragem para enfrentar bandidos.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/w24fH10gcaX1pf2VkViBzNgHVt5.jpg"/>
+    <date>2007</date>
+  </programme>
+  <programme start="20260630094000 -0300" stop="20260630113112 -0300" channel="htofilmes">
+    <title lang="pt">RED - Aposentados e Perigosos</title>
+    <desc lang="pt">Frank Moses é um ex-agente da CIA, hoje aposentado, que tenta levar uma vida normal. Ele está interessado por Sarah, com quem volta e meia conversa ao telefone, apesar de ainda não conhecer pessoalmente. Um dia, a casa de Frank é atacada por agentes da CIA. Sem saber o que está acontecendo, ele deduz que logo perceberão sua ligação com Sarah e parte para protegê-la. Para entender o porquê de ter sido atacado, Frank precisará da ajuda de seus antigos companheiros Joe, Marvin e Victoria, todos também aposentados.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/bLCflHS789mmJTXhoeQCFdA0Saz.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260630113112 -0300" stop="20260630132021 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Asian Hawk (Jackie Chan) parte em busca de doze artefatos mágicos desaparecidos desde o século XIX: doze cabeças de animais em bronze que representam os signos do horóscopo chinês. Auxiliado por um estudante chinês e uma bela francesa, ele não desistirá fácil de seu complicado objetivo, mesmo que para isto tenha que cruzar o mundo.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tobYv4VtrbTO6BQ8a1MU88ndUuT.jpg"/>
+    <date>2012</date>
+  </programme>
+  <programme start="20260630132021 -0300" stop="20260630151724 -0300" channel="htofilmes">
+    <title lang="pt">22 Balas</title>
+    <desc lang="pt">Depois de anos vivendo fora da lei, Charly Mattei, resolveu nos últimos três anos se dedicar a família e viver harmoniosamente com sua esposa e seus dois filhos pequenos. No entanto, em uma manhã de inverno ele é encontrado em um estacionamento com 22 balas no corpo e apesar de muitos acreditarem que ele havia morrido, Charly misteriosamente sobrevive. Agora ele sai à caça de Tony Zacchia, o único homem que se atreveria a tentar matá-lo. Zacchia cometeu apenas um erro: ele falhou.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/3EkhsU6augJjLU83AiONvs3y97s.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260630151724 -0300" stop="20260630173130 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha De Riddick ruim</title>
+    <desc lang="pt">A Batalha De Riddick ruim</desc>
+    <category lang="pt">Program</category>
+  </programme>
+  <programme start="20260630173130 -0300" stop="20260630192440 -0300" channel="htofilmes">
+    <title lang="pt">A Lenda do Rei Macaco 2: Viagem ao Oeste</title>
+    <desc lang="pt">Ocorrendo 500 anos depois da destruição no céu, o padre Tang é nomeado pelo Buda para ir para o Ocidente para buscar as escrituras sagradas, só que liberta acidentalmente o Rei Macaco. Com Lady White (Gong Li) com o objetivo de acabar com a equipe montada para derrotá-la, o Rei Macaco deve lutar para salvar seu mundo!</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/j3Z8HMT849zEd9q5SfthiNtRb4f.jpg"/>
+    <date>2016</date>
+  </programme>
+  <programme start="20260630192440 -0300" stop="20260630211223 -0300" channel="htofilmes">
+    <title lang="pt">A Ocasião Faz O Ladrão</title>
+    <desc lang="pt">O modesto cobrador de pedágios Henry Torne (Keanu Reeves) é injustamente acusado de ter roubado um banco. Após ter cumprido a pena, Henry decide de fato realizar o crime. O plano é se infiltrar em um teatro para ter acesso ao túnel que o levará ao banco, mas a paixão por uma bela atriz (Vera Farmiga) poderá perturbar o seu projeto.</desc>
+    <category lang="pt">Crime</category>
+    <icon src="https://image.tmdb.org/t/p/w500/24AOV0MR6NDhUJX7c19Ks5DjvVv.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260630211223 -0300" stop="20260630225032 -0300" channel="htofilmes">
+    <title lang="pt">Cymbeline</title>
+    <desc lang="pt">Cymbeline (Ed Harris) é líder de um clube de motociclistas envolvido com tráfico de drogas. Perseguido por policiais corruptos, ele sofre tentativas de ususpação do poder por parte da própria esposa (Milla Jovovich) e ainda precisa lidar com as questões da problemática filha, Imogen (Dakota Johnson).</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/uNajzrrYttWofGj3zu672J3NUbA.jpg"/>
+    <date>2014</date>
+  </programme>
+  <programme start="20260630225032 -0300" stop="20260701010911 -0300" channel="htofilmes">
+    <title lang="pt">Ilha do Medo</title>
+    <desc lang="pt">No verão de 1954, os agentes judiciais Teddy Daniels (DiCaprio) e Chuck Aule (Ruffalo) foram designados para uma ilha remota do porto de Boston para investigar o desaparecimento de uma perigosa assassina (Mortimer) que estava reclusa no hospital psiquiátrico Ashecliffe, um centro penitenciário para criminosos perturbados dirigido pelo sinistro médico John Cawley. (Kingsley). Logo eles descobrem que o centro guarda muitos segredos e que a ilha esconde algo mais perigoso que os pacientes.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260701000000 -0300" stop="20260701014943 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg"/>
+    <date>2013</date>
+  </programme>
+  <programme start="20260701014943 -0300" stop="20260701033852 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Asian Hawk (Jackie Chan) parte em busca de doze artefatos mágicos desaparecidos desde o século XIX: doze cabeças de animais em bronze que representam os signos do horóscopo chinês. Auxiliado por um estudante chinês e uma bela francesa, ele não desistirá fácil de seu complicado objetivo, mesmo que para isto tenha que cruzar o mundo.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tobYv4VtrbTO6BQ8a1MU88ndUuT.jpg"/>
+    <date>2012</date>
+  </programme>
+  <programme start="20260701033852 -0300" stop="20260701052547 -0300" channel="htofilmes">
+    <title lang="pt">O Último Mestre do Ar</title>
+    <desc lang="pt">As quatro nações, Ar, Água, Terra e Fogo, viviam em harmonia, até que a nação do Fogo declarou guerra com o objetivo de dominar o mundo. Um século depois, não há perspectiva para o fim da destruição, até que um avatar chamado Aang descobre ter o poder de controlar os quatro elementos. Ele se une aos irmãos Katara e Sokka, da Água, e juntos partem em uma grande e perigosa aventura em busca da paz, para restaurar o equilíbrio e a harmonia.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/sQGFIDDScR6tX3KXotHaQywewYU.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260701052547 -0300" stop="20260701064855 -0300" channel="htofilmes">
+    <title lang="pt">O Natal Encantado</title>
+    <desc lang="pt">Bebê Urso foge na manhã de Natal para encontrar o presente perfeito para seus pais, e leva com ele Benny, o castor. No caminho cruzam com uma bruxa malvada que transforma Bebê urso em humano. A aventura se completa quando Goldie, uma humana que fugiu de casa para saber como é o natal, pois seu pai, um caçador, não comemora o natal desde que a mãe natureza, jogou um feitiço na sua mãe.</desc>
+    <category lang="pt">Família</category>
+    <icon src="https://image.tmdb.org/t/p/w500/t7RWYLh5vuHY6zIf794gyjrRQG3.jpg"/>
+    <date>2019</date>
+  </programme>
+  <programme start="20260701064855 -0300" stop="20260701081704 -0300" channel="htofilmes">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke é um dog alemão adolescente de 90 quilos muito bagunceiro, que mora com a família Winslow. Quando os Winslows mudam-se para Califórnia, Marmaduke apaixona-se pela linda afegã Jezebel e terá de passar por vários desafios para aprender que o caráter e a beleza interior são as verdadeiras provas de um ‘TOP DOG”.</desc>
+    <category lang="pt">Família</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260701081704 -0300" stop="20260701093918 -0300" channel="htofilmes">
+    <title lang="pt">Johnny: Todos Tem Uma Missão Especial</title>
+    <desc lang="pt">Quando Dr. Drew Carter tragicamente perde seu filho de dez anos em um acidente de carro, ele não esperava perder toda a sua família também. Desde o acidente, sua esposa (Julia) se tornou emocionalmente ausente em relação a ele e a sua filha. Quando Johnny, um filho adotivo terminal com leucemia, é encaminhado para Drew, ele vê a chance de curar sua família. Com Julia contra a ideia, Drew toma as coisas em suas próprias mãos e adota Johnny. Johnny não sabe o que ele é, mas acredita que ele está aqui para uma missão especial.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/wSIXdHiGlQPdE1X8K25c1g73qOI.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260701093918 -0300" stop="20260701112524 -0300" channel="htofilmes">
+    <title lang="pt">Grandes Olhos</title>
+    <desc lang="pt">Este drama apresenta a história da pintora Margaret Keane, uma das artistas comerciais mais rentáveis dos anos 1950, graças aos seus retratos de crianças com olhos grandes e assustadores. Esta mulher, defensora das causas feministas, teve que lutar contra o próprio marido no tribunal, já que o também pintor Walter Keane afirmava ser o verdadeiro autor de suas obras.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dSl4R3xZs2fV1LJLlqdBEoabQOV.jpg"/>
+    <date>2014</date>
+  </programme>
+  <programme start="20260701112524 -0300" stop="20260701132231 -0300" channel="htofilmes">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260701132231 -0300" stop="20260701145509 -0300" channel="htofilmes">
+    <title lang="pt">Eu, Deus e Bin Laden</title>
+    <desc lang="pt">Gary Faulkner é um ex-prisioneiro americano que não tira uma coisa da cabeça. Ele quer matar Osama Bin Laden. Para isso ele viaja nada menos que 11 vezes ao Paquistão, armado apenas com uma espada, na caça ao terrorista e quem sabe assim se tornar um herói.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tUSD5vubdimvBYQB7zhVa9EfBny.jpg"/>
+    <date>2016</date>
+  </programme>
+  <programme start="20260701145509 -0300" stop="20260701163534 -0300" channel="htofilmes">
+    <title lang="pt">Corrida Mortal 2</title>
+    <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260701163534 -0300" stop="20260701180441 -0300" channel="htofilmes">
+    <title lang="pt">Como Treinar o Seu Dragão</title>
+    <desc lang="pt">Soluço é um jovem viking que desafia a tradição, quando fica amigo de um dos mais mortais inimigos — um feroz dragão que ele chama de Banguela.</desc>
+    <category lang="pt">Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spZbO7Ss6U9W5zSHjtH6FvXvCF7.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260701180441 -0300" stop="20260701194207 -0300" channel="htofilmes">
+    <title lang="pt">Chat: A Sala Negra</title>
+    <desc lang="pt">William é um jovem de 17 anos que resolve criar um chat para adolescentes de sua idade. Lá, eles podem conversar sobre traumas, problemas e frustrações. Mas o que esses jovens não sabem é que William pode estar manipulando todos eles, e o resultado pode ser fatal.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260701194207 -0300" stop="20260701213150 -0300" channel="htofilmes">
+    <title lang="pt">Elysium</title>
+    <desc lang="pt">Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg"/>
+    <date>2013</date>
+  </programme>
+  <programme start="20260701213150 -0300" stop="20260701232059 -0300" channel="htofilmes">
+    <title lang="pt">Operação Zodíaco</title>
+    <desc lang="pt">Asian Hawk (Jackie Chan) parte em busca de doze artefatos mágicos desaparecidos desde o século XIX: doze cabeças de animais em bronze que representam os signos do horóscopo chinês. Auxiliado por um estudante chinês e uma bela francesa, ele não desistirá fácil de seu complicado objetivo, mesmo que para isto tenha que cruzar o mundo.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tobYv4VtrbTO6BQ8a1MU88ndUuT.jpg"/>
+    <date>2012</date>
+  </programme>
+  <programme start="20260701232059 -0300" stop="20260702010754 -0300" channel="htofilmes">
+    <title lang="pt">O Último Mestre do Ar</title>
+    <desc lang="pt">As quatro nações, Ar, Água, Terra e Fogo, viviam em harmonia, até que a nação do Fogo declarou guerra com o objetivo de dominar o mundo. Um século depois, não há perspectiva para o fim da destruição, até que um avatar chamado Aang descobre ter o poder de controlar os quatro elementos. Ele se une aos irmãos Katara e Sokka, da Água, e juntos partem em uma grande e perigosa aventura em busca da paz, para restaurar o equilíbrio e a harmonia.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/sQGFIDDScR6tX3KXotHaQywewYU.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260702000000 -0300" stop="20260702001803 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha de Riddick</title>
+    <desc lang="pt">Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg"/>
+    <date>2004</date>
+  </programme>
+  <programme start="20260702001803 -0300" stop="20260702014857 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">David (Hugh Laurie) e Paige Walling (Catherine Keener) são vizinhos e amigos de Terry (Oliver Platt) e Carol Ostroff (Allison Janney). Por conta disso, os filhos do primeiro casal, Vanessa (Alia Shawkat) e Toby (Adam Brody), se tornaram amigos de Nina Ostroff (Leighton Meester). Mas ela sempre foi meio rebelde e acabou saindo de casa logo. Depois de cinco anos sem dar as caras, ela retorna depois de um rompimento amoroso. Após a surpresa inicial, as mães ficaram contentes, porque sempre desejaram que rolasse alguma coisa entre ela e Toby. Só que Nina não estava lá muito interessada no jovem e acabou seduzindo, e sendo seduzida, pelo pai de sua ex-melhor amiga. Começa aí uma relação que vai abalar as estruturas da duas famílias, que andavam um tanto quanto acomodadas na rotina diária.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vcgvxKKtvkqhgAhgkv1IADipjJ2.jpg"/>
+    <date>2011</date>
+  </programme>
+  <programme start="20260702014857 -0300" stop="20260702031935 -0300" channel="htofilmes">
+    <title lang="pt">As Loucuras de Dick &amp; Jane</title>
+    <desc lang="pt">O casal Dick e Jane vive de maneira confortável, mas ele acaba perdendo o emprego. Com o acúmulo de contas, a dupla decide roubar para pagar as dívidas e manter o estilo de vida, mas percebem que uma carreira criminosa pode ferir pessoas inocentes.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5g03eRFOILs4crO6vUCWehdzKto.jpg"/>
+    <date>2005</date>
+  </programme>
+  <programme start="20260702031935 -0300" stop="20260702053320 -0300" channel="htofilmes">
+    <title lang="pt">Bem-Vindo aos 40</title>
+    <desc lang="pt">Após anos de casamento, Pete e Debbie estão chegando em uma fase de decadência. Enquanto tentam equilibrar romance, carreiras profissionais, pais e filhos, com seu próprio e hilariante, eles também tem que imaginar como aproveitar o resto de suas vidas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/j2Zt3IaAtRwHBIUrgArpXQzpOPP.jpg"/>
+    <date>2012</date>
+  </programme>
+  <programme start="20260702053320 -0300" stop="20260702071345 -0300" channel="htofilmes">
+    <title lang="pt">Corrida Mortal 2</title>
+    <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260702071345 -0300" stop="20260702093646 -0300" channel="htofilmes">
+    <title lang="pt">Forrest Gump: O Contador de Histórias</title>
+    <desc lang="pt">Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/d74WpIsH8379TIL4wUxDneRCYv2.jpg"/>
+    <date>1994</date>
+  </programme>
+  <programme start="20260702093646 -0300" stop="20260702112252 -0300" channel="htofilmes">
+    <title lang="pt">Grandes Olhos</title>
+    <desc lang="pt">Este drama apresenta a história da pintora Margaret Keane, uma das artistas comerciais mais rentáveis dos anos 1950, graças aos seus retratos de crianças com olhos grandes e assustadores. Esta mulher, defensora das causas feministas, teve que lutar contra o próprio marido no tribunal, já que o também pintor Walter Keane afirmava ser o verdadeiro autor de suas obras.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dSl4R3xZs2fV1LJLlqdBEoabQOV.jpg"/>
+    <date>2014</date>
+  </programme>
+  <programme start="20260702112252 -0300" stop="20260702130652 -0300" channel="htofilmes">
+    <title lang="pt">Guerreiros do Amanhã</title>
+    <desc lang="pt">A jornada de oito amigos numa remota cidade do interior, cujas vidas são súbita e violentamente abaladas por uma inesperada guerra. Separados dos amigos e familiares, estes oito extraordinários adolescentes têm de aprender a escapar, sobreviver e lutar contra uma força militar hostil.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/by1Euf1ry1psyip7Y4w05PM0jZA.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260702130652 -0300" stop="20260702152923 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Num futuro distante, boa parte da população é controlada por um regime totalitário, que relembra esse domínio realizando um evento anual – e mortal – entre os 12 distritos sob sua tutela. Para salvar sua irmã caçula, a jovem Katniss Everdeen se oferece como voluntária para representar seu distrito na competição e acaba contando com a companhia de Peeta Melark, desafiando não só o sistema dominante, mas também a força dos outros oponentes.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/l6jn53LMu07uPt8A42JWIKi1Beb.jpg"/>
+    <date>2012</date>
+  </programme>
+  <programme start="20260702152923 -0300" stop="20260702171557 -0300" channel="htofilmes">
+    <title lang="pt">O Último Caçador de Bruxas</title>
+    <desc lang="pt">Amaldiçoado com a imortalidade, o caçador de bruxas Kaulder é obrigado a enfrentar mais uma vez sua maior inimiga e unir forças com a jovem bruxa Chloe para impedir que uma convenção espalhe uma terrível praga pela cidade.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7QhkLoe1qduMk8ATv7G4qPXBYp0.jpg"/>
+    <date>2015</date>
+  </programme>
+  <programme start="20260702171557 -0300" stop="20260702185433 -0300" channel="htofilmes">
+    <title lang="pt">Ong-Bak 3</title>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260702185433 -0300" stop="20260702201656 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Brincando com o terror, o professor Oldman e Dwight seu assistente, preparam um final de semana hilariante e super especial. Um experiência sobre exorcismo, onde Cindy e "aquele" grupo de jovens malucos e assustados deverão ficar sem dormir. A incrível arapuca terá lugar na "Casa do Inferno", um casarão mal-assombrado afastado da cidade, e onde não falta nem o repulsivo mordono sempre presente nas melhores histórias de terror. Como alvos desta comédia escrachada, encontramos "O Exorcista", "Poltergeist", "A Casa da Colina", "Revelação" e até mesmo "As Panteras" e "Missão Impossível 2". Agora muito mais engraçado. Imperdível!</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/549UoU38uoikbqgXG09rkkfIEWf.jpg"/>
+    <date>2001</date>
+  </programme>
+  <programme start="20260702201656 -0300" stop="20260702203459 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha de Riddick</title>
+    <desc lang="pt">Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg"/>
+    <date>2004</date>
+  </programme>
+  <programme start="20260702203459 -0300" stop="20260702220553 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">David (Hugh Laurie) e Paige Walling (Catherine Keener) são vizinhos e amigos de Terry (Oliver Platt) e Carol Ostroff (Allison Janney). Por conta disso, os filhos do primeiro casal, Vanessa (Alia Shawkat) e Toby (Adam Brody), se tornaram amigos de Nina Ostroff (Leighton Meester). Mas ela sempre foi meio rebelde e acabou saindo de casa logo. Depois de cinco anos sem dar as caras, ela retorna depois de um rompimento amoroso. Após a surpresa inicial, as mães ficaram contentes, porque sempre desejaram que rolasse alguma coisa entre ela e Toby. Só que Nina não estava lá muito interessada no jovem e acabou seduzindo, e sendo seduzida, pelo pai de sua ex-melhor amiga. Começa aí uma relação que vai abalar as estruturas da duas famílias, que andavam um tanto quanto acomodadas na rotina diária.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vcgvxKKtvkqhgAhgkv1IADipjJ2.jpg"/>
+    <date>2011</date>
+  </programme>
+  <programme start="20260702220553 -0300" stop="20260702233631 -0300" channel="htofilmes">
+    <title lang="pt">As Loucuras de Dick &amp; Jane</title>
+    <desc lang="pt">O casal Dick e Jane vive de maneira confortável, mas ele acaba perdendo o emprego. Com o acúmulo de contas, a dupla decide roubar para pagar as dívidas e manter o estilo de vida, mas percebem que uma carreira criminosa pode ferir pessoas inocentes.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5g03eRFOILs4crO6vUCWehdzKto.jpg"/>
+    <date>2005</date>
+  </programme>
+  <programme start="20260702233631 -0300" stop="20260703015016 -0300" channel="htofilmes">
+    <title lang="pt">Bem-Vindo aos 40</title>
+    <desc lang="pt">Após anos de casamento, Pete e Debbie estão chegando em uma fase de decadência. Enquanto tentam equilibrar romance, carreiras profissionais, pais e filhos, com seu próprio e hilariante, eles também tem que imaginar como aproveitar o resto de suas vidas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/j2Zt3IaAtRwHBIUrgArpXQzpOPP.jpg"/>
+    <date>2012</date>
+  </programme>
 </tv>
