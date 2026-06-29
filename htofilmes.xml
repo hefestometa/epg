@@ -3,104 +3,6 @@
   <channel id="htofilmes">
     <display-name>HtoFilmes</display-name>
   </channel>
-  <programme start="20260628000000 -0300" stop="20260628020422 -0300" channel="htofilmes">
-    <title lang="pt">Triplo X</title>
-    <desc lang="pt">O ex-atleta de esportes extremos Xander "XXX" Cage, famoso por suas acrobacias que desafiam a morte, é convencido de que pode ter sucesso em ações que espiões convencionais falharam. Xander é recrutado pelo agente Gibbons para se tornar um tipo diferente de agente secreto. Agora, em uma perigosa missão, ele precisa usar todas as suas habilidades para combater um inimigo mortal.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/lpmyeqSR2Pc7ytfTp1ScD3ferX4.jpg"/>
-    <date>2002</date>
-  </programme>
-  <programme start="20260628020422 -0300" stop="20260628032645 -0300" channel="htofilmes">
-    <title lang="pt">Todo Mundo em Pânico 2</title>
-    <desc lang="pt">Brincando com o terror, o professor Oldman e Dwight seu assistente, preparam um final de semana hilariante e super especial. Um experiência sobre exorcismo, onde Cindy e "aquele" grupo de jovens malucos e assustados deverão ficar sem dormir. A incrível arapuca terá lugar na "Casa do Inferno", um casarão mal-assombrado afastado da cidade, e onde não falta nem o repulsivo mordono sempre presente nas melhores histórias de terror. Como alvos desta comédia escrachada, encontramos "O Exorcista", "Poltergeist", "A Casa da Colina", "Revelação" e até mesmo "As Panteras" e "Missão Impossível 2". Agora muito mais engraçado. Imperdível!</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/549UoU38uoikbqgXG09rkkfIEWf.jpg"/>
-    <date>2001</date>
-  </programme>
-  <programme start="20260628032645 -0300" stop="20260628051418 -0300" channel="htofilmes">
-    <title lang="pt">Os Outros Caras</title>
-    <desc lang="pt">Os detetives da polícia de Nova York, Gamble e Hoitz, não fazem manchetes com o seu trabalho diário atrás de uma escrivaninha. Gamble aprecia a sua função, mas Hoitz está ansioso para voltar para as ruas. Quando um caso aparentemente insignificante acaba se revelando um grande negócio, os dois policiais têm a oportunidade de finalmente provar a seus companheiros que eles têm capacidade.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/gHzt2VR585107h4E1f8yva0s2P0.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260628051418 -0300" stop="20260628070137 -0300" channel="htofilmes">
-    <title lang="pt">O Solteirão</title>
-    <desc lang="pt">Uma série de más decisões acaba com os negócios do revendedor de carros Ben Kalmen. Seu lado mulherengo lhe custa o casamento com Nancy e ele tem que se mudar de uma casa grande para um pequeno apartamento. Mesmo a atual namorada, Jordan, sabe que Ben está longe de ser perfeito.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/jOaeb5h3dm26FaQgjuVPUpXtkqx.jpg"/>
-    <date>2009</date>
-  </programme>
-  <programme start="20260628070137 -0300" stop="20260628082946 -0300" channel="htofilmes">
-    <title lang="pt">Marmaduke</title>
-    <desc lang="pt">Marmaduke é um dog alemão adolescente de 90 quilos muito bagunceiro, que mora com a família Winslow. Quando os Winslows mudam-se para Califórnia, Marmaduke apaixona-se pela linda afegã Jezebel e terá de passar por vários desafios para aprender que o caráter e a beleza interior são as verdadeiras provas de um ‘TOP DOG”.</desc>
-    <category lang="pt">Família</category>
-    <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260628082946 -0300" stop="20260628100946 -0300" channel="htofilmes">
-    <title lang="pt">Hudson Hawk, o Falcão Está à Solta</title>
-    <desc lang="pt">Um ex-presidário é chantageado por um casal rico para descobrir os detalhes da alquimia de Leonardo da Vinci.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/60Pnz4psjEUEAoFdBO6NT7GLEV9.jpg"/>
-    <date>1991</date>
-  </programme>
-  <programme start="20260628100946 -0300" stop="20260628121105 -0300" channel="htofilmes">
-    <title lang="pt">Fúria em Alto Mar</title>
-    <desc lang="pt">Dono de métodos próprios nada convencionais, o Comandante Joe Glass é o responsável por liderar uma delicada missão pelas perigosas águas do Mar de Barents à bordo do submarino USS Arkansas. O objetivo da tarefa é monitorar a atividade militar russa na região após outro submarino americano desaparecer naqueles mares. Enquanto isso, a situação política na região se acirra ao ponto de Glass ter de tomar decisões cruciais para impedir que se deflagre um conflito de escala continental entre as duas potências.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/ral7cnZBQZGFmGaJUxrpcY8Xj3l.jpg"/>
-    <date>2018</date>
-  </programme>
-  <programme start="20260628121105 -0300" stop="20260628140812 -0300" channel="htofilmes">
-    <title lang="pt">Encontro Explosivo</title>
-    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260628140812 -0300" stop="20260628153652 -0300" channel="htofilmes">
-    <title lang="pt">Conta Comigo</title>
-    <desc lang="pt">Em uma pequena cidade do Oregon, quatro amigos - o sensível Gordie, o durão Chris, o destemido Teddy e o acovardado Vern - resolvem sair à procura do cadáver de um adolescente desaparecido, que foi atropelado por um trem. O objetivo dos garotos é o de ser vistos como heróis diante dos amigos e dos moradores da cidade. Assim, eles partem numa inesquecível viagem de dois dias que se transforma em uma odisseia de autodescoberta e que evolui para um evento marcante em suas vidas.</desc>
-    <category lang="pt">Crime</category>
-    <icon src="https://image.tmdb.org/t/p/w500/w77Y4Bdgfi2emYaAkKIDcH0jfjP.jpg"/>
-    <date>1986</date>
-  </programme>
-  <programme start="20260628153652 -0300" stop="20260628172005 -0300" channel="htofilmes">
-    <title lang="pt">Carga Explosiva 3</title>
-    <desc lang="pt">Frank Martin é obrigado a conduzir Valentina, a filha de Leonid Vasilev, o chefe da Agência de Proteção Ambiental da Ucrânia. Ela foi sequestrada por Jonas Johnson, contratado por uma empresa de gerenciamento internacional de resíduos que deseja operar na Ucrânia. Para ter Frank e Valentina sob controle, Jonas prende em seus pulsos um dispositivo que determina que não possam se afastar muito do carro que os conduz, caso contrário o bracelete explode. Contando com a ajuda do inspetor Tarconi, Frank busca um meio de deixar a armadilha.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/t6ayrfuhmKl6VUOByP7RJL047X1.jpg"/>
-    <date>2008</date>
-  </programme>
-  <programme start="20260628172005 -0300" stop="20260628184353 -0300" channel="htofilmes">
-    <title lang="pt">Borat: O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América</title>
-    <desc lang="pt">Um famoso repórter do Cazaquistão viaja aos Estados Unidos para fazer um documentário sobre os hábitos dos cidadãos norte-americanos, provocando situações absurdas por onde passa.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/5egR3ywkiXbaqvrZrkisiF9Llzh.jpg"/>
-    <date>2006</date>
-  </programme>
-  <programme start="20260628184353 -0300" stop="20260628203258 -0300" channel="htofilmes">
-    <title lang="pt">As Branquelas</title>
-    <desc lang="pt">O que acontece quando dois atrapalhados agentes do FBI se disfarçam de princesas mega-ricas para se infiltrarem na alta sociedade? O resultado é situações extremamente engraçadas e diversão total ao ver estes dois irmãos azarados transformando-se em duas senhoritas refinadas e com estilo!</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/aJZOcorpgloDLkPP6ED0t9sXjNu.jpg"/>
-    <date>2004</date>
-  </programme>
-  <programme start="20260628203258 -0300" stop="20260628223720 -0300" channel="htofilmes">
-    <title lang="pt">Triplo X</title>
-    <desc lang="pt">O ex-atleta de esportes extremos Xander "XXX" Cage, famoso por suas acrobacias que desafiam a morte, é convencido de que pode ter sucesso em ações que espiões convencionais falharam. Xander é recrutado pelo agente Gibbons para se tornar um tipo diferente de agente secreto. Agora, em uma perigosa missão, ele precisa usar todas as suas habilidades para combater um inimigo mortal.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/lpmyeqSR2Pc7ytfTp1ScD3ferX4.jpg"/>
-    <date>2002</date>
-  </programme>
-  <programme start="20260628223720 -0300" stop="20260628235943 -0300" channel="htofilmes">
-    <title lang="pt">Todo Mundo em Pânico 2</title>
-    <desc lang="pt">Brincando com o terror, o professor Oldman e Dwight seu assistente, preparam um final de semana hilariante e super especial. Um experiência sobre exorcismo, onde Cindy e "aquele" grupo de jovens malucos e assustados deverão ficar sem dormir. A incrível arapuca terá lugar na "Casa do Inferno", um casarão mal-assombrado afastado da cidade, e onde não falta nem o repulsivo mordono sempre presente nas melhores histórias de terror. Como alvos desta comédia escrachada, encontramos "O Exorcista", "Poltergeist", "A Casa da Colina", "Revelação" e até mesmo "As Panteras" e "Missão Impossível 2". Agora muito mais engraçado. Imperdível!</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/549UoU38uoikbqgXG09rkkfIEWf.jpg"/>
-    <date>2001</date>
-  </programme>
   <programme start="20260629000000 -0300" stop="20260629020408 -0300" channel="htofilmes">
     <title lang="pt">Bad Boys Para Sempre</title>
     <desc lang="pt">Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</desc>
@@ -385,5 +287,117 @@
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/sQGFIDDScR6tX3KXotHaQywewYU.jpg"/>
     <date>2010</date>
+  </programme>
+  <programme start="20260702000000 -0300" stop="20260702001803 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha de Riddick</title>
+    <desc lang="pt">Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg"/>
+    <date>2004</date>
+  </programme>
+  <programme start="20260702001803 -0300" stop="20260702014857 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">David (Hugh Laurie) e Paige Walling (Catherine Keener) são vizinhos e amigos de Terry (Oliver Platt) e Carol Ostroff (Allison Janney). Por conta disso, os filhos do primeiro casal, Vanessa (Alia Shawkat) e Toby (Adam Brody), se tornaram amigos de Nina Ostroff (Leighton Meester). Mas ela sempre foi meio rebelde e acabou saindo de casa logo. Depois de cinco anos sem dar as caras, ela retorna depois de um rompimento amoroso. Após a surpresa inicial, as mães ficaram contentes, porque sempre desejaram que rolasse alguma coisa entre ela e Toby. Só que Nina não estava lá muito interessada no jovem e acabou seduzindo, e sendo seduzida, pelo pai de sua ex-melhor amiga. Começa aí uma relação que vai abalar as estruturas da duas famílias, que andavam um tanto quanto acomodadas na rotina diária.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vcgvxKKtvkqhgAhgkv1IADipjJ2.jpg"/>
+    <date>2011</date>
+  </programme>
+  <programme start="20260702014857 -0300" stop="20260702031935 -0300" channel="htofilmes">
+    <title lang="pt">As Loucuras de Dick &amp; Jane</title>
+    <desc lang="pt">O casal Dick e Jane vive de maneira confortável, mas ele acaba perdendo o emprego. Com o acúmulo de contas, a dupla decide roubar para pagar as dívidas e manter o estilo de vida, mas percebem que uma carreira criminosa pode ferir pessoas inocentes.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5g03eRFOILs4crO6vUCWehdzKto.jpg"/>
+    <date>2005</date>
+  </programme>
+  <programme start="20260702031935 -0300" stop="20260702053320 -0300" channel="htofilmes">
+    <title lang="pt">Bem-Vindo aos 40</title>
+    <desc lang="pt">Após anos de casamento, Pete e Debbie estão chegando em uma fase de decadência. Enquanto tentam equilibrar romance, carreiras profissionais, pais e filhos, com seu próprio e hilariante, eles também tem que imaginar como aproveitar o resto de suas vidas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/j2Zt3IaAtRwHBIUrgArpXQzpOPP.jpg"/>
+    <date>2012</date>
+  </programme>
+  <programme start="20260702053320 -0300" stop="20260702071345 -0300" channel="htofilmes">
+    <title lang="pt">Corrida Mortal 2</title>
+    <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260702071345 -0300" stop="20260702093646 -0300" channel="htofilmes">
+    <title lang="pt">Forrest Gump: O Contador de Histórias</title>
+    <desc lang="pt">Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/d74WpIsH8379TIL4wUxDneRCYv2.jpg"/>
+    <date>1994</date>
+  </programme>
+  <programme start="20260702093646 -0300" stop="20260702112252 -0300" channel="htofilmes">
+    <title lang="pt">Grandes Olhos</title>
+    <desc lang="pt">Este drama apresenta a história da pintora Margaret Keane, uma das artistas comerciais mais rentáveis dos anos 1950, graças aos seus retratos de crianças com olhos grandes e assustadores. Esta mulher, defensora das causas feministas, teve que lutar contra o próprio marido no tribunal, já que o também pintor Walter Keane afirmava ser o verdadeiro autor de suas obras.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dSl4R3xZs2fV1LJLlqdBEoabQOV.jpg"/>
+    <date>2014</date>
+  </programme>
+  <programme start="20260702112252 -0300" stop="20260702130652 -0300" channel="htofilmes">
+    <title lang="pt">Guerreiros do Amanhã</title>
+    <desc lang="pt">A jornada de oito amigos numa remota cidade do interior, cujas vidas são súbita e violentamente abaladas por uma inesperada guerra. Separados dos amigos e familiares, estes oito extraordinários adolescentes têm de aprender a escapar, sobreviver e lutar contra uma força militar hostil.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/by1Euf1ry1psyip7Y4w05PM0jZA.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260702130652 -0300" stop="20260702152923 -0300" channel="htofilmes">
+    <title lang="pt">Jogos Vorazes</title>
+    <desc lang="pt">Num futuro distante, boa parte da população é controlada por um regime totalitário, que relembra esse domínio realizando um evento anual – e mortal – entre os 12 distritos sob sua tutela. Para salvar sua irmã caçula, a jovem Katniss Everdeen se oferece como voluntária para representar seu distrito na competição e acaba contando com a companhia de Peeta Melark, desafiando não só o sistema dominante, mas também a força dos outros oponentes.</desc>
+    <category lang="pt">Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/l6jn53LMu07uPt8A42JWIKi1Beb.jpg"/>
+    <date>2012</date>
+  </programme>
+  <programme start="20260702152923 -0300" stop="20260702171557 -0300" channel="htofilmes">
+    <title lang="pt">O Último Caçador de Bruxas</title>
+    <desc lang="pt">Amaldiçoado com a imortalidade, o caçador de bruxas Kaulder é obrigado a enfrentar mais uma vez sua maior inimiga e unir forças com a jovem bruxa Chloe para impedir que uma convenção espalhe uma terrível praga pela cidade.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7QhkLoe1qduMk8ATv7G4qPXBYp0.jpg"/>
+    <date>2015</date>
+  </programme>
+  <programme start="20260702171557 -0300" stop="20260702185433 -0300" channel="htofilmes">
+    <title lang="pt">Ong-Bak 3</title>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260702185433 -0300" stop="20260702201656 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Brincando com o terror, o professor Oldman e Dwight seu assistente, preparam um final de semana hilariante e super especial. Um experiência sobre exorcismo, onde Cindy e "aquele" grupo de jovens malucos e assustados deverão ficar sem dormir. A incrível arapuca terá lugar na "Casa do Inferno", um casarão mal-assombrado afastado da cidade, e onde não falta nem o repulsivo mordono sempre presente nas melhores histórias de terror. Como alvos desta comédia escrachada, encontramos "O Exorcista", "Poltergeist", "A Casa da Colina", "Revelação" e até mesmo "As Panteras" e "Missão Impossível 2". Agora muito mais engraçado. Imperdível!</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/549UoU38uoikbqgXG09rkkfIEWf.jpg"/>
+    <date>2001</date>
+  </programme>
+  <programme start="20260702201656 -0300" stop="20260702203459 -0300" channel="htofilmes">
+    <title lang="pt">A Batalha de Riddick</title>
+    <desc lang="pt">Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg"/>
+    <date>2004</date>
+  </programme>
+  <programme start="20260702203459 -0300" stop="20260702220553 -0300" channel="htofilmes">
+    <title lang="pt">A Filha do Meu Melhor Amigo</title>
+    <desc lang="pt">David (Hugh Laurie) e Paige Walling (Catherine Keener) são vizinhos e amigos de Terry (Oliver Platt) e Carol Ostroff (Allison Janney). Por conta disso, os filhos do primeiro casal, Vanessa (Alia Shawkat) e Toby (Adam Brody), se tornaram amigos de Nina Ostroff (Leighton Meester). Mas ela sempre foi meio rebelde e acabou saindo de casa logo. Depois de cinco anos sem dar as caras, ela retorna depois de um rompimento amoroso. Após a surpresa inicial, as mães ficaram contentes, porque sempre desejaram que rolasse alguma coisa entre ela e Toby. Só que Nina não estava lá muito interessada no jovem e acabou seduzindo, e sendo seduzida, pelo pai de sua ex-melhor amiga. Começa aí uma relação que vai abalar as estruturas da duas famílias, que andavam um tanto quanto acomodadas na rotina diária.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vcgvxKKtvkqhgAhgkv1IADipjJ2.jpg"/>
+    <date>2011</date>
+  </programme>
+  <programme start="20260702220553 -0300" stop="20260702233631 -0300" channel="htofilmes">
+    <title lang="pt">As Loucuras de Dick &amp; Jane</title>
+    <desc lang="pt">O casal Dick e Jane vive de maneira confortável, mas ele acaba perdendo o emprego. Com o acúmulo de contas, a dupla decide roubar para pagar as dívidas e manter o estilo de vida, mas percebem que uma carreira criminosa pode ferir pessoas inocentes.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5g03eRFOILs4crO6vUCWehdzKto.jpg"/>
+    <date>2005</date>
+  </programme>
+  <programme start="20260702233631 -0300" stop="20260703015016 -0300" channel="htofilmes">
+    <title lang="pt">Bem-Vindo aos 40</title>
+    <desc lang="pt">Após anos de casamento, Pete e Debbie estão chegando em uma fase de decadência. Enquanto tentam equilibrar romance, carreiras profissionais, pais e filhos, com seu próprio e hilariante, eles também tem que imaginar como aproveitar o resto de suas vidas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/j2Zt3IaAtRwHBIUrgArpXQzpOPP.jpg"/>
+    <date>2012</date>
   </programme>
 </tv>

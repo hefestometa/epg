@@ -3,524 +3,6 @@
   <channel id="htotv">
     <display-name>HtoTv</display-name>
   </channel>
-  <programme start="20260628000000 -0300" stop="20260628003051 -0300" channel="htotv">
-    <title lang="pt">Iluminuras - Andréa Pachá</title>
-    <desc lang="pt">Autora dos best-sellers “Segredo de Justiça” e “A vida não é justa”, desembargadora e escritora celebra uma década da primeira publicação. 
-
-Ela coleciona histórias de separação, reencontros, guarda de filhos, pensão, separação de bens. Testemunhou dramas comuns ao fim de um relacionamento e conduziu centenas de audiências. Com a experiência de uma magistrada que atuou por duas décadas em uma vara de Família, no Rio de Janeiro, Andréa Pachá reuniu essas histórias em narrativas ficcionais em um livro lançado há pouco mais de dez anos e que recentemente ganhou uma edição comemorativa: "A vida não é justa". O best-seller virou série de TV, peça de teatro, e segue como sucesso absoluto entre os leitores.  
-
-O livro foi reeditado com textos inéditos e depoimentos que refletem as mudanças vividas pela sociedade na última década. Em conversa com a jornalista Rafaela Vivas, a desembargadora contou que as audiências ganharam novos contornos em meio à polarização política, o aumento das relações virtuais, a pandemia e o protagonismo conquistado pelas mulheres. 
-
-“Tanto as mudanças boas quanto as ruins, tanto as transformações humanas quanto as pós-humanas vieram para ficar. A fragmentação e a fragilidade das relações afetivas, em um país tão desigual quanto o Brasil, é uma realidade sem retorno. Daí porque é importante olhar para a realidade com coragem e curiosidade, evitando que os faróis se voltem para o passado e não projetem o futuro”, avalia a desembargadora. 
-
-Andréa Pachá também é autora dos livros “Segredo de Justiça” e "Velhos São os Outros”. Este último desenvolvido a partir da experiência em uma vara de Sucessões, onde julgou casos sobre inventários, testamentos e curatelas.</desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628003051 -0300" stop="20260628005734 -0300" channel="htotv">
-    <title lang="pt">Iluminuras - Carlos Affonso</title>
-    <desc lang="pt">Em pauta, temas como o direito à moradia, o sistema interamericano de direitos humanos e a Constituição Federal de 88
-
-O programa desta semana recebe o advogado e diretor jurídico da Câmara Municipal do Rio de Janeiro, Carlos Affonso Leony Neto. Ele é um dos organizadores do livro "A Nova Era dos Direitos - Estudos em Homenagem ao Professor Eduardo Manuel Val". A publicação reúne artigos sobre o Direito contemporâneo, sob a perspectiva dos chamados direitos sociais e homenageia os 60 anos do professor Eduardo Manuel Val, da Universidade Federal Fluminense (UFF).
-
-No livro, juristas e especialistas fazem reflexões sobre o direito à moradia, a inserção da educação parental no rol de direitos fundamentais, os reflexos do pós-covid nas relações educacionais e na exclusão digital. Os autores também apresentam um estudo comparativo entre Brasil, Portugal e Espanha sobre o compliance para startups, com ponderações sobre regulamentação e desafios.
-
-Em conversa com a jornalista Rafaela Vivas, Carlos Affonso também apresenta o livro, fruto da dissertação de mestrado dele, "Desjudicialização como Processo de Compartilhamento de Competências". A obra nasce de um estudo sobre a dinâmica e a agilidade dos processos extrajudiciais, com foco em divórcios e inventários realizados nos dois principais cartórios do Rio de Janeiro. O pesquisador constatou que a população fluminense aderiu em massa às ações que podem ser resolvidas com ou sem a presença de advogados, mas sem a intervenção do Poder Judiciário. A redução de ações relacionadas aos dois institutos (divórcios e inventários) no Tribunal de Justiça do Rio de Janeiro foi de 70% em média. </desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628005734 -0300" stop="20260628012723 -0300" channel="htotv">
-    <title lang="pt">Iluminuras - Direito da Arte com Marcílio Franca</title>
-    <desc lang="pt">O procurador-geral do MP de Contas da Paraíba é pesquisador do tema e autor de um livro sobre esse ramo do Direito
- 
-O que é uma coleção de arte para o Direito e de que tipo de proteção ela dispõe? Uma coleção pode ser desfeita? Quais os cuidados para quem compra uma obra de arte? Essas e outras perguntas relacionadas ao Direito da Arte são respondidas no programa Iluminuras desta semana. O convidado é um dos autores da obra “Coleções de Arte no Direito Brasileiro e Comparado”, Marcílio Franca. 
- 
-Autor de mais de uma dezena de livros jurídicos lançados no Brasil e no exterior, ligados ao patrimônio cultural, Direito Internacional e Direito da Arte, ele é procurador-geral do Ministério Público de Contas da Paraíba e professor da Universidade Federal da Paraíba em João Pessoa. Atua como árbitro em entidades internacionais, como o Tribunal Arbitral da Arte, na Holanda, e a Organização Mundial da Propriedade Intelectual.
- 
-Em conversa com a jornalista Rafaela Vivas, o autor fala da importância da proteção de bens culturais para a identidade do país e da relevância social, cultural e econômica do Direito da Arte. Não perca!</desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628012723 -0300" stop="20260628015001 -0300" channel="htotv">
-    <title lang="pt">IDENTIDADE CULTURAL - Especial Macaúba 80 Anos</title>
-    <desc lang="pt">O programa Identidade Cultural Especial homenageia os 80 anos do Mestre Macaúba do Bandolim. Produzido pelo o núcleo de cultura da TV Assembleia, o Identidade Cultural é exibido aos sábados às 21h na TV Assembleia. Apresentação Virna Cavalcante e produção Luciano Augusto.
-</desc>
-    <credits>
-      <director>Alece Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628015001 -0300" stop="20260628023310 -0300" channel="htotv">
-    <title lang="pt">Identidade Cultural - Especial Mastruz com Leite</title>
-    <desc lang="pt">O Identidade Cultural da TV Assembleia entre no clima das tradicionais festas juninas e apresenta o especial com a Banda Mastruz Com Leite. 
-
-Com 34 anos de história, a banda já lançou mais de 40 CDs e 6 DVDs e conversou com a equipe do programa antes de uma agenda de shows marcados para os meses de junho e julho.
-
-ASSEMBLEIA LEGISLATIVA DO ESTADO DO CEARÁ  
-Youtube: /@TVAsssembleiaCe
-Facebook:   / assembleiace   
-Instagram:   / assembleiace   
-Twitter:   / assembleia_ce  </desc>
-    <credits>
-      <director>Alece Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628023310 -0300" stop="20260628030423 -0300" channel="htotv">
-    <title lang="pt">Identidade Cultural - Felipe Cazaux e Karenzinha</title>
-    <desc lang="pt">O Identidade Cultural conversou com o guitarrista, cantor e compositor Felipe Cazaux que falou sobre sua trajetória no jazz e no Rock cearense. E apresentamos a cantora amazonense de pagode Karenzinha, onde é conhecida pelo bordão: comigo tudo é mais gostoso no pagode! Coordenação de Núcleo: Luciano Augusto, produção: Virna Cavalcante, cinegrafista: Evandro Ferreira e edição: Abraão Holanda 
-</desc>
-    <credits>
-      <director>Alece Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628030423 -0300" stop="20260628040258 -0300" channel="htotv">
-    <title lang="pt">Cedric The Entertainer- De Vendedor De Seguros A Ícone Da Comédia</title>
-    <desc lang="pt">De seus primeiros dias como agente de seguros da State Farm a agraciar os palcos do Def Comedy Jam, de cativar o público na comédia stand-up a dar vida a personagens queridos na tela grande, a jornada de Cedric é nada menos que extraordinária. E hoje, estamos aqui para mergulhar fundo no mundo da comédia, no enorme sucesso e em como você mesmo pode encontrar sua voz e alcançar grande sucesso.
-
-Cedric Antonio Kyles, mais conhecido por seu nome artístico Cedric “The Entertainer”, é produtor executivo, diretor, ator, comediante e, agora, romancista. Ao longo de uma carreira de 30 anos, ele solidificou seu status como um dos principais artistas do mundo no palco, no cinema e na televisão. </desc>
-    <credits>
-      <director>Lewis Howes </director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628040258 -0300" stop="20260628054223 -0300" channel="htotv">
-    <title lang="pt">Como A Comida Que Você Come Está Ligada À Ansiedade E Depressão - Dr. Will Bulsiewicz</title>
-    <desc lang="pt">Neste episódio de The School of Greatness, Lewis fala com o Dr. Will Bulsiewicz, um renomado gastroenterologista, especialista em saúde intestinal e autor de best-sellers conhecido por seu trabalho em tornar acessível a educação sobre saúde intestinal. O Dr. B explica a conexão crítica entre a saúde intestinal e a saúde mental, observando que nossos intestinos abrigam 38 trilhões de microrganismos que influenciam significativamente nossa imunidade, humor e bem-estar geral. Ele destaca como a adição de mais diversidade de plantas em nossas dietas pode curar nosso microbioma e enfatiza a importância de enfrentar as feridas emocionais para alcançar uma saúde duradoura. </desc>
-    <credits>
-      <director>Lewis Howes</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
-    <date>2024</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628054223 -0300" stop="20260628073323 -0300" channel="htotv">
-    <title lang="pt">Como As Famílias Mais Ricas Ensinam Seus Filhos Sobre Dinheiro Faça Isso Para Liberar A Abundância</title>
-    <desc lang="pt">No episódio de hoje, temos o incrivelmente perspicaz Scott Donnell conosco. Scott passou mais de uma década estudando mais de cem famílias multigeracionais de alto patrimônio líquido, descobrindo os segredos para construir e manter uma riqueza duradoura. Em nossa conversa, ele compartilha lições poderosas sobre por que é fundamental concentrar-se no patrimônio em vez da herança, como incutir os valores financeiros corretos em nossos filhos e o impacto do dinheiro em nossa saúde mental e em nossos relacionamentos. Prepare-se para aprender estratégias práticas que transformarão a maneira como você e sua família lidam com o dinheiro.</desc>
-    <credits>
-      <director>Lewis Howes</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628073323 -0300" stop="20260628080635 -0300" channel="htotv">
-    <title lang="pt">PGM 254 - Nossa Saúde - Leucemia</title>
-    <desc lang="pt">Fevereiro Laranja é o mês para conscientizar a população sobre prevenção, diagnóstico e combate à leucemia.
-Entenda o que é a leucemia, quais são os principais sintomas, tratamentos e a importância da doação de medula. Nossa convidada é a Dra. Mary Anne Taves, hematologista e diretora técnica do Centro de Pesquisas Oncológicas (CEPON).</desc>
-    <credits>
-      <director>Alesc Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628080635 -0300" stop="20260628084036 -0300" channel="htotv">
-    <title lang="pt">PGM 257 - Nossa Saúde - Casos de Virose</title>
-    <desc lang="pt">Entenda por que os surtos de viroses são mais comuns durante o verão. Nossa convidada é a médica infectologista Regina Célia Santos Valin, que é Mestre em Doenças Tropicais (FIOCRUZ) e Gerente IST, HIV/AIDS da DIVE/SC (Diretoria de Vigilância Epidemiológica). O cenário da Dengue em Santa Catarina e o que deve ser feito para afastar o risco de contaminação, também foi assunto do programa. A apresentação é de Rafaela Arns.</desc>
-    <credits>
-      <director>Alesc Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628084036 -0300" stop="20260628091235 -0300" channel="htotv">
-    <title lang="pt">PGM 261 - Nossa Saúde - Lúpus</title>
-    <desc lang="pt">Lúpus: entenda como age a doença que atinge cerca de 65 mil brasileiros.
-Você sabe o que é lúpus e quais são seus principais sintomas? Convidada: Marina Pereira, médica reumatologista titulada pela Sociedade Brasileira de Reumatologia. Apresentação, Rafaela Arns.
-</desc>
-    <credits>
-      <director>Alesc Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628091235 -0300" stop="20260628094326 -0300" channel="htotv">
-    <title lang="pt">Iluminuras - Andréa Pachá</title>
-    <desc lang="pt">Autora dos best-sellers “Segredo de Justiça” e “A vida não é justa”, desembargadora e escritora celebra uma década da primeira publicação. 
-
-Ela coleciona histórias de separação, reencontros, guarda de filhos, pensão, separação de bens. Testemunhou dramas comuns ao fim de um relacionamento e conduziu centenas de audiências. Com a experiência de uma magistrada que atuou por duas décadas em uma vara de Família, no Rio de Janeiro, Andréa Pachá reuniu essas histórias em narrativas ficcionais em um livro lançado há pouco mais de dez anos e que recentemente ganhou uma edição comemorativa: "A vida não é justa". O best-seller virou série de TV, peça de teatro, e segue como sucesso absoluto entre os leitores.  
-
-O livro foi reeditado com textos inéditos e depoimentos que refletem as mudanças vividas pela sociedade na última década. Em conversa com a jornalista Rafaela Vivas, a desembargadora contou que as audiências ganharam novos contornos em meio à polarização política, o aumento das relações virtuais, a pandemia e o protagonismo conquistado pelas mulheres. 
-
-“Tanto as mudanças boas quanto as ruins, tanto as transformações humanas quanto as pós-humanas vieram para ficar. A fragmentação e a fragilidade das relações afetivas, em um país tão desigual quanto o Brasil, é uma realidade sem retorno. Daí porque é importante olhar para a realidade com coragem e curiosidade, evitando que os faróis se voltem para o passado e não projetem o futuro”, avalia a desembargadora. 
-
-Andréa Pachá também é autora dos livros “Segredo de Justiça” e "Velhos São os Outros”. Este último desenvolvido a partir da experiência em uma vara de Sucessões, onde julgou casos sobre inventários, testamentos e curatelas.</desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628094326 -0300" stop="20260628101009 -0300" channel="htotv">
-    <title lang="pt">Iluminuras - Carlos Affonso</title>
-    <desc lang="pt">Em pauta, temas como o direito à moradia, o sistema interamericano de direitos humanos e a Constituição Federal de 88
-
-O programa desta semana recebe o advogado e diretor jurídico da Câmara Municipal do Rio de Janeiro, Carlos Affonso Leony Neto. Ele é um dos organizadores do livro "A Nova Era dos Direitos - Estudos em Homenagem ao Professor Eduardo Manuel Val". A publicação reúne artigos sobre o Direito contemporâneo, sob a perspectiva dos chamados direitos sociais e homenageia os 60 anos do professor Eduardo Manuel Val, da Universidade Federal Fluminense (UFF).
-
-No livro, juristas e especialistas fazem reflexões sobre o direito à moradia, a inserção da educação parental no rol de direitos fundamentais, os reflexos do pós-covid nas relações educacionais e na exclusão digital. Os autores também apresentam um estudo comparativo entre Brasil, Portugal e Espanha sobre o compliance para startups, com ponderações sobre regulamentação e desafios.
-
-Em conversa com a jornalista Rafaela Vivas, Carlos Affonso também apresenta o livro, fruto da dissertação de mestrado dele, "Desjudicialização como Processo de Compartilhamento de Competências". A obra nasce de um estudo sobre a dinâmica e a agilidade dos processos extrajudiciais, com foco em divórcios e inventários realizados nos dois principais cartórios do Rio de Janeiro. O pesquisador constatou que a população fluminense aderiu em massa às ações que podem ser resolvidas com ou sem a presença de advogados, mas sem a intervenção do Poder Judiciário. A redução de ações relacionadas aos dois institutos (divórcios e inventários) no Tribunal de Justiça do Rio de Janeiro foi de 70% em média. </desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628101009 -0300" stop="20260628103958 -0300" channel="htotv">
-    <title lang="pt">Iluminuras - Direito da Arte com Marcílio Franca</title>
-    <desc lang="pt">O procurador-geral do MP de Contas da Paraíba é pesquisador do tema e autor de um livro sobre esse ramo do Direito
- 
-O que é uma coleção de arte para o Direito e de que tipo de proteção ela dispõe? Uma coleção pode ser desfeita? Quais os cuidados para quem compra uma obra de arte? Essas e outras perguntas relacionadas ao Direito da Arte são respondidas no programa Iluminuras desta semana. O convidado é um dos autores da obra “Coleções de Arte no Direito Brasileiro e Comparado”, Marcílio Franca. 
- 
-Autor de mais de uma dezena de livros jurídicos lançados no Brasil e no exterior, ligados ao patrimônio cultural, Direito Internacional e Direito da Arte, ele é procurador-geral do Ministério Público de Contas da Paraíba e professor da Universidade Federal da Paraíba em João Pessoa. Atua como árbitro em entidades internacionais, como o Tribunal Arbitral da Arte, na Holanda, e a Organização Mundial da Propriedade Intelectual.
- 
-Em conversa com a jornalista Rafaela Vivas, o autor fala da importância da proteção de bens culturais para a identidade do país e da relevância social, cultural e econômica do Direito da Arte. Não perca!</desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628103958 -0300" stop="20260628110236 -0300" channel="htotv">
-    <title lang="pt">IDENTIDADE CULTURAL - Especial Macaúba 80 Anos</title>
-    <desc lang="pt">O programa Identidade Cultural Especial homenageia os 80 anos do Mestre Macaúba do Bandolim. Produzido pelo o núcleo de cultura da TV Assembleia, o Identidade Cultural é exibido aos sábados às 21h na TV Assembleia. Apresentação Virna Cavalcante e produção Luciano Augusto.
-</desc>
-    <credits>
-      <director>Alece Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628110236 -0300" stop="20260628114545 -0300" channel="htotv">
-    <title lang="pt">Identidade Cultural - Especial Mastruz com Leite</title>
-    <desc lang="pt">O Identidade Cultural da TV Assembleia entre no clima das tradicionais festas juninas e apresenta o especial com a Banda Mastruz Com Leite. 
-
-Com 34 anos de história, a banda já lançou mais de 40 CDs e 6 DVDs e conversou com a equipe do programa antes de uma agenda de shows marcados para os meses de junho e julho.
-
-ASSEMBLEIA LEGISLATIVA DO ESTADO DO CEARÁ  
-Youtube: /@TVAsssembleiaCe
-Facebook:   / assembleiace   
-Instagram:   / assembleiace   
-Twitter:   / assembleia_ce  </desc>
-    <credits>
-      <director>Alece Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628114545 -0300" stop="20260628121658 -0300" channel="htotv">
-    <title lang="pt">Identidade Cultural - Felipe Cazaux e Karenzinha</title>
-    <desc lang="pt">O Identidade Cultural conversou com o guitarrista, cantor e compositor Felipe Cazaux que falou sobre sua trajetória no jazz e no Rock cearense. E apresentamos a cantora amazonense de pagode Karenzinha, onde é conhecida pelo bordão: comigo tudo é mais gostoso no pagode! Coordenação de Núcleo: Luciano Augusto, produção: Virna Cavalcante, cinegrafista: Evandro Ferreira e edição: Abraão Holanda 
-</desc>
-    <credits>
-      <director>Alece Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628121658 -0300" stop="20260628131533 -0300" channel="htotv">
-    <title lang="pt">Cedric The Entertainer- De Vendedor De Seguros A Ícone Da Comédia</title>
-    <desc lang="pt">De seus primeiros dias como agente de seguros da State Farm a agraciar os palcos do Def Comedy Jam, de cativar o público na comédia stand-up a dar vida a personagens queridos na tela grande, a jornada de Cedric é nada menos que extraordinária. E hoje, estamos aqui para mergulhar fundo no mundo da comédia, no enorme sucesso e em como você mesmo pode encontrar sua voz e alcançar grande sucesso.
-
-Cedric Antonio Kyles, mais conhecido por seu nome artístico Cedric “The Entertainer”, é produtor executivo, diretor, ator, comediante e, agora, romancista. Ao longo de uma carreira de 30 anos, ele solidificou seu status como um dos principais artistas do mundo no palco, no cinema e na televisão. </desc>
-    <credits>
-      <director>Lewis Howes </director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628131533 -0300" stop="20260628145458 -0300" channel="htotv">
-    <title lang="pt">Como A Comida Que Você Come Está Ligada À Ansiedade E Depressão - Dr. Will Bulsiewicz</title>
-    <desc lang="pt">Neste episódio de The School of Greatness, Lewis fala com o Dr. Will Bulsiewicz, um renomado gastroenterologista, especialista em saúde intestinal e autor de best-sellers conhecido por seu trabalho em tornar acessível a educação sobre saúde intestinal. O Dr. B explica a conexão crítica entre a saúde intestinal e a saúde mental, observando que nossos intestinos abrigam 38 trilhões de microrganismos que influenciam significativamente nossa imunidade, humor e bem-estar geral. Ele destaca como a adição de mais diversidade de plantas em nossas dietas pode curar nosso microbioma e enfatiza a importância de enfrentar as feridas emocionais para alcançar uma saúde duradoura. </desc>
-    <credits>
-      <director>Lewis Howes</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
-    <date>2024</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628145458 -0300" stop="20260628164558 -0300" channel="htotv">
-    <title lang="pt">Como As Famílias Mais Ricas Ensinam Seus Filhos Sobre Dinheiro Faça Isso Para Liberar A Abundância</title>
-    <desc lang="pt">No episódio de hoje, temos o incrivelmente perspicaz Scott Donnell conosco. Scott passou mais de uma década estudando mais de cem famílias multigeracionais de alto patrimônio líquido, descobrindo os segredos para construir e manter uma riqueza duradoura. Em nossa conversa, ele compartilha lições poderosas sobre por que é fundamental concentrar-se no patrimônio em vez da herança, como incutir os valores financeiros corretos em nossos filhos e o impacto do dinheiro em nossa saúde mental e em nossos relacionamentos. Prepare-se para aprender estratégias práticas que transformarão a maneira como você e sua família lidam com o dinheiro.</desc>
-    <credits>
-      <director>Lewis Howes</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628164558 -0300" stop="20260628171910 -0300" channel="htotv">
-    <title lang="pt">PGM 254 - Nossa Saúde - Leucemia</title>
-    <desc lang="pt">Fevereiro Laranja é o mês para conscientizar a população sobre prevenção, diagnóstico e combate à leucemia.
-Entenda o que é a leucemia, quais são os principais sintomas, tratamentos e a importância da doação de medula. Nossa convidada é a Dra. Mary Anne Taves, hematologista e diretora técnica do Centro de Pesquisas Oncológicas (CEPON).</desc>
-    <credits>
-      <director>Alesc Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628171910 -0300" stop="20260628175311 -0300" channel="htotv">
-    <title lang="pt">PGM 257 - Nossa Saúde - Casos de Virose</title>
-    <desc lang="pt">Entenda por que os surtos de viroses são mais comuns durante o verão. Nossa convidada é a médica infectologista Regina Célia Santos Valin, que é Mestre em Doenças Tropicais (FIOCRUZ) e Gerente IST, HIV/AIDS da DIVE/SC (Diretoria de Vigilância Epidemiológica). O cenário da Dengue em Santa Catarina e o que deve ser feito para afastar o risco de contaminação, também foi assunto do programa. A apresentação é de Rafaela Arns.</desc>
-    <credits>
-      <director>Alesc Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628175311 -0300" stop="20260628182510 -0300" channel="htotv">
-    <title lang="pt">PGM 261 - Nossa Saúde - Lúpus</title>
-    <desc lang="pt">Lúpus: entenda como age a doença que atinge cerca de 65 mil brasileiros.
-Você sabe o que é lúpus e quais são seus principais sintomas? Convidada: Marina Pereira, médica reumatologista titulada pela Sociedade Brasileira de Reumatologia. Apresentação, Rafaela Arns.
-</desc>
-    <credits>
-      <director>Alesc Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628182510 -0300" stop="20260628185601 -0300" channel="htotv">
-    <title lang="pt">Iluminuras - Andréa Pachá</title>
-    <desc lang="pt">Autora dos best-sellers “Segredo de Justiça” e “A vida não é justa”, desembargadora e escritora celebra uma década da primeira publicação. 
-
-Ela coleciona histórias de separação, reencontros, guarda de filhos, pensão, separação de bens. Testemunhou dramas comuns ao fim de um relacionamento e conduziu centenas de audiências. Com a experiência de uma magistrada que atuou por duas décadas em uma vara de Família, no Rio de Janeiro, Andréa Pachá reuniu essas histórias em narrativas ficcionais em um livro lançado há pouco mais de dez anos e que recentemente ganhou uma edição comemorativa: "A vida não é justa". O best-seller virou série de TV, peça de teatro, e segue como sucesso absoluto entre os leitores.  
-
-O livro foi reeditado com textos inéditos e depoimentos que refletem as mudanças vividas pela sociedade na última década. Em conversa com a jornalista Rafaela Vivas, a desembargadora contou que as audiências ganharam novos contornos em meio à polarização política, o aumento das relações virtuais, a pandemia e o protagonismo conquistado pelas mulheres. 
-
-“Tanto as mudanças boas quanto as ruins, tanto as transformações humanas quanto as pós-humanas vieram para ficar. A fragmentação e a fragilidade das relações afetivas, em um país tão desigual quanto o Brasil, é uma realidade sem retorno. Daí porque é importante olhar para a realidade com coragem e curiosidade, evitando que os faróis se voltem para o passado e não projetem o futuro”, avalia a desembargadora. 
-
-Andréa Pachá também é autora dos livros “Segredo de Justiça” e "Velhos São os Outros”. Este último desenvolvido a partir da experiência em uma vara de Sucessões, onde julgou casos sobre inventários, testamentos e curatelas.</desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628185601 -0300" stop="20260628192244 -0300" channel="htotv">
-    <title lang="pt">Iluminuras - Carlos Affonso</title>
-    <desc lang="pt">Em pauta, temas como o direito à moradia, o sistema interamericano de direitos humanos e a Constituição Federal de 88
-
-O programa desta semana recebe o advogado e diretor jurídico da Câmara Municipal do Rio de Janeiro, Carlos Affonso Leony Neto. Ele é um dos organizadores do livro "A Nova Era dos Direitos - Estudos em Homenagem ao Professor Eduardo Manuel Val". A publicação reúne artigos sobre o Direito contemporâneo, sob a perspectiva dos chamados direitos sociais e homenageia os 60 anos do professor Eduardo Manuel Val, da Universidade Federal Fluminense (UFF).
-
-No livro, juristas e especialistas fazem reflexões sobre o direito à moradia, a inserção da educação parental no rol de direitos fundamentais, os reflexos do pós-covid nas relações educacionais e na exclusão digital. Os autores também apresentam um estudo comparativo entre Brasil, Portugal e Espanha sobre o compliance para startups, com ponderações sobre regulamentação e desafios.
-
-Em conversa com a jornalista Rafaela Vivas, Carlos Affonso também apresenta o livro, fruto da dissertação de mestrado dele, "Desjudicialização como Processo de Compartilhamento de Competências". A obra nasce de um estudo sobre a dinâmica e a agilidade dos processos extrajudiciais, com foco em divórcios e inventários realizados nos dois principais cartórios do Rio de Janeiro. O pesquisador constatou que a população fluminense aderiu em massa às ações que podem ser resolvidas com ou sem a presença de advogados, mas sem a intervenção do Poder Judiciário. A redução de ações relacionadas aos dois institutos (divórcios e inventários) no Tribunal de Justiça do Rio de Janeiro foi de 70% em média. </desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628192244 -0300" stop="20260628195233 -0300" channel="htotv">
-    <title lang="pt">Iluminuras - Direito da Arte com Marcílio Franca</title>
-    <desc lang="pt">O procurador-geral do MP de Contas da Paraíba é pesquisador do tema e autor de um livro sobre esse ramo do Direito
- 
-O que é uma coleção de arte para o Direito e de que tipo de proteção ela dispõe? Uma coleção pode ser desfeita? Quais os cuidados para quem compra uma obra de arte? Essas e outras perguntas relacionadas ao Direito da Arte são respondidas no programa Iluminuras desta semana. O convidado é um dos autores da obra “Coleções de Arte no Direito Brasileiro e Comparado”, Marcílio Franca. 
- 
-Autor de mais de uma dezena de livros jurídicos lançados no Brasil e no exterior, ligados ao patrimônio cultural, Direito Internacional e Direito da Arte, ele é procurador-geral do Ministério Público de Contas da Paraíba e professor da Universidade Federal da Paraíba em João Pessoa. Atua como árbitro em entidades internacionais, como o Tribunal Arbitral da Arte, na Holanda, e a Organização Mundial da Propriedade Intelectual.
- 
-Em conversa com a jornalista Rafaela Vivas, o autor fala da importância da proteção de bens culturais para a identidade do país e da relevância social, cultural e econômica do Direito da Arte. Não perca!</desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628195233 -0300" stop="20260628201511 -0300" channel="htotv">
-    <title lang="pt">IDENTIDADE CULTURAL - Especial Macaúba 80 Anos</title>
-    <desc lang="pt">O programa Identidade Cultural Especial homenageia os 80 anos do Mestre Macaúba do Bandolim. Produzido pelo o núcleo de cultura da TV Assembleia, o Identidade Cultural é exibido aos sábados às 21h na TV Assembleia. Apresentação Virna Cavalcante e produção Luciano Augusto.
-</desc>
-    <credits>
-      <director>Alece Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628201511 -0300" stop="20260628205820 -0300" channel="htotv">
-    <title lang="pt">Identidade Cultural - Especial Mastruz com Leite</title>
-    <desc lang="pt">O Identidade Cultural da TV Assembleia entre no clima das tradicionais festas juninas e apresenta o especial com a Banda Mastruz Com Leite. 
-
-Com 34 anos de história, a banda já lançou mais de 40 CDs e 6 DVDs e conversou com a equipe do programa antes de uma agenda de shows marcados para os meses de junho e julho.
-
-ASSEMBLEIA LEGISLATIVA DO ESTADO DO CEARÁ  
-Youtube: /@TVAsssembleiaCe
-Facebook:   / assembleiace   
-Instagram:   / assembleiace   
-Twitter:   / assembleia_ce  </desc>
-    <credits>
-      <director>Alece Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628205820 -0300" stop="20260628212933 -0300" channel="htotv">
-    <title lang="pt">Identidade Cultural - Felipe Cazaux e Karenzinha</title>
-    <desc lang="pt">O Identidade Cultural conversou com o guitarrista, cantor e compositor Felipe Cazaux que falou sobre sua trajetória no jazz e no Rock cearense. E apresentamos a cantora amazonense de pagode Karenzinha, onde é conhecida pelo bordão: comigo tudo é mais gostoso no pagode! Coordenação de Núcleo: Luciano Augusto, produção: Virna Cavalcante, cinegrafista: Evandro Ferreira e edição: Abraão Holanda 
-</desc>
-    <credits>
-      <director>Alece Tv</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628212933 -0300" stop="20260628222808 -0300" channel="htotv">
-    <title lang="pt">Cedric The Entertainer- De Vendedor De Seguros A Ícone Da Comédia</title>
-    <desc lang="pt">De seus primeiros dias como agente de seguros da State Farm a agraciar os palcos do Def Comedy Jam, de cativar o público na comédia stand-up a dar vida a personagens queridos na tela grande, a jornada de Cedric é nada menos que extraordinária. E hoje, estamos aqui para mergulhar fundo no mundo da comédia, no enorme sucesso e em como você mesmo pode encontrar sua voz e alcançar grande sucesso.
-
-Cedric Antonio Kyles, mais conhecido por seu nome artístico Cedric “The Entertainer”, é produtor executivo, diretor, ator, comediante e, agora, romancista. Ao longo de uma carreira de 30 anos, ele solidificou seu status como um dos principais artistas do mundo no palco, no cinema e na televisão. </desc>
-    <credits>
-      <director>Lewis Howes </director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260628222808 -0300" stop="20260629000733 -0300" channel="htotv">
-    <title lang="pt">Como A Comida Que Você Come Está Ligada À Ansiedade E Depressão - Dr. Will Bulsiewicz</title>
-    <desc lang="pt">Neste episódio de The School of Greatness, Lewis fala com o Dr. Will Bulsiewicz, um renomado gastroenterologista, especialista em saúde intestinal e autor de best-sellers conhecido por seu trabalho em tornar acessível a educação sobre saúde intestinal. O Dr. B explica a conexão crítica entre a saúde intestinal e a saúde mental, observando que nossos intestinos abrigam 38 trilhões de microrganismos que influenciam significativamente nossa imunidade, humor e bem-estar geral. Ele destaca como a adição de mais diversidade de plantas em nossas dietas pode curar nosso microbioma e enfatiza a importância de enfrentar as feridas emocionais para alcançar uma saúde duradoura. </desc>
-    <credits>
-      <director>Lewis Howes</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
-    <date>2024</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20260629000000 -0300" stop="20260629001025 -0300" channel="htotv">
     <title lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</title>
     <desc lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</desc>
@@ -2971,6 +2453,740 @@ Apresentado e produzido por Celina Diógenes, com direção de Luciano Augusto e
     <category lang="pt">Programa</category>
     <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
     <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702000000 -0300" stop="20260702010914 -0300" channel="htotv">
+    <title lang="pt">Revista Justiça   –  Dia Nacional de Lutas Estudantis</title>
+    <desc lang="pt">Revista eletrônica diária com destaques dos tribunais superiores, entrevistas com juristas e dúvidas dos ouvintes relacionadas a assuntos jurídicos e outros temas de interesse da sociedade.
+
+No debate do programa desta quinta-feira (28) tratamos sobre o Dia Nacional de Lutas Estudantis e debatemos sobre o direito à educação. Estiveram presentes em nossos estúdios o advogado e conselheiro representante dos Estudantes Secundaristas do DF, Marcos Francisco Mourão.
+
+E, para falar sobre a inserção da inteligência artificial no processo educacional e formação continuada de docentes, convidamos o professor, mestre e especialista em Educação Ricardo Praciano. Para dar ênfase na análise da educação e conquista dos estudantes, contamos com a presença da professora Lucineide Cruz.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702010914 -0300" stop="20260702021214 -0300" channel="htotv">
+    <title lang="pt">Revista Justiça   – A Importância do Direito Administrativo</title>
+    <desc lang="pt">Revista eletrônica diária com destaques dos tribunais superiores, entrevistas com juristas e dúvidas dos ouvintes relacionadas a assuntos jurídicos e outros temas de interesse da sociedade.
+
+O debate do programa Revista Justiça tratou sobre a importância do Direito Administrativo para o Brasil –  uma área importante e que compõe o mundo jurídico. A origem do Direito Administrativo está atrelada ao surgimento do Estado de direito, ou seja, ao reconhecimento do Estado como um ente autônomo cuja atuação está pautada no interesse público e na paz social.
+
+Recebemos em nossos estúdios o mestre e doutor em Direito Felipe Dalenogare Alves e a professora, jurista, conselheira do CNMP e autora de livros Fernanda Marinela.
+
+Convidamos também a professora e advogada especialista em Direito Administrativo Luana Carvalho e a advogada, parecerista e professora na área de Direito Administrativo e Constitucional, Marilene Matos.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702021214 -0300" stop="20260702032338 -0300" channel="htotv">
+    <title lang="pt">Revista Justiça   – A Lei da Alienação Parental</title>
+    <desc lang="pt">Revista eletrônica diária com destaques dos tribunais superiores, entrevistas com juristas e dúvidas dos ouvintes relacionadas a assuntos jurídicos e outros temas de interesse da sociedade.
+
+O Partido Socialista Brasileiro questiona no Supremo Tribunal Federal trechos da Lei de Alienação Parental por considerar que são frequentemente utilizados por homens para encobrir abusos e violências domésticas, especialmente contra a mulher. A Lei de Alienação Parental precisa ser alterada ou extinta?
+
+Tratamos deste assunto em nossos estúdios com o advogado, especializado em Direito Civil, professor e palestrante Flavio Grucci e a doutora em Psicologia, especialista em Psicoterapia da Infância e da Adolescência e em Terapia Conjugal e Familiar, ela também é professora universitária aposentada, Sandra Baccara.
+
+Convidamos também a advogada de Família com recorte de gênero, mestranda em Direitos Humanos e coordenadora do Núcleo Jurídico de Acolhimento à Mulher Vítima de Violência, no NUIAM - Núcleo Integrado de Atendimento à Mulher nas Delegacias de Polícia do Distrito Federal, Dinah Lima e a ex-delegada de polícia na Delegacia da Mulher e de Proteção à Criança e ao Adolescente, atualmente advogada e sócia fundadora do Instituto Revellas, especializado no atendimento de mulheres vítimas de violência doméstica ou relacionamentos abusivos, Patrícia Bozolan.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702032338 -0300" stop="20260702033929 -0300" channel="htotv">
+    <title lang="pt">Cabeceira apresenta livro com textos inéditos de José de Alencar</title>
+    <desc lang="pt">O programa Cabeceira da TV Assembleia (canal 31.1), recebe nesta terça-feira (06/02) a partir das 19h, o professor Marcelo Peloggio, um dos organizadores da coletânea “José de Alencar: dispersos e inéditos”. O livro traz parte inédita da obra de um dos mais importantes nomes da literatura brasileira. 
+
+A compilação reúne 61 textos extraídos de 13 cadernos do acervo do Museu Histórico Nacional, além de outras publicações em jornais, revistas e livros. O material é resultado de pesquisa de pós-doutorado realizada pelo professor Marcelo Peloggio (UFC), sob orientação de Marcus Soares (UERJ). Danielle Cristina Mendes e Washington Dener se integraram à equipe de organização do material posteriormente.
+
+Cabeceira é produzido e apresentado por Rosanni Guerra, com a coordenação de Luciano Augusto, edição de Samuel Frota e imagens de Nilson Filho. A atração objetiva discutir e divulgar obras literárias, proporcionando ao público um espaço para conhecer novos autores e suas contribuições ao universo da literatura. Após a exibição na emissora, estará disponível também no YouTube da TV Assembleia.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702033929 -0300" stop="20260702040616 -0300" channel="htotv">
+    <title lang="pt">Cabeceira apresenta livro em homenagem ao centenário da cidade de Reriutaba</title>
+    <desc lang="pt">Nesta terça-feira (27/02), às 19h, o programa Cabeceira da TV Assembleia (Canal 31.1), recebe a  jornalista e escritora Silvana Frota. Ela traz informações sobre o livro de sua autoria “Reriutaba Centenária", que conta a história do município cearense. 
+
+A jornalista Silvana Frota é apresentadora do programa Mulheres no Parlamento, da TV Assembleia, no qual destaca as ações femininas na Assembleia Legislativa. A jornalista também publicou os livros: “De Santa Cruz a Reriutaba” (1988) e “Reriutaba Ontem e Hoje” (2003), “Meus Pais: Duas Histórias de Superação”, “40 anos de Jornalismo” (2016) e “Centenário de Luz” (2022).
+
+O programa Cabeceira é produzido e apresentado por Rosanni Guerra, com a coordenação de Luciano Augusto e edição de Samuel Frota e imagens de Nilson Filho. Objetiva discutir e divulgar obras literárias, proporcionando ao público um espaço para conhecer novos autores e suas contribuições ao universo da literatura. Após a exibição na TV, o programa estará disponível no Youtube da TV Assembleia.
+
+</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702040616 -0300" stop="20260702042927 -0300" channel="htotv">
+    <title lang="pt">Cabeceira apresenta Livro Lições do Pensar</title>
+    <desc lang="pt">O programa Cabeceira, da TV Assembleia (Canal 31.1), recebe, nesta terça-feira (23/04), a partir das 19h, o jornalista e escritor Silvio Cayua, autor do livro "Lições de Pensar". A obra traz reflexões sobre a existência, as complexidades das relações sociais e os desafios da vida profissional.
+
+Cabeceira é produzido e apresentado por Rosanni Guerra, com a coordenação de Luciano Augusto e edição de Samuel Frota e imagens de Pedro Paulo e Rinaldo Nogueira. O espaço objetiva discutir e divulgar obras literárias, proporcionando ao público um espaço para conhecer novos autores e suas contribuições ao universo da literatura. Após a exibição na TV, o programa estará disponível para visualização no canal da TV Assembleia no YouTube.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702042927 -0300" stop="20260702045551 -0300" channel="htotv">
+    <title lang="pt">Artigo 5º -  35 anos da Constituição Federal de 1988</title>
+    <desc lang="pt">Esta semana, o programa Artigo 5º faz um balanço dos 35 anos da Constituição Federal de 1988, um marco de direitos dos cidadãos brasileiros e garantias de liberdades civis e deveres do Estado. Os convidados são Christine Peter, professora de Direito Constitucional, e Ulisses Riedel, advogado constitucionalista que fez parte da elaboração da atual Carta Magna brasileira sobre os temas relacionados aos direitos sociais e dos trabalhadores.
+
+</desc>
+    <credits>
+      <director> Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702045551 -0300" stop="20260702052259 -0300" channel="htotv">
+    <title lang="pt">Artigo 5º -  Direitos de quem exerce uma profissão perigosa</title>
+    <desc lang="pt">O Artigo 5º desta semana é sobre profissões perigosas. Os convidados Thomaz Nina, advogado e professor de Direito do Trabalho, e Renata Mulhio, técnica em Segurança do Trabalho, falam sobre a legislação vigente no país, sobre quais são os direitos trabalhistas e os riscos para quem exerce esse tipo de atividade.
+</desc>
+    <credits>
+      <director> Foco na TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702052259 -0300" stop="20260702054855 -0300" channel="htotv">
+    <title lang="pt">Artigo 5º -  Incêndio no Edifício Joelma completa 50 anos</title>
+    <desc lang="pt">O Artigo 5º desta semana é sobre os impactos do incêndio no Edifício Joelma nas normas da construção civil no país. O acidente, que aconteceu há 50 anos, ficou conhecido como um dos maiores da história do país, resultando na morte de 187 pessoas e deixando pouco mais de 300 feridos. Desde então, a tragédia chamou atenção para a importância das normas de segurança e prevenção de incêndios no país. Os entrevistados são Fernando Luiz Carvalho Dantas, advogado especialista em Direito Urbanístico, e Daniel Morais, engenheiro civil e de Segurança do Trabalho.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702054855 -0300" stop="20260702061151 -0300" channel="htotv">
+    <title lang="pt">CURTA CEARÁ -  Rastros</title>
+    <desc lang="pt">O Curta Ceará dessa semana exibe uma conversa com Três artistas: Fernanda Meireles, Narcelio Grud e Andrea Salles. O programa retrata o percurso que os três personagens fizeram no romance "A Afilhada", de Oliveira Paiva.
+
+O Curta Ceará tem apresentação e produção de Celina Diógenes e direção de Luciano Augusto. É exibido todos os domingos, a partir das 21h na TV Assembleia Ceará.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1xgDzDUZHiceLVs8a-3QoKtg7e8G9dS_Q&amp;sz=w1000"/>
+    <date>2023</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702061151 -0300" stop="20260702063336 -0300" channel="htotv">
+    <title lang="pt">CURTA CEARÁ -  Saudade dos Leões - João Paulo Magalhães</title>
+    <desc lang="pt">O Curta Ceará apresenta "Saudade dos Leões". O filme fala sobre as dificuldades enfrentadas pelo Bar Cultural Lions durante o cenário da pandemia da Covid-19. Situado na Praça dos Leões, o estabelecimento se destaca por sua diversidade e pelo acolhimento ao público majoritariamente LGBTQIAP+. 
+
+O filme foi lançado em 2021 e destaca as memórias afetivas dos frequentadores do espaço, que foram impossibilitados de partilhar os momentos de festividade e celebração durante o isolamento social. 
+
+O programa Curta Ceará também conversa com o diretor da obra, João Paulo Magalhães. Ele dará mais informações sobre a ideia da produção e como aconteceram as gravações. Aos 22 anos, João Paulo é estudante do curso de Cinema e Audiovisual da Universidade de Fortaleza (Unifor). 
+
+“Saudades dos Leões” é a primeira produção dirigida por ele. O estudante também participou do filme "Entre o Passado", como primeiro assistente de produção.
+
+O Curta Ceará tem apresentação e produção de Celina Diógenes e direção de Luciano Augusto. É exibido todos os domingos, a partir das 21h na TV Assembleia Ceará.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1xgDzDUZHiceLVs8a-3QoKtg7e8G9dS_Q&amp;sz=w1000"/>
+    <date>2023</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702063336 -0300" stop="20260702065910 -0300" channel="htotv">
+    <title lang="pt">CURTA CEARÁ -  Urubu Aterrado</title>
+    <desc lang="pt">O programa Curta Ceará apresenta o filme "Urubu Aterrado", dirigido por Cris Sousa. A obra fala sobre uma mãe e um filho que abrem um baú de memórias enterradas e decidem voltar à praia onde foram despejados anos antes e confrontar seu passado.
+
+Apresentado e produzido por Celina Diógenes, com direção de Luciano Augusto e edição de imagens de Laura Tainá. O Curta Ceará vai ao ar domingo às 21h.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1xgDzDUZHiceLVs8a-3QoKtg7e8G9dS_Q&amp;sz=w1000"/>
+    <date>2023</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702065910 -0300" stop="20260702072643 -0300" channel="htotv">
+    <title lang="pt">Descomplicando - Convivência entre vizinhos</title>
+    <desc lang="pt">O programa Descomplicando desta semana é sobre convivência entre vizinhos. O professor e escritor Júlio Hidalgo explica para a criançada que existem diversas normas e leis específicas que regulamentam a vida em condomínios e asseguram um convívio pacífico nesses espaços. E também que o Código Civil é a lei principal que trata sobre os direitos e as obrigações dos síndicos e dos condôminos.
+
+Os pequenos vão aprender, ainda, que têm o direito de brincar, de ir e vir, desde que com limites, e que a convenção do condomínio tem que estar em harmonia com a Constituição Federal e o Estatuto da Criança e do Adolescente.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702072643 -0300" stop="20260702075526 -0300" channel="htotv">
+    <title lang="pt">Descomplicando - Criações e invenções</title>
+    <desc lang="pt">O programa Descomplicando desta semana entra no universo das criações e invenções. O professor e escritor Júlio Hidalgo recebe Jair Lúcio, professor de Física do Instituto Federal de Brasília (IFB), que, junto com as crianças, conversa sobre importantes invenções, como óculos, roda, celular, satélite, luz, avião, entre outras. No segundo bloco, os pequenos perguntam à convidada, a advogada Raíssa Lopes, especialista em Propriedade Intelectual, sobre o que as criações e invenções têm a ver com o Direito e com as leis.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702075526 -0300" stop="20260702082453 -0300" channel="htotv">
+    <title lang="pt">Descomplicando - Crianças no mundo digital</title>
+    <desc lang="pt">O programa Descomplicando desta semana é sobre o direito das crianças no mundo digital. O professor e escritor Júlio Hidalgo, em um bate-papo descontraído, conversa com a criançada sobre a internet, como ela mudou a vida das pessoas e, principalmente, sobre os riscos, as regras e a idade certa para usar redes sociais. No segundo bloco, os pequenos vão aprender sobre a legislação que protege as crianças neste ambiente digital.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702082453 -0300" stop="20260702082732 -0300" channel="htotv">
+    <title lang="pt">E você com isso - Cotas raciais</title>
+    <desc lang="pt">Relembre julgamentos do Supremo Tribunal Federal que impactaram a vida dos brasileiros.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2023</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702082732 -0300" stop="20260702082925 -0300" channel="htotv">
+    <title lang="pt">E você com isso - Garantia de creche</title>
+    <desc lang="pt">Relembre julgamentos do Supremo Tribunal Federal que impactaram a vida dos brasileiros.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2023</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702082925 -0300" stop="20260702083118 -0300" channel="htotv">
+    <title lang="pt">E você com isso - Garantia de creche</title>
+    <desc lang="pt">Relembre julgamentos do Supremo Tribunal Federal que impactaram a vida dos brasileiros.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2023</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702083118 -0300" stop="20260702085729 -0300" channel="htotv">
+    <title lang="pt">Iluminuras -  Jurista Flávia Piovesan</title>
+    <desc lang="pt">Direitos Humanos e o protagonismo cultural das mulheres
+
+Iluminuras recebe a jurista Flávia Piovesan, professora e ex-membro da Comissão Interamericana de Direitos Humanos
+
+“Mulheres, Direito e Protagonismo Cultural”, um livro coordenado e escrito por mulheres que fomenta a discussão jurídica sobre equidade de gênero e a importância da igualdade entre homens e mulheres para a efetividade de direitos e liberdades culturais. Nesta semana, o programa recebe uma das coordenadoras da obra, a professora, jurista e advogada Flávia Piovesan.
+
+Em conversa com a jornalista Rafaela Vivas, ela falou sobre essa e outras obras relacionadas aos direitos humanos, sua principal linha de pesquisa. Flávia Piovesan integrou a Comissão Interamericana de Direitos Humanos e, além de membro, foi vice-presidente do órgão, que tem como principal função promover a observância e a defesa dos direitos humanos nas Américas. Em entrevista ao Iluminuras, a jurista fala sobre a proteção internacional dos direitos humanos das mulheres e a igualdade de gênero na Constituição Federal de 1988.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702085729 -0300" stop="20260702092353 -0300" channel="htotv">
+    <title lang="pt">Iluminuras -  Ministro do Superior Tribunal de Justiça Sebastião Reis Junior</title>
+    <desc lang="pt">Sebastião Reis Junior é coordenador do livro que reúne fotos tiradas por ele, relatos pessoais, estudos técnicos, citações jurisprudenciais e até poemas.
+Cenas do cotidiano no cárcere. Registros de mulheres transexuais. Fotos que revelam reflexão, preconceito, identidade, sofrimento e angústias da vida na prisão. As 38 fotografias tiradas pelo ministro do Superior Tribunal de Justiça Sebastião Reis Junior integram o livro "Translúcida", coordenado e organizado pelo magistrado. As presas transexuais foram fotografadas pelo ministro Sebastião no Centro de Detenção Provisória Pinheiros II, em São Paulo.
+
+A obra combina fotos, cartas, ilustrações, poesia e textos de pessoas com diferentes formações que aprofundam a reflexão sobre direitos humanos, cárcere e o direito à própria identidade. Em conversa com a jornalista Rafaela Vivas, o ministro contou que procurou por pessoas de diferentes áreas para ampliar o debate e a reflexão sobre o tema.
+
+"Quem ler vai ver trabalhos de advogados, juízes, médicos, políticos, artistas plásticos e militares e verá textos técnicos, cartas, ilustrações, contos, poesias e ensaios. Não houve regras. São textos livres. Cada um escreveu, ou desenhou, o que quis, o que sentiu vontade", conta Sebastião. A obra, que ganhou prefácio do ministro dos Direitos Humanos e da Cidadania, Silvio Almeida, é da editora Amanuense, com edição e revisão do jornalista Rodrigo Haidar.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702092353 -0300" stop="20260702095129 -0300" channel="htotv">
+    <title lang="pt">Iluminuras - Adriana Carranca</title>
+    <desc lang="pt">Ela é especializada na cobertura de conflitos, crises humanitárias e direitos humanos. Com olhar especial sobre a condição das mulheres, é autora de seis livros, entre eles, a obra de destaque: “Malala, a menina que queria ir para a escola”.  
+
+O livro conta a história da jovem paquistanesa, Malala Yousafzai, que levou um tiro do talibã por insistir em ir para a escola, em um local em que mulheres foram proibidas de estudar. O atentado foi em 2012 e a menina quase morreu.  
+
+Jornalista especializada em coberturas jornalísticas sobre o Oriente Médio, Adriana Carranca também é autora de livros-reportagens sobre o Irã e o Afeganistão. Na conversa com a jornalista Priscila Rossiter, a autora fala sobre os bastidores e o processo de apuração das obras, as referências literárias e os próximos projetos.  </desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702095129 -0300" stop="20260702105943 -0300" channel="htotv">
+    <title lang="pt">A ÚLTIMA GRANDE ENTREVISTA DE Kobe Bryant- Imagens PERDIDAS Nunca Antes Vistas</title>
+    <desc lang="pt">Hoje prestamos homenagem ao grande e falecido Kobe Bryant, uma figura lendária cujo impacto transcendeu a quadra de basquete. Esta é uma jornada sincera pela vida notável de Kobe, celebrando não apenas suas conquistas esportivas, mas também seu caráter extraordinário, com imagens nunca antes vistas. Conhecido por sua "Mentalidade Mamba", Kobe inspirou milhões de pessoas com sua dedicação, resiliência e busca incessante pela grandeza. 
+
+Você pode me seguir em:
+Website: http://lewishowes.com/ 
+Facebook:   / lewishowes   
+Twitter: https://twitter.com/
+LewisHowes Instagram:   / lewishowes   
+TikTok:   / lewis   
+LinkedIn:   / lewishowes  </desc>
+    <credits>
+      <director>Lewis Howes</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702105943 -0300" stop="20260702123510 -0300" channel="htotv">
+    <title lang="pt">Atraímos Pessoas Pelas Nossas Feridas Psicológicas- Neurocientista n1 Ensina A Manifestar O Amor</title>
+    <desc lang="pt">Hoje, estou muito feliz por ter a brilhante Dra. Tara Swart conosco mais uma vez. Como neurocientista e especialista em manifestação, a Dra. Swart traz uma mistura única de ciência e espiritualidade para a mesa. Neste episódio, vamos mergulhar na ciência da manifestação, explorando como a neuroplasticidade nos permite reconectar nossos cérebros para realizar nossos sonhos. A Dra. Swart detalhará as medidas práticas que você pode tomar para manifestar seus objetivos, discutirá o papel fundamental da crença e da autoestima e revelará como a gratidão pode transformar a química do seu cérebro.</desc>
+    <credits>
+      <director>Lewis Howes</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702123510 -0300" stop="20260702134424 -0300" channel="htotv">
+    <title lang="pt">Revista Justiça   –  Dia Nacional de Lutas Estudantis</title>
+    <desc lang="pt">Revista eletrônica diária com destaques dos tribunais superiores, entrevistas com juristas e dúvidas dos ouvintes relacionadas a assuntos jurídicos e outros temas de interesse da sociedade.
+
+No debate do programa desta quinta-feira (28) tratamos sobre o Dia Nacional de Lutas Estudantis e debatemos sobre o direito à educação. Estiveram presentes em nossos estúdios o advogado e conselheiro representante dos Estudantes Secundaristas do DF, Marcos Francisco Mourão.
+
+E, para falar sobre a inserção da inteligência artificial no processo educacional e formação continuada de docentes, convidamos o professor, mestre e especialista em Educação Ricardo Praciano. Para dar ênfase na análise da educação e conquista dos estudantes, contamos com a presença da professora Lucineide Cruz.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702134424 -0300" stop="20260702144724 -0300" channel="htotv">
+    <title lang="pt">Revista Justiça   – A Importância do Direito Administrativo</title>
+    <desc lang="pt">Revista eletrônica diária com destaques dos tribunais superiores, entrevistas com juristas e dúvidas dos ouvintes relacionadas a assuntos jurídicos e outros temas de interesse da sociedade.
+
+O debate do programa Revista Justiça tratou sobre a importância do Direito Administrativo para o Brasil –  uma área importante e que compõe o mundo jurídico. A origem do Direito Administrativo está atrelada ao surgimento do Estado de direito, ou seja, ao reconhecimento do Estado como um ente autônomo cuja atuação está pautada no interesse público e na paz social.
+
+Recebemos em nossos estúdios o mestre e doutor em Direito Felipe Dalenogare Alves e a professora, jurista, conselheira do CNMP e autora de livros Fernanda Marinela.
+
+Convidamos também a professora e advogada especialista em Direito Administrativo Luana Carvalho e a advogada, parecerista e professora na área de Direito Administrativo e Constitucional, Marilene Matos.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702144724 -0300" stop="20260702155848 -0300" channel="htotv">
+    <title lang="pt">Revista Justiça   – A Lei da Alienação Parental</title>
+    <desc lang="pt">Revista eletrônica diária com destaques dos tribunais superiores, entrevistas com juristas e dúvidas dos ouvintes relacionadas a assuntos jurídicos e outros temas de interesse da sociedade.
+
+O Partido Socialista Brasileiro questiona no Supremo Tribunal Federal trechos da Lei de Alienação Parental por considerar que são frequentemente utilizados por homens para encobrir abusos e violências domésticas, especialmente contra a mulher. A Lei de Alienação Parental precisa ser alterada ou extinta?
+
+Tratamos deste assunto em nossos estúdios com o advogado, especializado em Direito Civil, professor e palestrante Flavio Grucci e a doutora em Psicologia, especialista em Psicoterapia da Infância e da Adolescência e em Terapia Conjugal e Familiar, ela também é professora universitária aposentada, Sandra Baccara.
+
+Convidamos também a advogada de Família com recorte de gênero, mestranda em Direitos Humanos e coordenadora do Núcleo Jurídico de Acolhimento à Mulher Vítima de Violência, no NUIAM - Núcleo Integrado de Atendimento à Mulher nas Delegacias de Polícia do Distrito Federal, Dinah Lima e a ex-delegada de polícia na Delegacia da Mulher e de Proteção à Criança e ao Adolescente, atualmente advogada e sócia fundadora do Instituto Revellas, especializado no atendimento de mulheres vítimas de violência doméstica ou relacionamentos abusivos, Patrícia Bozolan.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702155848 -0300" stop="20260702161439 -0300" channel="htotv">
+    <title lang="pt">Cabeceira apresenta livro com textos inéditos de José de Alencar</title>
+    <desc lang="pt">O programa Cabeceira da TV Assembleia (canal 31.1), recebe nesta terça-feira (06/02) a partir das 19h, o professor Marcelo Peloggio, um dos organizadores da coletânea “José de Alencar: dispersos e inéditos”. O livro traz parte inédita da obra de um dos mais importantes nomes da literatura brasileira. 
+
+A compilação reúne 61 textos extraídos de 13 cadernos do acervo do Museu Histórico Nacional, além de outras publicações em jornais, revistas e livros. O material é resultado de pesquisa de pós-doutorado realizada pelo professor Marcelo Peloggio (UFC), sob orientação de Marcus Soares (UERJ). Danielle Cristina Mendes e Washington Dener se integraram à equipe de organização do material posteriormente.
+
+Cabeceira é produzido e apresentado por Rosanni Guerra, com a coordenação de Luciano Augusto, edição de Samuel Frota e imagens de Nilson Filho. A atração objetiva discutir e divulgar obras literárias, proporcionando ao público um espaço para conhecer novos autores e suas contribuições ao universo da literatura. Após a exibição na emissora, estará disponível também no YouTube da TV Assembleia.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702161439 -0300" stop="20260702164126 -0300" channel="htotv">
+    <title lang="pt">Cabeceira apresenta livro em homenagem ao centenário da cidade de Reriutaba</title>
+    <desc lang="pt">Nesta terça-feira (27/02), às 19h, o programa Cabeceira da TV Assembleia (Canal 31.1), recebe a  jornalista e escritora Silvana Frota. Ela traz informações sobre o livro de sua autoria “Reriutaba Centenária", que conta a história do município cearense. 
+
+A jornalista Silvana Frota é apresentadora do programa Mulheres no Parlamento, da TV Assembleia, no qual destaca as ações femininas na Assembleia Legislativa. A jornalista também publicou os livros: “De Santa Cruz a Reriutaba” (1988) e “Reriutaba Ontem e Hoje” (2003), “Meus Pais: Duas Histórias de Superação”, “40 anos de Jornalismo” (2016) e “Centenário de Luz” (2022).
+
+O programa Cabeceira é produzido e apresentado por Rosanni Guerra, com a coordenação de Luciano Augusto e edição de Samuel Frota e imagens de Nilson Filho. Objetiva discutir e divulgar obras literárias, proporcionando ao público um espaço para conhecer novos autores e suas contribuições ao universo da literatura. Após a exibição na TV, o programa estará disponível no Youtube da TV Assembleia.
+
+</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702164126 -0300" stop="20260702170437 -0300" channel="htotv">
+    <title lang="pt">Cabeceira apresenta Livro Lições do Pensar</title>
+    <desc lang="pt">O programa Cabeceira, da TV Assembleia (Canal 31.1), recebe, nesta terça-feira (23/04), a partir das 19h, o jornalista e escritor Silvio Cayua, autor do livro "Lições de Pensar". A obra traz reflexões sobre a existência, as complexidades das relações sociais e os desafios da vida profissional.
+
+Cabeceira é produzido e apresentado por Rosanni Guerra, com a coordenação de Luciano Augusto e edição de Samuel Frota e imagens de Pedro Paulo e Rinaldo Nogueira. O espaço objetiva discutir e divulgar obras literárias, proporcionando ao público um espaço para conhecer novos autores e suas contribuições ao universo da literatura. Após a exibição na TV, o programa estará disponível para visualização no canal da TV Assembleia no YouTube.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1byiAM33wgFlZsH1QXXwUuRdfI23GVz_G&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702170437 -0300" stop="20260702173101 -0300" channel="htotv">
+    <title lang="pt">Artigo 5º -  35 anos da Constituição Federal de 1988</title>
+    <desc lang="pt">Esta semana, o programa Artigo 5º faz um balanço dos 35 anos da Constituição Federal de 1988, um marco de direitos dos cidadãos brasileiros e garantias de liberdades civis e deveres do Estado. Os convidados são Christine Peter, professora de Direito Constitucional, e Ulisses Riedel, advogado constitucionalista que fez parte da elaboração da atual Carta Magna brasileira sobre os temas relacionados aos direitos sociais e dos trabalhadores.
+
+</desc>
+    <credits>
+      <director> Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702173101 -0300" stop="20260702175809 -0300" channel="htotv">
+    <title lang="pt">Artigo 5º -  Direitos de quem exerce uma profissão perigosa</title>
+    <desc lang="pt">O Artigo 5º desta semana é sobre profissões perigosas. Os convidados Thomaz Nina, advogado e professor de Direito do Trabalho, e Renata Mulhio, técnica em Segurança do Trabalho, falam sobre a legislação vigente no país, sobre quais são os direitos trabalhistas e os riscos para quem exerce esse tipo de atividade.
+</desc>
+    <credits>
+      <director> Foco na TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702175809 -0300" stop="20260702182405 -0300" channel="htotv">
+    <title lang="pt">Artigo 5º -  Incêndio no Edifício Joelma completa 50 anos</title>
+    <desc lang="pt">O Artigo 5º desta semana é sobre os impactos do incêndio no Edifício Joelma nas normas da construção civil no país. O acidente, que aconteceu há 50 anos, ficou conhecido como um dos maiores da história do país, resultando na morte de 187 pessoas e deixando pouco mais de 300 feridos. Desde então, a tragédia chamou atenção para a importância das normas de segurança e prevenção de incêndios no país. Os entrevistados são Fernando Luiz Carvalho Dantas, advogado especialista em Direito Urbanístico, e Daniel Morais, engenheiro civil e de Segurança do Trabalho.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702182405 -0300" stop="20260702184701 -0300" channel="htotv">
+    <title lang="pt">CURTA CEARÁ -  Rastros</title>
+    <desc lang="pt">O Curta Ceará dessa semana exibe uma conversa com Três artistas: Fernanda Meireles, Narcelio Grud e Andrea Salles. O programa retrata o percurso que os três personagens fizeram no romance "A Afilhada", de Oliveira Paiva.
+
+O Curta Ceará tem apresentação e produção de Celina Diógenes e direção de Luciano Augusto. É exibido todos os domingos, a partir das 21h na TV Assembleia Ceará.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1xgDzDUZHiceLVs8a-3QoKtg7e8G9dS_Q&amp;sz=w1000"/>
+    <date>2023</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702184701 -0300" stop="20260702190846 -0300" channel="htotv">
+    <title lang="pt">CURTA CEARÁ -  Saudade dos Leões - João Paulo Magalhães</title>
+    <desc lang="pt">O Curta Ceará apresenta "Saudade dos Leões". O filme fala sobre as dificuldades enfrentadas pelo Bar Cultural Lions durante o cenário da pandemia da Covid-19. Situado na Praça dos Leões, o estabelecimento se destaca por sua diversidade e pelo acolhimento ao público majoritariamente LGBTQIAP+. 
+
+O filme foi lançado em 2021 e destaca as memórias afetivas dos frequentadores do espaço, que foram impossibilitados de partilhar os momentos de festividade e celebração durante o isolamento social. 
+
+O programa Curta Ceará também conversa com o diretor da obra, João Paulo Magalhães. Ele dará mais informações sobre a ideia da produção e como aconteceram as gravações. Aos 22 anos, João Paulo é estudante do curso de Cinema e Audiovisual da Universidade de Fortaleza (Unifor). 
+
+“Saudades dos Leões” é a primeira produção dirigida por ele. O estudante também participou do filme "Entre o Passado", como primeiro assistente de produção.
+
+O Curta Ceará tem apresentação e produção de Celina Diógenes e direção de Luciano Augusto. É exibido todos os domingos, a partir das 21h na TV Assembleia Ceará.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1xgDzDUZHiceLVs8a-3QoKtg7e8G9dS_Q&amp;sz=w1000"/>
+    <date>2023</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702190846 -0300" stop="20260702193420 -0300" channel="htotv">
+    <title lang="pt">CURTA CEARÁ -  Urubu Aterrado</title>
+    <desc lang="pt">O programa Curta Ceará apresenta o filme "Urubu Aterrado", dirigido por Cris Sousa. A obra fala sobre uma mãe e um filho que abrem um baú de memórias enterradas e decidem voltar à praia onde foram despejados anos antes e confrontar seu passado.
+
+Apresentado e produzido por Celina Diógenes, com direção de Luciano Augusto e edição de imagens de Laura Tainá. O Curta Ceará vai ao ar domingo às 21h.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1xgDzDUZHiceLVs8a-3QoKtg7e8G9dS_Q&amp;sz=w1000"/>
+    <date>2023</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702193420 -0300" stop="20260702200153 -0300" channel="htotv">
+    <title lang="pt">Descomplicando - Convivência entre vizinhos</title>
+    <desc lang="pt">O programa Descomplicando desta semana é sobre convivência entre vizinhos. O professor e escritor Júlio Hidalgo explica para a criançada que existem diversas normas e leis específicas que regulamentam a vida em condomínios e asseguram um convívio pacífico nesses espaços. E também que o Código Civil é a lei principal que trata sobre os direitos e as obrigações dos síndicos e dos condôminos.
+
+Os pequenos vão aprender, ainda, que têm o direito de brincar, de ir e vir, desde que com limites, e que a convenção do condomínio tem que estar em harmonia com a Constituição Federal e o Estatuto da Criança e do Adolescente.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702200153 -0300" stop="20260702203036 -0300" channel="htotv">
+    <title lang="pt">Descomplicando - Criações e invenções</title>
+    <desc lang="pt">O programa Descomplicando desta semana entra no universo das criações e invenções. O professor e escritor Júlio Hidalgo recebe Jair Lúcio, professor de Física do Instituto Federal de Brasília (IFB), que, junto com as crianças, conversa sobre importantes invenções, como óculos, roda, celular, satélite, luz, avião, entre outras. No segundo bloco, os pequenos perguntam à convidada, a advogada Raíssa Lopes, especialista em Propriedade Intelectual, sobre o que as criações e invenções têm a ver com o Direito e com as leis.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702203036 -0300" stop="20260702210003 -0300" channel="htotv">
+    <title lang="pt">Descomplicando - Crianças no mundo digital</title>
+    <desc lang="pt">O programa Descomplicando desta semana é sobre o direito das crianças no mundo digital. O professor e escritor Júlio Hidalgo, em um bate-papo descontraído, conversa com a criançada sobre a internet, como ela mudou a vida das pessoas e, principalmente, sobre os riscos, as regras e a idade certa para usar redes sociais. No segundo bloco, os pequenos vão aprender sobre a legislação que protege as crianças neste ambiente digital.</desc>
+    <credits>
+      <director>Alece Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702210003 -0300" stop="20260702210242 -0300" channel="htotv">
+    <title lang="pt">E você com isso - Cotas raciais</title>
+    <desc lang="pt">Relembre julgamentos do Supremo Tribunal Federal que impactaram a vida dos brasileiros.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2023</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702210242 -0300" stop="20260702210435 -0300" channel="htotv">
+    <title lang="pt">E você com isso - Garantia de creche</title>
+    <desc lang="pt">Relembre julgamentos do Supremo Tribunal Federal que impactaram a vida dos brasileiros.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2023</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702210435 -0300" stop="20260702210628 -0300" channel="htotv">
+    <title lang="pt">E você com isso - Garantia de creche</title>
+    <desc lang="pt">Relembre julgamentos do Supremo Tribunal Federal que impactaram a vida dos brasileiros.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2023</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702210628 -0300" stop="20260702213239 -0300" channel="htotv">
+    <title lang="pt">Iluminuras -  Jurista Flávia Piovesan</title>
+    <desc lang="pt">Direitos Humanos e o protagonismo cultural das mulheres
+
+Iluminuras recebe a jurista Flávia Piovesan, professora e ex-membro da Comissão Interamericana de Direitos Humanos
+
+“Mulheres, Direito e Protagonismo Cultural”, um livro coordenado e escrito por mulheres que fomenta a discussão jurídica sobre equidade de gênero e a importância da igualdade entre homens e mulheres para a efetividade de direitos e liberdades culturais. Nesta semana, o programa recebe uma das coordenadoras da obra, a professora, jurista e advogada Flávia Piovesan.
+
+Em conversa com a jornalista Rafaela Vivas, ela falou sobre essa e outras obras relacionadas aos direitos humanos, sua principal linha de pesquisa. Flávia Piovesan integrou a Comissão Interamericana de Direitos Humanos e, além de membro, foi vice-presidente do órgão, que tem como principal função promover a observância e a defesa dos direitos humanos nas Américas. Em entrevista ao Iluminuras, a jurista fala sobre a proteção internacional dos direitos humanos das mulheres e a igualdade de gênero na Constituição Federal de 1988.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702213239 -0300" stop="20260702215903 -0300" channel="htotv">
+    <title lang="pt">Iluminuras -  Ministro do Superior Tribunal de Justiça Sebastião Reis Junior</title>
+    <desc lang="pt">Sebastião Reis Junior é coordenador do livro que reúne fotos tiradas por ele, relatos pessoais, estudos técnicos, citações jurisprudenciais e até poemas.
+Cenas do cotidiano no cárcere. Registros de mulheres transexuais. Fotos que revelam reflexão, preconceito, identidade, sofrimento e angústias da vida na prisão. As 38 fotografias tiradas pelo ministro do Superior Tribunal de Justiça Sebastião Reis Junior integram o livro "Translúcida", coordenado e organizado pelo magistrado. As presas transexuais foram fotografadas pelo ministro Sebastião no Centro de Detenção Provisória Pinheiros II, em São Paulo.
+
+A obra combina fotos, cartas, ilustrações, poesia e textos de pessoas com diferentes formações que aprofundam a reflexão sobre direitos humanos, cárcere e o direito à própria identidade. Em conversa com a jornalista Rafaela Vivas, o ministro contou que procurou por pessoas de diferentes áreas para ampliar o debate e a reflexão sobre o tema.
+
+"Quem ler vai ver trabalhos de advogados, juízes, médicos, políticos, artistas plásticos e militares e verá textos técnicos, cartas, ilustrações, contos, poesias e ensaios. Não houve regras. São textos livres. Cada um escreveu, ou desenhou, o que quis, o que sentiu vontade", conta Sebastião. A obra, que ganhou prefácio do ministro dos Direitos Humanos e da Cidadania, Silvio Almeida, é da editora Amanuense, com edição e revisão do jornalista Rodrigo Haidar.</desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702215903 -0300" stop="20260702222639 -0300" channel="htotv">
+    <title lang="pt">Iluminuras - Adriana Carranca</title>
+    <desc lang="pt">Ela é especializada na cobertura de conflitos, crises humanitárias e direitos humanos. Com olhar especial sobre a condição das mulheres, é autora de seis livros, entre eles, a obra de destaque: “Malala, a menina que queria ir para a escola”.  
+
+O livro conta a história da jovem paquistanesa, Malala Yousafzai, que levou um tiro do talibã por insistir em ir para a escola, em um local em que mulheres foram proibidas de estudar. O atentado foi em 2012 e a menina quase morreu.  
+
+Jornalista especializada em coberturas jornalísticas sobre o Oriente Médio, Adriana Carranca também é autora de livros-reportagens sobre o Irã e o Afeganistão. Na conversa com a jornalista Priscila Rossiter, a autora fala sobre os bastidores e o processo de apuração das obras, as referências literárias e os próximos projetos.  </desc>
+    <credits>
+      <director>Rádio e TV Justiça</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702222639 -0300" stop="20260702233453 -0300" channel="htotv">
+    <title lang="pt">A ÚLTIMA GRANDE ENTREVISTA DE Kobe Bryant- Imagens PERDIDAS Nunca Antes Vistas</title>
+    <desc lang="pt">Hoje prestamos homenagem ao grande e falecido Kobe Bryant, uma figura lendária cujo impacto transcendeu a quadra de basquete. Esta é uma jornada sincera pela vida notável de Kobe, celebrando não apenas suas conquistas esportivas, mas também seu caráter extraordinário, com imagens nunca antes vistas. Conhecido por sua "Mentalidade Mamba", Kobe inspirou milhões de pessoas com sua dedicação, resiliência e busca incessante pela grandeza. 
+
+Você pode me seguir em:
+Website: http://lewishowes.com/ 
+Facebook:   / lewishowes   
+Twitter: https://twitter.com/
+LewisHowes Instagram:   / lewishowes   
+TikTok:   / lewis   
+LinkedIn:   / lewishowes  </desc>
+    <credits>
+      <director>Lewis Howes</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702233453 -0300" stop="20260703011020 -0300" channel="htotv">
+    <title lang="pt">Atraímos Pessoas Pelas Nossas Feridas Psicológicas- Neurocientista n1 Ensina A Manifestar O Amor</title>
+    <desc lang="pt">Hoje, estou muito feliz por ter a brilhante Dra. Tara Swart conosco mais uma vez. Como neurocientista e especialista em manifestação, a Dra. Swart traz uma mistura única de ciência e espiritualidade para a mesa. Neste episódio, vamos mergulhar na ciência da manifestação, explorando como a neuroplasticidade nos permite reconectar nossos cérebros para realizar nossos sonhos. A Dra. Swart detalhará as medidas práticas que você pode tomar para manifestar seus objetivos, discutirá o papel fundamental da crença e da autoestima e revelará como a gratidão pode transformar a química do seu cérebro.</desc>
+    <credits>
+      <director>Lewis Howes</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
+    <date>2024</date>
     <rating system="BR">
       <value>L</value>
     </rating>

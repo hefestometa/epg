@@ -3,364 +3,6 @@
   <channel id="htonitro">
     <display-name>HtoNitro</display-name>
   </channel>
-  <programme start="20260628000000 -0300" stop="20260628022852 -0300" channel="htonitro">
-    <title lang="pt">Transmissão ao vivo de CBMTV - Motociclismo Brasileiro</title>
-    <desc lang="pt">Transmissão ao vivo de CBMTV - Motociclismo Brasileiro</desc>
-    <credits>
-      <director>CBM TV</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628022852 -0300" stop="20260628031239 -0300" channel="htonitro">
-    <title lang="pt">SBK 2018 5 Etapa Interlagos-SP - SuperBike - 1 Corrida - Íntegra</title>
-    <desc lang="pt">SBK 2018 5 Etapa Interlagos-SP - SuperBike - 1 Corrida - Íntegra</desc>
-    <credits>
-      <director>SuperBikeBrasil</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628031239 -0300" stop="20260628033500 -0300" channel="htonitro">
-    <title lang="pt">Campeonato Brasileiro de Velocross - VX2 Importada</title>
-    <desc lang="pt">Campeonato Brasileiro de Velocross - VX2 Importada</desc>
-    <credits>
-      <director>CBM TV</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628033500 -0300" stop="20260628044415 -0300" channel="htonitro">
-    <title lang="pt">LIVE   Qualifying   Brands Hatch   British GT 2025</title>
-    <desc lang="pt">It’s the shortest track on this season’s British GT calendar, so starting position, as well as outright speed are vital for crews taking on the series’ penultimate round. Four, 10-minute sessions coming up to set the grid for tomorrow’s two-hour enduro. 
-
-
-GT World is the official YouTube channel for SRO Motorsports Group, the global leader in GT racing. 
-
-Join us for live and uninterrupted coverage of major events, as well as behind-the-scenes access, special features and fun from inside the paddock. 
-
-🌐 www.gt-world-challenge-europe.com
-Event Tickets: www.gt-world-challenge-europe.com/tickets 
-
-facebook.com/GTWorldChallengeEurope
-instagram.com/gtworldcheu
-x.com/GTWorldChEu
-tiktok.com/@gtworldcheu
-
-www.sro-motorsports.com</desc>
-    <credits>
-      <director>GTWorld</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628044415 -0300" stop="20260628065145 -0300" channel="htonitro">
-    <title lang="pt">LIVE   Race 2   Road America   GT World Challenge America powered by AWS 2025</title>
-    <desc lang="pt">Join us for an action-packed race live from the Crown Coins Casino GT World at Road America event weekend!
-GT World is the official YouTube channel for SRO Motorsports Group, the global leader in GT racing. 
-
-Join us for live and uninterrupted coverage of major events, as well as behind-the-scenes access, special features and fun from inside the paddock. 
-
-🌐 www.gt-world-challenge-europe.com
-Event Tickets: www.gt-world-challenge-europe.com/tickets 
-
-facebook.com/GTWorldChallengeEurope
-instagram.com/gtworldcheu
-x.com/GTWorldChEu
-tiktok.com/@gtworldcheu
-
-www.sro-motorsports.com</desc>
-    <credits>
-      <director>GTWorld</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628065145 -0300" stop="20260628074234 -0300" channel="htonitro">
-    <title lang="pt">OLD STOCK RACE   Temporada 2024   7ª Etapa   2ª Prova AO VIVO - Autódromo de INTERLAGOS</title>
-    <desc lang="pt">A Old Stock Race tem como Fornecedores
-B2 Pneus - DUNLOP | Real Radiadores | TECPADS | MIRPO | Mahle
-
-Site Oficial: https://www.oldstockrace.com.br/
-
-Siga nossas redes sociais
-Facebook:   / oldstockraceoficial  
-Instagram:   / oldstockraceoficial  
-Telegram: https://t.me/oldstockraceoficial
-</desc>
-    <credits>
-      <director>Old Stock Race</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628074234 -0300" stop="20260628082311 -0300" channel="htonitro">
-    <title lang="pt">OLD STOCK RACE   Temporada 2024   6ª Etapa   2ª Prova AO VIVO - Autódromo de INTERLAGOS</title>
-    <desc lang="pt">A Old Stock Race tem como Fornecedores
-B2 Pneus - DUNLOP | Real Radiadores | TECPADS | MIRPO | Mahle
-
-Site Oficial: https://www.oldstockrace.com.br/
-
-Siga nossas redes sociais
-Facebook:   / oldstockraceoficial  
-Instagram:   / oldstockraceoficial  
-Telegram: https://t.me/oldstockraceoficial</desc>
-    <credits>
-      <director>Old Stock Race</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628082311 -0300" stop="20260628090343 -0300" channel="htonitro">
-    <title lang="pt">OLD STOCK RACE   Temporada 2024   7ª Etapa   1ª Prova AO VIVO - Autódromo de INTERLAGOS</title>
-    <desc lang="pt">A Old Stock Race tem como Fornecedores
-B2 Pneus - DUNLOP | Real Radiadores | TECPADS | MIRPO | Mahle
-
-Site Oficial: https://www.oldstockrace.com.br/
-
-Siga nossas redes sociais
-Facebook:   / oldstockraceoficial  
-Instagram:   / oldstockraceoficial  
-Telegram: https://t.me/oldstockraceoficial</desc>
-    <credits>
-      <director>Old Stock Race</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628090343 -0300" stop="20260628100406 -0300" channel="htonitro">
-    <title lang="pt">LA GUERRA DE LOS ASPIRADOS - PASES DE PRUEBAS Y CUALIFICACIONES - JULIO 2025 SALINAS SPEEDWAY</title>
-    <desc lang="pt">LA GUERRA DE LOS ASPIRADOS - PASES DE PRUEBAS Y CUALIFICACIONES - JULIO 2025 SALINAS SPEEDWAY!!</desc>
-    <credits>
-      <director>PalfiebruTV</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628100406 -0300" stop="20260628103815 -0300" channel="htonitro">
-    <title lang="pt">Video Mix 1ra Copa Havoline Sand drag en la Puerto Rico Dirt Drag Guanica</title>
-    <desc lang="pt">Video Mix 1ra Copa Havoline Sand drag en la Puerto Rico Dirt Drag Guanica!!</desc>
-    <credits>
-      <director>PalfiebruTV</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628103815 -0300" stop="20260628112713 -0300" channel="htonitro">
-    <title lang="pt">Video MIX Rotores vs Pistones - Rondas de Cualificación y Pases de pruebas Salinas Speedway</title>
-    <desc lang="pt">Video MIX Rotores vs Pistones!! - Rondas de Cualificación y Pases de pruebas!! Salinas Speedway!!</desc>
-    <credits>
-      <director>PalfiebruTV</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628112713 -0300" stop="20260628115056 -0300" channel="htonitro">
-    <title lang="pt">S25 - E23   2025 X-TRIAL TALLINN Q2 + SUPER POLE</title>
-    <desc lang="pt">Assista a todas as etapas do Campeonato Mundial FIM X-TRIAL AO VIVO ou On Demand na FIM-MOTO.TV
-
-© 2 Play Events SLU / Interzona Films SL
-
-Inscreva-se no XTRIAL Live:    / xtriallive  
-Canal oficial do Campeonato Mundial FIM X-TRIAL no YouTube!
-
-►Siga-nos nas redes sociais!
-· Instagram:   / xtriallive  
-· Twitter:   / xtriallive  
-· Facebook:   / xtriallive  
-· TikTok:   / xtriallive  
-· Site: https://www.x-trial.com</desc>
-    <credits>
-      <director>X-TRIAL</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628115056 -0300" stop="20260628121502 -0300" channel="htonitro">
-    <title lang="pt">S25 - E26   2025 X-TRIAL OF NATIONS (France)   ROUND 2</title>
-    <desc lang="pt">Assista a todas as etapas do Campeonato Mundial FIM X-Trial AO VIVO ou On Demand na FIM-MOTO.TV
-
-© 2 Play Events SLU / Interzona Films SL
-
-Inscreva-se no XTRIAL Live:    / xtriallive  
-Canal oficial do Campeonato Mundial FIM X-TRIAL no YouTube!
-
-►Siga-nos nas redes sociais!
-· Instagram:   / xtriallive  
-· Twitter:   / xtriallive  
-· Facebook:   / xtriallive  
-· TikTok:   / xtriallive  
-· Site: https://www.x-trial.com</desc>
-    <credits>
-      <director>X-TRIAL</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628121502 -0300" stop="20260628131815 -0300" channel="htonitro">
-    <title lang="pt">S25 - E22   2025 X-TRIAL TALLINN Q1</title>
-    <desc lang="pt">Watch all rounds of the FIM X-Trial World Championship LIVE or On Demand on FIM-MOTO.TV 
-
-© 2 Play Events SLU / Interzona Films SL
-
-Subscribe to XTRIAL Live:    / xtriallive  
-Official Youtube Channel of the FIM X-TRIAL World Championship!
-
-►Follow us on Social Media! 
-· Instagram:   / xtriallive  
-· Twitter:   / xtriallive  
-· Facebook:   / xtriallive  
-· TikTok:   / xtriallive  
-· Website: https://www.x-trial.com</desc>
-    <credits>
-      <director>X-TRIAL</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628131815 -0300" stop="20260628154707 -0300" channel="htonitro">
-    <title lang="pt">Transmissão ao vivo de CBMTV - Motociclismo Brasileiro</title>
-    <desc lang="pt">Transmissão ao vivo de CBMTV - Motociclismo Brasileiro</desc>
-    <credits>
-      <director>CBM TV</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628154707 -0300" stop="20260628163054 -0300" channel="htonitro">
-    <title lang="pt">SBK 2018 5 Etapa Interlagos-SP - SuperBike - 1 Corrida - Íntegra</title>
-    <desc lang="pt">SBK 2018 5 Etapa Interlagos-SP - SuperBike - 1 Corrida - Íntegra</desc>
-    <credits>
-      <director>SuperBikeBrasil</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628163054 -0300" stop="20260628165315 -0300" channel="htonitro">
-    <title lang="pt">Campeonato Brasileiro de Velocross - VX2 Importada</title>
-    <desc lang="pt">Campeonato Brasileiro de Velocross - VX2 Importada</desc>
-    <credits>
-      <director>CBM TV</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628165315 -0300" stop="20260628180230 -0300" channel="htonitro">
-    <title lang="pt">LIVE   Qualifying   Brands Hatch   British GT 2025</title>
-    <desc lang="pt">It’s the shortest track on this season’s British GT calendar, so starting position, as well as outright speed are vital for crews taking on the series’ penultimate round. Four, 10-minute sessions coming up to set the grid for tomorrow’s two-hour enduro. 
-
-
-GT World is the official YouTube channel for SRO Motorsports Group, the global leader in GT racing. 
-
-Join us for live and uninterrupted coverage of major events, as well as behind-the-scenes access, special features and fun from inside the paddock. 
-
-🌐 www.gt-world-challenge-europe.com
-Event Tickets: www.gt-world-challenge-europe.com/tickets 
-
-facebook.com/GTWorldChallengeEurope
-instagram.com/gtworldcheu
-x.com/GTWorldChEu
-tiktok.com/@gtworldcheu
-
-www.sro-motorsports.com</desc>
-    <credits>
-      <director>GTWorld</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628180230 -0300" stop="20260628201000 -0300" channel="htonitro">
-    <title lang="pt">LIVE   Race 2   Road America   GT World Challenge America powered by AWS 2025</title>
-    <desc lang="pt">Join us for an action-packed race live from the Crown Coins Casino GT World at Road America event weekend!
-GT World is the official YouTube channel for SRO Motorsports Group, the global leader in GT racing. 
-
-Join us for live and uninterrupted coverage of major events, as well as behind-the-scenes access, special features and fun from inside the paddock. 
-
-🌐 www.gt-world-challenge-europe.com
-Event Tickets: www.gt-world-challenge-europe.com/tickets 
-
-facebook.com/GTWorldChallengeEurope
-instagram.com/gtworldcheu
-x.com/GTWorldChEu
-tiktok.com/@gtworldcheu
-
-www.sro-motorsports.com</desc>
-    <credits>
-      <director>GTWorld</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628201000 -0300" stop="20260628210049 -0300" channel="htonitro">
-    <title lang="pt">OLD STOCK RACE   Temporada 2024   7ª Etapa   2ª Prova AO VIVO - Autódromo de INTERLAGOS</title>
-    <desc lang="pt">A Old Stock Race tem como Fornecedores
-B2 Pneus - DUNLOP | Real Radiadores | TECPADS | MIRPO | Mahle
-
-Site Oficial: https://www.oldstockrace.com.br/
-
-Siga nossas redes sociais
-Facebook:   / oldstockraceoficial  
-Instagram:   / oldstockraceoficial  
-Telegram: https://t.me/oldstockraceoficial
-</desc>
-    <credits>
-      <director>Old Stock Race</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628210049 -0300" stop="20260628214126 -0300" channel="htonitro">
-    <title lang="pt">OLD STOCK RACE   Temporada 2024   6ª Etapa   2ª Prova AO VIVO - Autódromo de INTERLAGOS</title>
-    <desc lang="pt">A Old Stock Race tem como Fornecedores
-B2 Pneus - DUNLOP | Real Radiadores | TECPADS | MIRPO | Mahle
-
-Site Oficial: https://www.oldstockrace.com.br/
-
-Siga nossas redes sociais
-Facebook:   / oldstockraceoficial  
-Instagram:   / oldstockraceoficial  
-Telegram: https://t.me/oldstockraceoficial</desc>
-    <credits>
-      <director>Old Stock Race</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628214126 -0300" stop="20260628222158 -0300" channel="htonitro">
-    <title lang="pt">OLD STOCK RACE   Temporada 2024   7ª Etapa   1ª Prova AO VIVO - Autódromo de INTERLAGOS</title>
-    <desc lang="pt">A Old Stock Race tem como Fornecedores
-B2 Pneus - DUNLOP | Real Radiadores | TECPADS | MIRPO | Mahle
-
-Site Oficial: https://www.oldstockrace.com.br/
-
-Siga nossas redes sociais
-Facebook:   / oldstockraceoficial  
-Instagram:   / oldstockraceoficial  
-Telegram: https://t.me/oldstockraceoficial</desc>
-    <credits>
-      <director>Old Stock Race</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628222158 -0300" stop="20260628232221 -0300" channel="htonitro">
-    <title lang="pt">LA GUERRA DE LOS ASPIRADOS - PASES DE PRUEBAS Y CUALIFICACIONES - JULIO 2025 SALINAS SPEEDWAY</title>
-    <desc lang="pt">LA GUERRA DE LOS ASPIRADOS - PASES DE PRUEBAS Y CUALIFICACIONES - JULIO 2025 SALINAS SPEEDWAY!!</desc>
-    <credits>
-      <director>PalfiebruTV</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
-  <programme start="20260628232221 -0300" stop="20260628235630 -0300" channel="htonitro">
-    <title lang="pt">Video Mix 1ra Copa Havoline Sand drag en la Puerto Rico Dirt Drag Guanica</title>
-    <desc lang="pt">Video Mix 1ra Copa Havoline Sand drag en la Puerto Rico Dirt Drag Guanica!!</desc>
-    <credits>
-      <director>PalfiebruTV</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <date>2026</date>
-  </programme>
   <programme start="20260629000000 -0300" stop="20260629011712 -0300" channel="htonitro">
     <title lang="pt">LUAR DO SERTÕES ETAPA 06 ｜ SERTÕES PETROBRAS 2025 ｜ AO VIVO E COM IMAGENS</title>
     <desc lang="pt">Imagens exclusivas, ao vivo da Vila Sertões em Delmiro Gouveia (AL), mostram a premiação do sexto dia de disputa. Acompanhe a emoção dos competidores e os bastidores do SERTÕES PETROBRAS 2025.</desc>
@@ -953,6 +595,354 @@ Official Youtube Channel of the FIM X-TRIAL World Championship!
     <desc lang="pt">Campeonato Brasileiro de Velocross - VX2 Importada</desc>
     <credits>
       <director>CBM TV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702000000 -0300" stop="20260702002406 -0300" channel="htonitro">
+    <title lang="pt">S25 - E26   2025 X-TRIAL OF NATIONS (France)   ROUND 2</title>
+    <desc lang="pt">Assista a todas as etapas do Campeonato Mundial FIM X-Trial AO VIVO ou On Demand na FIM-MOTO.TV
+
+© 2 Play Events SLU / Interzona Films SL
+
+Inscreva-se no XTRIAL Live:    / xtriallive  
+Canal oficial do Campeonato Mundial FIM X-TRIAL no YouTube!
+
+►Siga-nos nas redes sociais!
+· Instagram:   / xtriallive  
+· Twitter:   / xtriallive  
+· Facebook:   / xtriallive  
+· TikTok:   / xtriallive  
+· Site: https://www.x-trial.com</desc>
+    <credits>
+      <director>X-TRIAL</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702002406 -0300" stop="20260702004749 -0300" channel="htonitro">
+    <title lang="pt">S25 - E23   2025 X-TRIAL TALLINN Q2 + SUPER POLE</title>
+    <desc lang="pt">Assista a todas as etapas do Campeonato Mundial FIM X-TRIAL AO VIVO ou On Demand na FIM-MOTO.TV
+
+© 2 Play Events SLU / Interzona Films SL
+
+Inscreva-se no XTRIAL Live:    / xtriallive  
+Canal oficial do Campeonato Mundial FIM X-TRIAL no YouTube!
+
+►Siga-nos nas redes sociais!
+· Instagram:   / xtriallive  
+· Twitter:   / xtriallive  
+· Facebook:   / xtriallive  
+· TikTok:   / xtriallive  
+· Site: https://www.x-trial.com</desc>
+    <credits>
+      <director>X-TRIAL</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702004749 -0300" stop="20260702013322 -0300" channel="htonitro">
+    <title lang="pt">S25 - E21   2025 X-TRIAL CAHORS  FINAL</title>
+    <desc lang="pt">Watch all rounds of the FIM X-Trial World Championship LIVE or On Demand on FIM-MOTO.TV 
+
+© 2 Play Events SLU / Interzona Films SL
+
+Subscribe to XTRIAL Live:    / xtriallive  
+Official Youtube Channel of the FIM X-TRIAL World Championship!
+
+►Follow us on Social Media! 
+· Instagram:   / xtriallive  
+· Twitter:   / xtriallive  
+· Facebook:   / xtriallive  
+· TikTok:   / xtriallive  
+· Website: https://www.x-trial.com</desc>
+    <credits>
+      <director>X-TRIAL</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702013322 -0300" stop="20260702015502 -0300" channel="htonitro">
+    <title lang="pt">Campeonato Brasileiro de Velocross - 250cc Pró</title>
+    <desc lang="pt">Campeonato Brasileiro de Velocross - 250cc Pró</desc>
+    <credits>
+      <director>CBM TV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702015502 -0300" stop="20260702021641 -0300" channel="htonitro">
+    <title lang="pt">Final Campeonato Brasileiro de Motovelocidade</title>
+    <desc lang="pt">Final Campeonato Brasileiro de Motovelocidade</desc>
+    <credits>
+      <director>CBM TV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702021641 -0300" stop="20260702030134 -0300" channel="htonitro">
+    <title lang="pt">Campeonato Brasileiro de Motovelocidade - 600 Supersport</title>
+    <desc lang="pt">Campeonato Brasileiro de Motovelocidade - 600 Supersport</desc>
+    <credits>
+      <director>CBM TV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702030134 -0300" stop="20260702043921 -0300" channel="htonitro">
+    <title lang="pt">LA GUERRA DE LOS ASPIRADOS (FULL EVENT) JULIO 2025 SALINAS SPEEDWAY</title>
+    <desc lang="pt">LA GUERRA DE LOS ASPIRADOS (FULL EVENT) JULIO 2025 SALINAS SPEEDWAY!!</desc>
+    <credits>
+      <director>PalfiebruTV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702043921 -0300" stop="20260702052819 -0300" channel="htonitro">
+    <title lang="pt">Video MIX Rotores vs Pistones - Rondas de Cualificación y Pases de pruebas Salinas Speedway</title>
+    <desc lang="pt">Video MIX Rotores vs Pistones!! - Rondas de Cualificación y Pases de pruebas!! Salinas Speedway!!</desc>
+    <credits>
+      <director>PalfiebruTV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702052819 -0300" stop="20260702070411 -0300" channel="htonitro">
+    <title lang="pt">VIDEO MIX ROTORES VS PISTONES FULL EVENT SALINAS SPEEDWAY SABADO 23 AGOSTO 2025 PALFIEBRU TV</title>
+    <desc lang="pt">VIDEO MIX ROTORES VS PISTONES ``FULL EVENT`` SALINAS SPEEDWAY SABADO 23 AGOSTO 2025!! PALFIEBRU TV</desc>
+    <credits>
+      <director>PalfiebruTV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702070411 -0300" stop="20260702093303 -0300" channel="htonitro">
+    <title lang="pt">Transmissão ao vivo de CBMTV - Motociclismo Brasileiro</title>
+    <desc lang="pt">Transmissão ao vivo de CBMTV - Motociclismo Brasileiro</desc>
+    <credits>
+      <director>CBM TV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702093303 -0300" stop="20260702100546 -0300" channel="htonitro">
+    <title lang="pt">OLD STOCK RACE   Temporada 2024   2ª Etapa   1ª Prova AO VIVO - Autódromo de INTERLAGOS</title>
+    <desc lang="pt">A Old Stock Race tem como Fornecedores
+B2 Pneus - DUNLOP | Real Radiadores | TECPADS | MIRPO | Mahle
+
+Site Oficial: https://www.oldstockrace.com.br/
+
+Siga nossas redes sociais
+Facebook:   / oldstockraceoficial  
+Instagram:   / oldstockraceoficial  
+Telegram: https://t.me/oldstockraceoficial
+</desc>
+    <credits>
+      <director>Old Stock Race</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702100546 -0300" stop="20260702105303 -0300" channel="htonitro">
+    <title lang="pt">OLD STOCK RACE   Temporada 2024   4ª Etapa   2ª Prova AO VIVO - Autódromo de INTERLAGOS</title>
+    <desc lang="pt">A Old Stock Race tem como Fornecedores
+B2 Pneus - DUNLOP | Real Radiadores | TECPADS | MIRPO | Mahle
+
+Site Oficial: https://www.oldstockrace.com.br/
+
+Siga nossas redes sociais
+Facebook:   / oldstockraceoficial  
+Instagram:   / oldstockraceoficial  
+Telegram: https://t.me/oldstockraceoficial</desc>
+    <credits>
+      <director>Old Stock Race</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702105303 -0300" stop="20260702115655 -0300" channel="htonitro">
+    <title lang="pt">OLD STOCK RACE   Temporada 2024   4ª Etapa   1ª Prova AO VIVO - Autódromo de INTERLAGOS</title>
+    <desc lang="pt">A Old Stock Race tem como Fornecedores
+B2 Pneus - DUNLOP | Real Radiadores | TECPADS | MIRPO | Mahle
+
+Site Oficial: https://www.oldstockrace.com.br/
+
+Siga nossas redes sociais
+Facebook:   / oldstockraceoficial  
+Instagram:   / oldstockraceoficial  
+Telegram: https://t.me/oldstockraceoficial</desc>
+    <credits>
+      <director>Old Stock Race</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702115655 -0300" stop="20260702130237 -0300" channel="htonitro">
+    <title lang="pt">LUAR DO SERTÕES ETAPA 07 ｜ SERTÕES PETROBRAS 2025 ｜ AO VIVO E COM IMAGENS</title>
+    <desc lang="pt">Imagens exclusivas, ao vivo da Vila Sertões em Marechal Deodoro (AL), mostram a premiação do setímo dia de disputa. Acompanhe a emoção dos competidores e os bastidores do SERTÕES PETROBRAS 2025.</desc>
+    <credits>
+      <director>Sertões Petrobras</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702130237 -0300" stop="20260702132643 -0300" channel="htonitro">
+    <title lang="pt">S25 - E26   2025 X-TRIAL OF NATIONS (France)   ROUND 2</title>
+    <desc lang="pt">Assista a todas as etapas do Campeonato Mundial FIM X-Trial AO VIVO ou On Demand na FIM-MOTO.TV
+
+© 2 Play Events SLU / Interzona Films SL
+
+Inscreva-se no XTRIAL Live:    / xtriallive  
+Canal oficial do Campeonato Mundial FIM X-TRIAL no YouTube!
+
+►Siga-nos nas redes sociais!
+· Instagram:   / xtriallive  
+· Twitter:   / xtriallive  
+· Facebook:   / xtriallive  
+· TikTok:   / xtriallive  
+· Site: https://www.x-trial.com</desc>
+    <credits>
+      <director>X-TRIAL</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702132643 -0300" stop="20260702135026 -0300" channel="htonitro">
+    <title lang="pt">S25 - E23   2025 X-TRIAL TALLINN Q2 + SUPER POLE</title>
+    <desc lang="pt">Assista a todas as etapas do Campeonato Mundial FIM X-TRIAL AO VIVO ou On Demand na FIM-MOTO.TV
+
+© 2 Play Events SLU / Interzona Films SL
+
+Inscreva-se no XTRIAL Live:    / xtriallive  
+Canal oficial do Campeonato Mundial FIM X-TRIAL no YouTube!
+
+►Siga-nos nas redes sociais!
+· Instagram:   / xtriallive  
+· Twitter:   / xtriallive  
+· Facebook:   / xtriallive  
+· TikTok:   / xtriallive  
+· Site: https://www.x-trial.com</desc>
+    <credits>
+      <director>X-TRIAL</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702135026 -0300" stop="20260702143559 -0300" channel="htonitro">
+    <title lang="pt">S25 - E21   2025 X-TRIAL CAHORS  FINAL</title>
+    <desc lang="pt">Watch all rounds of the FIM X-Trial World Championship LIVE or On Demand on FIM-MOTO.TV 
+
+© 2 Play Events SLU / Interzona Films SL
+
+Subscribe to XTRIAL Live:    / xtriallive  
+Official Youtube Channel of the FIM X-TRIAL World Championship!
+
+►Follow us on Social Media! 
+· Instagram:   / xtriallive  
+· Twitter:   / xtriallive  
+· Facebook:   / xtriallive  
+· TikTok:   / xtriallive  
+· Website: https://www.x-trial.com</desc>
+    <credits>
+      <director>X-TRIAL</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702143559 -0300" stop="20260702145739 -0300" channel="htonitro">
+    <title lang="pt">Campeonato Brasileiro de Velocross - 250cc Pró</title>
+    <desc lang="pt">Campeonato Brasileiro de Velocross - 250cc Pró</desc>
+    <credits>
+      <director>CBM TV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702145739 -0300" stop="20260702151918 -0300" channel="htonitro">
+    <title lang="pt">Final Campeonato Brasileiro de Motovelocidade</title>
+    <desc lang="pt">Final Campeonato Brasileiro de Motovelocidade</desc>
+    <credits>
+      <director>CBM TV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702151918 -0300" stop="20260702160411 -0300" channel="htonitro">
+    <title lang="pt">Campeonato Brasileiro de Motovelocidade - 600 Supersport</title>
+    <desc lang="pt">Campeonato Brasileiro de Motovelocidade - 600 Supersport</desc>
+    <credits>
+      <director>CBM TV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702160411 -0300" stop="20260702174158 -0300" channel="htonitro">
+    <title lang="pt">LA GUERRA DE LOS ASPIRADOS (FULL EVENT) JULIO 2025 SALINAS SPEEDWAY</title>
+    <desc lang="pt">LA GUERRA DE LOS ASPIRADOS (FULL EVENT) JULIO 2025 SALINAS SPEEDWAY!!</desc>
+    <credits>
+      <director>PalfiebruTV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702174158 -0300" stop="20260702183056 -0300" channel="htonitro">
+    <title lang="pt">Video MIX Rotores vs Pistones - Rondas de Cualificación y Pases de pruebas Salinas Speedway</title>
+    <desc lang="pt">Video MIX Rotores vs Pistones!! - Rondas de Cualificación y Pases de pruebas!! Salinas Speedway!!</desc>
+    <credits>
+      <director>PalfiebruTV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702183056 -0300" stop="20260702200648 -0300" channel="htonitro">
+    <title lang="pt">VIDEO MIX ROTORES VS PISTONES FULL EVENT SALINAS SPEEDWAY SABADO 23 AGOSTO 2025 PALFIEBRU TV</title>
+    <desc lang="pt">VIDEO MIX ROTORES VS PISTONES ``FULL EVENT`` SALINAS SPEEDWAY SABADO 23 AGOSTO 2025!! PALFIEBRU TV</desc>
+    <credits>
+      <director>PalfiebruTV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702200648 -0300" stop="20260702223540 -0300" channel="htonitro">
+    <title lang="pt">Transmissão ao vivo de CBMTV - Motociclismo Brasileiro</title>
+    <desc lang="pt">Transmissão ao vivo de CBMTV - Motociclismo Brasileiro</desc>
+    <credits>
+      <director>CBM TV</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702223540 -0300" stop="20260702230823 -0300" channel="htonitro">
+    <title lang="pt">OLD STOCK RACE   Temporada 2024   2ª Etapa   1ª Prova AO VIVO - Autódromo de INTERLAGOS</title>
+    <desc lang="pt">A Old Stock Race tem como Fornecedores
+B2 Pneus - DUNLOP | Real Radiadores | TECPADS | MIRPO | Mahle
+
+Site Oficial: https://www.oldstockrace.com.br/
+
+Siga nossas redes sociais
+Facebook:   / oldstockraceoficial  
+Instagram:   / oldstockraceoficial  
+Telegram: https://t.me/oldstockraceoficial
+</desc>
+    <credits>
+      <director>Old Stock Race</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <date>2026</date>
+  </programme>
+  <programme start="20260702230823 -0300" stop="20260702235540 -0300" channel="htonitro">
+    <title lang="pt">OLD STOCK RACE   Temporada 2024   4ª Etapa   2ª Prova AO VIVO - Autódromo de INTERLAGOS</title>
+    <desc lang="pt">A Old Stock Race tem como Fornecedores
+B2 Pneus - DUNLOP | Real Radiadores | TECPADS | MIRPO | Mahle
+
+Site Oficial: https://www.oldstockrace.com.br/
+
+Siga nossas redes sociais
+Facebook:   / oldstockraceoficial  
+Instagram:   / oldstockraceoficial  
+Telegram: https://t.me/oldstockraceoficial</desc>
+    <credits>
+      <director>Old Stock Race</director>
     </credits>
     <category lang="pt">Programa</category>
     <date>2026</date>
