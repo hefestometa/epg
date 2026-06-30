@@ -3,21 +3,245 @@
   <channel id="oldseries">
     <display-name>OldSeries</display-name>
   </channel>
-  <programme start="20260630000000 -0300" stop="20260630004500 -0300" channel="oldseries">
-    <title lang="pt">The Hired Heart</title>
-    <desc lang="pt">The Hired Heart</desc>
+  <programme start="20260629000000 -0300" stop="20260629004500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T5E14 - 20:00 - 21:00</title>
+    <desc lang="pt">Karen Hayes assume o comando da UCT. Jack captura Collete com a ajuda de  Stoller. Wayne Palmer é perseguido a caminho de um encontro com o  agente Pierce.</desc>
     <credits>
-      <director>Bruce Helford</director>
+      <director>Robert Cochran, Joel Surnow</director>
     </credits>
-    <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/hvQxRFg2sp1vJlH4BXf2MNYsjuy.jpg"/>
-    <date>1997</date>
-    <episode-num system="onscreen">T1E4</episode-num>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T5E14</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630004500 -0300" stop="20260630013000 -0300" channel="oldseries">
+  <programme start="20260629004500 -0300" stop="20260629013000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T3E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629013000 -0300" stop="20260629021500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T4E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629021500 -0300" stop="20260629030000 -0300" channel="oldseries">
+    <title lang="pt">Friends - T1E9 - Aquele em Que o Oprimido Escapa</title>
+    <desc lang="pt">O primeiro jantar de Ação de Graças de Monica para a turma queima, porque vão todos à cobertura para ver um balão que se solta do desfile.</desc>
+    <credits>
+      <director>Marta Kauffman, David Crane</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg"/>
+    <date>1994</date>
+    <episode-num system="onscreen">T1E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629030000 -0300" stop="20260629034500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T2E19 - 2:00 - 3:00</title>
+    <desc lang="pt">Com Jack ainda tentando encontrar uma prova de que a gravação de Cyprus é  falsa, o presidente Palmer fica dividido entre ordenar um ataque  surpresa da força militar dos EUA ou evitar completamente uma  retaliação. Enquanto isso, Tony tenta descobrir o motivo da rixa entre  Michelle e Carrie. E a lealdade de uma pessoa próxima ao presidente é  questionada.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2003</date>
+    <episode-num system="onscreen">T2E19</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629034500 -0300" stop="20260629043000 -0300" channel="oldseries">
+    <title lang="pt">Les Feux de la Chandeleur</title>
+    <desc lang="pt">Les Feux de la Chandeleur</desc>
+    <credits>
+      <director>Paul Feig</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7IOGr4Xy7qMUShZUNo0miymiDrW.jpg"/>
+    <date>1972</date>
+    <episode-num system="onscreen">T1E17</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629043000 -0300" stop="20260629051500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629051500 -0300" stop="20260629060000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T1E1 - 00:00 - 1:00</title>
+    <desc lang="pt">Pouco tempo depois que Jack Bauer termina um jogo de xadrez com sua filha adolescente Kimberly, na madrugada do dia da eleição presidencial, ela foge de casa e Jack, que conduz a Unidade Governamental Anti-Terrorismo, é chamado imediatamente para voltar ao trabalho. Ele descobre que há um plano para assassinar o candidato à presidência David Palmer. Logo ele descobre que alguém dentro de sua própria agência pode estar envolvido nesse plano. Enquanto isso, Teri, a mulher de Jack, tenta encontar sua filha. E esses são apenas os primeiros minutos do dia...</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2001</date>
+    <episode-num system="onscreen">T1E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629060000 -0300" stop="20260629064500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T8E2 - 17:00 - 18:00</title>
+    <desc lang="pt">UCT detém um repórter que é suspeito de ajudar assassinos, enquanto Jack e Chloe começam a própria investigação.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2010</date>
+    <episode-num system="onscreen">T8E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629064500 -0300" stop="20260629073000 -0300" channel="oldseries">
+    <title lang="pt">Apenas um Beijo</title>
+    <desc lang="pt">Apenas um Beijo</desc>
+    <credits>
+      <director>Josh Schwartz</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tShULKbs8svdBcekljqGPO42PNj.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T1E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629073000 -0300" stop="20260629081500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T5E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629081500 -0300" stop="20260629090000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T4E25</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629090000 -0300" stop="20260629094500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T4E10 - 16:00 - 17:00</title>
+    <desc lang="pt">Jack consegue resgatar Behrooz. Dina leva Jack até o local onde os  terroristas planejaram os ataques. Curtis faz Marianne recuperar alguns  arquivos do escritório de Powell. Audrey fica sabendo que seu marido  mantém ligações com os terroristas. Driscoll reintegra Sarah e Tony à UCT.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E10</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629094500 -0300" stop="20260629103000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T4E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629103000 -0300" stop="20260629111500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T1E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629111500 -0300" stop="20260629120000 -0300" channel="oldseries">
+    <title lang="pt">Velocidade Máxima 2</title>
+    <desc lang="pt">O cruzeiro que Annie faz ao Caribe com Alex Shaw, seu namorado (que secretamente é membro da elite da SWAT), é interrompido quando John Geiger, um gênio em informática, seqüestra a embarcação. Alex precisa rapidamente anular os planos de Geiger e fazer com que todos cheguem em segurança à costa, mas há um grave problema: como Alex vai enganar Geiger, se ele controla todo o navio através de um teclado.</desc>
+    <credits>
+      <director>Tim Kring</director>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/jQH6Oc71Ic46hhHWZza4OqnQd50.jpg"/>
+    <date>1997</date>
+    <episode-num system="onscreen">T1E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629120000 -0300" stop="20260629124500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T3E9 - 21:00 - 22:00</title>
+    <desc lang="pt">Um contratempo na venda do vírus leva os Salazar a questionarem as  motivações de Jack, e em resultado suas fidelidades são postas a prova.  Claudia trabalhar para ajudar Chase a escapar, após Jack informá-la de  suas prioridades.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T3E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629124500 -0300" stop="20260629133000 -0300" channel="oldseries">
     <title lang="pt">Acossado</title>
     <desc lang="pt">Após roubar um carro em Marselha, Michel Poiccard (Jean-Paul Belmondo) ruma para Paris. No caminho mata um policial, que tentou prendê-lo por excesso de velocidade, e em Paris persuade a relutante Patricia Franchisi (Jean Seberg), uma estudante americana com quem se envolveu, para escondê-lo até receber o dinheiro que lhe devem. Michel promete a Patricia que irão juntos para a Itália. No entanto, o crime de Michel está nos jornais e agora não há opção. Ele fica escondido no apartamento de Patricia, onde conversam, namoram, ele fala sobre a morte e ela diz que quer ficar grávida dele. Ele perde a consciência da situação na qual se encontra e anda pela cidade cometendo pequenos delitos, mas quando é visto por um informante começa o final da sua trágica perseguição.</desc>
     <credits>
@@ -26,21 +250,245 @@
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/duTBwrPiJV75xGSzq1Xe68UCrdw.jpg"/>
     <date>1960</date>
-    <episode-num system="onscreen">T1E8</episode-num>
+    <episode-num system="onscreen">T1E5</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630013000 -0300" stop="20260630021500 -0300" channel="oldseries">
-    <title lang="pt">24 Horas - T7E7 - 14:00 - 15:00</title>
-    <desc lang="pt">Dubaku começa um novo ataque a uma indústria química em Ohio.  Enquanto  isso, Jack e sua equipe correm para encontrá-lo. Janis ajuda o  gerente  da fábrica a minimizar as mortes do ataque, diminuindo a pressão  das  válvulas manualmente. Enquanto isso, Ethan fica cada vez mais  preocupado com o paradeiro do Primeiro Cavaleiro e resolve informar à  presidente que ele está desaparecido.</desc>
+  <programme start="20260629133000 -0300" stop="20260629141500 -0300" channel="oldseries">
+    <title lang="pt">Dia das Mães Macabro</title>
+    <desc lang="pt">Dois irmãos sequestram e brutalizam três mulheres para o prazer de sua mãe atormentada.</desc>
+    <credits>
+      <director>Heather Conkie</director>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/aYOAki9pyqPZqeACTJgiWjdxheS.jpg"/>
+    <date>1980</date>
+    <episode-num system="onscreen">T1E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629141500 -0300" stop="20260629150000 -0300" channel="oldseries">
+    <title lang="pt">A Guarda Costeira</title>
+    <desc lang="pt">A Guarda Costeira</desc>
+    <credits>
+      <director>Shonda Rhimes</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/9y03SRX71EMKTaUC5huUaM0aDRy.jpg"/>
+    <date>2002</date>
+    <episode-num system="onscreen">T1E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629150000 -0300" stop="20260629154500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T3E13</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629154500 -0300" stop="20260629163000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629163000 -0300" stop="20260629171500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T8E9 - 00:00 - 1:00</title>
+    <desc lang="pt">Jack Bauer inicia mais uma madrugada de trabalho enquanto toda a nação  permanece vulnerável e a presidente Taylor enfrenta pressão  internacional por resultados no tratado de paz. Com a possibilidade de  uma grande decepção na UCT, as pessoas procuram um culpado e tudo é  levado para o lado pessoal quando os funcionários decidem resolver as  coisas por contra própria.</desc>
     <credits>
       <director>Robert Cochran, Joel Surnow</director>
     </credits>
     <category lang="pt">Action &amp; Adventure</category>
     <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
-    <date>2009</date>
-    <episode-num system="onscreen">T7E7</episode-num>
+    <date>2010</date>
+    <episode-num system="onscreen">T8E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629171500 -0300" stop="20260629180000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E13</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629180000 -0300" stop="20260629184500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T2E21</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629184500 -0300" stop="20260629193000 -0300" channel="oldseries">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</desc>
+    <credits>
+      <director>Frank Darabont</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T2E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629193000 -0300" stop="20260629201500 -0300" channel="oldseries">
+    <title lang="pt">Der rote Elvis</title>
+    <desc lang="pt">Der rote Elvis</desc>
+    <credits>
+      <director>Damon Wayans, Don Reo</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tG3vbR6dkzGg0mRbtdbwCQZbmLR.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T2E17</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629201500 -0300" stop="20260629210000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T5E15 - 21:00 - 22:00</title>
+    <desc lang="pt">Jack pressiona Audrey por respostas quando as evidências apontam para a  possibilidade de ela estar envolvida com os terroristas. Wayne e Aaron  escapam de um grupo de homens armados que recebeu ordens de Henderson  para matá-los. Bierko e seus homens têm acesso a uma planta de rede de  gás natural que eles pretendem usar para atacar Los Angeles com o gás  nervoso.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T5E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629210000 -0300" stop="20260629214500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629214500 -0300" stop="20260629223000 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T1E14</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629223000 -0300" stop="20260629231500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629231500 -0300" stop="20260630000000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T1E10 - 9:00 - 10:00</title>
+    <desc lang="pt">Jack, agora um homem procurado, foge da polícia enquanto trabalha com a UCT para encontrar Teri e Kimberly. Tony e Nina começam a procurar informações sobre Gaines, quando Alberta Green, a nova diretora da UCT, chega para ajudá-los. Tony encontra uma pista no disco de Jamey que revela uma fonte com quem Jack vai tentar entrar em contato. Teri finalmente consegue entrar em contato com Jack, mas é interrompida quando Rick e Eli a encontram e pegam o celular que Eli tinha perdido. Mas Teri consegue fazer com que a ligação continue ativa, permitindo que Jack e Nina escute o que está acontecendo no cativeiro. A vida do senador Palmer continua em perigo, enquanto sua equipe tenta protegê-lo. Enquanto isso, Gaines é contatado pelo seu chefe, que não está nada contente com o rumo das coisas.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2002</date>
+    <episode-num system="onscreen">T1E10</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630000000 -0300" stop="20260630004500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T4E17</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630004500 -0300" stop="20260630013000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T4E19</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630013000 -0300" stop="20260630021500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T1E2</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
@@ -54,21 +502,21 @@
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
     <date>2004</date>
-    <episode-num system="onscreen">T3E9</episode-num>
+    <episode-num system="onscreen">T1E17</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630030000 -0300" stop="20260630034500 -0300" channel="oldseries">
-    <title lang="pt">Friends - T1E19 - Aquele em Que o Macaco Foge</title>
-    <desc lang="pt">A turma procura Marcel, que foge do apartamento enquanto Rachel toma conta dele.</desc>
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
     <credits>
-      <director>Marta Kauffman, David Crane</director>
+      <director>Eric Kripke</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg"/>
-    <date>1995</date>
-    <episode-num system="onscreen">T1E19</episode-num>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E11</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
@@ -82,12 +530,2253 @@
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
     <date>2005</date>
-    <episode-num system="onscreen">T6E2</episode-num>
+    <episode-num system="onscreen">T7E3</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630043000 -0300" stop="20260630051500 -0300" channel="oldseries">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</desc>
+    <credits>
+      <director>Frank Darabont</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T3E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630051500 -0300" stop="20260630060000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T4E24 - 6:00 - 7:00</title>
+    <desc lang="pt">A UCT finalmente localiza o míssil perdido. O presidente Logan concorda  contra a vontade de Palmer em entregar Jack aos chineses para que ele  pague pelo ataque ao consulado.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E24</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630060000 -0300" stop="20260630064500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T3E15 - 3:00 - 4:00</title>
+    <desc lang="pt">Amador recebe ordens dos clientes para liberar o vírus no Chandler Plaza  Hotel. Jack chega perto de Amador, mas tarde demais. Michelle e Gael  alertam a segurança do hotel sobre as ameaças.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T3E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630064500 -0300" stop="20260630073000 -0300" channel="oldseries">
+    <title lang="pt">Der rote Elvis</title>
+    <desc lang="pt">Der rote Elvis</desc>
+    <credits>
+      <director>Damon Wayans, Don Reo</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tG3vbR6dkzGg0mRbtdbwCQZbmLR.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T2E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630073000 -0300" stop="20260630081500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E19</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630081500 -0300" stop="20260630090000 -0300" channel="oldseries">
+    <title lang="pt">Der rote Elvis</title>
+    <desc lang="pt">Der rote Elvis</desc>
+    <credits>
+      <director>Damon Wayans, Don Reo</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tG3vbR6dkzGg0mRbtdbwCQZbmLR.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T2E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630090000 -0300" stop="20260630094500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630094500 -0300" stop="20260630103000 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T2E10</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630103000 -0300" stop="20260630111500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E19</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630111500 -0300" stop="20260630120000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T2E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630120000 -0300" stop="20260630124500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T6E13</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630124500 -0300" stop="20260630133000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T6E18 - 23:00 - 00:00</title>
+    <desc lang="pt">Com Audrey sendo mantida refém, Jack é forçado a negociar com os  chineses que há pouco tempo o capturaram. A crise nuclear chega ao fim e  a UCT se prepara para mudar seu foco de ação. No entanto,  circunstâncias inesperadas fazem com que a agência volte suas atenções  para a operação de Jack.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T6E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630133000 -0300" stop="20260630141500 -0300" channel="oldseries">
+    <title lang="pt">A Guarda Costeira</title>
+    <desc lang="pt">A Guarda Costeira</desc>
+    <credits>
+      <director>Shonda Rhimes</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/9y03SRX71EMKTaUC5huUaM0aDRy.jpg"/>
+    <date>2002</date>
+    <episode-num system="onscreen">T1E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630141500 -0300" stop="20260630150000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T6E19</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630150000 -0300" stop="20260630154500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T4E23</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630154500 -0300" stop="20260630163000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T5E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630163000 -0300" stop="20260630171500 -0300" channel="oldseries">
+    <title lang="pt">Les Feux de la Chandeleur</title>
+    <desc lang="pt">Les Feux de la Chandeleur</desc>
+    <credits>
+      <director>Paul Feig</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7IOGr4Xy7qMUShZUNo0miymiDrW.jpg"/>
+    <date>1972</date>
+    <episode-num system="onscreen">T1E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630171500 -0300" stop="20260630180000 -0300" channel="oldseries">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</desc>
+    <credits>
+      <director>Frank Darabont</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T1E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630180000 -0300" stop="20260630184500 -0300" channel="oldseries">
+    <title lang="pt">Friends - T1E17 - Aquele Com Duas Partes (2)</title>
+    <desc lang="pt">Rachel torce o tornozelo e não tem plano médico, então pede a Monica para trocar de identidade para usar o plano dela.</desc>
+    <credits>
+      <director>Marta Kauffman, David Crane</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg"/>
+    <date>1995</date>
+    <episode-num system="onscreen">T1E17</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630184500 -0300" stop="20260630193000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T1E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630193000 -0300" stop="20260630201500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T6E21</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630201500 -0300" stop="20260630210000 -0300" channel="oldseries">
+    <title lang="pt">Velocidade Máxima 2</title>
+    <desc lang="pt">O cruzeiro que Annie faz ao Caribe com Alex Shaw, seu namorado (que secretamente é membro da elite da SWAT), é interrompido quando John Geiger, um gênio em informática, seqüestra a embarcação. Alex precisa rapidamente anular os planos de Geiger e fazer com que todos cheguem em segurança à costa, mas há um grave problema: como Alex vai enganar Geiger, se ele controla todo o navio através de um teclado.</desc>
+    <credits>
+      <director>Tim Kring</director>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/jQH6Oc71Ic46hhHWZza4OqnQd50.jpg"/>
+    <date>1997</date>
+    <episode-num system="onscreen">T1E23</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630210000 -0300" stop="20260630214500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T1E20 - 19:00 - 20:00</title>
+    <desc lang="pt">Victor Drazen, um criminoso da Guerra dos Balcãs, é o responsável pela conspiração e culpa Jack pela morte de sua amada. Sua tentativa de vingança contra Jack e o senador Palmer é o motivo por trás da conspiração. Jack continua a procurar por pistas e o motivo para que os Drazen tenham planejado cortar a energia de uma área aparentemente deserta. Jack acaba conhecendo Mark DeSalvo, o responsável por uma prisão, que talvez tenha algumas respostas para as suas dúvidas. Enquanto isso, Mason retorna à UCT para interrogar Andre Drazen, irmão de Victor. Rick fala para Kim o que ela deve dizer aos policiais. E o país reage a entrevista em que Palmer falar sobre Keith, seu filho.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2002</date>
+    <episode-num system="onscreen">T1E20</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630214500 -0300" stop="20260630223000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T4E1 - 7:00 - 8:00</title>
+    <desc lang="pt">Jack Bauer agora trabalha para o Departamento de Defesa dos Estados  Unidos. Ao representar seu chefe numa reunião com a equipe da Unidade  Contra-Terrorismo (UCT), ele acaba se envolvendo numa grande batalha  para evitar um ataque planejado por terroristas turcos.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630223000 -0300" stop="20260630231500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T2E13 - 20:00 - 21:00</title>
+    <desc lang="pt">Jack e Kate discutem uma situação do passado de Marie. Lynne tenta deixar claro até onde ela irá seguir o conselho dado por Sherry Palmer. Uma batalha pelo poder na UCT se inicia. Jack continua preocupado com o paradeiro de Kim. E uma fonte revela que a bomba está mais protegida do que se imaginava anteriormente.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2003</date>
+    <episode-num system="onscreen">T2E13</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630231500 -0300" stop="20260701000000 -0300" channel="oldseries">
+    <title lang="pt">Der rote Elvis</title>
+    <desc lang="pt">Der rote Elvis</desc>
+    <credits>
+      <director>Damon Wayans, Don Reo</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tG3vbR6dkzGg0mRbtdbwCQZbmLR.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T2E10</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701000000 -0300" stop="20260701004500 -0300" channel="oldseries">
+    <title lang="pt">Apenas um Beijo</title>
+    <desc lang="pt">Apenas um Beijo</desc>
+    <credits>
+      <director>Josh Schwartz</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tShULKbs8svdBcekljqGPO42PNj.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T1E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701004500 -0300" stop="20260701013000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T1E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701013000 -0300" stop="20260701021500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T5E2 - 8:00 - 9:00</title>
+    <desc lang="pt">Jack e Chloe se infiltram na cobertura de Wayne Palmer onde David Palmer  foi assassinado, na esperança de achar uma pista para seu assassinato.  Jack convence Wayne a cooperar e achar algumas informações o levam ao  aeroporto onde o presidente russo está para aterrissar.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T5E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701021500 -0300" stop="20260701030000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T6E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701030000 -0300" stop="20260701034500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T5E7 - 13:00 - 14:00</title>
+    <desc lang="pt">Quando o agente Jack Bauer se torna parte do plano do Presidente para  investigar a iminente ameaça terrorista, ele conduz a UCT para uma nova  liderança. Enquanto busca sua liderança, a ameaça se intensifica quando  os terroristas põe em prática suas ações.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T5E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701034500 -0300" stop="20260701043000 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T3E21</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701043000 -0300" stop="20260701051500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701051500 -0300" stop="20260701060000 -0300" channel="oldseries">
+    <title lang="pt">Les Feux de la Chandeleur</title>
+    <desc lang="pt">Les Feux de la Chandeleur</desc>
+    <credits>
+      <director>Paul Feig</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7IOGr4Xy7qMUShZUNo0miymiDrW.jpg"/>
+    <date>1972</date>
+    <episode-num system="onscreen">T1E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701060000 -0300" stop="20260701064500 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T4E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701064500 -0300" stop="20260701073000 -0300" channel="oldseries">
+    <title lang="pt">A Ilha da Garganta Cortada</title>
+    <desc lang="pt">Morgan é a filha de um pirata que segue os passos do pai. Quando ele morre, ela herda o navio, uma tripulação de bandidos e um terço de um mapa do tesouro. Ela parte pelo Caribe em busca das riquezas, mas o mapa está em latim.</desc>
+    <credits>
+      <director>David Shore</director>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/arv8NOL2eOKcOs54PCXj7EsOiZ6.jpg"/>
+    <date>1995</date>
+    <episode-num system="onscreen">T1E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701073000 -0300" stop="20260701081500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T5E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701081500 -0300" stop="20260701090000 -0300" channel="oldseries">
+    <title lang="pt">Der rote Elvis</title>
+    <desc lang="pt">Der rote Elvis</desc>
+    <credits>
+      <director>Damon Wayans, Don Reo</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tG3vbR6dkzGg0mRbtdbwCQZbmLR.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T2E20</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701090000 -0300" stop="20260701094500 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T1E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701094500 -0300" stop="20260701103000 -0300" channel="oldseries">
+    <title lang="pt">Der rote Elvis</title>
+    <desc lang="pt">Der rote Elvis</desc>
+    <credits>
+      <director>Damon Wayans, Don Reo</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tG3vbR6dkzGg0mRbtdbwCQZbmLR.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T2E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701103000 -0300" stop="20260701111500 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T3E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701111500 -0300" stop="20260701120000 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T1E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701120000 -0300" stop="20260701124500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T6E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701124500 -0300" stop="20260701133000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T3E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701133000 -0300" stop="20260701141500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T2E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701141500 -0300" stop="20260701150000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701150000 -0300" stop="20260701154500 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T2E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701154500 -0300" stop="20260701163000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T5E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701163000 -0300" stop="20260701171500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T4E22 - 4:00 - 5:00</title>
+    <desc lang="pt">Enquanto a ogiva segue para um local desconhecido, Marwan escapa da UCT.  A equipe da UCT percebe que Richard Heller foi o elo que Marwan usou  para planejar o sequestro do Secretário Heller. O porta-voz da Casa  Branca começa a suspeitar da confiança de Logan em Palmer.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701171500 -0300" stop="20260701180000 -0300" channel="oldseries">
+    <title lang="pt">Velocidade Máxima 2</title>
+    <desc lang="pt">O cruzeiro que Annie faz ao Caribe com Alex Shaw, seu namorado (que secretamente é membro da elite da SWAT), é interrompido quando John Geiger, um gênio em informática, seqüestra a embarcação. Alex precisa rapidamente anular os planos de Geiger e fazer com que todos cheguem em segurança à costa, mas há um grave problema: como Alex vai enganar Geiger, se ele controla todo o navio através de um teclado.</desc>
+    <credits>
+      <director>Tim Kring</director>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/jQH6Oc71Ic46hhHWZza4OqnQd50.jpg"/>
+    <date>1997</date>
+    <episode-num system="onscreen">T1E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701180000 -0300" stop="20260701184500 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T2E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701184500 -0300" stop="20260701193000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701193000 -0300" stop="20260701201500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T3E18 - 6:00 - 7:00</title>
+    <desc lang="pt">Jack precisa ceder a outra demanda de Saunders, enquanto Michelle descobre algo preocupante no hotel.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T3E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701201500 -0300" stop="20260701210000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T5E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701210000 -0300" stop="20260701214500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T8E22 - 13:00 - 14:00</title>
+    <desc lang="pt">A missão de Jack em busca de justiça dificulta os planos da presidente  Taylor enquanto ela se prepara para assinar um tratado de paz. Enquanto  isso, Chloe joga a UCT contra Jack, e o presidente Logan encontra um  inimigo formidável.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2010</date>
+    <episode-num system="onscreen">T8E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701214500 -0300" stop="20260701223000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701223000 -0300" stop="20260701231500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T5E13</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260701231500 -0300" stop="20260702000000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702000000 -0300" stop="20260702004500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E21</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702004500 -0300" stop="20260702013000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T1E9 - 8:00 - 9:00</title>
+    <desc lang="pt">As tentativas de Jack para salvar Palmer fracassam, tornando Jack o  principal suspeito do atentado contra o senador. Agora ele tem que se  defender das acusações ao ser interrogado pelo FBI. Enquanto isso, Teri e  Kimberly tentam manter o controle quando ambas são feitas reféns dos  sequestradores, e Teri faz um sacrifício na tentativa de salvar sua  filha.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2002</date>
+    <episode-num system="onscreen">T1E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702013000 -0300" stop="20260702021500 -0300" channel="oldseries">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</desc>
+    <credits>
+      <director>Frank Darabont</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T3E13</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702021500 -0300" stop="20260702030000 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T2E20</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702030000 -0300" stop="20260702034500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T5E20</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702034500 -0300" stop="20260702043000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T8E4 - 19:00 - 20:00</title>
+    <desc lang="pt">A UCT quer que a ex-agente do FBI Renee Walker se infiltre em uma gangue russa que está vendendo armas enriquecidas de urânio.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2010</date>
+    <episode-num system="onscreen">T8E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702043000 -0300" stop="20260702051500 -0300" channel="oldseries">
+    <title lang="pt">Friends - T1E20 - Aquele Com o Ortodontista Maligno</title>
+    <desc lang="pt">Rachel e Barry começam a namorar de novo, embora ele esteja noivo de Mindy, que quer que Rachel seja sua dama de honra.</desc>
+    <credits>
+      <director>Marta Kauffman, David Crane</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg"/>
+    <date>1995</date>
+    <episode-num system="onscreen">T1E20</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702051500 -0300" stop="20260702060000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T1E20</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702060000 -0300" stop="20260702064500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T3E3 - 15:00 - 16:00</title>
+    <desc lang="pt">Tony, e um dos comparsas de Salazar chegam perto de um jovem traficante  que pode estar, sem saber, carregando o vírus. Jack informa aos pais de  Kyle Singer sobre ele estar contaminado. Wayne se preocupa com David e  seus casos amorosos.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2003</date>
+    <episode-num system="onscreen">T3E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702064500 -0300" stop="20260702073000 -0300" channel="oldseries">
+    <title lang="pt">The Hired Heart</title>
+    <desc lang="pt">The Hired Heart</desc>
+    <credits>
+      <director>Bruce Helford</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hvQxRFg2sp1vJlH4BXf2MNYsjuy.jpg"/>
+    <date>1997</date>
+    <episode-num system="onscreen">T1E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702073000 -0300" stop="20260702081500 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T4E17</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702081500 -0300" stop="20260702090000 -0300" channel="oldseries">
+    <title lang="pt">Les Feux de la Chandeleur</title>
+    <desc lang="pt">Les Feux de la Chandeleur</desc>
+    <credits>
+      <director>Paul Feig</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7IOGr4Xy7qMUShZUNo0miymiDrW.jpg"/>
+    <date>1972</date>
+    <episode-num system="onscreen">T1E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702090000 -0300" stop="20260702094500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T2E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702094500 -0300" stop="20260702103000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T1E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702103000 -0300" stop="20260702111500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T3E20</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702111500 -0300" stop="20260702120000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T3E24 - 12:00 - 13:00</title>
+    <desc lang="pt">Jack e Chase devem fazer um grande sacrifício ao lidar com o vírus  mortal. Tony pode ajudar Jack uma última vez antes de ser levado sob  custódia, enquanto uma vítima procura vingar-se de Saunders. Palmer faz  uma escolha de carreira surpreendente ao saber da morte de Sherry.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T3E24</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702120000 -0300" stop="20260702124500 -0300" channel="oldseries">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</desc>
+    <credits>
+      <director>Frank Darabont</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T3E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702124500 -0300" stop="20260702133000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T6E19 - 00:00 - 1:00</title>
+    <desc lang="pt">Os acontecimentos envolvendo Jack Bauer e o agente Mike Doyle levam os  agentes e analistas da UCT a correrem para conseguir controlar uma  intensa situação. O vice-presidente Daniels se prepara para um  pronunciamento à nação enquanto o conselheiro presidencial Tom Lennox  participa de uma decisão que poderá mudar tudo na administração.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T6E19</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702133000 -0300" stop="20260702141500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T6E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702141500 -0300" stop="20260702150000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702150000 -0300" stop="20260702154500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T6E20 - 1:00 - 2:00</title>
+    <desc lang="pt">Jack Bauer lida com as consequências de ter tentado resolver tudo  sozinho, enquanto Audrey sofre o que aparenta ser uma reação  pós-traumática após ela ter sido feita refém. A UCT responde à uma  grande ameaça e a Administração recebe uma mensagem alarmante do  presidente russo.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T6E20</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702154500 -0300" stop="20260702163000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T6E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702163000 -0300" stop="20260702171500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T1E19</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702171500 -0300" stop="20260702180000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T2E21 - 4:00 - 5:00</title>
+    <desc lang="pt">Quando Jack finalmente consegue pegar o chip, Tony e Michelle tentam  acessar os arquivos de áudio a tempo de prevenir a guerra. Enquanto  isso, Palmer terá que enfrentar membros da presidência que estão  questionando sua capacidade de continuar governando o país. E Kim  retorna à cena de um crime após falar com Jack.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2003</date>
+    <episode-num system="onscreen">T2E21</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702180000 -0300" stop="20260702184500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T3E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702184500 -0300" stop="20260702193000 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T4E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702193000 -0300" stop="20260702201500 -0300" channel="oldseries">
+    <title lang="pt">Friends - T1E8 - Aquele em Que Nana Morre Duas Vezes</title>
+    <desc lang="pt">Monica e Ross estão de luto pela morte da avó. Chandler questiona sua sexualidade.</desc>
+    <credits>
+      <director>Marta Kauffman, David Crane</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg"/>
+    <date>1994</date>
+    <episode-num system="onscreen">T1E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702201500 -0300" stop="20260702210000 -0300" channel="oldseries">
+    <title lang="pt">Les Feux de la Chandeleur</title>
+    <desc lang="pt">Les Feux de la Chandeleur</desc>
+    <credits>
+      <director>Paul Feig</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7IOGr4Xy7qMUShZUNo0miymiDrW.jpg"/>
+    <date>1972</date>
+    <episode-num system="onscreen">T1E10</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702210000 -0300" stop="20260702214500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T2E20 - 3:00 - 4:00</title>
+    <desc lang="pt">Jack escapa com a ajuda de um médico solidário. Kate tenta comprar de  volta o micro chip. Palmer suspeita do vice-presidente Prescott.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2003</date>
+    <episode-num system="onscreen">T2E20</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702214500 -0300" stop="20260702223000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702223000 -0300" stop="20260702231500 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T2E14</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702231500 -0300" stop="20260703000000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T6E24</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703000000 -0300" stop="20260703004500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T7E5 - 12:00 - 13:00</title>
+    <desc lang="pt">Jack e Tony precisam encontrar uma  maneira de forçar Matobo a sair do  seu quarto de segurança. A agente  Walker aparece para pegar os  terroristas. Os agentes Moss e Gold são atrapalhados em sua missão de  encontrar  Walker, quando um advogado questiona os dois sobre o que  ocorreu no  interrogatório de Tanner. Henry recebe novas informações sobre a morte de seu filho, quando segue  uma pista dada por Samantha.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2009</date>
+    <episode-num system="onscreen">T7E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703004500 -0300" stop="20260703013000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T5E4 - 10:00 - 11:00</title>
+    <desc lang="pt">Jack permite ser capturado para salvar Derek. A UCT deve atacar os terroristas do aeroporto antes de a ameaça ser descoberta.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T5E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703013000 -0300" stop="20260703021500 -0300" channel="oldseries">
+    <title lang="pt">Der rote Elvis</title>
+    <desc lang="pt">Der rote Elvis</desc>
+    <credits>
+      <director>Damon Wayans, Don Reo</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tG3vbR6dkzGg0mRbtdbwCQZbmLR.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T2E21</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703021500 -0300" stop="20260703030000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T4E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703030000 -0300" stop="20260703034500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T5E22 - 4:00 - 5:00</title>
+    <desc lang="pt">O agente Bauer faz de tudo para conseguir novas evidências que  incriminem o Presidente Logan. E a fuga de Vladimir Bierko traz  novamente à tona a possibilidade de uma devastadora nova ameaça contra o  país.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T5E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703034500 -0300" stop="20260703043000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T7E6 - 13:00 - 14:00</title>
+    <desc lang="pt">A presidente Taylor enfrenta um gabinete furioso por causa de sua  decisão, que não foi bem aceita. Jack e Tony convencem o Primeiro  Ministro Matobo a seguir com o planejado. Henry fica preso numa situação perigosa, estando paralisado e sem  condições de socorrer Samantha, que também corre perigo.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2009</date>
+    <episode-num system="onscreen">T7E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703043000 -0300" stop="20260703051500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T4E5 - 11:00 - 12:00</title>
+    <desc lang="pt">Jack e o Diretor Driscoll concordam em trabalharem juntos, depois de a  polícia ter feito confusão com o episódio de Kalil. Os terroristas  começam a ameaçar Audrey, a menos que Heller confesse ter praticado  crimes de guerra, em frente às câmeras, dentro de uma hora.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703051500 -0300" stop="20260703060000 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T2E17</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703060000 -0300" stop="20260703064500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E23</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703064500 -0300" stop="20260703073000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E14</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703073000 -0300" stop="20260703081500 -0300" channel="oldseries">
+    <title lang="pt">Der rote Elvis</title>
+    <desc lang="pt">Der rote Elvis</desc>
+    <credits>
+      <director>Damon Wayans, Don Reo</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tG3vbR6dkzGg0mRbtdbwCQZbmLR.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T2E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703081500 -0300" stop="20260703090000 -0300" channel="oldseries">
+    <title lang="pt">Dia das Mães Macabro</title>
+    <desc lang="pt">Dois irmãos sequestram e brutalizam três mulheres para o prazer de sua mãe atormentada.</desc>
+    <credits>
+      <director>Heather Conkie</director>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/aYOAki9pyqPZqeACTJgiWjdxheS.jpg"/>
+    <date>1980</date>
+    <episode-num system="onscreen">T1E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703090000 -0300" stop="20260703094500 -0300" channel="oldseries">
+    <title lang="pt">A Ilha da Garganta Cortada</title>
+    <desc lang="pt">Morgan é a filha de um pirata que segue os passos do pai. Quando ele morre, ela herda o navio, uma tripulação de bandidos e um terço de um mapa do tesouro. Ela parte pelo Caribe em busca das riquezas, mas o mapa está em latim.</desc>
+    <credits>
+      <director>David Shore</director>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/arv8NOL2eOKcOs54PCXj7EsOiZ6.jpg"/>
+    <date>1995</date>
+    <episode-num system="onscreen">T1E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703094500 -0300" stop="20260703103000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T6E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703103000 -0300" stop="20260703111500 -0300" channel="oldseries">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</desc>
+    <credits>
+      <director>Frank Darabont</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T1E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703111500 -0300" stop="20260703120000 -0300" channel="oldseries">
+    <title lang="pt">Les Feux de la Chandeleur</title>
+    <desc lang="pt">Les Feux de la Chandeleur</desc>
+    <credits>
+      <director>Paul Feig</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/7IOGr4Xy7qMUShZUNo0miymiDrW.jpg"/>
+    <date>1972</date>
+    <episode-num system="onscreen">T1E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703120000 -0300" stop="20260703124500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T2E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703124500 -0300" stop="20260703133000 -0300" channel="oldseries">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</desc>
+    <credits>
+      <director>Frank Darabont</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T2E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703133000 -0300" stop="20260703141500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T4E20</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703141500 -0300" stop="20260703150000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T2E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703150000 -0300" stop="20260703154500 -0300" channel="oldseries">
+    <title lang="pt">A Guarda Costeira</title>
+    <desc lang="pt">A Guarda Costeira</desc>
+    <credits>
+      <director>Shonda Rhimes</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/9y03SRX71EMKTaUC5huUaM0aDRy.jpg"/>
+    <date>2002</date>
+    <episode-num system="onscreen">T1E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703154500 -0300" stop="20260703163000 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T2E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703163000 -0300" stop="20260703171500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T1E17</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703171500 -0300" stop="20260703180000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T7E15 - 22:00 - 23:00</title>
+    <desc lang="pt">Jack e Tony conseguem localizar as armas biológicas, mas devem convencer  um segurança a colaborar com seu plano quando homens da Starwood  aparecem para pegar as armas. Depois de conseguir o controle da carga,  Jack entra em uma briga com os terroristas e arrisca expor-se quando as  armas são danificadas. Ethan toma uma decisão drástica que aborrece a  presidente Taylor.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2009</date>
+    <episode-num system="onscreen">T7E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703180000 -0300" stop="20260703184500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703184500 -0300" stop="20260703193000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T4E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703193000 -0300" stop="20260703201500 -0300" channel="oldseries">
+    <title lang="pt">Acossado</title>
+    <desc lang="pt">Após roubar um carro em Marselha, Michel Poiccard (Jean-Paul Belmondo) ruma para Paris. No caminho mata um policial, que tentou prendê-lo por excesso de velocidade, e em Paris persuade a relutante Patricia Franchisi (Jean Seberg), uma estudante americana com quem se envolveu, para escondê-lo até receber o dinheiro que lhe devem. Michel promete a Patricia que irão juntos para a Itália. No entanto, o crime de Michel está nos jornais e agora não há opção. Ele fica escondido no apartamento de Patricia, onde conversam, namoram, ele fala sobre a morte e ela diz que quer ficar grávida dele. Ele perde a consciência da situação na qual se encontra e anda pela cidade cometendo pequenos delitos, mas quando é visto por um informante começa o final da sua trágica perseguição.</desc>
+    <credits>
+      <director>Mark Schwahn</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/duTBwrPiJV75xGSzq1Xe68UCrdw.jpg"/>
+    <date>1960</date>
+    <episode-num system="onscreen">T1E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703201500 -0300" stop="20260703210000 -0300" channel="oldseries">
+    <title lang="pt">Friends - T1E3 - Aquele Com o Dedão</title>
+    <desc lang="pt">Uma empresa de bebidas paga a Phoebe $ 7.000 depois que ela encontra um dedo numa lata de refrigerante.</desc>
+    <credits>
+      <director>Marta Kauffman, David Crane</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg"/>
+    <date>1994</date>
+    <episode-num system="onscreen">T1E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703210000 -0300" stop="20260703214500 -0300" channel="oldseries">
+    <title lang="pt">Friends - T1E4 - Aquele Com George Stephanopoulus</title>
+    <desc lang="pt">Um entregador acidentalmente leva uma pizza que deveria ser entregue a George Stephanopoulos, que mora em frente às meninas.</desc>
+    <credits>
+      <director>Marta Kauffman, David Crane</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg"/>
+    <date>1994</date>
+    <episode-num system="onscreen">T1E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703214500 -0300" stop="20260703223000 -0300" channel="oldseries">
+    <title lang="pt">Velocidade Máxima 2</title>
+    <desc lang="pt">O cruzeiro que Annie faz ao Caribe com Alex Shaw, seu namorado (que secretamente é membro da elite da SWAT), é interrompido quando John Geiger, um gênio em informática, seqüestra a embarcação. Alex precisa rapidamente anular os planos de Geiger e fazer com que todos cheguem em segurança à costa, mas há um grave problema: como Alex vai enganar Geiger, se ele controla todo o navio através de um teclado.</desc>
+    <credits>
+      <director>Tim Kring</director>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/jQH6Oc71Ic46hhHWZza4OqnQd50.jpg"/>
+    <date>1997</date>
+    <episode-num system="onscreen">T1E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703223000 -0300" stop="20260703231500 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T3E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703231500 -0300" stop="20260704000000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T4E6 - 12:00 - 13:00</title>
+    <desc lang="pt">Jack resgata Heller e Audrey. Navi encomenda a morte de seu próprio  filho e revela que o julgamento de Heller foi uma mera diversão para  encobrir os verdadeiros planos de sua organização.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704000000 -0300" stop="20260704004500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T3E23 - 11:00 - 12:00</title>
+    <desc lang="pt">Saunders diz a Jack que os 11 frascos restantes do vírus serão liberados  em uma hora em diversos locais do país. Enquanto isso, Sherry manipula  o  Presidente Palmer para ser novamente a esposa dele. Jack discute com  Tony, que acaba sendo preso pela UCT. E Wayne e Foxton têm diferentes  opiniões durante sua operação para desmascarar Sherry.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T3E23</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704004500 -0300" stop="20260704013000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T8E5 - 20:00 - 21:00</title>
+    <desc lang="pt">Apenas quatro horas depois de ser obrigado a voltar a agur, Jack Bauer  se une a uma perigosa Renee Walker para descobrir quem está na liderança  dos ataques. Na UCT, Dana Walsh encara situações tensas e ameaçadoras,  e  os nervos ficam a flor da pele quando a presidente Taylor descobre  um  plano para por fim à missão de paz do presidente Omar Hassan.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2010</date>
+    <episode-num system="onscreen">T8E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704013000 -0300" stop="20260704021500 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T5E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704021500 -0300" stop="20260704030000 -0300" channel="oldseries">
+    <title lang="pt">Velocidade Máxima 2</title>
+    <desc lang="pt">O cruzeiro que Annie faz ao Caribe com Alex Shaw, seu namorado (que secretamente é membro da elite da SWAT), é interrompido quando John Geiger, um gênio em informática, seqüestra a embarcação. Alex precisa rapidamente anular os planos de Geiger e fazer com que todos cheguem em segurança à costa, mas há um grave problema: como Alex vai enganar Geiger, se ele controla todo o navio através de um teclado.</desc>
+    <credits>
+      <director>Tim Kring</director>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/jQH6Oc71Ic46hhHWZza4OqnQd50.jpg"/>
+    <date>1997</date>
+    <episode-num system="onscreen">T1E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704030000 -0300" stop="20260704034500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T5E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704034500 -0300" stop="20260704043000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T3E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704043000 -0300" stop="20260704051500 -0300" channel="oldseries">
+    <title lang="pt">Acossado</title>
+    <desc lang="pt">Após roubar um carro em Marselha, Michel Poiccard (Jean-Paul Belmondo) ruma para Paris. No caminho mata um policial, que tentou prendê-lo por excesso de velocidade, e em Paris persuade a relutante Patricia Franchisi (Jean Seberg), uma estudante americana com quem se envolveu, para escondê-lo até receber o dinheiro que lhe devem. Michel promete a Patricia que irão juntos para a Itália. No entanto, o crime de Michel está nos jornais e agora não há opção. Ele fica escondido no apartamento de Patricia, onde conversam, namoram, ele fala sobre a morte e ela diz que quer ficar grávida dele. Ele perde a consciência da situação na qual se encontra e anda pela cidade cometendo pequenos delitos, mas quando é visto por um informante começa o final da sua trágica perseguição.</desc>
+    <credits>
+      <director>Mark Schwahn</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/duTBwrPiJV75xGSzq1Xe68UCrdw.jpg"/>
+    <date>1960</date>
+    <episode-num system="onscreen">T1E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704051500 -0300" stop="20260704060000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T2E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704060000 -0300" stop="20260704064500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T8E3 - 18:00 - 19:00</title>
+    <desc lang="pt">Jack e Chloe correm contra o tempo para tentar impedir o assassinato do Presidente Islâmico.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2010</date>
+    <episode-num system="onscreen">T8E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704064500 -0300" stop="20260704073000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T5E17</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704073000 -0300" stop="20260704081500 -0300" channel="oldseries">
+    <title lang="pt">Der rote Elvis</title>
+    <desc lang="pt">Der rote Elvis</desc>
+    <credits>
+      <director>Damon Wayans, Don Reo</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tG3vbR6dkzGg0mRbtdbwCQZbmLR.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T1E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704081500 -0300" stop="20260704090000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T2E24 - 7:00 - 8:00</title>
+    <desc lang="pt">Conforme Jack e Sherry seguem para seu confronto final com Peter Kingsley, Novic recebe uma nova evidência sobre Kingsley e ordena que a UCT ajude nos esforços de Jack.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2003</date>
+    <episode-num system="onscreen">T2E24</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704090000 -0300" stop="20260704094500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T2E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704094500 -0300" stop="20260704103000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T4E24</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704103000 -0300" stop="20260704111500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T3E12 - 00:00 - 1:00</title>
+    <desc lang="pt">Jack e Nina são enganados, quando Ramon rouba o vírus durante a permuta com Amador. Sherry ganha vantagem com Alan Milliken.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T3E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704111500 -0300" stop="20260704120000 -0300" channel="oldseries">
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</desc>
+    <credits>
+      <director>Frank Darabont</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T1E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704120000 -0300" stop="20260704124500 -0300" channel="oldseries">
+    <title lang="pt">Der rote Elvis</title>
+    <desc lang="pt">Der rote Elvis</desc>
+    <credits>
+      <director>Damon Wayans, Don Reo</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tG3vbR6dkzGg0mRbtdbwCQZbmLR.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T2E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704124500 -0300" stop="20260704133000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T5E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704133000 -0300" stop="20260704141500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T8E7 - 22:00 - 23:00</title>
+    <desc lang="pt">Apesar de evitar o assassinato do líder Omar Hassan, o dia de Jack Bauer  fica ainda mais intenso quando ele é forçado a continuar disfarçado  para garantir a segurança de materiais nucleares.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2010</date>
+    <episode-num system="onscreen">T8E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704141500 -0300" stop="20260704150000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E10</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704150000 -0300" stop="20260704154500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T7E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704154500 -0300" stop="20260704163000 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T2E21</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704163000 -0300" stop="20260704171500 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T1E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704171500 -0300" stop="20260704180000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T6E2 - 7:00 - 8:00</title>
+    <desc lang="pt">O presidente Palmer e Buchanan se recusam a acreditar que Fayed  esteja  por trás dos ataques terroristas. Com isso, Jack é forçado a se  unir a  Assad para detê-los.
+Jack tenta convencer o presidente Palmer que Fayed é o  responsável  pelos recentes ataques terroristas. No entanto, Jack logo se  dá conta  que não é mais considerado uma fonte confiável.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2007</date>
+    <episode-num system="onscreen">T6E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704180000 -0300" stop="20260704184500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T5E5 - 11:00 - 12:00</title>
+    <desc lang="pt">A UCT é forçada a investigar sua própria equipe enquanto o reencontro de  Jack e Audrey se transforma numa situação constrangedora. E enquanto a  ameaça contra a nação fica ainda pior, os responsáveis por esse plano e  seus motivos veem à tona, levando o Presidente Logan a entrar em  colapso.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T5E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704184500 -0300" stop="20260704193000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T5E21</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704193000 -0300" stop="20260704201500 -0300" channel="oldseries">
+    <title lang="pt">Apenas um Beijo</title>
+    <desc lang="pt">Apenas um Beijo</desc>
+    <credits>
+      <director>Josh Schwartz</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tShULKbs8svdBcekljqGPO42PNj.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T1E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704201500 -0300" stop="20260704210000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T1E17 - 16:00 - 17:00</title>
+    <desc lang="pt">Jack usa um dos membros da equipe do senador Palmer para ajudá-lo a prender um suposto assassino que ainda quer matar Palmer. Tony descobre que a segurança de Teri e Kim foi comprometida, mas Manson se recusa a dar informações sobre a situação de Jack. Manson está tentando manter Jack focado no trabalho enquanto a UCT se prepara para realizar uma operação que poderá deixá-los em vantagem em relação aos conspiradores. Entretanto, Jack fica sabendo que Nina e Teri tiveram um atrito, deixando-o nada contente com essa situação. Enquanto isso, Keith inicia sua própria investigação para descobrir o que realmente aconteceu por trás da morte do Dr. Ferragamo, ao ter um encontro com Carl.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2002</date>
+    <episode-num system="onscreen">T1E17</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704210000 -0300" stop="20260704214500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T5E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704214500 -0300" stop="20260704223000 -0300" channel="oldseries">
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
+    <episode-num system="onscreen">T6E21</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704223000 -0300" stop="20260704231500 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T1E3</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260704231500 -0300" stop="20260705000000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T5E20 - 2:00 - 3:00</title>
+    <desc lang="pt">Chloe é auxiliada por uma fonte inesperada na UCT. Enquanto isso, Jack,  preso em um avião a caminho da Alemanha, procura a gravação. Para  proteger seu mandado, o presidente Logan ainda terá de dar uma ordem  ainda pior.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2006</date>
+    <episode-num system="onscreen">T5E20</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260705000000 -0300" stop="20260705004500 -0300" channel="oldseries">
+    <title lang="pt">The Hired Heart</title>
+    <desc lang="pt">The Hired Heart</desc>
+    <credits>
+      <director>Bruce Helford</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hvQxRFg2sp1vJlH4BXf2MNYsjuy.jpg"/>
+    <date>1997</date>
+    <episode-num system="onscreen">T1E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260705004500 -0300" stop="20260705013000 -0300" channel="oldseries">
+    <title lang="pt">Acossado</title>
+    <desc lang="pt">Após roubar um carro em Marselha, Michel Poiccard (Jean-Paul Belmondo) ruma para Paris. No caminho mata um policial, que tentou prendê-lo por excesso de velocidade, e em Paris persuade a relutante Patricia Franchisi (Jean Seberg), uma estudante americana com quem se envolveu, para escondê-lo até receber o dinheiro que lhe devem. Michel promete a Patricia que irão juntos para a Itália. No entanto, o crime de Michel está nos jornais e agora não há opção. Ele fica escondido no apartamento de Patricia, onde conversam, namoram, ele fala sobre a morte e ela diz que quer ficar grávida dele. Ele perde a consciência da situação na qual se encontra e anda pela cidade cometendo pequenos delitos, mas quando é visto por um informante começa o final da sua trágica perseguição.</desc>
+    <credits>
+      <director>Mark Schwahn</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/duTBwrPiJV75xGSzq1Xe68UCrdw.jpg"/>
+    <date>1960</date>
+    <episode-num system="onscreen">T1E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260705013000 -0300" stop="20260705021500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T7E7 - 14:00 - 15:00</title>
+    <desc lang="pt">Dubaku começa um novo ataque a uma indústria química em Ohio.  Enquanto  isso, Jack e sua equipe correm para encontrá-lo. Janis ajuda o  gerente  da fábrica a minimizar as mortes do ataque, diminuindo a pressão  das  válvulas manualmente. Enquanto isso, Ethan fica cada vez mais  preocupado com o paradeiro do Primeiro Cavaleiro e resolve informar à  presidente que ele está desaparecido.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2009</date>
+    <episode-num system="onscreen">T7E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260705021500 -0300" stop="20260705030000 -0300" channel="oldseries">
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T3E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260705030000 -0300" stop="20260705034500 -0300" channel="oldseries">
+    <title lang="pt">Friends - T1E19 - Aquele em Que o Macaco Foge</title>
+    <desc lang="pt">A turma procura Marcel, que foge do apartamento enquanto Rachel toma conta dele.</desc>
+    <credits>
+      <director>Marta Kauffman, David Crane</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg"/>
+    <date>1995</date>
+    <episode-num system="onscreen">T1E19</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260705034500 -0300" stop="20260705043000 -0300" channel="oldseries">
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T6E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260705043000 -0300" stop="20260705051500 -0300" channel="oldseries">
     <title lang="pt">Der rote Elvis</title>
     <desc lang="pt">Der rote Elvis</desc>
     <credits>
@@ -101,7 +2790,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630051500 -0300" stop="20260630060000 -0300" channel="oldseries">
+  <programme start="20260705051500 -0300" stop="20260705060000 -0300" channel="oldseries">
     <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
     <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
@@ -115,7 +2804,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630060000 -0300" stop="20260630064500 -0300" channel="oldseries">
+  <programme start="20260705060000 -0300" stop="20260705064500 -0300" channel="oldseries">
     <title lang="pt">Apenas um Beijo</title>
     <desc lang="pt">Apenas um Beijo</desc>
     <credits>
@@ -130,7 +2819,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630064500 -0300" stop="20260630073000 -0300" channel="oldseries">
+  <programme start="20260705064500 -0300" stop="20260705073000 -0300" channel="oldseries">
     <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
     <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
@@ -144,7 +2833,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630073000 -0300" stop="20260630081500 -0300" channel="oldseries">
+  <programme start="20260705073000 -0300" stop="20260705081500 -0300" channel="oldseries">
     <title lang="pt">À Procura da Felicidade</title>
     <desc lang="pt">Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</desc>
     <credits>
@@ -158,7 +2847,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630081500 -0300" stop="20260630090000 -0300" channel="oldseries">
+  <programme start="20260705081500 -0300" stop="20260705090000 -0300" channel="oldseries">
     <title lang="pt">The 24th Day</title>
     <desc lang="pt">The 24th Day</desc>
     <credits>
@@ -172,7 +2861,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630090000 -0300" stop="20260630094500 -0300" channel="oldseries">
+  <programme start="20260705090000 -0300" stop="20260705094500 -0300" channel="oldseries">
     <title lang="pt">Lemming - Instinto Animal</title>
     <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
     <credits>
@@ -186,7 +2875,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630094500 -0300" stop="20260630103000 -0300" channel="oldseries">
+  <programme start="20260705094500 -0300" stop="20260705103000 -0300" channel="oldseries">
     <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
     <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
@@ -200,7 +2889,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630103000 -0300" stop="20260630111500 -0300" channel="oldseries">
+  <programme start="20260705103000 -0300" stop="20260705111500 -0300" channel="oldseries">
     <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
     <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
@@ -214,7 +2903,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630111500 -0300" stop="20260630120000 -0300" channel="oldseries">
+  <programme start="20260705111500 -0300" stop="20260705120000 -0300" channel="oldseries">
     <title lang="pt">À Procura da Felicidade</title>
     <desc lang="pt">Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</desc>
     <credits>
@@ -228,7 +2917,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630120000 -0300" stop="20260630124500 -0300" channel="oldseries">
+  <programme start="20260705120000 -0300" stop="20260705124500 -0300" channel="oldseries">
     <title lang="pt">24 Horas - T3E11 - 23:00 - 00:00</title>
     <desc lang="pt">Jack e Nina se preparam para um encontro com Amador o homem vendendo o  vírus. A UCT organiza uma emboscada; Ramon e Hector se desentendem.  Presidente Palmer pede ajuda à ex-mulher.</desc>
     <credits>
@@ -242,7 +2931,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630124500 -0300" stop="20260630133000 -0300" channel="oldseries">
+  <programme start="20260705124500 -0300" stop="20260705133000 -0300" channel="oldseries">
     <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
     <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
@@ -256,7 +2945,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630133000 -0300" stop="20260630141500 -0300" channel="oldseries">
+  <programme start="20260705133000 -0300" stop="20260705141500 -0300" channel="oldseries">
     <title lang="pt">The Hired Heart</title>
     <desc lang="pt">The Hired Heart</desc>
     <credits>
@@ -270,7 +2959,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630141500 -0300" stop="20260630150000 -0300" channel="oldseries">
+  <programme start="20260705141500 -0300" stop="20260705150000 -0300" channel="oldseries">
     <title lang="pt">24 Horas - T4E11 - 17:00 - 18:00</title>
     <desc lang="pt">Os agentes da UCT descobrem que Marwan mantém um aparelho de ativação  manual num edifício. Jack e Curtis vão ao local enquanto as outras  usinas nucleares continuam sob ameaça. No posto médico da UCT, Driscoll  enfrenta uma situação de emergência envolvendo sua filha.</desc>
     <credits>
@@ -284,7 +2973,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630150000 -0300" stop="20260630154500 -0300" channel="oldseries">
+  <programme start="20260705150000 -0300" stop="20260705154500 -0300" channel="oldseries">
     <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
     <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
@@ -298,7 +2987,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630154500 -0300" stop="20260630163000 -0300" channel="oldseries">
+  <programme start="20260705154500 -0300" stop="20260705163000 -0300" channel="oldseries">
     <title lang="pt">Friends - T1E6 - Aquele Com o Traseiro</title>
     <desc lang="pt">Aparece a grande oportunidade de Joey: ele é contratado para ser dublê de Al Pacino.</desc>
     <credits>
@@ -312,7 +3001,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630163000 -0300" stop="20260630171500 -0300" channel="oldseries">
+  <programme start="20260705163000 -0300" stop="20260705171500 -0300" channel="oldseries">
     <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
     <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
@@ -326,7 +3015,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630171500 -0300" stop="20260630180000 -0300" channel="oldseries">
+  <programme start="20260705171500 -0300" stop="20260705180000 -0300" channel="oldseries">
     <title lang="pt">24 Horas - T8E15 - 6:00 - 7:00</title>
     <desc lang="pt">A manhã vai nascendo em Nova York, e a Presidente Taylor permanece no  jogo. Enquanto isso, o Presidente Hassan toma uma decisão chocante que  pode surpreender seus entes queridos.</desc>
     <credits>
@@ -340,7 +3029,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630180000 -0300" stop="20260630184500 -0300" channel="oldseries">
+  <programme start="20260705180000 -0300" stop="20260705184500 -0300" channel="oldseries">
     <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
     <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
@@ -354,7 +3043,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630184500 -0300" stop="20260630193000 -0300" channel="oldseries">
+  <programme start="20260705184500 -0300" stop="20260705193000 -0300" channel="oldseries">
     <title lang="pt">The 24th Day</title>
     <desc lang="pt">The 24th Day</desc>
     <credits>
@@ -368,7 +3057,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630193000 -0300" stop="20260630201500 -0300" channel="oldseries">
+  <programme start="20260705193000 -0300" stop="20260705201500 -0300" channel="oldseries">
     <title lang="pt">The 24th Day</title>
     <desc lang="pt">The 24th Day</desc>
     <credits>
@@ -382,7 +3071,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630201500 -0300" stop="20260630210000 -0300" channel="oldseries">
+  <programme start="20260705201500 -0300" stop="20260705210000 -0300" channel="oldseries">
     <title lang="pt">Lemming - Instinto Animal</title>
     <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
     <credits>
@@ -396,7 +3085,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630210000 -0300" stop="20260630214500 -0300" channel="oldseries">
+  <programme start="20260705210000 -0300" stop="20260705214500 -0300" channel="oldseries">
     <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
     <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
@@ -410,7 +3099,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630214500 -0300" stop="20260630223000 -0300" channel="oldseries">
+  <programme start="20260705214500 -0300" stop="20260705223000 -0300" channel="oldseries">
     <title lang="pt">Les Feux de la Chandeleur</title>
     <desc lang="pt">Les Feux de la Chandeleur</desc>
     <credits>
@@ -424,7 +3113,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630223000 -0300" stop="20260630231500 -0300" channel="oldseries">
+  <programme start="20260705223000 -0300" stop="20260705231500 -0300" channel="oldseries">
     <title lang="pt">24 Horas - T4E15 - 21:00 - 22:00</title>
     <desc lang="pt">Marwan propõe trocar Jack por Behrooz a fim de distrair a atenção da  equipe da UCT. Anderson se disfarça de mecânico de aviões para roubar  uma aeronave.</desc>
     <credits>
@@ -438,7 +3127,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20260630231500 -0300" stop="20260701000000 -0300" channel="oldseries">
+  <programme start="20260705231500 -0300" stop="20260706000000 -0300" channel="oldseries">
     <title lang="pt">Acossado</title>
     <desc lang="pt">Após roubar um carro em Marselha, Michel Poiccard (Jean-Paul Belmondo) ruma para Paris. No caminho mata um policial, que tentou prendê-lo por excesso de velocidade, e em Paris persuade a relutante Patricia Franchisi (Jean Seberg), uma estudante americana com quem se envolveu, para escondê-lo até receber o dinheiro que lhe devem. Michel promete a Patricia que irão juntos para a Itália. No entanto, o crime de Michel está nos jornais e agora não há opção. Ele fica escondido no apartamento de Patricia, onde conversam, namoram, ele fala sobre a morte e ela diz que quer ficar grávida dele. Ele perde a consciência da situação na qual se encontra e anda pela cidade cometendo pequenos delitos, mas quando é visto por um informante começa o final da sua trágica perseguição.</desc>
     <credits>
