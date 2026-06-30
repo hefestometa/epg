@@ -4,28 +4,28 @@
     <display-name>OldSeries</display-name>
   </channel>
   <programme start="20260630000000 -0300" stop="20260630004500 -0300" channel="oldseries">
-    <title lang="pt">Tratamento de Choque - T1E4 - Charlie e Kent Brigam Por um Paciente</title>
-    <desc lang="pt">Kate rouba um paciente de Charlie, alimentando a rivalidade competitiva entre os dois terapeutas.</desc>
+    <title lang="pt">The Hired Heart</title>
+    <desc lang="pt">The Hired Heart</desc>
     <credits>
       <director>Bruce Helford</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/yrgrySCCFjhB3p9zqnunAmjDxC9.jpg"/>
-    <date>2012</date>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hvQxRFg2sp1vJlH4BXf2MNYsjuy.jpg"/>
+    <date>1997</date>
     <episode-num system="onscreen">T1E4</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630004500 -0300" stop="20260630013000 -0300" channel="oldseries">
-    <title lang="pt">Lances da Vida - T1E8 - Episódio 8</title>
-    <desc lang="pt">Depois de um salto de quatro anos no tempo, os jovens na faixa dos 20 anos de Tree Hill se deparam com mais perguntas do que respostas enquanto tentam manter seus sonhos vivos e suas amizades intactas. Juntos, esses jovens continuam a compartilhar experiências enquanto lutam para definir como serão suas vidas.</desc>
+    <title lang="pt">Acossado</title>
+    <desc lang="pt">Após roubar um carro em Marselha, Michel Poiccard (Jean-Paul Belmondo) ruma para Paris. No caminho mata um policial, que tentou prendê-lo por excesso de velocidade, e em Paris persuade a relutante Patricia Franchisi (Jean Seberg), uma estudante americana com quem se envolveu, para escondê-lo até receber o dinheiro que lhe devem. Michel promete a Patricia que irão juntos para a Itália. No entanto, o crime de Michel está nos jornais e agora não há opção. Ele fica escondido no apartamento de Patricia, onde conversam, namoram, ele fala sobre a morte e ela diz que quer ficar grávida dele. Ele perde a consciência da situação na qual se encontra e anda pela cidade cometendo pequenos delitos, mas quando é visto por um informante começa o final da sua trágica perseguição.</desc>
     <credits>
       <director>Mark Schwahn</director>
     </credits>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/bbbZbsurFfpHV6xNI81WI97Ib2t.jpg"/>
-    <date>2003</date>
+    <icon src="https://image.tmdb.org/t/p/w500/duTBwrPiJV75xGSzq1Xe68UCrdw.jpg"/>
+    <date>1960</date>
     <episode-num system="onscreen">T1E8</episode-num>
     <rating system="BR">
       <value>14</value>
@@ -46,14 +46,14 @@
     </rating>
   </programme>
   <programme start="20260630021500 -0300" stop="20260630030000 -0300" channel="oldseries">
-    <title lang="pt">Diários de um Vampiro - T3E9 - Regresso a casa</title>
-    <desc lang="pt">Rebekah se abre com Elena sobre a razão do evento ser tão importante para a vampira, algo que deixa a garota com emoções conflitantes a respeito da irmã de Klaus.</desc>
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
     <credits>
       <director>Julie Plec, Kevin Williamson</director>
     </credits>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/lcGQaSrWkkxGuh0JJqyN2TkuNqb.jpg"/>
-    <date>2011</date>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
     <episode-num system="onscreen">T3E9</episode-num>
     <rating system="BR">
       <value>14</value>
@@ -74,56 +74,56 @@
     </rating>
   </programme>
   <programme start="20260630034500 -0300" stop="20260630043000 -0300" channel="oldseries">
-    <title lang="pt">Supernatural - T6E2 - Dois Homens e Meio</title>
-    <desc lang="pt">Sam investiga um caso de pais assassinados e bebês desaparecidos. Os irmãos levam o bebê para Samuel. Mas, um metamorfo tenta sequestrar a criança.</desc>
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
     <credits>
       <director>Eric Kripke</director>
     </credits>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eK4gEBWNGJoxCD67KFKzaKfSzWU.jpg"/>
-    <date>2010</date>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
     <episode-num system="onscreen">T6E2</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630043000 -0300" stop="20260630051500 -0300" channel="oldseries">
-    <title lang="pt">Eu, a Patroa e as Crianças - T2E26 - O Show do Boliche</title>
-    <desc lang="pt">Michael joga boliche contra seu inimigo Stu Tyler.</desc>
+    <title lang="pt">Der rote Elvis</title>
+    <desc lang="pt">Der rote Elvis</desc>
     <credits>
       <director>Damon Wayans, Don Reo</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/huMehRjXBkFkO9BWPly1635y0J0.jpg"/>
-    <date>2002</date>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tG3vbR6dkzGg0mRbtdbwCQZbmLR.jpg"/>
+    <date>2007</date>
     <episode-num system="onscreen">T2E26</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630051500 -0300" stop="20260630060000 -0300" channel="oldseries">
-    <title lang="pt">Um Maluco no Pedaço - T1E13 - Saber é Poder</title>
-    <desc lang="pt">Quando Will e Carlton descobrem que Hilary largou a faculdade sem contar aos pais, eles a obrigam a fazer tudo o que quiserem.</desc>
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
       <director>Andy Borowitz, Susan Stevenson</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
-    <date>1990</date>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
     <episode-num system="onscreen">T1E13</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630060000 -0300" stop="20260630064500 -0300" channel="oldseries">
-    <title lang="pt">Chuck - T1E2 - Chuck Contra O Helicóptero</title>
-    <desc lang="pt">Enquanto Chuck continua a lidar com sua nova vida como espião, a tensão aumenta entre seus recentemente designados parceiros, Sarah e Casey.</desc>
+    <title lang="pt">Apenas um Beijo</title>
+    <desc lang="pt">Apenas um Beijo</desc>
     <credits>
       <director>Josh Schwartz</director>
     </credits>
-    <category lang="pt">Action &amp; Adventure</category>
-    <icon src="https://image.tmdb.org/t/p/w500/vEZvGVVMjk1TRs59nfypTI5lAXj.jpg"/>
-    <date>2007</date>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tShULKbs8svdBcekljqGPO42PNj.jpg"/>
+    <date>2004</date>
     <length units="minutes">43</length>
     <episode-num system="onscreen">T1E2</episode-num>
     <rating system="BR">
@@ -131,98 +131,98 @@
     </rating>
   </programme>
   <programme start="20260630064500 -0300" stop="20260630073000 -0300" channel="oldseries">
-    <title lang="pt">Um Maluco no Pedaço - T4E26 - Na Filadélfia</title>
-    <desc lang="pt">Will está animado para passar as férias com a família Banks na Filadélfia, mas todos se surpreendem com a reputação de Will na vizinhança.</desc>
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
       <director>Andy Borowitz, Susan Stevenson</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
-    <date>1994</date>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
     <episode-num system="onscreen">T4E26</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630073000 -0300" stop="20260630081500 -0300" channel="oldseries">
-    <title lang="pt">The Walking Dead - T3E15 - Por Uma Vida Infeliz</title>
-    <desc lang="pt">Rick e o grupo precisam enfrentar um sério problema: para conseguir uma trégua com o Governador, eles precisarão fazer um enorme sacrifício.</desc>
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</desc>
     <credits>
       <director>Frank Darabont</director>
     </credits>
-    <category lang="pt">Action &amp; Adventure</category>
-    <icon src="https://image.tmdb.org/t/p/w500/9lb02gTh4LLB17yAEXFd4C3R4JP.jpg"/>
-    <date>2013</date>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg"/>
+    <date>2006</date>
     <episode-num system="onscreen">T3E15</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630081500 -0300" stop="20260630090000 -0300" channel="oldseries">
-    <title lang="pt">Diários de um Vampiro - T4E14 - Na Toca do Coelho</title>
-    <desc lang="pt">Na ilha, Damon se depara com um caçador chamado Vaughn e percebe que ele é um dos Cinco.</desc>
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
     <credits>
       <director>Julie Plec, Kevin Williamson</director>
     </credits>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/lcGQaSrWkkxGuh0JJqyN2TkuNqb.jpg"/>
-    <date>2013</date>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
     <episode-num system="onscreen">T4E14</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630090000 -0300" stop="20260630094500 -0300" channel="oldseries">
-    <title lang="pt">Supernatural - T4E17 - Que Vida Terrível</title>
-    <desc lang="pt">Em uma realidade alternativa, Sam e Dean não são irmãos e trabalham em um escritório de marketing. Após uma série de mortes, eles se juntam para resolver os assassinatos.</desc>
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
     <credits>
       <director>Eric Kripke</director>
     </credits>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eK4gEBWNGJoxCD67KFKzaKfSzWU.jpg"/>
-    <date>2009</date>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
     <episode-num system="onscreen">T4E17</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630094500 -0300" stop="20260630103000 -0300" channel="oldseries">
-    <title lang="pt">Um Maluco no Pedaço - T2E22 - A Titia Veio para o Jantar</title>
-    <desc lang="pt">Will e Carlton planejam ter a casa só para eles e duas garotas francesas, mas a visita inesperada da tia Helen muda os planos de todos.</desc>
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
       <director>Andy Borowitz, Susan Stevenson</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
-    <date>1992</date>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
     <episode-num system="onscreen">T2E22</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630103000 -0300" stop="20260630111500 -0300" channel="oldseries">
-    <title lang="pt">Um Maluco no Pedaço - T6E4 - Um Mauricinho na Fossa</title>
-    <desc lang="pt">Com medo de se decepcionar, Carlton desiste de ir à entrevista em Princeton, e Will decide ir no lugar dele.</desc>
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
       <director>Andy Borowitz, Susan Stevenson</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
-    <date>1995</date>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
     <episode-num system="onscreen">T6E4</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630111500 -0300" stop="20260630120000 -0300" channel="oldseries">
-    <title lang="pt">The Walking Dead - T2E12 - Anjos bons</title>
-    <desc lang="pt">O grupo descobre que alguém perigoso pode estar à solta. Com o cair da noite, Rick, Shane, Daryl e Glenn vasculham a mata em uma tentativa de lidar com a situação.</desc>
+    <title lang="pt">À Procura da Felicidade</title>
+    <desc lang="pt">Chris enfrenta sérios problemas financeiros e Linda, sua esposa, decide partir. Ele agora é pai solteiro e precisa cuidar de Christopher, seu filho de 5 anos. Chris tenta usar sua habilidade como vendedor para conseguir um emprego melhor, mas só consegue um estágio não remunerado. Seus problemas financeiros não podem esperar uma promoção e eles acabam despejados. Chris e Christopher passam a dormir em abrigos ou onde quer que consigam um refúgio, mantendo a esperança de que dias melhores virão.</desc>
     <credits>
       <director>Frank Darabont</director>
     </credits>
-    <category lang="pt">Action &amp; Adventure</category>
-    <icon src="https://image.tmdb.org/t/p/w500/9lb02gTh4LLB17yAEXFd4C3R4JP.jpg"/>
-    <date>2012</date>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vHGC2sSh7pBWXY0qzMdPD7fcjzS.jpg"/>
+    <date>2006</date>
     <episode-num system="onscreen">T2E12</episode-num>
     <rating system="BR">
       <value>14</value>
@@ -243,28 +243,28 @@
     </rating>
   </programme>
   <programme start="20260630124500 -0300" stop="20260630133000 -0300" channel="oldseries">
-    <title lang="pt">Um Maluco no Pedaço - T2E2 - A Mãe de Todas as Batalhas</title>
-    <desc lang="pt">Will e Carlton tentam resolver os problemas de Ashley na escola, mas Phil e Vivian descobrem e tentam resolver da sua maneira.</desc>
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
       <director>Andy Borowitz, Susan Stevenson</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
-    <date>1991</date>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
     <episode-num system="onscreen">T2E2</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630133000 -0300" stop="20260630141500 -0300" channel="oldseries">
-    <title lang="pt">Tratamento de Choque - T1E1 - Charlie de Volta à Terapia</title>
-    <desc lang="pt">Charlie - um jogador de beisebol com problemas de raiva que se tornou terapeuta de controle da raiva - decide voltar à terapia após um desentendimento ruim com o novo namorado de sua ex-mulher. O único problema é que ele está dormindo com a única terapeuta em quem confia: sua melhor amiga, Kate.</desc>
+    <title lang="pt">The Hired Heart</title>
+    <desc lang="pt">The Hired Heart</desc>
     <credits>
       <director>Bruce Helford</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/yrgrySCCFjhB3p9zqnunAmjDxC9.jpg"/>
-    <date>2012</date>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hvQxRFg2sp1vJlH4BXf2MNYsjuy.jpg"/>
+    <date>1997</date>
     <episode-num system="onscreen">T1E1</episode-num>
     <rating system="BR">
       <value>14</value>
@@ -285,14 +285,14 @@
     </rating>
   </programme>
   <programme start="20260630150000 -0300" stop="20260630154500 -0300" channel="oldseries">
-    <title lang="pt">Um Maluco no Pedaço - T5E16 - Uma Proposta do Coração</title>
-    <desc lang="pt">Enquanto Will se recupera no hospital, Lisa fica aflita com o pedido de casamento.</desc>
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
       <director>Andy Borowitz, Susan Stevenson</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
-    <date>1995</date>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
     <episode-num system="onscreen">T5E16</episode-num>
     <rating system="BR">
       <value>14</value>
@@ -313,14 +313,14 @@
     </rating>
   </programme>
   <programme start="20260630163000 -0300" stop="20260630171500 -0300" channel="oldseries">
-    <title lang="pt">Um Maluco no Pedaço - T3E15 - Roubando os Banks</title>
-    <desc lang="pt">Will convence Phil a contratar um ex-presidiário, e itens de valor começam a desaparecer.</desc>
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
       <director>Andy Borowitz, Susan Stevenson</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
-    <date>1993</date>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
     <episode-num system="onscreen">T3E15</episode-num>
     <rating system="BR">
       <value>14</value>
@@ -341,84 +341,84 @@
     </rating>
   </programme>
   <programme start="20260630180000 -0300" stop="20260630184500 -0300" channel="oldseries">
-    <title lang="pt">Um Maluco no Pedaço - T2E16 - Empregada de Luxo</title>
-    <desc lang="pt">Geoffrey começa a namorar uma moça que ele pensa ser empregada da casa ao lado, mas descobre que ela é uma herdeira rica e precisa decidir o que fazer.</desc>
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
       <director>Andy Borowitz, Susan Stevenson</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
-    <date>1992</date>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
     <episode-num system="onscreen">T2E16</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630184500 -0300" stop="20260630193000 -0300" channel="oldseries">
-    <title lang="pt">Diários de um Vampiro - T1E19 - Senhorita Mystic Falls</title>
-    <desc lang="pt">No dia da Festa de Gala dos Fundadores, Elena e Caroline competem pelo titulo de “Senhorita Mystic Falls” contra outras garotas, incluindo Tina Fell e Amber Bradley.</desc>
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
     <credits>
       <director>Julie Plec, Kevin Williamson</director>
     </credits>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/lcGQaSrWkkxGuh0JJqyN2TkuNqb.jpg"/>
-    <date>2010</date>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
     <episode-num system="onscreen">T1E19</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630193000 -0300" stop="20260630201500 -0300" channel="oldseries">
-    <title lang="pt">Diários de um Vampiro - T3E13 - Trazendo os Mortos</title>
-    <desc lang="pt">Agora Klaus tem Elijah para trás, eles sediar um jantar para negociar um futuro com os irmãos Salvatore, que realmente procrastinar.</desc>
+    <title lang="pt">The 24th Day</title>
+    <desc lang="pt">The 24th Day</desc>
     <credits>
       <director>Julie Plec, Kevin Williamson</director>
     </credits>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/lcGQaSrWkkxGuh0JJqyN2TkuNqb.jpg"/>
-    <date>2012</date>
+    <icon src="https://image.tmdb.org/t/p/w500/ocNjvdbiStUk987OemlMfhtnI2k.jpg"/>
+    <date>2004</date>
     <episode-num system="onscreen">T3E13</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630201500 -0300" stop="20260630210000 -0300" channel="oldseries">
-    <title lang="pt">Supernatural - T6E7 - Assunto de Família</title>
-    <desc lang="pt">Dean desconfia de Samuel, mas Sam não acredita que o avô está fazendo algo errado. Os Winchester e os Campbell vão para uma caçada, mas as coisas dão errado.</desc>
+    <title lang="pt">Lemming - Instinto Animal</title>
+    <desc lang="pt">Alain (Laurent Lucas) e Benédicte (Charlotte Gainsbourg) são um casal recém-chegado em uma vizinhança ao sul da França. Eles têm sua vida alterada após conhecerem em um jantar, Alice (Charlotte Rampling), a esposa do patrão de Alain.</desc>
     <credits>
       <director>Eric Kripke</director>
     </credits>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eK4gEBWNGJoxCD67KFKzaKfSzWU.jpg"/>
-    <date>2010</date>
+    <icon src="https://image.tmdb.org/t/p/w500/oeNPyQRhpnaa4dMyt2lNMQNPv75.jpg"/>
+    <date>2005</date>
     <episode-num system="onscreen">T6E7</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630210000 -0300" stop="20260630214500 -0300" channel="oldseries">
-    <title lang="pt">Um Maluco no Pedaço - T1E20 - Gente Fina</title>
-    <desc lang="pt">Will tenta provar que é uma pessoa responsável para usar o carro da família e ir a um show em Nevada.</desc>
+    <title lang="pt">Guerra nas Estrelas: O Retorno de Jedi</title>
+    <desc lang="pt">O imperador está supervisionando a construção de uma nova Estrela da Morte. Enquanto isso Luke Skywalker liberta Han Solo e a Princesa Leia das mãos de Jaba. Luke só se tornará um cavaleiro jedi quando destruir Darth Vader, que ainda pretende atraí-lo para o lado sombrio da Força.</desc>
     <credits>
       <director>Andy Borowitz, Susan Stevenson</director>
     </credits>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
-    <date>1991</date>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/llaJ35p5e23ygDbqd0H3otJLWsA.jpg"/>
+    <date>1983</date>
     <episode-num system="onscreen">T1E20</episode-num>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
   <programme start="20260630214500 -0300" stop="20260630223000 -0300" channel="oldseries">
-    <title lang="pt">Aborrecentes - T1E5 - Testes e seios</title>
-    <desc lang="pt">Ao tentar ajudar Daniel a passar em um teste, Lindsay se vê em apuros; uma aula de educação sexual vai além do que Sam deseja.</desc>
+    <title lang="pt">Les Feux de la Chandeleur</title>
+    <desc lang="pt">Les Feux de la Chandeleur</desc>
     <credits>
       <director>Paul Feig</director>
     </credits>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/tPqV63zcW6ZV0Hd48DMGb5UzQIG.jpg"/>
-    <date>1999</date>
+    <icon src="https://image.tmdb.org/t/p/w500/7IOGr4Xy7qMUShZUNo0miymiDrW.jpg"/>
+    <date>1972</date>
     <episode-num system="onscreen">T1E5</episode-num>
     <rating system="BR">
       <value>14</value>
@@ -439,14 +439,14 @@
     </rating>
   </programme>
   <programme start="20260630231500 -0300" stop="20260701000000 -0300" channel="oldseries">
-    <title lang="pt">Lances da Vida - T1E18 - Episódio 18</title>
-    <desc lang="pt">Depois de um salto de quatro anos no tempo, os jovens na faixa dos 20 anos de Tree Hill se deparam com mais perguntas do que respostas enquanto tentam manter seus sonhos vivos e suas amizades intactas. Juntos, esses jovens continuam a compartilhar experiências enquanto lutam para definir como serão suas vidas.</desc>
+    <title lang="pt">Acossado</title>
+    <desc lang="pt">Após roubar um carro em Marselha, Michel Poiccard (Jean-Paul Belmondo) ruma para Paris. No caminho mata um policial, que tentou prendê-lo por excesso de velocidade, e em Paris persuade a relutante Patricia Franchisi (Jean Seberg), uma estudante americana com quem se envolveu, para escondê-lo até receber o dinheiro que lhe devem. Michel promete a Patricia que irão juntos para a Itália. No entanto, o crime de Michel está nos jornais e agora não há opção. Ele fica escondido no apartamento de Patricia, onde conversam, namoram, ele fala sobre a morte e ela diz que quer ficar grávida dele. Ele perde a consciência da situação na qual se encontra e anda pela cidade cometendo pequenos delitos, mas quando é visto por um informante começa o final da sua trágica perseguição.</desc>
     <credits>
       <director>Mark Schwahn</director>
     </credits>
     <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/bbbZbsurFfpHV6xNI81WI97Ib2t.jpg"/>
-    <date>2004</date>
+    <icon src="https://image.tmdb.org/t/p/w500/duTBwrPiJV75xGSzq1Xe68UCrdw.jpg"/>
+    <date>1960</date>
     <episode-num system="onscreen">T1E18</episode-num>
     <rating system="BR">
       <value>14</value>
