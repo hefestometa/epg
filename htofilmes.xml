@@ -3,97 +3,6 @@
   <channel id="htofilmes">
     <display-name>HtoFilmes</display-name>
   </channel>
-  <programme start="20260629000000 -0300" stop="20260629020408 -0300" channel="htofilmes">
-    <title lang="pt">Bad Boys Para Sempre</title>
-    <desc lang="pt">Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</desc>
-    <category lang="pt">Thriller</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kxV3r4H1BRB3QFySbgFyrlOwwXg.jpg"/>
-    <date>2020</date>
-  </programme>
-  <programme start="20260629020408 -0300" stop="20260629041347 -0300" channel="htofilmes">
-    <title lang="pt">Bruce Lee, Meu Irmão</title>
-    <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260629041347 -0300" stop="20260629062308 -0300" channel="htofilmes">
-    <title lang="pt">Corajosos</title>
-    <desc lang="pt">Quatro policiais questionam sua fé e seu papel como pais e maridos após uma tragédia que acontece próximo a casa deles. Juntos, eles tomam uma decisão que muda suas vidas.</desc>
-    <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg"/>
-    <date>2011</date>
-  </programme>
-  <programme start="20260629062308 -0300" stop="20260629081914 -0300" channel="htofilmes">
-    <title lang="pt">De Volta para o Futuro</title>
-    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
-    <category lang="pt">Aventura</category>
-    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
-    <date>1985</date>
-  </programme>
-  <programme start="20260629081914 -0300" stop="20260629100857 -0300" channel="htofilmes">
-    <title lang="pt">Elysium</title>
-    <desc lang="pt">Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.</desc>
-    <category lang="pt">Ficção científica</category>
-    <icon src="https://image.tmdb.org/t/p/w500/2QxAzqKf56IMHMMbPkaIkb3Ul6S.jpg"/>
-    <date>2013</date>
-  </programme>
-  <programme start="20260629100857 -0300" stop="20260629120604 -0300" channel="htofilmes">
-    <title lang="pt">Encontro Explosivo</title>
-    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260629120604 -0300" stop="20260629140307 -0300" channel="htofilmes">
-    <title lang="pt">22 Balas</title>
-    <desc lang="pt">Depois de anos vivendo fora da lei, Charly Mattei, resolveu nos últimos três anos se dedicar a família e viver harmoniosamente com sua esposa e seus dois filhos pequenos. No entanto, em uma manhã de inverno ele é encontrado em um estacionamento com 22 balas no corpo e apesar de muitos acreditarem que ele havia morrido, Charly misteriosamente sobrevive. Agora ele sai à caça de Tony Zacchia, o único homem que se atreveria a tentar matá-lo. Zacchia cometeu apenas um erro: ele falhou.</desc>
-    <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/3EkhsU6augJjLU83AiONvs3y97s.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260629140307 -0300" stop="20260629161713 -0300" channel="htofilmes">
-    <title lang="pt">A Batalha de Riddick</title>
-    <desc lang="pt">Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg"/>
-    <date>2004</date>
-  </programme>
-  <programme start="20260629161713 -0300" stop="20260629175202 -0300" channel="htofilmes">
-    <title lang="pt">Meu Malvado Favorito</title>
-    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
-    <category lang="pt">Animação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260629175202 -0300" stop="20260629193245 -0300" channel="htofilmes">
-    <title lang="pt">O Julgamento</title>
-    <desc lang="pt">Mac (Matthew Modine), um advogado abalado emocionalmente que perdeu sua fé em Deus e em si mesmo, quando decide relutantemente pegar um último caso: o do jovem Pete Thomason (Randy Wayne), respondendo por um assassinato de primeiro grau, sob pena de morte. Nada pode prevenir Mac das reviravoltas impressionantes do julgamento decorrente, à medida que o determinado advogado luta por justiça e busca um caminho para sua própria redenção. .</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/rOMUEjC9mLPOWsn40qC66C8gOf5.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260629193245 -0300" stop="20260629213653 -0300" channel="htofilmes">
-    <title lang="pt">Bad Boys Para Sempre</title>
-    <desc lang="pt">Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</desc>
-    <category lang="pt">Thriller</category>
-    <icon src="https://image.tmdb.org/t/p/w500/kxV3r4H1BRB3QFySbgFyrlOwwXg.jpg"/>
-    <date>2020</date>
-  </programme>
-  <programme start="20260629213653 -0300" stop="20260629234632 -0300" channel="htofilmes">
-    <title lang="pt">Bruce Lee, Meu Irmão</title>
-    <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260629234632 -0300" stop="20260630015553 -0300" channel="htofilmes">
-    <title lang="pt">Corajosos</title>
-    <desc lang="pt">Quatro policiais questionam sua fé e seu papel como pais e maridos após uma tragédia que acontece próximo a casa deles. Juntos, eles tomam uma decisão que muda suas vidas.</desc>
-    <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg"/>
-    <date>2011</date>
-  </programme>
   <programme start="20260630000000 -0300" stop="20260630013809 -0300" channel="htofilmes">
     <title lang="pt">Cymbeline</title>
     <desc lang="pt">Cymbeline (Ed Harris) é líder de um clube de motociclistas envolvido com tráfico de drogas. Perseguido por policiais corruptos, ele sofre tentativas de ususpação do poder por parte da própria esposa (Milla Jovovich) e ainda precisa lidar com as questões da problemática filha, Imogen (Dakota Johnson).</desc>
@@ -399,5 +308,99 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/j2Zt3IaAtRwHBIUrgArpXQzpOPP.jpg"/>
     <date>2012</date>
+  </programme>
+  <programme start="20260703000000 -0300" stop="20260703020921 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Quatro policiais questionam sua fé e seu papel como pais e maridos após uma tragédia que acontece próximo a casa deles. Juntos, eles tomam uma decisão que muda suas vidas.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg"/>
+    <date>2011</date>
+  </programme>
+  <programme start="20260703020921 -0300" stop="20260703040527 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
+    <date>1985</date>
+  </programme>
+  <programme start="20260703040527 -0300" stop="20260703054927 -0300" channel="htofilmes">
+    <title lang="pt">Guerreiros do Amanhã</title>
+    <desc lang="pt">A jornada de oito amigos numa remota cidade do interior, cujas vidas são súbita e violentamente abaladas por uma inesperada guerra. Separados dos amigos e familiares, estes oito extraordinários adolescentes têm de aprender a escapar, sobreviver e lutar contra uma força militar hostil.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/by1Euf1ry1psyip7Y4w05PM0jZA.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260703054927 -0300" stop="20260703072205 -0300" channel="htofilmes">
+    <title lang="pt">Eu, Deus e Bin Laden</title>
+    <desc lang="pt">Gary Faulkner é um ex-prisioneiro americano que não tira uma coisa da cabeça. Ele quer matar Osama Bin Laden. Para isso ele viaja nada menos que 11 vezes ao Paquistão, armado apenas com uma espada, na caça ao terrorista e quem sabe assim se tornar um herói.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tUSD5vubdimvBYQB7zhVa9EfBny.jpg"/>
+    <date>2016</date>
+  </programme>
+  <programme start="20260703072205 -0300" stop="20260703094044 -0300" channel="htofilmes">
+    <title lang="pt">Ilha do Medo</title>
+    <desc lang="pt">No verão de 1954, os agentes judiciais Teddy Daniels (DiCaprio) e Chuck Aule (Ruffalo) foram designados para uma ilha remota do porto de Boston para investigar o desaparecimento de uma perigosa assassina (Mortimer) que estava reclusa no hospital psiquiátrico Ashecliffe, um centro penitenciário para criminosos perturbados dirigido pelo sinistro médico John Cawley. (Kingsley). Logo eles descobrem que o centro guarda muitos segredos e que a ilha esconde algo mais perigoso que os pacientes.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260703094044 -0300" stop="20260703120045 -0300" channel="htofilmes">
+    <title lang="pt">Karate Kid</title>
+    <desc lang="pt">Dre Parker se mudou com a mãe para Pequim, devido ao trabalho dela. Logo ao chegar, ele se interessa por Meiying, uma garota que conhece praticando violino em uma praça. A aproximação deles provoca a irritação de Cheng, que lhe dá uma surra usando a técnica do kung fu. A partir de então a vida de Dre se torna um inferno, já que passa a ser perseguido na escola por Cheng e seus colegas. Um dia, ao escapar deles, Dre é auxiliado pelo Sr. Han, o zelador de seu prédio, que é também um mestre de kung fu.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/uC57SSZAkkLBCuWVsEfbqYkRda5.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20260703120045 -0300" stop="20260703133534 -0300" channel="htofilmes">
+    <title lang="pt">Meu Malvado Favorito</title>
+    <desc lang="pt">Um homem que adora todas as coisas diabólicas, o supervilão Gru traça um plano para roubar a lua. Rodeado de um exército de pequenos ajudantes e seu arsenal de armas e máquinas de guerra, Gru se prepara para destruir quem atravessar seu caminho. Mas ele não esperava pelo seu maior desafio: três adoráveis órfãs que querem ter Gru como pai.</desc>
+    <category lang="pt">Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rYZzutMXxvirK9gK01iLo3Blaj3.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260703133534 -0300" stop="20260703150122 -0300" channel="htofilmes">
+    <title lang="pt">Santet: O Feitiço do Mal</title>
+    <desc lang="pt">Rendy volta para a Indonésia levando consigo sua esposa Laura e seus dois filhos, pois, seu pai, Dharma, acabou de cometer suicídio. Já em casa, Rendy fica chocado com o comportamento de sua mãe, que não se comunica mais como uma pessoa normal e age de forma insana - os visitantes percebem que há algo sobrenatural acontecendo e o que quer que esteja dominando a idosa, isso não os quer ali.</desc>
+    <category lang="pt">Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/wywfxifdFROr05BQyfTZfoHkedV.jpg"/>
+    <date>2018</date>
+  </programme>
+  <programme start="20260703150122 -0300" stop="20260703164855 -0300" channel="htofilmes">
+    <title lang="pt">Os Outros Caras</title>
+    <desc lang="pt">Os detetives da polícia de Nova York, Gamble e Hoitz, não fazem manchetes com o seu trabalho diário atrás de uma escrivaninha. Gamble aprecia a sua função, mas Hoitz está ansioso para voltar para as ruas. Quando um caso aparentemente insignificante acaba se revelando um grande negócio, os dois policiais têm a oportunidade de finalmente provar a seus companheiros que eles têm capacidade.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/gHzt2VR585107h4E1f8yva0s2P0.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260703164855 -0300" stop="20260703181118 -0300" channel="htofilmes">
+    <title lang="pt">Todo Mundo em Pânico 2</title>
+    <desc lang="pt">Brincando com o terror, o professor Oldman e Dwight seu assistente, preparam um final de semana hilariante e super especial. Um experiência sobre exorcismo, onde Cindy e "aquele" grupo de jovens malucos e assustados deverão ficar sem dormir. A incrível arapuca terá lugar na "Casa do Inferno", um casarão mal-assombrado afastado da cidade, e onde não falta nem o repulsivo mordono sempre presente nas melhores histórias de terror. Como alvos desta comédia escrachada, encontramos "O Exorcista", "Poltergeist", "A Casa da Colina", "Revelação" e até mesmo "As Panteras" e "Missão Impossível 2". Agora muito mais engraçado. Imperdível!</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/549UoU38uoikbqgXG09rkkfIEWf.jpg"/>
+    <date>2001</date>
+  </programme>
+  <programme start="20260703181118 -0300" stop="20260703200230 -0300" channel="htofilmes">
+    <title lang="pt">RED - Aposentados e Perigosos</title>
+    <desc lang="pt">Frank Moses é um ex-agente da CIA, hoje aposentado, que tenta levar uma vida normal. Ele está interessado por Sarah, com quem volta e meia conversa ao telefone, apesar de ainda não conhecer pessoalmente. Um dia, a casa de Frank é atacada por agentes da CIA. Sem saber o que está acontecendo, ele deduz que logo perceberão sua ligação com Sarah e parte para protegê-la. Para entender o porquê de ter sido atacado, Frank precisará da ajuda de seus antigos companheiros Joe, Marvin e Victoria, todos também aposentados.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/bLCflHS789mmJTXhoeQCFdA0Saz.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260703200230 -0300" stop="20260703221151 -0300" channel="htofilmes">
+    <title lang="pt">Corajosos</title>
+    <desc lang="pt">Quatro policiais questionam sua fé e seu papel como pais e maridos após uma tragédia que acontece próximo a casa deles. Juntos, eles tomam uma decisão que muda suas vidas.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/gvp6uecYSWQn8cV0fGZ6j1g1Kvx.jpg"/>
+    <date>2011</date>
+  </programme>
+  <programme start="20260703221151 -0300" stop="20260704000757 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
+    <date>1985</date>
   </programme>
 </tv>

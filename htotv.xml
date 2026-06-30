@@ -3,532 +3,6 @@
   <channel id="htotv">
     <display-name>HtoTv</display-name>
   </channel>
-  <programme start="20260629000000 -0300" stop="20260629001025 -0300" channel="htotv">
-    <title lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</title>
-    <desc lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</desc>
-    <credits>
-      <director>Tv Assembleia PB</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629001025 -0300" stop="20260629001931 -0300" channel="htotv">
-    <title lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 1º BLOCO</title>
-    <desc lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 1º BLOCO</desc>
-    <credits>
-      <director>Tv Assembleia PB</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629001931 -0300" stop="20260629002932 -0300" channel="htotv">
-    <title lang="pt">OBSERVATÓRIO CULTURAL - RENAN UCHOA - 1º BLOCO</title>
-    <desc lang="pt">OBSERVATÓRIO CULTURAL - RENAN UCHOA - 1º BLOCO</desc>
-    <credits>
-      <director>Tv Assembleia PB</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629002932 -0300" stop="20260629013308 -0300" channel="htotv">
-    <title lang="pt">POD BAILAR COMIGO - DAHLL SANTOS  GISELI ALVES 24</title>
-    <desc lang="pt">Nesse episódio especial recebemos Dahll Santos &amp; Giseli Alves.
-
-Siga nossas redes sociais:
-@podbailarcomigo 
-@hugodefranca  
-@uend.cordeiro </desc>
-    <credits>
-      <director>Pod Bailar Comigo</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629013308 -0300" stop="20260629022008 -0300" channel="htotv">
-    <title lang="pt">POD BAILAR COMIGO - NICK GÁLLAVAN 29</title>
-    <desc lang="pt">POD BAILAR COMIGO - NICK GÁLLAVAN 29</desc>
-    <credits>
-      <director>Pod Bailar Comigo</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629022008 -0300" stop="20260629030938 -0300" channel="htotv">
-    <title lang="pt">POD BAILAR COMIGO - RODRIGO OLIVEIRA 32</title>
-    <desc lang="pt">POD BAILAR COMIGO - RODRIGO OLIVEIRA 32</desc>
-    <credits>
-      <director>Pod Bailar Comigo</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629030938 -0300" stop="20260629040108 -0300" channel="htotv">
-    <title lang="pt">Programa Som da Viola - Part   Cabloquinho e Ze Luciano</title>
-    <desc lang="pt">Programa Som da Viola - Part   Cabloquinho e Ze Luciano</desc>
-    <credits>
-      <director>Tv Araucária</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629040108 -0300" stop="20260629045400 -0300" channel="htotv">
-    <title lang="pt">Programa Som da Viola - Part. Ronaldo Pinheiro</title>
-    <desc lang="pt">PROGRAMA SOM DA VIOLA feat. RONALDO PINHEIRO E BANDA 10/01/2022</desc>
-    <credits>
-      <director>Tv Araucária</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629045400 -0300" stop="20260629054201 -0300" channel="htotv">
-    <title lang="pt">Programa Som da Viola Inédito  -  Part.. Rony e Ravel</title>
-    <desc lang="pt">Programa Som da Viola Inédito  -  Part.. Rony e Ravel</desc>
-    <credits>
-      <director>Tv Araucária</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629054201 -0300" stop="20260629061640 -0300" channel="htotv">
-    <title lang="pt">Toda Mulher - Stalking</title>
-    <desc lang="pt">Toda Mulher - Stalking</desc>
-    <credits>
-      <director>Tv Alerj</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1Z7p8Ky8G_V-jsaVAVYo_kYfN-XB-DUCJ&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629061640 -0300" stop="20260629063915 -0300" channel="htotv">
-    <title lang="pt">Toda Mulher - Planejamento familiar - Bloco 2</title>
-    <desc lang="pt">Toda Mulher - Planejamento familiar - Bloco 2</desc>
-    <credits>
-      <director>Tv Alerj</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1Z7p8Ky8G_V-jsaVAVYo_kYfN-XB-DUCJ&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629063915 -0300" stop="20260629065800 -0300" channel="htotv">
-    <title lang="pt">Toda Mulher  -  Aumento Infartes Jovens e Mulheres - Bloco 2</title>
-    <desc lang="pt">Toda Mulher  -  Aumento Infartes Jovens e Mulheres - Bloco 2</desc>
-    <credits>
-      <director>Tv Alerj</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1Z7p8Ky8G_V-jsaVAVYo_kYfN-XB-DUCJ&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629065800 -0300" stop="20260629080714 -0300" channel="htotv">
-    <title lang="pt">Revista Justiça   –  Dia Nacional de Lutas Estudantis</title>
-    <desc lang="pt">Revista eletrônica diária com destaques dos tribunais superiores, entrevistas com juristas e dúvidas dos ouvintes relacionadas a assuntos jurídicos e outros temas de interesse da sociedade.
-
-No debate do programa desta quinta-feira (28) tratamos sobre o Dia Nacional de Lutas Estudantis e debatemos sobre o direito à educação. Estiveram presentes em nossos estúdios o advogado e conselheiro representante dos Estudantes Secundaristas do DF, Marcos Francisco Mourão.
-
-E, para falar sobre a inserção da inteligência artificial no processo educacional e formação continuada de docentes, convidamos o professor, mestre e especialista em Educação Ricardo Praciano. Para dar ênfase na análise da educação e conquista dos estudantes, contamos com a presença da professora Lucineide Cruz.</desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629080714 -0300" stop="20260629091014 -0300" channel="htotv">
-    <title lang="pt">Revista Justiça   – A Importância do Direito Administrativo</title>
-    <desc lang="pt">Revista eletrônica diária com destaques dos tribunais superiores, entrevistas com juristas e dúvidas dos ouvintes relacionadas a assuntos jurídicos e outros temas de interesse da sociedade.
-
-O debate do programa Revista Justiça tratou sobre a importância do Direito Administrativo para o Brasil –  uma área importante e que compõe o mundo jurídico. A origem do Direito Administrativo está atrelada ao surgimento do Estado de direito, ou seja, ao reconhecimento do Estado como um ente autônomo cuja atuação está pautada no interesse público e na paz social.
-
-Recebemos em nossos estúdios o mestre e doutor em Direito Felipe Dalenogare Alves e a professora, jurista, conselheira do CNMP e autora de livros Fernanda Marinela.
-
-Convidamos também a professora e advogada especialista em Direito Administrativo Luana Carvalho e a advogada, parecerista e professora na área de Direito Administrativo e Constitucional, Marilene Matos.</desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629091014 -0300" stop="20260629101748 -0300" channel="htotv">
-    <title lang="pt">Revista Justiça   – Direitos das crianças com deficiência visual</title>
-    <desc lang="pt">No debate do programa Revisa Justiça, o tema foi: inclusão para crianças cegas e o direito à saúde e educação formal, além do uso das novas tecnologias.
-
-Para falar mais detalhes sobre o assunto, convidamos a advogada especializada em Direito Médico e Saúde, secretária da Comissão de Saúde da OAB-DF, Ana Lobo e a advogada Inclusiva de Família, membra da Comissão de Direito Sistêmico da OAB/DF, pedagoga inclusiva e também coordenadora Geral de Educação da APAE-DF, Kelly Assunção.
-
-O cantor e comunicador, com deficiência visual, Artur de Mari também participou do debate.
-</desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629101748 -0300" stop="20260629102813 -0300" channel="htotv">
-    <title lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</title>
-    <desc lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</desc>
-    <credits>
-      <director>Tv Assembleia PB</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629102813 -0300" stop="20260629103719 -0300" channel="htotv">
-    <title lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 1º BLOCO</title>
-    <desc lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 1º BLOCO</desc>
-    <credits>
-      <director>Tv Assembleia PB</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629103719 -0300" stop="20260629104720 -0300" channel="htotv">
-    <title lang="pt">OBSERVATÓRIO CULTURAL - RENAN UCHOA - 1º BLOCO</title>
-    <desc lang="pt">OBSERVATÓRIO CULTURAL - RENAN UCHOA - 1º BLOCO</desc>
-    <credits>
-      <director>Tv Assembleia PB</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629104720 -0300" stop="20260629115056 -0300" channel="htotv">
-    <title lang="pt">POD BAILAR COMIGO - DAHLL SANTOS  GISELI ALVES 24</title>
-    <desc lang="pt">Nesse episódio especial recebemos Dahll Santos &amp; Giseli Alves.
-
-Siga nossas redes sociais:
-@podbailarcomigo 
-@hugodefranca  
-@uend.cordeiro </desc>
-    <credits>
-      <director>Pod Bailar Comigo</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629115056 -0300" stop="20260629123756 -0300" channel="htotv">
-    <title lang="pt">POD BAILAR COMIGO - NICK GÁLLAVAN 29</title>
-    <desc lang="pt">POD BAILAR COMIGO - NICK GÁLLAVAN 29</desc>
-    <credits>
-      <director>Pod Bailar Comigo</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629123756 -0300" stop="20260629132726 -0300" channel="htotv">
-    <title lang="pt">POD BAILAR COMIGO - RODRIGO OLIVEIRA 32</title>
-    <desc lang="pt">POD BAILAR COMIGO - RODRIGO OLIVEIRA 32</desc>
-    <credits>
-      <director>Pod Bailar Comigo</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629132726 -0300" stop="20260629141856 -0300" channel="htotv">
-    <title lang="pt">Programa Som da Viola - Part   Cabloquinho e Ze Luciano</title>
-    <desc lang="pt">Programa Som da Viola - Part   Cabloquinho e Ze Luciano</desc>
-    <credits>
-      <director>Tv Araucária</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629141856 -0300" stop="20260629151148 -0300" channel="htotv">
-    <title lang="pt">Programa Som da Viola - Part. Ronaldo Pinheiro</title>
-    <desc lang="pt">PROGRAMA SOM DA VIOLA feat. RONALDO PINHEIRO E BANDA 10/01/2022</desc>
-    <credits>
-      <director>Tv Araucária</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629151148 -0300" stop="20260629155949 -0300" channel="htotv">
-    <title lang="pt">Programa Som da Viola Inédito  -  Part.. Rony e Ravel</title>
-    <desc lang="pt">Programa Som da Viola Inédito  -  Part.. Rony e Ravel</desc>
-    <credits>
-      <director>Tv Araucária</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629155949 -0300" stop="20260629163428 -0300" channel="htotv">
-    <title lang="pt">Toda Mulher - Stalking</title>
-    <desc lang="pt">Toda Mulher - Stalking</desc>
-    <credits>
-      <director>Tv Alerj</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1Z7p8Ky8G_V-jsaVAVYo_kYfN-XB-DUCJ&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629163428 -0300" stop="20260629165703 -0300" channel="htotv">
-    <title lang="pt">Toda Mulher - Planejamento familiar - Bloco 2</title>
-    <desc lang="pt">Toda Mulher - Planejamento familiar - Bloco 2</desc>
-    <credits>
-      <director>Tv Alerj</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1Z7p8Ky8G_V-jsaVAVYo_kYfN-XB-DUCJ&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629165703 -0300" stop="20260629171548 -0300" channel="htotv">
-    <title lang="pt">Toda Mulher  -  Aumento Infartes Jovens e Mulheres - Bloco 2</title>
-    <desc lang="pt">Toda Mulher  -  Aumento Infartes Jovens e Mulheres - Bloco 2</desc>
-    <credits>
-      <director>Tv Alerj</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1Z7p8Ky8G_V-jsaVAVYo_kYfN-XB-DUCJ&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629171548 -0300" stop="20260629182502 -0300" channel="htotv">
-    <title lang="pt">Revista Justiça   –  Dia Nacional de Lutas Estudantis</title>
-    <desc lang="pt">Revista eletrônica diária com destaques dos tribunais superiores, entrevistas com juristas e dúvidas dos ouvintes relacionadas a assuntos jurídicos e outros temas de interesse da sociedade.
-
-No debate do programa desta quinta-feira (28) tratamos sobre o Dia Nacional de Lutas Estudantis e debatemos sobre o direito à educação. Estiveram presentes em nossos estúdios o advogado e conselheiro representante dos Estudantes Secundaristas do DF, Marcos Francisco Mourão.
-
-E, para falar sobre a inserção da inteligência artificial no processo educacional e formação continuada de docentes, convidamos o professor, mestre e especialista em Educação Ricardo Praciano. Para dar ênfase na análise da educação e conquista dos estudantes, contamos com a presença da professora Lucineide Cruz.</desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629182502 -0300" stop="20260629192802 -0300" channel="htotv">
-    <title lang="pt">Revista Justiça   – A Importância do Direito Administrativo</title>
-    <desc lang="pt">Revista eletrônica diária com destaques dos tribunais superiores, entrevistas com juristas e dúvidas dos ouvintes relacionadas a assuntos jurídicos e outros temas de interesse da sociedade.
-
-O debate do programa Revista Justiça tratou sobre a importância do Direito Administrativo para o Brasil –  uma área importante e que compõe o mundo jurídico. A origem do Direito Administrativo está atrelada ao surgimento do Estado de direito, ou seja, ao reconhecimento do Estado como um ente autônomo cuja atuação está pautada no interesse público e na paz social.
-
-Recebemos em nossos estúdios o mestre e doutor em Direito Felipe Dalenogare Alves e a professora, jurista, conselheira do CNMP e autora de livros Fernanda Marinela.
-
-Convidamos também a professora e advogada especialista em Direito Administrativo Luana Carvalho e a advogada, parecerista e professora na área de Direito Administrativo e Constitucional, Marilene Matos.</desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629192802 -0300" stop="20260629203536 -0300" channel="htotv">
-    <title lang="pt">Revista Justiça   – Direitos das crianças com deficiência visual</title>
-    <desc lang="pt">No debate do programa Revisa Justiça, o tema foi: inclusão para crianças cegas e o direito à saúde e educação formal, além do uso das novas tecnologias.
-
-Para falar mais detalhes sobre o assunto, convidamos a advogada especializada em Direito Médico e Saúde, secretária da Comissão de Saúde da OAB-DF, Ana Lobo e a advogada Inclusiva de Família, membra da Comissão de Direito Sistêmico da OAB/DF, pedagoga inclusiva e também coordenadora Geral de Educação da APAE-DF, Kelly Assunção.
-
-O cantor e comunicador, com deficiência visual, Artur de Mari também participou do debate.
-</desc>
-    <credits>
-      <director>Rádio e TV Justiça</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1igfe129f2eX_wgxSfAYDIhyKVMJsKyX7&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629203536 -0300" stop="20260629204601 -0300" channel="htotv">
-    <title lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</title>
-    <desc lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</desc>
-    <credits>
-      <director>Tv Assembleia PB</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629204601 -0300" stop="20260629205507 -0300" channel="htotv">
-    <title lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 1º BLOCO</title>
-    <desc lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 1º BLOCO</desc>
-    <credits>
-      <director>Tv Assembleia PB</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629205507 -0300" stop="20260629210508 -0300" channel="htotv">
-    <title lang="pt">OBSERVATÓRIO CULTURAL - RENAN UCHOA - 1º BLOCO</title>
-    <desc lang="pt">OBSERVATÓRIO CULTURAL - RENAN UCHOA - 1º BLOCO</desc>
-    <credits>
-      <director>Tv Assembleia PB</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629210508 -0300" stop="20260629220844 -0300" channel="htotv">
-    <title lang="pt">POD BAILAR COMIGO - DAHLL SANTOS  GISELI ALVES 24</title>
-    <desc lang="pt">Nesse episódio especial recebemos Dahll Santos &amp; Giseli Alves.
-
-Siga nossas redes sociais:
-@podbailarcomigo 
-@hugodefranca  
-@uend.cordeiro </desc>
-    <credits>
-      <director>Pod Bailar Comigo</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629220844 -0300" stop="20260629225544 -0300" channel="htotv">
-    <title lang="pt">POD BAILAR COMIGO - NICK GÁLLAVAN 29</title>
-    <desc lang="pt">POD BAILAR COMIGO - NICK GÁLLAVAN 29</desc>
-    <credits>
-      <director>Pod Bailar Comigo</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629225544 -0300" stop="20260629234514 -0300" channel="htotv">
-    <title lang="pt">POD BAILAR COMIGO - RODRIGO OLIVEIRA 32</title>
-    <desc lang="pt">POD BAILAR COMIGO - RODRIGO OLIVEIRA 32</desc>
-    <credits>
-      <director>Pod Bailar Comigo</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260629234514 -0300" stop="20260630003644 -0300" channel="htotv">
-    <title lang="pt">Programa Som da Viola - Part   Cabloquinho e Ze Luciano</title>
-    <desc lang="pt">Programa Som da Viola - Part   Cabloquinho e Ze Luciano</desc>
-    <credits>
-      <director>Tv Araucária</director>
-    </credits>
-    <category lang="pt">Programa</category>
-    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20260630000000 -0300" stop="20260630002517 -0300" channel="htotv">
     <title lang="pt">Artigo 5º - Os direitos da população de rua</title>
     <desc lang="pt">O Artigo 5º desta semana vai mostrar os desafios para a implementação da Lei 14.821/2024, que instituiu a Política Nacional de Trabalho Digno e Cidadania para a população em situação de rua. Segundo o Instituto de Pesquisa Econômica Aplicada, Ipea, com base em dados do Cadastro Único do Governo Federal, a população que vive nessas condições aumentou 935% nos últimos dez anos. 
@@ -3187,6 +2661,710 @@ LinkedIn:   / lewishowes  </desc>
     <category lang="pt">Programa</category>
     <icon src="https://drive.google.com/thumbnail?id=1XBqZt11To8sVVT4YI_k-SNh6QOqMYO8b&amp;sz=w1000"/>
     <date>2024</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703000000 -0300" stop="20260703003521 -0300" channel="htotv">
+    <title lang="pt">PGM 251 - Nossa Saúde - Verão- Cuidados Necessários Apontados pelo Corpo de Bombeiros</title>
+    <desc lang="pt">Verão Seguro: confira as dicas do Corpo de Bombeiros Militar de Santa Catarina (CBMSC) para você e sua família aproveitarem as férias e o verão com segurança, principalmente no litoral catarinense. 
+Nosso convidado é o coronel Aldrin Silva de Souza, comandante da 1º Região Bombeiro Militar, área responsável pelo litoral catarinense, que concentra a maior parte da Operação Veraneio.
+</desc>
+    <credits>
+      <director>Alesc Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703003521 -0300" stop="20260703010758 -0300" channel="htotv">
+    <title lang="pt">PGM 252 - Nossa Saúde - Saúde Capilar</title>
+    <desc lang="pt">Além da Estética: como os cabelos refletem a saúde geral.
+Saúde Capilar: um tema que impacta na autoestima e qualidade de vida de muitas pessoas.
+Afinal, qual a melhor maneira de ter cabelos saudáveis e radiantes? O que é mito ou verdade na hora de cuidar dos fios? E qual é o segredo para se ter cabelos fortes? Quem responde essas e outras perguntas é a médica Carol Berger, cirurgiã geral e tricologista.</desc>
+    <credits>
+      <director>Alesc Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703010758 -0300" stop="20260703013627 -0300" channel="htotv">
+    <title lang="pt">PGM 253 - Nossa Saúde - Dengue em SC- prevenção precisa ser reforçada</title>
+    <desc lang="pt">Dengue em SC: prevenção precisa ser reforçada. Em 2023 o Estado registrou um número recorde de casos e cerca de 100 pessoas morreram por causa da doença. Os cuidados devem ser reforçados neste início de ano, já que o verão é o período de maior proliferação do mosquito Aedes
+aegypti, transmissor de dengue, Zika e chikungunya. Nosso entrevistado é o João Augusto Brancher Fuck, diretor de Vigilância Epidemiológica do Estado (DIVE/SC).</desc>
+    <credits>
+      <director>Alesc Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703013627 -0300" stop="20260703014652 -0300" channel="htotv">
+    <title lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</title>
+    <desc lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</desc>
+    <credits>
+      <director>Tv Assembleia PB</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703014652 -0300" stop="20260703015558 -0300" channel="htotv">
+    <title lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 1º BLOCO</title>
+    <desc lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 1º BLOCO</desc>
+    <credits>
+      <director>Tv Assembleia PB</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703015558 -0300" stop="20260703020807 -0300" channel="htotv">
+    <title lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 2º BLOCO</title>
+    <desc lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 2º BLOCO</desc>
+    <credits>
+      <director>Tv Assembleia PB</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703020807 -0300" stop="20260703023912 -0300" channel="htotv">
+    <title lang="pt">Programa Pé Na Estrada Inédito 02-06-2024</title>
+    <desc lang="pt">Programa Pé Na Estrada Inédito 02-06-2024
+
+Apresentação e Parceria:@drikaschumacher
+
+Tv Araucaria 28 anos
+
+
+Fique por dentro dos nossos programas ao se inscrever no canal:
+@tvaraucariagpva  
+</desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703023912 -0300" stop="20260703030451 -0300" channel="htotv">
+    <title lang="pt">Programa Pé na Estrada Inédito 04-05-2024</title>
+    <desc lang="pt">Programa Pé na Estrada Inédito 04/05/2024
+
+Apresentação e Parceria: @drikaschumacher
+
+@tvaraucaria18 2024 / 28 anos</desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703030451 -0300" stop="20260703033531 -0300" channel="htotv">
+    <title lang="pt">Programa Pé Na Estrada Inédito 06-04-2024</title>
+    <desc lang="pt">Programa Pé Na Estrada Inédito 06-04-2024
+
+Assista hoje  no Programa Pé Na Estrada:
+
+"Muita musica boa e dança Cigana e Arabe"
+
+Apresentação e Parceria:@drikaschumacher
+
+Tv Araucaria 28 anos
+
+Fique por dentro dos nossos programas ao se inscrever no canal:
+@tvaraucariagpva  </desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703033531 -0300" stop="20260703043120 -0300" channel="htotv">
+    <title lang="pt">POD BAILAR COMIGO - ANNY MORETTI 23</title>
+    <desc lang="pt">Nesse episódio especial recebemos Anny Moretti
+
+Siga nossas redes sociais:
+@podbailarcomigo 
+@hugodefranca  
+@uend.cordeiro 
+</desc>
+    <credits>
+      <director>Pod Bailar Comigo</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703043120 -0300" stop="20260703053018 -0300" channel="htotv">
+    <title lang="pt">POD BAILAR COMIGO - CAMILA CAMPARELLI 26</title>
+    <desc lang="pt">Nesse episódio especial recebemos Camila Camparelli.
+
+Siga nossas redes sociais:
+@podbailarcomigo 
+@hugodefranca  
+@uend.cordeiro</desc>
+    <credits>
+      <director>Pod Bailar Comigo</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703053018 -0300" stop="20260703063354 -0300" channel="htotv">
+    <title lang="pt">POD BAILAR COMIGO - DAHLL SANTOS  GISELI ALVES 24</title>
+    <desc lang="pt">Nesse episódio especial recebemos Dahll Santos &amp; Giseli Alves.
+
+Siga nossas redes sociais:
+@podbailarcomigo 
+@hugodefranca  
+@uend.cordeiro </desc>
+    <credits>
+      <director>Pod Bailar Comigo</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703063354 -0300" stop="20260703072524 -0300" channel="htotv">
+    <title lang="pt">Programa Som da Viola - Part   Cabloquinho e Ze Luciano</title>
+    <desc lang="pt">Programa Som da Viola - Part   Cabloquinho e Ze Luciano</desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703072524 -0300" stop="20260703081816 -0300" channel="htotv">
+    <title lang="pt">Programa Som da Viola - Part. Ronaldo Pinheiro</title>
+    <desc lang="pt">PROGRAMA SOM DA VIOLA feat. RONALDO PINHEIRO E BANDA 10/01/2022</desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703081816 -0300" stop="20260703090802 -0300" channel="htotv">
+    <title lang="pt">Programa Som da Viola Inédito  -  Part. Os Primos</title>
+    <desc lang="pt">Programa Som da Viola Inédito  -  Part. Os Primos</desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703090802 -0300" stop="20260703092752 -0300" channel="htotv">
+    <title lang="pt">Toda Mulher  -  Aumento Infartes Jovens e Mulheres - Bloco 1</title>
+    <desc lang="pt">Toda Mulher  -  Aumento Infartes Jovens e Mulheres - Bloco 1</desc>
+    <credits>
+      <director>Tv Alerj</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1Z7p8Ky8G_V-jsaVAVYo_kYfN-XB-DUCJ&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703092752 -0300" stop="20260703094637 -0300" channel="htotv">
+    <title lang="pt">Toda Mulher  -  Aumento Infartes Jovens e Mulheres - Bloco 2</title>
+    <desc lang="pt">Toda Mulher  -  Aumento Infartes Jovens e Mulheres - Bloco 2</desc>
+    <credits>
+      <director>Tv Alerj</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1Z7p8Ky8G_V-jsaVAVYo_kYfN-XB-DUCJ&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703094637 -0300" stop="20260703101133 -0300" channel="htotv">
+    <title lang="pt">Toda Mulher  - Empreendedorismo Feminino - Bloco 2</title>
+    <desc lang="pt">Toda Mulher  - Empreendedorismo Feminino - Bloco 2</desc>
+    <credits>
+      <director>Tv Alerj</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1Z7p8Ky8G_V-jsaVAVYo_kYfN-XB-DUCJ&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703101133 -0300" stop="20260703104654 -0300" channel="htotv">
+    <title lang="pt">PGM 251 - Nossa Saúde - Verão- Cuidados Necessários Apontados pelo Corpo de Bombeiros</title>
+    <desc lang="pt">Verão Seguro: confira as dicas do Corpo de Bombeiros Militar de Santa Catarina (CBMSC) para você e sua família aproveitarem as férias e o verão com segurança, principalmente no litoral catarinense. 
+Nosso convidado é o coronel Aldrin Silva de Souza, comandante da 1º Região Bombeiro Militar, área responsável pelo litoral catarinense, que concentra a maior parte da Operação Veraneio.
+</desc>
+    <credits>
+      <director>Alesc Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703104654 -0300" stop="20260703111931 -0300" channel="htotv">
+    <title lang="pt">PGM 252 - Nossa Saúde - Saúde Capilar</title>
+    <desc lang="pt">Além da Estética: como os cabelos refletem a saúde geral.
+Saúde Capilar: um tema que impacta na autoestima e qualidade de vida de muitas pessoas.
+Afinal, qual a melhor maneira de ter cabelos saudáveis e radiantes? O que é mito ou verdade na hora de cuidar dos fios? E qual é o segredo para se ter cabelos fortes? Quem responde essas e outras perguntas é a médica Carol Berger, cirurgiã geral e tricologista.</desc>
+    <credits>
+      <director>Alesc Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703111931 -0300" stop="20260703114800 -0300" channel="htotv">
+    <title lang="pt">PGM 253 - Nossa Saúde - Dengue em SC- prevenção precisa ser reforçada</title>
+    <desc lang="pt">Dengue em SC: prevenção precisa ser reforçada. Em 2023 o Estado registrou um número recorde de casos e cerca de 100 pessoas morreram por causa da doença. Os cuidados devem ser reforçados neste início de ano, já que o verão é o período de maior proliferação do mosquito Aedes
+aegypti, transmissor de dengue, Zika e chikungunya. Nosso entrevistado é o João Augusto Brancher Fuck, diretor de Vigilância Epidemiológica do Estado (DIVE/SC).</desc>
+    <credits>
+      <director>Alesc Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703114800 -0300" stop="20260703115825 -0300" channel="htotv">
+    <title lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</title>
+    <desc lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</desc>
+    <credits>
+      <director>Tv Assembleia PB</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703115825 -0300" stop="20260703120731 -0300" channel="htotv">
+    <title lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 1º BLOCO</title>
+    <desc lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 1º BLOCO</desc>
+    <credits>
+      <director>Tv Assembleia PB</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703120731 -0300" stop="20260703121940 -0300" channel="htotv">
+    <title lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 2º BLOCO</title>
+    <desc lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 2º BLOCO</desc>
+    <credits>
+      <director>Tv Assembleia PB</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703121940 -0300" stop="20260703125045 -0300" channel="htotv">
+    <title lang="pt">Programa Pé Na Estrada Inédito 02-06-2024</title>
+    <desc lang="pt">Programa Pé Na Estrada Inédito 02-06-2024
+
+Apresentação e Parceria:@drikaschumacher
+
+Tv Araucaria 28 anos
+
+
+Fique por dentro dos nossos programas ao se inscrever no canal:
+@tvaraucariagpva  
+</desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703125045 -0300" stop="20260703131624 -0300" channel="htotv">
+    <title lang="pt">Programa Pé na Estrada Inédito 04-05-2024</title>
+    <desc lang="pt">Programa Pé na Estrada Inédito 04/05/2024
+
+Apresentação e Parceria: @drikaschumacher
+
+@tvaraucaria18 2024 / 28 anos</desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703131624 -0300" stop="20260703134704 -0300" channel="htotv">
+    <title lang="pt">Programa Pé Na Estrada Inédito 06-04-2024</title>
+    <desc lang="pt">Programa Pé Na Estrada Inédito 06-04-2024
+
+Assista hoje  no Programa Pé Na Estrada:
+
+"Muita musica boa e dança Cigana e Arabe"
+
+Apresentação e Parceria:@drikaschumacher
+
+Tv Araucaria 28 anos
+
+Fique por dentro dos nossos programas ao se inscrever no canal:
+@tvaraucariagpva  </desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703134704 -0300" stop="20260703144253 -0300" channel="htotv">
+    <title lang="pt">POD BAILAR COMIGO - ANNY MORETTI 23</title>
+    <desc lang="pt">Nesse episódio especial recebemos Anny Moretti
+
+Siga nossas redes sociais:
+@podbailarcomigo 
+@hugodefranca  
+@uend.cordeiro 
+</desc>
+    <credits>
+      <director>Pod Bailar Comigo</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703144253 -0300" stop="20260703154151 -0300" channel="htotv">
+    <title lang="pt">POD BAILAR COMIGO - CAMILA CAMPARELLI 26</title>
+    <desc lang="pt">Nesse episódio especial recebemos Camila Camparelli.
+
+Siga nossas redes sociais:
+@podbailarcomigo 
+@hugodefranca  
+@uend.cordeiro</desc>
+    <credits>
+      <director>Pod Bailar Comigo</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703154151 -0300" stop="20260703164527 -0300" channel="htotv">
+    <title lang="pt">POD BAILAR COMIGO - DAHLL SANTOS  GISELI ALVES 24</title>
+    <desc lang="pt">Nesse episódio especial recebemos Dahll Santos &amp; Giseli Alves.
+
+Siga nossas redes sociais:
+@podbailarcomigo 
+@hugodefranca  
+@uend.cordeiro </desc>
+    <credits>
+      <director>Pod Bailar Comigo</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1ze_f0JvNkWhk0ko6Zv67cjJrCvYjja6F&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703164527 -0300" stop="20260703173657 -0300" channel="htotv">
+    <title lang="pt">Programa Som da Viola - Part   Cabloquinho e Ze Luciano</title>
+    <desc lang="pt">Programa Som da Viola - Part   Cabloquinho e Ze Luciano</desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703173657 -0300" stop="20260703182949 -0300" channel="htotv">
+    <title lang="pt">Programa Som da Viola - Part. Ronaldo Pinheiro</title>
+    <desc lang="pt">PROGRAMA SOM DA VIOLA feat. RONALDO PINHEIRO E BANDA 10/01/2022</desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703182949 -0300" stop="20260703191935 -0300" channel="htotv">
+    <title lang="pt">Programa Som da Viola Inédito  -  Part. Os Primos</title>
+    <desc lang="pt">Programa Som da Viola Inédito  -  Part. Os Primos</desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703191935 -0300" stop="20260703193925 -0300" channel="htotv">
+    <title lang="pt">Toda Mulher  -  Aumento Infartes Jovens e Mulheres - Bloco 1</title>
+    <desc lang="pt">Toda Mulher  -  Aumento Infartes Jovens e Mulheres - Bloco 1</desc>
+    <credits>
+      <director>Tv Alerj</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1Z7p8Ky8G_V-jsaVAVYo_kYfN-XB-DUCJ&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703193925 -0300" stop="20260703195810 -0300" channel="htotv">
+    <title lang="pt">Toda Mulher  -  Aumento Infartes Jovens e Mulheres - Bloco 2</title>
+    <desc lang="pt">Toda Mulher  -  Aumento Infartes Jovens e Mulheres - Bloco 2</desc>
+    <credits>
+      <director>Tv Alerj</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1Z7p8Ky8G_V-jsaVAVYo_kYfN-XB-DUCJ&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703195810 -0300" stop="20260703202306 -0300" channel="htotv">
+    <title lang="pt">Toda Mulher  - Empreendedorismo Feminino - Bloco 2</title>
+    <desc lang="pt">Toda Mulher  - Empreendedorismo Feminino - Bloco 2</desc>
+    <credits>
+      <director>Tv Alerj</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1Z7p8Ky8G_V-jsaVAVYo_kYfN-XB-DUCJ&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703202306 -0300" stop="20260703205827 -0300" channel="htotv">
+    <title lang="pt">PGM 251 - Nossa Saúde - Verão- Cuidados Necessários Apontados pelo Corpo de Bombeiros</title>
+    <desc lang="pt">Verão Seguro: confira as dicas do Corpo de Bombeiros Militar de Santa Catarina (CBMSC) para você e sua família aproveitarem as férias e o verão com segurança, principalmente no litoral catarinense. 
+Nosso convidado é o coronel Aldrin Silva de Souza, comandante da 1º Região Bombeiro Militar, área responsável pelo litoral catarinense, que concentra a maior parte da Operação Veraneio.
+</desc>
+    <credits>
+      <director>Alesc Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703205827 -0300" stop="20260703213104 -0300" channel="htotv">
+    <title lang="pt">PGM 252 - Nossa Saúde - Saúde Capilar</title>
+    <desc lang="pt">Além da Estética: como os cabelos refletem a saúde geral.
+Saúde Capilar: um tema que impacta na autoestima e qualidade de vida de muitas pessoas.
+Afinal, qual a melhor maneira de ter cabelos saudáveis e radiantes? O que é mito ou verdade na hora de cuidar dos fios? E qual é o segredo para se ter cabelos fortes? Quem responde essas e outras perguntas é a médica Carol Berger, cirurgiã geral e tricologista.</desc>
+    <credits>
+      <director>Alesc Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703213104 -0300" stop="20260703215933 -0300" channel="htotv">
+    <title lang="pt">PGM 253 - Nossa Saúde - Dengue em SC- prevenção precisa ser reforçada</title>
+    <desc lang="pt">Dengue em SC: prevenção precisa ser reforçada. Em 2023 o Estado registrou um número recorde de casos e cerca de 100 pessoas morreram por causa da doença. Os cuidados devem ser reforçados neste início de ano, já que o verão é o período de maior proliferação do mosquito Aedes
+aegypti, transmissor de dengue, Zika e chikungunya. Nosso entrevistado é o João Augusto Brancher Fuck, diretor de Vigilância Epidemiológica do Estado (DIVE/SC).</desc>
+    <credits>
+      <director>Alesc Tv</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-oNuWkeDiQfSYNsQXWvAQkl7cgHosBw5&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703215933 -0300" stop="20260703220958 -0300" channel="htotv">
+    <title lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</title>
+    <desc lang="pt">OBSERVATÓRIO CULTURAL - CARLOS NUNES - 2º BLOCO</desc>
+    <credits>
+      <director>Tv Assembleia PB</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703220958 -0300" stop="20260703221904 -0300" channel="htotv">
+    <title lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 1º BLOCO</title>
+    <desc lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 1º BLOCO</desc>
+    <credits>
+      <director>Tv Assembleia PB</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703221904 -0300" stop="20260703223113 -0300" channel="htotv">
+    <title lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 2º BLOCO</title>
+    <desc lang="pt">OBSERVATÓRIO CULTURAL - LUCAS GAIÃO - 2º BLOCO</desc>
+    <credits>
+      <director>Tv Assembleia PB</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=1m6c3IwIAnOd0wov9Hx7L0Q1-ofNG7kRE&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703223113 -0300" stop="20260703230218 -0300" channel="htotv">
+    <title lang="pt">Programa Pé Na Estrada Inédito 02-06-2024</title>
+    <desc lang="pt">Programa Pé Na Estrada Inédito 02-06-2024
+
+Apresentação e Parceria:@drikaschumacher
+
+Tv Araucaria 28 anos
+
+
+Fique por dentro dos nossos programas ao se inscrever no canal:
+@tvaraucariagpva  
+</desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703230218 -0300" stop="20260703232757 -0300" channel="htotv">
+    <title lang="pt">Programa Pé na Estrada Inédito 04-05-2024</title>
+    <desc lang="pt">Programa Pé na Estrada Inédito 04/05/2024
+
+Apresentação e Parceria: @drikaschumacher
+
+@tvaraucaria18 2024 / 28 anos</desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703232757 -0300" stop="20260703235837 -0300" channel="htotv">
+    <title lang="pt">Programa Pé Na Estrada Inédito 06-04-2024</title>
+    <desc lang="pt">Programa Pé Na Estrada Inédito 06-04-2024
+
+Assista hoje  no Programa Pé Na Estrada:
+
+"Muita musica boa e dança Cigana e Arabe"
+
+Apresentação e Parceria:@drikaschumacher
+
+Tv Araucaria 28 anos
+
+Fique por dentro dos nossos programas ao se inscrever no canal:
+@tvaraucariagpva  </desc>
+    <credits>
+      <director>Tv Araucária</director>
+    </credits>
+    <category lang="pt">Programa</category>
+    <icon src="https://drive.google.com/thumbnail?id=176vgJVlexbaRx1cksWCnYx_e5KPggkHv&amp;sz=w1000"/>
+    <date>2026</date>
     <rating system="BR">
       <value>L</value>
     </rating>
