@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <tv>
 <channel id="oldseries">
 <display-name>Old Series</display-name>
@@ -118855,3 +118856,459 @@
 <title>Heartland-T1-Ep8</title>
 </programme>
 </tv>
+=======
+<tv generator-info-name="www.hefestometa.com.br">
+  <channel id="oldseries">
+    <display-name>OldSeries</display-name>
+  </channel>
+  <programme start="20260629000000 -0300" stop="20260629004500 -0300" channel="oldseries">
+    <title lang="pt">Tratamento de Choque - T1E4 - Charlie e Kent Brigam Por um Paciente</title>
+    <desc lang="pt">Kate rouba um paciente de Charlie, alimentando a rivalidade competitiva entre os dois terapeutas.</desc>
+    <credits>
+      <director>Bruce Helford</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yrgrySCCFjhB3p9zqnunAmjDxC9.jpg"/>
+    <date>2012</date>
+    <episode-num system="onscreen">T1E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629004500 -0300" stop="20260629013000 -0300" channel="oldseries">
+    <title lang="pt">Lances da Vida - T1E8 - Episódio 8</title>
+    <desc lang="pt">Depois de um salto de quatro anos no tempo, os jovens na faixa dos 20 anos de Tree Hill se deparam com mais perguntas do que respostas enquanto tentam manter seus sonhos vivos e suas amizades intactas. Juntos, esses jovens continuam a compartilhar experiências enquanto lutam para definir como serão suas vidas.</desc>
+    <credits>
+      <director>Mark Schwahn</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/bbbZbsurFfpHV6xNI81WI97Ib2t.jpg"/>
+    <date>2003</date>
+    <episode-num system="onscreen">T1E8</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629013000 -0300" stop="20260629021500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T7E7 - 14:00 - 15:00</title>
+    <desc lang="pt">Dubaku começa um novo ataque a uma indústria química em Ohio.  Enquanto  isso, Jack e sua equipe correm para encontrá-lo. Janis ajuda o  gerente  da fábrica a minimizar as mortes do ataque, diminuindo a pressão  das  válvulas manualmente. Enquanto isso, Ethan fica cada vez mais  preocupado com o paradeiro do Primeiro Cavaleiro e resolve informar à  presidente que ele está desaparecido.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2009</date>
+    <episode-num system="onscreen">T7E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629021500 -0300" stop="20260629030000 -0300" channel="oldseries">
+    <title lang="pt">Diários de um Vampiro - T3E9 - Regresso a casa</title>
+    <desc lang="pt">Rebekah se abre com Elena sobre a razão do evento ser tão importante para a vampira, algo que deixa a garota com emoções conflitantes a respeito da irmã de Klaus.</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lcGQaSrWkkxGuh0JJqyN2TkuNqb.jpg"/>
+    <date>2011</date>
+    <episode-num system="onscreen">T3E9</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629030000 -0300" stop="20260629034500 -0300" channel="oldseries">
+    <title lang="pt">Friends - T1E19 - Aquele em Que o Macaco Foge</title>
+    <desc lang="pt">A turma procura Marcel, que foge do apartamento enquanto Rachel toma conta dele.</desc>
+    <credits>
+      <director>Marta Kauffman, David Crane</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg"/>
+    <date>1995</date>
+    <episode-num system="onscreen">T1E19</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629034500 -0300" stop="20260629043000 -0300" channel="oldseries">
+    <title lang="pt">Supernatural - T6E2 - Dois Homens e Meio</title>
+    <desc lang="pt">Sam investiga um caso de pais assassinados e bebês desaparecidos. Os irmãos levam o bebê para Samuel. Mas, um metamorfo tenta sequestrar a criança.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/eK4gEBWNGJoxCD67KFKzaKfSzWU.jpg"/>
+    <date>2010</date>
+    <episode-num system="onscreen">T6E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629043000 -0300" stop="20260629051500 -0300" channel="oldseries">
+    <title lang="pt">Eu, a Patroa e as Crianças - T2E26 - O Show do Boliche</title>
+    <desc lang="pt">Michael joga boliche contra seu inimigo Stu Tyler.</desc>
+    <credits>
+      <director>Damon Wayans, Don Reo</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/huMehRjXBkFkO9BWPly1635y0J0.jpg"/>
+    <date>2002</date>
+    <episode-num system="onscreen">T2E26</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629051500 -0300" stop="20260629060000 -0300" channel="oldseries">
+    <title lang="pt">Um Maluco no Pedaço - T1E13 - Saber é Poder</title>
+    <desc lang="pt">Quando Will e Carlton descobrem que Hilary largou a faculdade sem contar aos pais, eles a obrigam a fazer tudo o que quiserem.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
+    <date>1990</date>
+    <episode-num system="onscreen">T1E13</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629060000 -0300" stop="20260629064500 -0300" channel="oldseries">
+    <title lang="pt">Chuck - T1E2 - Chuck Contra O Helicóptero</title>
+    <desc lang="pt">Enquanto Chuck continua a lidar com sua nova vida como espião, a tensão aumenta entre seus recentemente designados parceiros, Sarah e Casey.</desc>
+    <credits>
+      <director>Josh Schwartz</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vEZvGVVMjk1TRs59nfypTI5lAXj.jpg"/>
+    <date>2007</date>
+    <length units="minutes">43</length>
+    <episode-num system="onscreen">T1E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629064500 -0300" stop="20260629073000 -0300" channel="oldseries">
+    <title lang="pt">Um Maluco no Pedaço - T4E26 - Na Filadélfia</title>
+    <desc lang="pt">Will está animado para passar as férias com a família Banks na Filadélfia, mas todos se surpreendem com a reputação de Will na vizinhança.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
+    <date>1994</date>
+    <episode-num system="onscreen">T4E26</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629073000 -0300" stop="20260629081500 -0300" channel="oldseries">
+    <title lang="pt">The Walking Dead - T3E15 - Por Uma Vida Infeliz</title>
+    <desc lang="pt">Rick e o grupo precisam enfrentar um sério problema: para conseguir uma trégua com o Governador, eles precisarão fazer um enorme sacrifício.</desc>
+    <credits>
+      <director>Frank Darabont</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/9lb02gTh4LLB17yAEXFd4C3R4JP.jpg"/>
+    <date>2013</date>
+    <episode-num system="onscreen">T3E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629081500 -0300" stop="20260629090000 -0300" channel="oldseries">
+    <title lang="pt">Diários de um Vampiro - T4E14 - Na Toca do Coelho</title>
+    <desc lang="pt">Na ilha, Damon se depara com um caçador chamado Vaughn e percebe que ele é um dos Cinco.</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lcGQaSrWkkxGuh0JJqyN2TkuNqb.jpg"/>
+    <date>2013</date>
+    <episode-num system="onscreen">T4E14</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629090000 -0300" stop="20260629094500 -0300" channel="oldseries">
+    <title lang="pt">Supernatural - T4E17 - Que Vida Terrível</title>
+    <desc lang="pt">Em uma realidade alternativa, Sam e Dean não são irmãos e trabalham em um escritório de marketing. Após uma série de mortes, eles se juntam para resolver os assassinatos.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/eK4gEBWNGJoxCD67KFKzaKfSzWU.jpg"/>
+    <date>2009</date>
+    <episode-num system="onscreen">T4E17</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629094500 -0300" stop="20260629103000 -0300" channel="oldseries">
+    <title lang="pt">Um Maluco no Pedaço - T2E22 - A Titia Veio para o Jantar</title>
+    <desc lang="pt">Will e Carlton planejam ter a casa só para eles e duas garotas francesas, mas a visita inesperada da tia Helen muda os planos de todos.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
+    <date>1992</date>
+    <episode-num system="onscreen">T2E22</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629103000 -0300" stop="20260629111500 -0300" channel="oldseries">
+    <title lang="pt">Um Maluco no Pedaço - T6E4 - Um Mauricinho na Fossa</title>
+    <desc lang="pt">Com medo de se decepcionar, Carlton desiste de ir à entrevista em Princeton, e Will decide ir no lugar dele.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
+    <date>1995</date>
+    <episode-num system="onscreen">T6E4</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629111500 -0300" stop="20260629120000 -0300" channel="oldseries">
+    <title lang="pt">The Walking Dead - T2E12 - Anjos bons</title>
+    <desc lang="pt">O grupo descobre que alguém perigoso pode estar à solta. Com o cair da noite, Rick, Shane, Daryl e Glenn vasculham a mata em uma tentativa de lidar com a situação.</desc>
+    <credits>
+      <director>Frank Darabont</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/9lb02gTh4LLB17yAEXFd4C3R4JP.jpg"/>
+    <date>2012</date>
+    <episode-num system="onscreen">T2E12</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629120000 -0300" stop="20260629124500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T3E11 - 23:00 - 00:00</title>
+    <desc lang="pt">Jack e Nina se preparam para um encontro com Amador o homem vendendo o  vírus. A UCT organiza uma emboscada; Ramon e Hector se desentendem.  Presidente Palmer pede ajuda à ex-mulher.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T3E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629124500 -0300" stop="20260629133000 -0300" channel="oldseries">
+    <title lang="pt">Um Maluco no Pedaço - T2E2 - A Mãe de Todas as Batalhas</title>
+    <desc lang="pt">Will e Carlton tentam resolver os problemas de Ashley na escola, mas Phil e Vivian descobrem e tentam resolver da sua maneira.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
+    <date>1991</date>
+    <episode-num system="onscreen">T2E2</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629133000 -0300" stop="20260629141500 -0300" channel="oldseries">
+    <title lang="pt">Tratamento de Choque - T1E1 - Charlie de Volta à Terapia</title>
+    <desc lang="pt">Charlie - um jogador de beisebol com problemas de raiva que se tornou terapeuta de controle da raiva - decide voltar à terapia após um desentendimento ruim com o novo namorado de sua ex-mulher. O único problema é que ele está dormindo com a única terapeuta em quem confia: sua melhor amiga, Kate.</desc>
+    <credits>
+      <director>Bruce Helford</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yrgrySCCFjhB3p9zqnunAmjDxC9.jpg"/>
+    <date>2012</date>
+    <episode-num system="onscreen">T1E1</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629141500 -0300" stop="20260629150000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T4E11 - 17:00 - 18:00</title>
+    <desc lang="pt">Os agentes da UCT descobrem que Marwan mantém um aparelho de ativação  manual num edifício. Jack e Curtis vão ao local enquanto as outras  usinas nucleares continuam sob ameaça. No posto médico da UCT, Driscoll  enfrenta uma situação de emergência envolvendo sua filha.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E11</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629150000 -0300" stop="20260629154500 -0300" channel="oldseries">
+    <title lang="pt">Um Maluco no Pedaço - T5E16 - Uma Proposta do Coração</title>
+    <desc lang="pt">Enquanto Will se recupera no hospital, Lisa fica aflita com o pedido de casamento.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
+    <date>1995</date>
+    <episode-num system="onscreen">T5E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629154500 -0300" stop="20260629163000 -0300" channel="oldseries">
+    <title lang="pt">Friends - T1E6 - Aquele Com o Traseiro</title>
+    <desc lang="pt">Aparece a grande oportunidade de Joey: ele é contratado para ser dublê de Al Pacino.</desc>
+    <credits>
+      <director>Marta Kauffman, David Crane</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oY3ck2Sdu8qsEWFnuiX2HEfr65k.jpg"/>
+    <date>1994</date>
+    <episode-num system="onscreen">T1E6</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629163000 -0300" stop="20260629171500 -0300" channel="oldseries">
+    <title lang="pt">Um Maluco no Pedaço - T3E15 - Roubando os Banks</title>
+    <desc lang="pt">Will convence Phil a contratar um ex-presidiário, e itens de valor começam a desaparecer.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
+    <date>1993</date>
+    <episode-num system="onscreen">T3E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629171500 -0300" stop="20260629180000 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T8E15 - 6:00 - 7:00</title>
+    <desc lang="pt">A manhã vai nascendo em Nova York, e a Presidente Taylor permanece no  jogo. Enquanto isso, o Presidente Hassan toma uma decisão chocante que  pode surpreender seus entes queridos.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2010</date>
+    <episode-num system="onscreen">T8E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629180000 -0300" stop="20260629184500 -0300" channel="oldseries">
+    <title lang="pt">Um Maluco no Pedaço - T2E16 - Empregada de Luxo</title>
+    <desc lang="pt">Geoffrey começa a namorar uma moça que ele pensa ser empregada da casa ao lado, mas descobre que ela é uma herdeira rica e precisa decidir o que fazer.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
+    <date>1992</date>
+    <episode-num system="onscreen">T2E16</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629184500 -0300" stop="20260629193000 -0300" channel="oldseries">
+    <title lang="pt">Diários de um Vampiro - T1E19 - Senhorita Mystic Falls</title>
+    <desc lang="pt">No dia da Festa de Gala dos Fundadores, Elena e Caroline competem pelo titulo de “Senhorita Mystic Falls” contra outras garotas, incluindo Tina Fell e Amber Bradley.</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lcGQaSrWkkxGuh0JJqyN2TkuNqb.jpg"/>
+    <date>2010</date>
+    <episode-num system="onscreen">T1E19</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629193000 -0300" stop="20260629201500 -0300" channel="oldseries">
+    <title lang="pt">Diários de um Vampiro - T3E13 - Trazendo os Mortos</title>
+    <desc lang="pt">Agora Klaus tem Elijah para trás, eles sediar um jantar para negociar um futuro com os irmãos Salvatore, que realmente procrastinar.</desc>
+    <credits>
+      <director>Julie Plec, Kevin Williamson</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lcGQaSrWkkxGuh0JJqyN2TkuNqb.jpg"/>
+    <date>2012</date>
+    <episode-num system="onscreen">T3E13</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629201500 -0300" stop="20260629210000 -0300" channel="oldseries">
+    <title lang="pt">Supernatural - T6E7 - Assunto de Família</title>
+    <desc lang="pt">Dean desconfia de Samuel, mas Sam não acredita que o avô está fazendo algo errado. Os Winchester e os Campbell vão para uma caçada, mas as coisas dão errado.</desc>
+    <credits>
+      <director>Eric Kripke</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/eK4gEBWNGJoxCD67KFKzaKfSzWU.jpg"/>
+    <date>2010</date>
+    <episode-num system="onscreen">T6E7</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629210000 -0300" stop="20260629214500 -0300" channel="oldseries">
+    <title lang="pt">Um Maluco no Pedaço - T1E20 - Gente Fina</title>
+    <desc lang="pt">Will tenta provar que é uma pessoa responsável para usar o carro da família e ir a um show em Nevada.</desc>
+    <credits>
+      <director>Andy Borowitz, Susan Stevenson</director>
+    </credits>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/onTkkSKPO0O8VOyB9iscBiia2c9.jpg"/>
+    <date>1991</date>
+    <episode-num system="onscreen">T1E20</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629214500 -0300" stop="20260629223000 -0300" channel="oldseries">
+    <title lang="pt">Aborrecentes - T1E5 - Testes e seios</title>
+    <desc lang="pt">Ao tentar ajudar Daniel a passar em um teste, Lindsay se vê em apuros; uma aula de educação sexual vai além do que Sam deseja.</desc>
+    <credits>
+      <director>Paul Feig</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tPqV63zcW6ZV0Hd48DMGb5UzQIG.jpg"/>
+    <date>1999</date>
+    <episode-num system="onscreen">T1E5</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629223000 -0300" stop="20260629231500 -0300" channel="oldseries">
+    <title lang="pt">24 Horas - T4E15 - 21:00 - 22:00</title>
+    <desc lang="pt">Marwan propõe trocar Jack por Behrooz a fim de distrair a atenção da  equipe da UCT. Anderson se disfarça de mecânico de aviões para roubar  uma aeronave.</desc>
+    <credits>
+      <director>Robert Cochran, Joel Surnow</director>
+    </credits>
+    <category lang="pt">Action &amp; Adventure</category>
+    <icon src="https://image.tmdb.org/t/p/w500/nmR2wQIilYPzX0xXVcHyJCT8RTI.jpg"/>
+    <date>2005</date>
+    <episode-num system="onscreen">T4E15</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260629231500 -0300" stop="20260630000000 -0300" channel="oldseries">
+    <title lang="pt">Lances da Vida - T1E18 - Episódio 18</title>
+    <desc lang="pt">Depois de um salto de quatro anos no tempo, os jovens na faixa dos 20 anos de Tree Hill se deparam com mais perguntas do que respostas enquanto tentam manter seus sonhos vivos e suas amizades intactas. Juntos, esses jovens continuam a compartilhar experiências enquanto lutam para definir como serão suas vidas.</desc>
+    <credits>
+      <director>Mark Schwahn</director>
+    </credits>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/bbbZbsurFfpHV6xNI81WI97Ib2t.jpg"/>
+    <date>2004</date>
+    <episode-num system="onscreen">T1E18</episode-num>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+</tv>
+>>>>>>> 0b385ea (Auto fix antes do pull 2026-06-29 22:00:03)
