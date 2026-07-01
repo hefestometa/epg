@@ -3,4 +3,1131 @@
   <channel id="htodocs">
     <display-name>HtoDocs</display-name>
   </channel>
+  <programme start="20260630000000 -0300" stop="20260630022319 -0300" channel="htodocs">
+    <title lang="pt">1983 - O Ano dos Videogames no Brasil</title>
+    <desc lang="pt">Este documentário conta a história de como o videogame, enquanto nova forma de entretenimento, aportou no país oficialmente em 1983, mas igualmente trará informações sobre o antes e algo sobre o depois. O foco são, essencialmente, os aparelhos que antecederam os cartuchos, tais como os relógios com jogos da Casio, os portáteis Game &amp; Watch e os PONGs/Telejogos, mas principalmente - e com destaque - a primeira geração nacional de videogames propriamente dita, isto é, a geração do Odyssey, do Atari 2600 e seus clones, do Intellivision e do SpliceVision (ColecoVision).</desc>
+    <credits>
+      <director>Artur Palma, Marcus Garrett</director>
+      <actor>Flávio Dias D'Oliveira  Narration  Washington Olivetto Washington Olivetto</actor>
+      <actor>Artur Palma  Director  Marcus Chiado Garrett  Director</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/gRFEjDdIHyBVGguMoamvbjiMbkP.jpg"/>
+    <date>2017</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260630022319 -0300" stop="20260630031537 -0300" channel="htodocs">
+    <title lang="pt">A História Secreta da Obsolescência Planejada</title>
+    <desc lang="pt">Documentário produzido pela TVE espanhola que trata da obsolescência programada, uma estratégia que visa fazer com que a vida de um produto tenha sua durabilidade limitada para que sempre o consumidor se veja obrigado a comprar novamente.
+
+O filme abre com um funcionário da emissora descobrindo que sua impressora EPSON havia deixado de funcionar sem motivo aparente e que o custo de consertá-la sairia mais caro do que uma nova.
+
+A Obsolescência Programada começou primeiramente com as lâmpadas, que antes duravam décadas trabalhando ininterruptamente (como a lampada que está acesa há mais de cem anos num posto dos bombeiros dos EUA) mas, depois de uma reunião com o cartel dos fabricantes, passaram a fazê-las para durar apenas 1.000 horas.
+
+Essa prática tem gerado montanhas de resíduos, transformando algumas cidades de países de terceiro mundo em verdadeiros depósitos, sem falar na matéria prima, energia e tempo humano desperdiçados.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260630031537 -0300" stop="20260630042159 -0300" channel="htodocs">
+    <title lang="pt">A Lei</title>
+    <desc lang="pt">Documentário de reflexão social e política sobre o papel das leis, da justiça e das instituições na organização da sociedade.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260630042159 -0300" stop="20260630060855 -0300" channel="htodocs">
+    <title lang="pt">Anauê! O Integralismo e o nazismo na região de Blumenau</title>
+    <desc lang="pt">Documentário sobre o integralismo e as influências do nazismo na região de Blumenau, investigando memória, política e história local.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260630060855 -0300" stop="20260630065526 -0300" channel="htodocs">
+    <title lang="pt">ANTÁRTIDA- DESBRAVANDO O CONTINENTE GELADO - EP 04-06</title>
+    <desc lang="pt">Série documental sobre a Antártida, explorando sua fauna, clima extremo, paisagens congeladas e os desafios da vida em um dos ambientes mais inóspitos do planeta.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260630065526 -0300" stop="20260630093228 -0300" channel="htodocs">
+    <title lang="pt">Apocalypse- Stalin</title>
+    <desc lang="pt">Documentário histórico sobre Josef Stalin, sua ascensão ao poder, o regime soviético, a repressão política e seu papel nos grandes acontecimentos do século XX.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630093228 -0300" stop="20260630103057 -0300" channel="htodocs">
+    <title lang="pt">ORIGIN</title>
+    <desc lang="pt">Documentário que propõe uma reflexão sobre origens, ciência, humanidade e transformação, explorando questões ligadas à vida, à história e ao conhecimento.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260630103057 -0300" stop="20260630114602 -0300" channel="htodocs">
+    <title lang="pt">O RAP PELO RAP</title>
+    <desc lang="pt">Documentário sobre o rap como expressão cultural, artística e social, reunindo histórias, vozes e reflexões sobre a cena musical e suas transformações.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260630114602 -0300" stop="20260630124614 -0300" channel="htodocs">
+    <title lang="pt">O silêncio dos homens</title>
+    <desc lang="pt">Documentário que investiga masculinidade, emoções e silêncio masculino, discutindo saúde mental, relações afetivas e os impactos dos padrões sociais sobre os homens.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2019</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260630124614 -0300" stop="20260630140737 -0300" channel="htodocs">
+    <title lang="pt">Quando lembro de Chico</title>
+    <desc lang="pt">Documentário que reúne depoimentos, memórias e reflexões sobre a vida e o legado de Chico Xavier, destacando sua influência espiritual, humana e cultural no Brasil.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260630140737 -0300" stop="20260630163056 -0300" channel="htodocs">
+    <title lang="pt">1983 - O Ano dos Videogames no Brasil</title>
+    <desc lang="pt">Este documentário conta a história de como o videogame, enquanto nova forma de entretenimento, aportou no país oficialmente em 1983, mas igualmente trará informações sobre o antes e algo sobre o depois. O foco são, essencialmente, os aparelhos que antecederam os cartuchos, tais como os relógios com jogos da Casio, os portáteis Game &amp; Watch e os PONGs/Telejogos, mas principalmente - e com destaque - a primeira geração nacional de videogames propriamente dita, isto é, a geração do Odyssey, do Atari 2600 e seus clones, do Intellivision e do SpliceVision (ColecoVision).</desc>
+    <credits>
+      <director>Artur Palma, Marcus Garrett</director>
+      <actor>Flávio Dias D'Oliveira  Narration  Washington Olivetto Washington Olivetto</actor>
+      <actor>Artur Palma  Director  Marcus Chiado Garrett  Director</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/gRFEjDdIHyBVGguMoamvbjiMbkP.jpg"/>
+    <date>2017</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260630163056 -0300" stop="20260630172314 -0300" channel="htodocs">
+    <title lang="pt">A História Secreta da Obsolescência Planejada</title>
+    <desc lang="pt">Documentário produzido pela TVE espanhola que trata da obsolescência programada, uma estratégia que visa fazer com que a vida de um produto tenha sua durabilidade limitada para que sempre o consumidor se veja obrigado a comprar novamente.
+
+O filme abre com um funcionário da emissora descobrindo que sua impressora EPSON havia deixado de funcionar sem motivo aparente e que o custo de consertá-la sairia mais caro do que uma nova.
+
+A Obsolescência Programada começou primeiramente com as lâmpadas, que antes duravam décadas trabalhando ininterruptamente (como a lampada que está acesa há mais de cem anos num posto dos bombeiros dos EUA) mas, depois de uma reunião com o cartel dos fabricantes, passaram a fazê-las para durar apenas 1.000 horas.
+
+Essa prática tem gerado montanhas de resíduos, transformando algumas cidades de países de terceiro mundo em verdadeiros depósitos, sem falar na matéria prima, energia e tempo humano desperdiçados.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260630172314 -0300" stop="20260630182936 -0300" channel="htodocs">
+    <title lang="pt">A Lei</title>
+    <desc lang="pt">Documentário de reflexão social e política sobre o papel das leis, da justiça e das instituições na organização da sociedade.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260630182936 -0300" stop="20260630201632 -0300" channel="htodocs">
+    <title lang="pt">Anauê! O Integralismo e o nazismo na região de Blumenau</title>
+    <desc lang="pt">Documentário sobre o integralismo e as influências do nazismo na região de Blumenau, investigando memória, política e história local.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260630201632 -0300" stop="20260630210303 -0300" channel="htodocs">
+    <title lang="pt">ANTÁRTIDA- DESBRAVANDO O CONTINENTE GELADO - EP 04-06</title>
+    <desc lang="pt">Série documental sobre a Antártida, explorando sua fauna, clima extremo, paisagens congeladas e os desafios da vida em um dos ambientes mais inóspitos do planeta.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260630210303 -0300" stop="20260630234005 -0300" channel="htodocs">
+    <title lang="pt">Apocalypse- Stalin</title>
+    <desc lang="pt">Documentário histórico sobre Josef Stalin, sua ascensão ao poder, o regime soviético, a repressão política e seu papel nos grandes acontecimentos do século XX.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260630234005 -0300" stop="20260701003834 -0300" channel="htodocs">
+    <title lang="pt">ORIGIN</title>
+    <desc lang="pt">Documentário que propõe uma reflexão sobre origens, ciência, humanidade e transformação, explorando questões ligadas à vida, à história e ao conhecimento.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701000000 -0300" stop="20260701013059 -0300" channel="htodocs">
+    <title lang="pt">Morro dos Prazeres</title>
+    <desc lang="pt">Documentário sobre a comunidade do Morro dos Prazeres, no Rio de Janeiro, abordando cotidiano, violência, desigualdade, resistência e vida comunitária.</desc>
+    <credits>
+      <director>Maria Augusta Ramos</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260701013059 -0300" stop="20260701015831 -0300" channel="htodocs">
+    <title lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</title>
+    <desc lang="pt">Documentário sobre a arqueóloga Niède Guidon e suas pesquisas na Serra da Capivara, investigando vestígios antigos e teorias sobre as origens do homem americano.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>1990</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701015831 -0300" stop="20260701023803 -0300" channel="htodocs">
+    <title lang="pt">Marc Ferrez Território e Imagem por Ynaê Santos Lopes</title>
+    <desc lang="pt">Documentário sobre Marc Ferrez, sua fotografia e a construção de imagens do território brasileiro, com reflexão histórica conduzida por Ynaê Santos Lopes.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701023803 -0300" stop="20260701040327 -0300" channel="htodocs">
+    <title lang="pt">Ilumina - Documentário sobre a vida de Jesus</title>
+    <desc lang="pt">Documentário que revisita a vida de Jesus Cristo, apresentando aspectos históricos, culturais e espirituais de sua trajetória.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701040327 -0300" stop="20260701052119 -0300" channel="htodocs">
+    <title lang="pt">Fungos Fantasticos - Cogumelos</title>
+    <desc lang="pt">Documentário sobre o fascinante mundo dos fungos e cogumelos, revelando sua importância ecológica, medicinal, alimentar e sua presença essencial nos ecossistemas.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701052119 -0300" stop="20260701060634 -0300" channel="htodocs">
+    <title lang="pt">Documentário Liberdade A coragem de ser quem você é</title>
+    <desc lang="pt">Documentário sobre identidade, liberdade pessoal e coragem para viver de forma autêntica, abordando histórias de superação, respeito e aceitação.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701060634 -0300" stop="20260701075014 -0300" channel="htodocs">
+    <title lang="pt">DOCUMENTÁRIO- João Goulart - Dossiê Jango</title>
+    <desc lang="pt">Documentário sobre João Goulart, sua trajetória política, o contexto do golpe de 1964 e as controvérsias em torno de sua morte no exílio.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260701075014 -0300" stop="20260701090842 -0300" channel="htodocs">
+    <title lang="pt">Despertar - Data Limite (2019)</title>
+    <desc lang="pt">Documentário espiritualista que discute a Data Limite, consciência coletiva, transformações humanas e reflexões sobre o papel da humanidade no planeta.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2019</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701090842 -0300" stop="20260701093101 -0300" channel="htodocs">
+    <title lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">Documentário que analisa o poder das indústrias de alimentos ultraprocessados, seus impactos na saúde pública, no consumo e nas escolhas alimentares da população.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2021</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701093101 -0300" stop="20260701115639 -0300" channel="htodocs">
+    <title lang="pt">A Educação Proibida</title>
+    <desc lang="pt">Uma análise da lógica da escolarização moderna e da forma de compreender a educação, ao mesmo tempo que mostra experiências educativas diferentes e não convencionais que suscitam a necessidade de um novo paradigma educativo.</desc>
+    <credits>
+      <director>German Doin</director>
+      <actor>Santiago Magariños  Martín  Amira Adre  Micaela  Nicolás Valenzuela  Juan  Gastón Pauls Gastón Pauls  Professor Javier  Alejandra Figueroa  Principal Alicia  Jimena del Pozo  Professor Cristina  Jota David Ojeda  Sebastián  Eliana Grosso  Marianela  Victoria Larriveu  Catalina  Teresa Gioia  Teacher Teresa  Tulio Gómez Álzaga  Psychologist  Sandro Molfesa  Micaela's Father  María del Carmen Antelo  Juan's Mother  Marina Groshaus  Teacher #1  Nancy Encinas  Teacher #2  Mariza Veiga López  Teacher #3  Patricia Lomónaco  Teacher #4  Ezequiel Abila  Teacher #5  Juan Facundo Licera Merlí  Professor #1  Jorge Garibotto  Professor #2  Adriel Defelice  Professor #3  Carlos Caparulo  Professor #4  Germán Doin  Self - Narrator (voice)</actor>
+      <actor>Arte Alejandro Alonso Marcucci  Art Direction  Micaela Sleigh  Art Direction  Cristina García Ganga  Graphic Designer  Florencia Evdemon  Graphic Designer  Franco Iacomella  Graphic Designer  Germán Doin  Graphic Designer  Guillermo Bialsini  Graphic Designer  Lorena Méndez  Graphic Designer  Martín Eschoyez  Graphic Designer  Martín Mangiafave  Graphic Designer  Pablo Picyk  Graphic Designer  Câmera Agustina Trincavelli  Camera Operator  Carolina Ronaldi  Camera Operator  Germán Doin  Camera Operator  Tamara Ajzensztat  Camera Operator  Sandra Grossi  Camera Operator</actor>
+      <actor>Director of Photography  Adriana Nahijhian  Still Photographer  Cintia Paz  Still Photographer  Figurino e maquiagem Martina Grossi  Makeup Artist  Mayra Blazina  Makeup Artist  Gustavo Alderete  Wardrobe Supervisor  Diretor(a) Octavio Alonso  Assistant Director  Julieta Canicoba  Co-Director  Germán Doin  Director  Juan Vautista  Director  Edição Germán Doin  Editor  Verónica Guzzo  Editor  Iluminação Brian Brown  Gaffer  Produção Daiana Gómez  Producer  Verónica Guzzo  Producer</actor>
+      <actor>Researcher  Germán Doin  Production Director</actor>
+      <actor>Researcher  Sonoplastia Javier Ruiz  Original Music Composer</actor>
+      <actor>Sound Designer  Juan MacLean  Original Music Composer</actor>
+      <actor>Sound Designer</actor>
+      <actor>Sound Recordist  Mario Salvado  Sound Recordist  Roteirização Germán Doin  Writer  Juan Vautista  Writer  Julieta Canicoba  Writer  Verónica Guzzo  Writer</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/rMbbealvZJRYJa4WAZMz5W38Kfl.jpg"/>
+    <date>2012</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701115639 -0300" stop="20260701132353 -0300" channel="htodocs">
+    <title lang="pt">1943 a 1945 - Segunda Guerra Mundial - A Guerra no Ar</title>
+    <desc lang="pt">Documentário histórico sobre os anos finais da Segunda Guerra Mundial, destacando a importância da aviação, dos bombardeios estratégicos e das batalhas aéreas que marcaram o conflito.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/ninJss0fIqVTSgFeX62BYqd1TZD.jpg"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701132353 -0300" stop="20260701145452 -0300" channel="htodocs">
+    <title lang="pt">Morro dos Prazeres</title>
+    <desc lang="pt">Documentário sobre a comunidade do Morro dos Prazeres, no Rio de Janeiro, abordando cotidiano, violência, desigualdade, resistência e vida comunitária.</desc>
+    <credits>
+      <director>Maria Augusta Ramos</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260701145452 -0300" stop="20260701152224 -0300" channel="htodocs">
+    <title lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</title>
+    <desc lang="pt">Documentário sobre a arqueóloga Niède Guidon e suas pesquisas na Serra da Capivara, investigando vestígios antigos e teorias sobre as origens do homem americano.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>1990</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701152224 -0300" stop="20260701160156 -0300" channel="htodocs">
+    <title lang="pt">Marc Ferrez Território e Imagem por Ynaê Santos Lopes</title>
+    <desc lang="pt">Documentário sobre Marc Ferrez, sua fotografia e a construção de imagens do território brasileiro, com reflexão histórica conduzida por Ynaê Santos Lopes.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701160156 -0300" stop="20260701172720 -0300" channel="htodocs">
+    <title lang="pt">Ilumina - Documentário sobre a vida de Jesus</title>
+    <desc lang="pt">Documentário que revisita a vida de Jesus Cristo, apresentando aspectos históricos, culturais e espirituais de sua trajetória.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701172720 -0300" stop="20260701184512 -0300" channel="htodocs">
+    <title lang="pt">Fungos Fantasticos - Cogumelos</title>
+    <desc lang="pt">Documentário sobre o fascinante mundo dos fungos e cogumelos, revelando sua importância ecológica, medicinal, alimentar e sua presença essencial nos ecossistemas.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701184512 -0300" stop="20260701193027 -0300" channel="htodocs">
+    <title lang="pt">Documentário Liberdade A coragem de ser quem você é</title>
+    <desc lang="pt">Documentário sobre identidade, liberdade pessoal e coragem para viver de forma autêntica, abordando histórias de superação, respeito e aceitação.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701193027 -0300" stop="20260701211407 -0300" channel="htodocs">
+    <title lang="pt">DOCUMENTÁRIO- João Goulart - Dossiê Jango</title>
+    <desc lang="pt">Documentário sobre João Goulart, sua trajetória política, o contexto do golpe de 1964 e as controvérsias em torno de sua morte no exílio.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260701211407 -0300" stop="20260701223235 -0300" channel="htodocs">
+    <title lang="pt">Despertar - Data Limite (2019)</title>
+    <desc lang="pt">Documentário espiritualista que discute a Data Limite, consciência coletiva, transformações humanas e reflexões sobre o papel da humanidade no planeta.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2019</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701223235 -0300" stop="20260701225454 -0300" channel="htodocs">
+    <title lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">Documentário que analisa o poder das indústrias de alimentos ultraprocessados, seus impactos na saúde pública, no consumo e nas escolhas alimentares da população.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2021</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260701225454 -0300" stop="20260702012032 -0300" channel="htodocs">
+    <title lang="pt">A Educação Proibida</title>
+    <desc lang="pt">Uma análise da lógica da escolarização moderna e da forma de compreender a educação, ao mesmo tempo que mostra experiências educativas diferentes e não convencionais que suscitam a necessidade de um novo paradigma educativo.</desc>
+    <credits>
+      <director>German Doin</director>
+      <actor>Santiago Magariños  Martín  Amira Adre  Micaela  Nicolás Valenzuela  Juan  Gastón Pauls Gastón Pauls  Professor Javier  Alejandra Figueroa  Principal Alicia  Jimena del Pozo  Professor Cristina  Jota David Ojeda  Sebastián  Eliana Grosso  Marianela  Victoria Larriveu  Catalina  Teresa Gioia  Teacher Teresa  Tulio Gómez Álzaga  Psychologist  Sandro Molfesa  Micaela's Father  María del Carmen Antelo  Juan's Mother  Marina Groshaus  Teacher #1  Nancy Encinas  Teacher #2  Mariza Veiga López  Teacher #3  Patricia Lomónaco  Teacher #4  Ezequiel Abila  Teacher #5  Juan Facundo Licera Merlí  Professor #1  Jorge Garibotto  Professor #2  Adriel Defelice  Professor #3  Carlos Caparulo  Professor #4  Germán Doin  Self - Narrator (voice)</actor>
+      <actor>Arte Alejandro Alonso Marcucci  Art Direction  Micaela Sleigh  Art Direction  Cristina García Ganga  Graphic Designer  Florencia Evdemon  Graphic Designer  Franco Iacomella  Graphic Designer  Germán Doin  Graphic Designer  Guillermo Bialsini  Graphic Designer  Lorena Méndez  Graphic Designer  Martín Eschoyez  Graphic Designer  Martín Mangiafave  Graphic Designer  Pablo Picyk  Graphic Designer  Câmera Agustina Trincavelli  Camera Operator  Carolina Ronaldi  Camera Operator  Germán Doin  Camera Operator  Tamara Ajzensztat  Camera Operator  Sandra Grossi  Camera Operator</actor>
+      <actor>Director of Photography  Adriana Nahijhian  Still Photographer  Cintia Paz  Still Photographer  Figurino e maquiagem Martina Grossi  Makeup Artist  Mayra Blazina  Makeup Artist  Gustavo Alderete  Wardrobe Supervisor  Diretor(a) Octavio Alonso  Assistant Director  Julieta Canicoba  Co-Director  Germán Doin  Director  Juan Vautista  Director  Edição Germán Doin  Editor  Verónica Guzzo  Editor  Iluminação Brian Brown  Gaffer  Produção Daiana Gómez  Producer  Verónica Guzzo  Producer</actor>
+      <actor>Researcher  Germán Doin  Production Director</actor>
+      <actor>Researcher  Sonoplastia Javier Ruiz  Original Music Composer</actor>
+      <actor>Sound Designer  Juan MacLean  Original Music Composer</actor>
+      <actor>Sound Designer</actor>
+      <actor>Sound Recordist  Mario Salvado  Sound Recordist  Roteirização Germán Doin  Writer  Juan Vautista  Writer  Julieta Canicoba  Writer  Verónica Guzzo  Writer</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/rMbbealvZJRYJa4WAZMz5W38Kfl.jpg"/>
+    <date>2012</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702000000 -0300" stop="20260702012714 -0300" channel="htodocs">
+    <title lang="pt">1943 a 1945 - Segunda Guerra Mundial - A Guerra no Ar</title>
+    <desc lang="pt">Documentário histórico sobre os anos finais da Segunda Guerra Mundial, destacando a importância da aviação, dos bombardeios estratégicos e das batalhas aéreas que marcaram o conflito.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/ninJss0fIqVTSgFeX62BYqd1TZD.jpg"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702012714 -0300" stop="20260702035252 -0300" channel="htodocs">
+    <title lang="pt">A Educação Proibida</title>
+    <desc lang="pt">Uma análise da lógica da escolarização moderna e da forma de compreender a educação, ao mesmo tempo que mostra experiências educativas diferentes e não convencionais que suscitam a necessidade de um novo paradigma educativo.</desc>
+    <credits>
+      <director>German Doin</director>
+      <actor>Santiago Magariños  Martín  Amira Adre  Micaela  Nicolás Valenzuela  Juan  Gastón Pauls Gastón Pauls  Professor Javier  Alejandra Figueroa  Principal Alicia  Jimena del Pozo  Professor Cristina  Jota David Ojeda  Sebastián  Eliana Grosso  Marianela  Victoria Larriveu  Catalina  Teresa Gioia  Teacher Teresa  Tulio Gómez Álzaga  Psychologist  Sandro Molfesa  Micaela's Father  María del Carmen Antelo  Juan's Mother  Marina Groshaus  Teacher #1  Nancy Encinas  Teacher #2  Mariza Veiga López  Teacher #3  Patricia Lomónaco  Teacher #4  Ezequiel Abila  Teacher #5  Juan Facundo Licera Merlí  Professor #1  Jorge Garibotto  Professor #2  Adriel Defelice  Professor #3  Carlos Caparulo  Professor #4  Germán Doin  Self - Narrator (voice)</actor>
+      <actor>Arte Alejandro Alonso Marcucci  Art Direction  Micaela Sleigh  Art Direction  Cristina García Ganga  Graphic Designer  Florencia Evdemon  Graphic Designer  Franco Iacomella  Graphic Designer  Germán Doin  Graphic Designer  Guillermo Bialsini  Graphic Designer  Lorena Méndez  Graphic Designer  Martín Eschoyez  Graphic Designer  Martín Mangiafave  Graphic Designer  Pablo Picyk  Graphic Designer  Câmera Agustina Trincavelli  Camera Operator  Carolina Ronaldi  Camera Operator  Germán Doin  Camera Operator  Tamara Ajzensztat  Camera Operator  Sandra Grossi  Camera Operator</actor>
+      <actor>Director of Photography  Adriana Nahijhian  Still Photographer  Cintia Paz  Still Photographer  Figurino e maquiagem Martina Grossi  Makeup Artist  Mayra Blazina  Makeup Artist  Gustavo Alderete  Wardrobe Supervisor  Diretor(a) Octavio Alonso  Assistant Director  Julieta Canicoba  Co-Director  Germán Doin  Director  Juan Vautista  Director  Edição Germán Doin  Editor  Verónica Guzzo  Editor  Iluminação Brian Brown  Gaffer  Produção Daiana Gómez  Producer  Verónica Guzzo  Producer</actor>
+      <actor>Researcher  Germán Doin  Production Director</actor>
+      <actor>Researcher  Sonoplastia Javier Ruiz  Original Music Composer</actor>
+      <actor>Sound Designer  Juan MacLean  Original Music Composer</actor>
+      <actor>Sound Designer</actor>
+      <actor>Sound Recordist  Mario Salvado  Sound Recordist  Roteirização Germán Doin  Writer  Juan Vautista  Writer  Julieta Canicoba  Writer  Verónica Guzzo  Writer</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/rMbbealvZJRYJa4WAZMz5W38Kfl.jpg"/>
+    <date>2012</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702035252 -0300" stop="20260702043957 -0300" channel="htodocs">
+    <title lang="pt">A História e o Fim de Saddam Hussein</title>
+    <desc lang="pt">Documentário histórico sobre a trajetória política de Saddam Hussein, sua ascensão ao poder, conflitos no Oriente Médio e os acontecimentos que levaram à sua queda.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702043957 -0300" stop="20260702045932 -0300" channel="htodocs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">Documentário científico que revela habilidades surpreendentes das aves, mostrando comportamentos de memória, comunicação, adaptação e resolução de problemas.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702045932 -0300" stop="20260702054652 -0300" channel="htodocs">
+    <title lang="pt">África - Maravilhas do Mundo Marinho - Ep. 02 - Lobos Marinhos Sul-Africanos</title>
+    <desc lang="pt">Documentário sobre a fauna marinha da costa africana, acompanhando a vida dos lobos-marinhos sul-africanos e sua interação com o ambiente oceânico.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702054652 -0300" stop="20260702063323 -0300" channel="htodocs">
+    <title lang="pt">ANTÁRTIDA- DESBRAVANDO O CONTINENTE GELADO - EP 04-06</title>
+    <desc lang="pt">Série documental sobre a Antártida, explorando sua fauna, clima extremo, paisagens congeladas e os desafios da vida em um dos ambientes mais inóspitos do planeta.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702063323 -0300" stop="20260702091025 -0300" channel="htodocs">
+    <title lang="pt">Apocalypse- Stalin</title>
+    <desc lang="pt">Documentário histórico sobre Josef Stalin, sua ascensão ao poder, o regime soviético, a repressão política e seu papel nos grandes acontecimentos do século XX.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702091025 -0300" stop="20260702095757 -0300" channel="htodocs">
+    <title lang="pt">Arábia ao Extremo - A Vida e a Morte nas Dunas - Documentário Animal</title>
+    <desc lang="pt">Documentário sobre a fauna do deserto árabe e as estratégias de sobrevivência de animais em um ambiente marcado por calor, areia e poucos recursos.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702095757 -0300" stop="20260702110307 -0300" channel="htodocs">
+    <title lang="pt">ATO 18 - Episódio 2- Festa da Selma</title>
+    <desc lang="pt">Episódio documental da série ATO 18, abordando acontecimentos políticos e sociais do Brasil recente por meio de relatos, registros e análise histórica.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260702110307 -0300" stop="20260702113444 -0300" channel="htodocs">
+    <title lang="pt">Chernobyl- A História Completa</title>
+    <desc lang="pt">Documentário sobre o desastre nuclear de Chernobyl, abordando suas causas, consequências humanas, ambientais e políticas, além do legado deixado pela tragédia.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260702113444 -0300" stop="20260702122116 -0300" channel="htodocs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS CRETA</title>
+    <desc lang="pt">Documentário histórico sobre a antiga civilização cretense, sua cultura, arquitetura, religião, comércio e os mistérios que cercam seu desaparecimento.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702122116 -0300" stop="20260702134830 -0300" channel="htodocs">
+    <title lang="pt">1943 a 1945 - Segunda Guerra Mundial - A Guerra no Ar</title>
+    <desc lang="pt">Documentário histórico sobre os anos finais da Segunda Guerra Mundial, destacando a importância da aviação, dos bombardeios estratégicos e das batalhas aéreas que marcaram o conflito.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/ninJss0fIqVTSgFeX62BYqd1TZD.jpg"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702134830 -0300" stop="20260702161408 -0300" channel="htodocs">
+    <title lang="pt">A Educação Proibida</title>
+    <desc lang="pt">Uma análise da lógica da escolarização moderna e da forma de compreender a educação, ao mesmo tempo que mostra experiências educativas diferentes e não convencionais que suscitam a necessidade de um novo paradigma educativo.</desc>
+    <credits>
+      <director>German Doin</director>
+      <actor>Santiago Magariños  Martín  Amira Adre  Micaela  Nicolás Valenzuela  Juan  Gastón Pauls Gastón Pauls  Professor Javier  Alejandra Figueroa  Principal Alicia  Jimena del Pozo  Professor Cristina  Jota David Ojeda  Sebastián  Eliana Grosso  Marianela  Victoria Larriveu  Catalina  Teresa Gioia  Teacher Teresa  Tulio Gómez Álzaga  Psychologist  Sandro Molfesa  Micaela's Father  María del Carmen Antelo  Juan's Mother  Marina Groshaus  Teacher #1  Nancy Encinas  Teacher #2  Mariza Veiga López  Teacher #3  Patricia Lomónaco  Teacher #4  Ezequiel Abila  Teacher #5  Juan Facundo Licera Merlí  Professor #1  Jorge Garibotto  Professor #2  Adriel Defelice  Professor #3  Carlos Caparulo  Professor #4  Germán Doin  Self - Narrator (voice)</actor>
+      <actor>Arte Alejandro Alonso Marcucci  Art Direction  Micaela Sleigh  Art Direction  Cristina García Ganga  Graphic Designer  Florencia Evdemon  Graphic Designer  Franco Iacomella  Graphic Designer  Germán Doin  Graphic Designer  Guillermo Bialsini  Graphic Designer  Lorena Méndez  Graphic Designer  Martín Eschoyez  Graphic Designer  Martín Mangiafave  Graphic Designer  Pablo Picyk  Graphic Designer  Câmera Agustina Trincavelli  Camera Operator  Carolina Ronaldi  Camera Operator  Germán Doin  Camera Operator  Tamara Ajzensztat  Camera Operator  Sandra Grossi  Camera Operator</actor>
+      <actor>Director of Photography  Adriana Nahijhian  Still Photographer  Cintia Paz  Still Photographer  Figurino e maquiagem Martina Grossi  Makeup Artist  Mayra Blazina  Makeup Artist  Gustavo Alderete  Wardrobe Supervisor  Diretor(a) Octavio Alonso  Assistant Director  Julieta Canicoba  Co-Director  Germán Doin  Director  Juan Vautista  Director  Edição Germán Doin  Editor  Verónica Guzzo  Editor  Iluminação Brian Brown  Gaffer  Produção Daiana Gómez  Producer  Verónica Guzzo  Producer</actor>
+      <actor>Researcher  Germán Doin  Production Director</actor>
+      <actor>Researcher  Sonoplastia Javier Ruiz  Original Music Composer</actor>
+      <actor>Sound Designer  Juan MacLean  Original Music Composer</actor>
+      <actor>Sound Designer</actor>
+      <actor>Sound Recordist  Mario Salvado  Sound Recordist  Roteirização Germán Doin  Writer  Juan Vautista  Writer  Julieta Canicoba  Writer  Verónica Guzzo  Writer</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/rMbbealvZJRYJa4WAZMz5W38Kfl.jpg"/>
+    <date>2012</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702161408 -0300" stop="20260702170113 -0300" channel="htodocs">
+    <title lang="pt">A História e o Fim de Saddam Hussein</title>
+    <desc lang="pt">Documentário histórico sobre a trajetória política de Saddam Hussein, sua ascensão ao poder, conflitos no Oriente Médio e os acontecimentos que levaram à sua queda.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702170113 -0300" stop="20260702172048 -0300" channel="htodocs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">Documentário científico que revela habilidades surpreendentes das aves, mostrando comportamentos de memória, comunicação, adaptação e resolução de problemas.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702172048 -0300" stop="20260702180808 -0300" channel="htodocs">
+    <title lang="pt">África - Maravilhas do Mundo Marinho - Ep. 02 - Lobos Marinhos Sul-Africanos</title>
+    <desc lang="pt">Documentário sobre a fauna marinha da costa africana, acompanhando a vida dos lobos-marinhos sul-africanos e sua interação com o ambiente oceânico.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702180808 -0300" stop="20260702185439 -0300" channel="htodocs">
+    <title lang="pt">ANTÁRTIDA- DESBRAVANDO O CONTINENTE GELADO - EP 04-06</title>
+    <desc lang="pt">Série documental sobre a Antártida, explorando sua fauna, clima extremo, paisagens congeladas e os desafios da vida em um dos ambientes mais inóspitos do planeta.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702185439 -0300" stop="20260702213141 -0300" channel="htodocs">
+    <title lang="pt">Apocalypse- Stalin</title>
+    <desc lang="pt">Documentário histórico sobre Josef Stalin, sua ascensão ao poder, o regime soviético, a repressão política e seu papel nos grandes acontecimentos do século XX.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260702213141 -0300" stop="20260702221913 -0300" channel="htodocs">
+    <title lang="pt">Arábia ao Extremo - A Vida e a Morte nas Dunas - Documentário Animal</title>
+    <desc lang="pt">Documentário sobre a fauna do deserto árabe e as estratégias de sobrevivência de animais em um ambiente marcado por calor, areia e poucos recursos.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260702221913 -0300" stop="20260702232423 -0300" channel="htodocs">
+    <title lang="pt">ATO 18 - Episódio 2- Festa da Selma</title>
+    <desc lang="pt">Episódio documental da série ATO 18, abordando acontecimentos políticos e sociais do Brasil recente por meio de relatos, registros e análise histórica.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260702232423 -0300" stop="20260702235600 -0300" channel="htodocs">
+    <title lang="pt">Chernobyl- A História Completa</title>
+    <desc lang="pt">Documentário sobre o desastre nuclear de Chernobyl, abordando suas causas, consequências humanas, ambientais e políticas, além do legado deixado pela tragédia.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260703000000 -0300" stop="20260703011110 -0300" channel="htodocs">
+    <title lang="pt">VIPs - Histórias Reais de um mentiroso</title>
+    <desc lang="pt">Documentário que apresenta a história real de um dos maiores impostores do Brasil, mostrando como sua capacidade de enganar pessoas chamou a atenção do país.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260703011110 -0300" stop="20260703014352 -0300" channel="htodocs">
+    <title lang="pt">U-869 - O Submarino perdido de Hitler - Parte 2</title>
+    <desc lang="pt">Segunda parte do documentário sobre o submarino U-869, detalhando as expedições submarinas e os mistérios envolvendo sua missão durante a Segunda Guerra Mundial.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703014352 -0300" stop="20260703032152 -0300" channel="htodocs">
+    <title lang="pt">Terra</title>
+    <desc lang="pt">Documentário que apresenta a beleza do planeta, seus ecossistemas, paisagens naturais e a relação entre a humanidade e o meio ambiente.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2007</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703032152 -0300" stop="20260703045620 -0300" channel="htodocs">
+    <title lang="pt">Terra - Documentário Sobre a Terra e Sua Biodiversidade - Documentário Animal Dublado</title>
+    <desc lang="pt">Documentário sobre a diversidade da vida na Terra, explorando ecossistemas, animais, plantas e os desafios para a preservação da biodiversidade.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703045620 -0300" stop="20260703052137 -0300" channel="htodocs">
+    <title lang="pt">Tauary - Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Documentário que acompanha pesquisas arqueológicas na Amazônia, revelando descobertas sobre povos antigos, patrimônio histórico e a ocupação humana da região.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703052137 -0300" stop="20260703063142 -0300" channel="htodocs">
+    <title lang="pt">Sabotage - Nós</title>
+    <desc lang="pt">Documentário sobre a trajetória do rapper Sabotage, sua importância para o hip-hop brasileiro e o legado deixado para a música e a cultura das periferias.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260703063142 -0300" stop="20260703073334 -0300" channel="htodocs">
+    <title lang="pt">PIXO</title>
+    <desc lang="pt">Documentário sobre a pichação urbana em São Paulo, acompanhando seus códigos, conflitos, estética, riscos e a relação entre arte, cidade e marginalidade.</desc>
+    <credits>
+      <director>João Wainer, Roberto T. Oliveira</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2009</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703073334 -0300" stop="20260703083346 -0300" channel="htodocs">
+    <title lang="pt">O silêncio dos homens</title>
+    <desc lang="pt">Documentário que investiga masculinidade, emoções e silêncio masculino, discutindo saúde mental, relações afetivas e os impactos dos padrões sociais sobre os homens.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2019</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703083346 -0300" stop="20260703092419 -0300" channel="htodocs">
+    <title lang="pt">O Mundo Secreto dos Crustáceos</title>
+    <desc lang="pt">Documentário animal sobre crustáceos, revelando comportamentos, adaptações, ecossistemas e a importância desses seres para a vida marinha.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703092419 -0300" stop="20260703094935 -0300" channel="htodocs">
+    <title lang="pt">Mata Atlântica- a floresta mais antiga da América do Sul - Nossos Biomas</title>
+    <desc lang="pt">Documentário sobre a Mata Atlântica, sua biodiversidade, importância histórica, ameaças ambientais e esforços de preservação de um dos biomas mais ricos do planeta.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703094935 -0300" stop="20260703103450 -0300" channel="htodocs">
+    <title lang="pt">Documentário Liberdade A coragem de ser quem você é</title>
+    <desc lang="pt">Documentário sobre identidade, liberdade pessoal e coragem para viver de forma autêntica, abordando histórias de superação, respeito e aceitação.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703103450 -0300" stop="20260703110719 -0300" channel="htodocs">
+    <title lang="pt">Despojos de Guerra- Laços de Sangue</title>
+    <desc lang="pt">Documentário sobre memórias, heranças e consequências humanas de conflitos armados, explorando marcas deixadas pela guerra em famílias e sociedades.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260703110719 -0300" stop="20260703134421 -0300" channel="htodocs">
+    <title lang="pt">Apocalypse- Stalin</title>
+    <desc lang="pt">Documentário histórico sobre Josef Stalin, sua ascensão ao poder, o regime soviético, a repressão política e seu papel nos grandes acontecimentos do século XX.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703134421 -0300" stop="20260703145531 -0300" channel="htodocs">
+    <title lang="pt">VIPs - Histórias Reais de um mentiroso</title>
+    <desc lang="pt">Documentário que apresenta a história real de um dos maiores impostores do Brasil, mostrando como sua capacidade de enganar pessoas chamou a atenção do país.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260703145531 -0300" stop="20260703152813 -0300" channel="htodocs">
+    <title lang="pt">U-869 - O Submarino perdido de Hitler - Parte 2</title>
+    <desc lang="pt">Segunda parte do documentário sobre o submarino U-869, detalhando as expedições submarinas e os mistérios envolvendo sua missão durante a Segunda Guerra Mundial.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703152813 -0300" stop="20260703170613 -0300" channel="htodocs">
+    <title lang="pt">Terra</title>
+    <desc lang="pt">Documentário que apresenta a beleza do planeta, seus ecossistemas, paisagens naturais e a relação entre a humanidade e o meio ambiente.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2007</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703170613 -0300" stop="20260703184041 -0300" channel="htodocs">
+    <title lang="pt">Terra - Documentário Sobre a Terra e Sua Biodiversidade - Documentário Animal Dublado</title>
+    <desc lang="pt">Documentário sobre a diversidade da vida na Terra, explorando ecossistemas, animais, plantas e os desafios para a preservação da biodiversidade.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703184041 -0300" stop="20260703190558 -0300" channel="htodocs">
+    <title lang="pt">Tauary - Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Documentário que acompanha pesquisas arqueológicas na Amazônia, revelando descobertas sobre povos antigos, patrimônio histórico e a ocupação humana da região.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703190558 -0300" stop="20260703201603 -0300" channel="htodocs">
+    <title lang="pt">Sabotage - Nós</title>
+    <desc lang="pt">Documentário sobre a trajetória do rapper Sabotage, sua importância para o hip-hop brasileiro e o legado deixado para a música e a cultura das periferias.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260703201603 -0300" stop="20260703211755 -0300" channel="htodocs">
+    <title lang="pt">PIXO</title>
+    <desc lang="pt">Documentário sobre a pichação urbana em São Paulo, acompanhando seus códigos, conflitos, estética, riscos e a relação entre arte, cidade e marginalidade.</desc>
+    <credits>
+      <director>João Wainer, Roberto T. Oliveira</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2009</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260703211755 -0300" stop="20260703221807 -0300" channel="htodocs">
+    <title lang="pt">O silêncio dos homens</title>
+    <desc lang="pt">Documentário que investiga masculinidade, emoções e silêncio masculino, discutindo saúde mental, relações afetivas e os impactos dos padrões sociais sobre os homens.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2019</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703221807 -0300" stop="20260703230840 -0300" channel="htodocs">
+    <title lang="pt">O Mundo Secreto dos Crustáceos</title>
+    <desc lang="pt">Documentário animal sobre crustáceos, revelando comportamentos, adaptações, ecossistemas e a importância desses seres para a vida marinha.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703230840 -0300" stop="20260703233356 -0300" channel="htodocs">
+    <title lang="pt">Mata Atlântica- a floresta mais antiga da América do Sul - Nossos Biomas</title>
+    <desc lang="pt">Documentário sobre a Mata Atlântica, sua biodiversidade, importância histórica, ameaças ambientais e esforços de preservação de um dos biomas mais ricos do planeta.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260703233356 -0300" stop="20260704001911 -0300" channel="htodocs">
+    <title lang="pt">Documentário Liberdade A coragem de ser quem você é</title>
+    <desc lang="pt">Documentário sobre identidade, liberdade pessoal e coragem para viver de forma autêntica, abordando histórias de superação, respeito e aceitação.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
