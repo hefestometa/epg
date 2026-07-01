@@ -3,88 +3,6 @@
   <channel id="htofilmes">
     <display-name>HtoFilmes</display-name>
   </channel>
-  <programme start="20260630000000 -0300" stop="20260630015655 -0300" channel="htofilmes">
-    <title lang="pt">Fique Rico ou Morra Tentando</title>
-    <desc lang="pt">Após a morte de sua mãe quando ele era um menino, Marcus tem pouco apoio em sua vida. Ele começa a trabalhar para o traficante Levar e seu assistente. Apesar de Marcus fazer bom dinheiro vendendo drogas, seu sonho é se tornar um rapper. Quando ele reencontra um antigo amor e é baleado várias vezes durante um assalto, Marcus decide que é hora de mudar sua vida. No entanto, seus antigos sócios não vão deixá-lo ir tão facilmente.</desc>
-    <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
-    <date>2005</date>
-  </programme>
-  <programme start="20260630015655 -0300" stop="20260630041956 -0300" channel="htofilmes">
-    <title lang="pt">Forrest Gump: O Contador de Histórias</title>
-    <desc lang="pt">Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/d74WpIsH8379TIL4wUxDneRCYv2.jpg"/>
-    <date>1994</date>
-  </programme>
-  <programme start="20260630041956 -0300" stop="20260630062115 -0300" channel="htofilmes">
-    <title lang="pt">Fúria em Alto Mar</title>
-    <desc lang="pt">Dono de métodos próprios nada convencionais, o Comandante Joe Glass é o responsável por liderar uma delicada missão pelas perigosas águas do Mar de Barents à bordo do submarino USS Arkansas. O objetivo da tarefa é monitorar a atividade militar russa na região após outro submarino americano desaparecer naqueles mares. Enquanto isso, a situação política na região se acirra ao ponto de Glass ter de tomar decisões cruciais para impedir que se deflagre um conflito de escala continental entre as duas potências.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/ral7cnZBQZGFmGaJUxrpcY8Xj3l.jpg"/>
-    <date>2018</date>
-  </programme>
-  <programme start="20260630062115 -0300" stop="20260630080721 -0300" channel="htofilmes">
-    <title lang="pt">Grandes Olhos</title>
-    <desc lang="pt">Este drama apresenta a história da pintora Margaret Keane, uma das artistas comerciais mais rentáveis dos anos 1950, graças aos seus retratos de crianças com olhos grandes e assustadores. Esta mulher, defensora das causas feministas, teve que lutar contra o próprio marido no tribunal, já que o também pintor Walter Keane afirmava ser o verdadeiro autor de suas obras.</desc>
-    <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/dSl4R3xZs2fV1LJLlqdBEoabQOV.jpg"/>
-    <date>2014</date>
-  </programme>
-  <programme start="20260630080721 -0300" stop="20260630095121 -0300" channel="htofilmes">
-    <title lang="pt">Guerreiros do Amanhã</title>
-    <desc lang="pt">A jornada de oito amigos numa remota cidade do interior, cujas vidas são súbita e violentamente abaladas por uma inesperada guerra. Separados dos amigos e familiares, estes oito extraordinários adolescentes têm de aprender a escapar, sobreviver e lutar contra uma força militar hostil.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/by1Euf1ry1psyip7Y4w05PM0jZA.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260630095121 -0300" stop="20260630115342 -0300" channel="htofilmes">
-    <title lang="pt">Homens e Deus</title>
-    <desc lang="pt">Homens e Deus</desc>
-    <category lang="pt">Program</category>
-  </programme>
-  <programme start="20260630115342 -0300" stop="20260630133342 -0300" channel="htofilmes">
-    <title lang="pt">Hudson Hawk, o Falcão Está à Solta</title>
-    <desc lang="pt">Um ex-presidário é chantageado por um casal rico para descobrir os detalhes da alquimia de Leonardo da Vinci.</desc>
-    <category lang="pt">Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/60Pnz4psjEUEAoFdBO6NT7GLEV9.jpg"/>
-    <date>1991</date>
-  </programme>
-  <programme start="20260630133342 -0300" stop="20260630155221 -0300" channel="htofilmes">
-    <title lang="pt">Ilha do Medo</title>
-    <desc lang="pt">No verão de 1954, os agentes judiciais Teddy Daniels (DiCaprio) e Chuck Aule (Ruffalo) foram designados para uma ilha remota do porto de Boston para investigar o desaparecimento de uma perigosa assassina (Mortimer) que estava reclusa no hospital psiquiátrico Ashecliffe, um centro penitenciário para criminosos perturbados dirigido pelo sinistro médico John Cawley. (Kingsley). Logo eles descobrem que o centro guarda muitos segredos e que a ilha esconde algo mais perigoso que os pacientes.</desc>
-    <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/erl801HYIodoIBGZeFk0GTwCUBh.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260630155221 -0300" stop="20260630181452 -0300" channel="htofilmes">
-    <title lang="pt">Jogos Vorazes</title>
-    <desc lang="pt">Num futuro distante, boa parte da população é controlada por um regime totalitário, que relembra esse domínio realizando um evento anual – e mortal – entre os 12 distritos sob sua tutela. Para salvar sua irmã caçula, a jovem Katniss Everdeen se oferece como voluntária para representar seu distrito na competição e acaba contando com a companhia de Peeta Melark, desafiando não só o sistema dominante, mas também a força dos outros oponentes.</desc>
-    <category lang="pt">Ficção científica</category>
-    <icon src="https://image.tmdb.org/t/p/w500/l6jn53LMu07uPt8A42JWIKi1Beb.jpg"/>
-    <date>2012</date>
-  </programme>
-  <programme start="20260630181452 -0300" stop="20260630193706 -0300" channel="htofilmes">
-    <title lang="pt">Johnny: Todos Tem Uma Missão Especial</title>
-    <desc lang="pt">Quando Dr. Drew Carter tragicamente perde seu filho de dez anos em um acidente de carro, ele não esperava perder toda a sua família também. Desde o acidente, sua esposa (Julia) se tornou emocionalmente ausente em relação a ele e a sua filha. Quando Johnny, um filho adotivo terminal com leucemia, é encaminhado para Drew, ele vê a chance de curar sua família. Com Julia contra a ideia, Drew toma as coisas em suas próprias mãos e adota Johnny. Johnny não sabe o que ele é, mas acredita que ele está aqui para uma missão especial.</desc>
-    <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/wSIXdHiGlQPdE1X8K25c1g73qOI.jpg"/>
-    <date>2010</date>
-  </programme>
-  <programme start="20260630193706 -0300" stop="20260630213401 -0300" channel="htofilmes">
-    <title lang="pt">Fique Rico ou Morra Tentando</title>
-    <desc lang="pt">Após a morte de sua mãe quando ele era um menino, Marcus tem pouco apoio em sua vida. Ele começa a trabalhar para o traficante Levar e seu assistente. Apesar de Marcus fazer bom dinheiro vendendo drogas, seu sonho é se tornar um rapper. Quando ele reencontra um antigo amor e é baleado várias vezes durante um assalto, Marcus decide que é hora de mudar sua vida. No entanto, seus antigos sócios não vão deixá-lo ir tão facilmente.</desc>
-    <category lang="pt">Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
-    <date>2005</date>
-  </programme>
-  <programme start="20260630213401 -0300" stop="20260630235702 -0300" channel="htofilmes">
-    <title lang="pt">Forrest Gump: O Contador de Histórias</title>
-    <desc lang="pt">Quarenta anos da história dos Estados Unidos, vistos pelos olhos de Forrest Gump, um rapaz com QI abaixo da média e com boas intenções. Por obra do acaso, ele consegue participar de momentos cruciais, como a Guerra do Vietnã e o Caso Watergate, mas continua pensando no seu amor de infância, Jenny Curran.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/d74WpIsH8379TIL4wUxDneRCYv2.jpg"/>
-    <date>1994</date>
-  </programme>
   <programme start="20260701000000 -0300" stop="20260701014943 -0300" channel="htofilmes">
     <title lang="pt">Elysium</title>
     <desc lang="pt">Em 2159, o mundo é dividido entre dois grupos: o primeiro, riquíssimo, mora na estação espacial Elysium, enquanto o segundo, pobre, vive na Terra, repleta de pessoas e em grande decadência. Por um lado, a secretária do governo Rhodes faz de tudo para preservar o estilo de vida luxuoso de Elysium, por outro, um pobre cidadão da Terra tenta um plano ousado para trazer de volta a igualdade entre as pessoas.</desc>
@@ -395,5 +313,96 @@
     <category lang="pt">Aventura</category>
     <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
     <date>1985</date>
+  </programme>
+  <programme start="20260704000000 -0300" stop="20260704020408 -0300" channel="htofilmes">
+    <title lang="pt">Bad Boys Para Sempre</title>
+    <desc lang="pt">Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/kxV3r4H1BRB3QFySbgFyrlOwwXg.jpg"/>
+    <date>2020</date>
+  </programme>
+  <programme start="20260704020408 -0300" stop="20260704041753 -0300" channel="htofilmes">
+    <title lang="pt">Bem-Vindo aos 40</title>
+    <desc lang="pt">Após anos de casamento, Pete e Debbie estão chegando em uma fase de decadência. Enquanto tentam equilibrar romance, carreiras profissionais, pais e filhos, com seu próprio e hilariante, eles também tem que imaginar como aproveitar o resto de suas vidas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/j2Zt3IaAtRwHBIUrgArpXQzpOPP.jpg"/>
+    <date>2012</date>
+  </programme>
+  <programme start="20260704041753 -0300" stop="20260704061652 -0300" channel="htofilmes">
+    <title lang="pt">Burlesque</title>
+    <desc lang="pt">Ali (Christina Aguilera) deixou sua pequena cidade natal em busca do sucesso em Los Angeles. Logo ao chegar ela conhece a boate Burlesque, especializada em shows musicais de belas mulheres, que sempre se apresentam usando playback. O local é gerenciado por Tess (Cher), que nega uma chance a Ali. Ela insiste e consegue ser contratada como garçonete, graças à ajuda do balconista Jack (Cam Gigandet). Ali passa a acompanhar todos os shows, decorando as canções e coreografias. Quando Tess e seu braço-direito Sean (Stanley Tucci) realizam uma audição em busca de novas bailarinas, Ali aproveita a chance para mostrar do que é capaz.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oCTvLdp6YDmKl525uk6qlJUiViS.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260704061652 -0300" stop="20260704081258 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
+    <date>1985</date>
+  </programme>
+  <programme start="20260704081258 -0300" stop="20260704100904 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
+    <date>1985</date>
+  </programme>
+  <programme start="20260704100904 -0300" stop="20260704114432 -0300" channel="htofilmes">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260704114432 -0300" stop="20260704132000 -0300" channel="htofilmes">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260704132000 -0300" stop="20260704152408 -0300" channel="htofilmes">
+    <title lang="pt">Bad Boys Para Sempre</title>
+    <desc lang="pt">Marcus Burnett agora é um inspetor e Mike Lowrey se encontra numa crise de meia-idade. Mas a dupla tem que se juntar novamente quando um mercenário albanês, cujo irmão foi capturado por eles, promete um bônus de vingança justamente quando eles estão prestes a se aposentar.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/kxV3r4H1BRB3QFySbgFyrlOwwXg.jpg"/>
+    <date>2020</date>
+  </programme>
+  <programme start="20260704152408 -0300" stop="20260704173753 -0300" channel="htofilmes">
+    <title lang="pt">Bem-Vindo aos 40</title>
+    <desc lang="pt">Após anos de casamento, Pete e Debbie estão chegando em uma fase de decadência. Enquanto tentam equilibrar romance, carreiras profissionais, pais e filhos, com seu próprio e hilariante, eles também tem que imaginar como aproveitar o resto de suas vidas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/j2Zt3IaAtRwHBIUrgArpXQzpOPP.jpg"/>
+    <date>2012</date>
+  </programme>
+  <programme start="20260704173753 -0300" stop="20260704193652 -0300" channel="htofilmes">
+    <title lang="pt">Burlesque</title>
+    <desc lang="pt">Ali (Christina Aguilera) deixou sua pequena cidade natal em busca do sucesso em Los Angeles. Logo ao chegar ela conhece a boate Burlesque, especializada em shows musicais de belas mulheres, que sempre se apresentam usando playback. O local é gerenciado por Tess (Cher), que nega uma chance a Ali. Ela insiste e consegue ser contratada como garçonete, graças à ajuda do balconista Jack (Cam Gigandet). Ali passa a acompanhar todos os shows, decorando as canções e coreografias. Quando Tess e seu braço-direito Sean (Stanley Tucci) realizam uma audição em busca de novas bailarinas, Ali aproveita a chance para mostrar do que é capaz.</desc>
+    <category lang="pt">Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oCTvLdp6YDmKl525uk6qlJUiViS.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260704193652 -0300" stop="20260704213258 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
+    <date>1985</date>
+  </programme>
+  <programme start="20260704213258 -0300" stop="20260704232904 -0300" channel="htofilmes">
+    <title lang="pt">De Volta para o Futuro</title>
+    <desc lang="pt">Marty McFly, um típico adolescente americano dos anos 80, acidentalmente é enviado de volta ao ano de 1955 em um carro modificado para ser uma máquino do tempo, inventada por um cientista louco. Durante sua fantástica e maluca viagem no tempo, McFly tem que fazer com que seus futuros pais se encontrem e se apaixonem, para que assim ele possa ir de volta para o futuro.</desc>
+    <category lang="pt">Aventura</category>
+    <icon src="https://image.tmdb.org/t/p/w500/i996T0lI1fGtFEowiH3V6eZthL0.jpg"/>
+    <date>1985</date>
+  </programme>
+  <programme start="20260704232904 -0300" stop="20260705010432 -0300" channel="htofilmes">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
   </programme>
 </tv>

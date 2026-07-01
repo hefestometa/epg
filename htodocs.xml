@@ -3,243 +3,6 @@
   <channel id="htodocs">
     <display-name>HtoDocs</display-name>
   </channel>
-  <programme start="20260630000000 -0300" stop="20260630022319 -0300" channel="htodocs">
-    <title lang="pt">1983 - O Ano dos Videogames no Brasil</title>
-    <desc lang="pt">Este documentário conta a história de como o videogame, enquanto nova forma de entretenimento, aportou no país oficialmente em 1983, mas igualmente trará informações sobre o antes e algo sobre o depois. O foco são, essencialmente, os aparelhos que antecederam os cartuchos, tais como os relógios com jogos da Casio, os portáteis Game &amp; Watch e os PONGs/Telejogos, mas principalmente - e com destaque - a primeira geração nacional de videogames propriamente dita, isto é, a geração do Odyssey, do Atari 2600 e seus clones, do Intellivision e do SpliceVision (ColecoVision).</desc>
-    <credits>
-      <director>Artur Palma, Marcus Garrett</director>
-      <actor>Flávio Dias D'Oliveira  Narration  Washington Olivetto Washington Olivetto</actor>
-      <actor>Artur Palma  Director  Marcus Chiado Garrett  Director</actor>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/gRFEjDdIHyBVGguMoamvbjiMbkP.jpg"/>
-    <date>2017</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260630022319 -0300" stop="20260630031537 -0300" channel="htodocs">
-    <title lang="pt">A História Secreta da Obsolescência Planejada</title>
-    <desc lang="pt">Documentário produzido pela TVE espanhola que trata da obsolescência programada, uma estratégia que visa fazer com que a vida de um produto tenha sua durabilidade limitada para que sempre o consumidor se veja obrigado a comprar novamente.
-
-O filme abre com um funcionário da emissora descobrindo que sua impressora EPSON havia deixado de funcionar sem motivo aparente e que o custo de consertá-la sairia mais caro do que uma nova.
-
-A Obsolescência Programada começou primeiramente com as lâmpadas, que antes duravam décadas trabalhando ininterruptamente (como a lampada que está acesa há mais de cem anos num posto dos bombeiros dos EUA) mas, depois de uma reunião com o cartel dos fabricantes, passaram a fazê-las para durar apenas 1.000 horas.
-
-Essa prática tem gerado montanhas de resíduos, transformando algumas cidades de países de terceiro mundo em verdadeiros depósitos, sem falar na matéria prima, energia e tempo humano desperdiçados.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260630031537 -0300" stop="20260630042159 -0300" channel="htodocs">
-    <title lang="pt">A Lei</title>
-    <desc lang="pt">Documentário de reflexão social e política sobre o papel das leis, da justiça e das instituições na organização da sociedade.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260630042159 -0300" stop="20260630060855 -0300" channel="htodocs">
-    <title lang="pt">Anauê! O Integralismo e o nazismo na região de Blumenau</title>
-    <desc lang="pt">Documentário sobre o integralismo e as influências do nazismo na região de Blumenau, investigando memória, política e história local.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20260630060855 -0300" stop="20260630065526 -0300" channel="htodocs">
-    <title lang="pt">ANTÁRTIDA- DESBRAVANDO O CONTINENTE GELADO - EP 04-06</title>
-    <desc lang="pt">Série documental sobre a Antártida, explorando sua fauna, clima extremo, paisagens congeladas e os desafios da vida em um dos ambientes mais inóspitos do planeta.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260630065526 -0300" stop="20260630093228 -0300" channel="htodocs">
-    <title lang="pt">Apocalypse- Stalin</title>
-    <desc lang="pt">Documentário histórico sobre Josef Stalin, sua ascensão ao poder, o regime soviético, a repressão política e seu papel nos grandes acontecimentos do século XX.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20260630093228 -0300" stop="20260630103057 -0300" channel="htodocs">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">Documentário que propõe uma reflexão sobre origens, ciência, humanidade e transformação, explorando questões ligadas à vida, à história e ao conhecimento.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260630103057 -0300" stop="20260630114602 -0300" channel="htodocs">
-    <title lang="pt">O RAP PELO RAP</title>
-    <desc lang="pt">Documentário sobre o rap como expressão cultural, artística e social, reunindo histórias, vozes e reflexões sobre a cena musical e suas transformações.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260630114602 -0300" stop="20260630124614 -0300" channel="htodocs">
-    <title lang="pt">O silêncio dos homens</title>
-    <desc lang="pt">Documentário que investiga masculinidade, emoções e silêncio masculino, discutindo saúde mental, relações afetivas e os impactos dos padrões sociais sobre os homens.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2019</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260630124614 -0300" stop="20260630140737 -0300" channel="htodocs">
-    <title lang="pt">Quando lembro de Chico</title>
-    <desc lang="pt">Documentário que reúne depoimentos, memórias e reflexões sobre a vida e o legado de Chico Xavier, destacando sua influência espiritual, humana e cultural no Brasil.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260630140737 -0300" stop="20260630163056 -0300" channel="htodocs">
-    <title lang="pt">1983 - O Ano dos Videogames no Brasil</title>
-    <desc lang="pt">Este documentário conta a história de como o videogame, enquanto nova forma de entretenimento, aportou no país oficialmente em 1983, mas igualmente trará informações sobre o antes e algo sobre o depois. O foco são, essencialmente, os aparelhos que antecederam os cartuchos, tais como os relógios com jogos da Casio, os portáteis Game &amp; Watch e os PONGs/Telejogos, mas principalmente - e com destaque - a primeira geração nacional de videogames propriamente dita, isto é, a geração do Odyssey, do Atari 2600 e seus clones, do Intellivision e do SpliceVision (ColecoVision).</desc>
-    <credits>
-      <director>Artur Palma, Marcus Garrett</director>
-      <actor>Flávio Dias D'Oliveira  Narration  Washington Olivetto Washington Olivetto</actor>
-      <actor>Artur Palma  Director  Marcus Chiado Garrett  Director</actor>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/gRFEjDdIHyBVGguMoamvbjiMbkP.jpg"/>
-    <date>2017</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260630163056 -0300" stop="20260630172314 -0300" channel="htodocs">
-    <title lang="pt">A História Secreta da Obsolescência Planejada</title>
-    <desc lang="pt">Documentário produzido pela TVE espanhola que trata da obsolescência programada, uma estratégia que visa fazer com que a vida de um produto tenha sua durabilidade limitada para que sempre o consumidor se veja obrigado a comprar novamente.
-
-O filme abre com um funcionário da emissora descobrindo que sua impressora EPSON havia deixado de funcionar sem motivo aparente e que o custo de consertá-la sairia mais caro do que uma nova.
-
-A Obsolescência Programada começou primeiramente com as lâmpadas, que antes duravam décadas trabalhando ininterruptamente (como a lampada que está acesa há mais de cem anos num posto dos bombeiros dos EUA) mas, depois de uma reunião com o cartel dos fabricantes, passaram a fazê-las para durar apenas 1.000 horas.
-
-Essa prática tem gerado montanhas de resíduos, transformando algumas cidades de países de terceiro mundo em verdadeiros depósitos, sem falar na matéria prima, energia e tempo humano desperdiçados.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260630172314 -0300" stop="20260630182936 -0300" channel="htodocs">
-    <title lang="pt">A Lei</title>
-    <desc lang="pt">Documentário de reflexão social e política sobre o papel das leis, da justiça e das instituições na organização da sociedade.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260630182936 -0300" stop="20260630201632 -0300" channel="htodocs">
-    <title lang="pt">Anauê! O Integralismo e o nazismo na região de Blumenau</title>
-    <desc lang="pt">Documentário sobre o integralismo e as influências do nazismo na região de Blumenau, investigando memória, política e história local.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20260630201632 -0300" stop="20260630210303 -0300" channel="htodocs">
-    <title lang="pt">ANTÁRTIDA- DESBRAVANDO O CONTINENTE GELADO - EP 04-06</title>
-    <desc lang="pt">Série documental sobre a Antártida, explorando sua fauna, clima extremo, paisagens congeladas e os desafios da vida em um dos ambientes mais inóspitos do planeta.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20260630210303 -0300" stop="20260630234005 -0300" channel="htodocs">
-    <title lang="pt">Apocalypse- Stalin</title>
-    <desc lang="pt">Documentário histórico sobre Josef Stalin, sua ascensão ao poder, o regime soviético, a repressão política e seu papel nos grandes acontecimentos do século XX.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20260630234005 -0300" stop="20260701003834 -0300" channel="htodocs">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">Documentário que propõe uma reflexão sobre origens, ciência, humanidade e transformação, explorando questões ligadas à vida, à história e ao conhecimento.</desc>
-    <credits>
-      <director>HtoDocs</director>
-    </credits>
-    <category lang="pt">Documentário</category>
-    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
-    <date>2026</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
   <programme start="20260701000000 -0300" stop="20260701013059 -0300" channel="htodocs">
     <title lang="pt">Morro dos Prazeres</title>
     <desc lang="pt">Documentário sobre a comunidade do Morro dos Prazeres, no Rio de Janeiro, abordando cotidiano, violência, desigualdade, resistência e vida comunitária.</desc>
@@ -1120,6 +883,294 @@ Essa prática tem gerado montanhas de resíduos, transformando algumas cidades d
   <programme start="20260703233356 -0300" stop="20260704001911 -0300" channel="htodocs">
     <title lang="pt">Documentário Liberdade A coragem de ser quem você é</title>
     <desc lang="pt">Documentário sobre identidade, liberdade pessoal e coragem para viver de forma autêntica, abordando histórias de superação, respeito e aceitação.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260704000000 -0300" stop="20260704010510 -0300" channel="htodocs">
+    <title lang="pt">ATO 18 - Episódio 2- Festa da Selma</title>
+    <desc lang="pt">Episódio documental da série ATO 18, abordando acontecimentos políticos e sociais do Brasil recente por meio de relatos, registros e análise histórica.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260704010510 -0300" stop="20260704014512 -0300" channel="htodocs">
+    <title lang="pt">AYRTON SENNA- O Último Ídolo do Brasi</title>
+    <desc lang="pt">Documentário sobre Ayrton Senna, sua carreira nas pistas, seu legado esportivo e sua importância como um dos maiores ídolos do automobilismo brasileiro.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260704014512 -0300" stop="20260704020731 -0300" channel="htodocs">
+    <title lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">Documentário que analisa o poder das indústrias de alimentos ultraprocessados, seus impactos na saúde pública, no consumo e nas escolhas alimentares da população.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2021</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260704020731 -0300" stop="20260704030201 -0300" channel="htodocs">
+    <title lang="pt">Caminhos da Reportagem - Ecos da Escravidão</title>
+    <desc lang="pt">Reportagem documental sobre os impactos históricos e sociais da escravidão no Brasil, refletindo sobre memória, desigualdade, racismo e permanências no presente.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260704030201 -0300" stop="20260704051514 -0300" channel="htodocs">
+    <title lang="pt">Chico Para Sempre 2022</title>
+    <desc lang="pt">Documentário sobre a vida, a trajetória espiritual e o legado de Chico Xavier, destacando sua influência cultural, religiosa e humana no Brasil.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2022</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260704051514 -0300" stop="20260704061812 -0300" channel="htodocs">
+    <title lang="pt">Data Limite Segundo Chico Xavier</title>
+    <desc lang="pt">Documentário que aborda a chamada Data Limite atribuída a Chico Xavier, reunindo relatos, interpretações espirituais e reflexões sobre o futuro da humanidade.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260704061812 -0300" stop="20260704070923 -0300" channel="htodocs">
+    <title lang="pt">Despojos de Guerra A Informadora</title>
+    <desc lang="pt">Documentário sobre histórias marcadas por guerra, espionagem, sobrevivência e escolhas difíceis em contextos de violência e tensão política.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260704070923 -0300" stop="20260704073913 -0300" channel="htodocs">
+    <title lang="pt">Documentário - Escravidão no Brasil - Parte I</title>
+    <desc lang="pt">Primeira parte de uma série documental sobre a escravidão no Brasil, abordando suas origens, estrutura econômica, violência e impactos sociais.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260704073913 -0300" stop="20260704092253 -0300" channel="htodocs">
+    <title lang="pt">DOCUMENTÁRIO- João Goulart - Dossiê Jango</title>
+    <desc lang="pt">Documentário sobre João Goulart, sua trajetória política, o contexto do golpe de 1964 e as controvérsias em torno de sua morte no exílio.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260704092253 -0300" stop="20260704104045 -0300" channel="htodocs">
+    <title lang="pt">Fungos Fantasticos - Cogumelos</title>
+    <desc lang="pt">Documentário sobre o fascinante mundo dos fungos e cogumelos, revelando sua importância ecológica, medicinal, alimentar e sua presença essencial nos ecossistemas.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260704104045 -0300" stop="20260704111931 -0300" channel="htodocs">
+    <title lang="pt">Monstros Marinhos Pré Históricos</title>
+    <desc lang="pt">Documentário sobre criaturas marinhas pré-históricas, explorando espécies gigantes que habitaram os oceanos antigos e os mistérios revelados pela paleontologia.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260704111931 -0300" stop="20260704134250 -0300" channel="htodocs">
+    <title lang="pt">1983 - O Ano dos Videogames no Brasil</title>
+    <desc lang="pt">Este documentário conta a história de como o videogame, enquanto nova forma de entretenimento, aportou no país oficialmente em 1983, mas igualmente trará informações sobre o antes e algo sobre o depois. O foco são, essencialmente, os aparelhos que antecederam os cartuchos, tais como os relógios com jogos da Casio, os portáteis Game &amp; Watch e os PONGs/Telejogos, mas principalmente - e com destaque - a primeira geração nacional de videogames propriamente dita, isto é, a geração do Odyssey, do Atari 2600 e seus clones, do Intellivision e do SpliceVision (ColecoVision).</desc>
+    <credits>
+      <director>Artur Palma, Marcus Garrett</director>
+      <actor>Flávio Dias D'Oliveira  Narration  Washington Olivetto Washington Olivetto</actor>
+      <actor>Artur Palma  Director  Marcus Chiado Garrett  Director</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/gRFEjDdIHyBVGguMoamvbjiMbkP.jpg"/>
+    <date>2017</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260704134250 -0300" stop="20260704144800 -0300" channel="htodocs">
+    <title lang="pt">ATO 18 - Episódio 2- Festa da Selma</title>
+    <desc lang="pt">Episódio documental da série ATO 18, abordando acontecimentos políticos e sociais do Brasil recente por meio de relatos, registros e análise histórica.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260704144800 -0300" stop="20260704152802 -0300" channel="htodocs">
+    <title lang="pt">AYRTON SENNA- O Último Ídolo do Brasi</title>
+    <desc lang="pt">Documentário sobre Ayrton Senna, sua carreira nas pistas, seu legado esportivo e sua importância como um dos maiores ídolos do automobilismo brasileiro.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260704152802 -0300" stop="20260704155021 -0300" channel="htodocs">
+    <title lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">Documentário que analisa o poder das indústrias de alimentos ultraprocessados, seus impactos na saúde pública, no consumo e nas escolhas alimentares da população.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2021</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260704155021 -0300" stop="20260704164451 -0300" channel="htodocs">
+    <title lang="pt">Caminhos da Reportagem - Ecos da Escravidão</title>
+    <desc lang="pt">Reportagem documental sobre os impactos históricos e sociais da escravidão no Brasil, refletindo sobre memória, desigualdade, racismo e permanências no presente.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260704164451 -0300" stop="20260704185804 -0300" channel="htodocs">
+    <title lang="pt">Chico Para Sempre 2022</title>
+    <desc lang="pt">Documentário sobre a vida, a trajetória espiritual e o legado de Chico Xavier, destacando sua influência cultural, religiosa e humana no Brasil.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2022</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260704185804 -0300" stop="20260704200102 -0300" channel="htodocs">
+    <title lang="pt">Data Limite Segundo Chico Xavier</title>
+    <desc lang="pt">Documentário que aborda a chamada Data Limite atribuída a Chico Xavier, reunindo relatos, interpretações espirituais e reflexões sobre o futuro da humanidade.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260704200102 -0300" stop="20260704205213 -0300" channel="htodocs">
+    <title lang="pt">Despojos de Guerra A Informadora</title>
+    <desc lang="pt">Documentário sobre histórias marcadas por guerra, espionagem, sobrevivência e escolhas difíceis em contextos de violência e tensão política.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260704205213 -0300" stop="20260704212203 -0300" channel="htodocs">
+    <title lang="pt">Documentário - Escravidão no Brasil - Parte I</title>
+    <desc lang="pt">Primeira parte de uma série documental sobre a escravidão no Brasil, abordando suas origens, estrutura econômica, violência e impactos sociais.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260704212203 -0300" stop="20260704230543 -0300" channel="htodocs">
+    <title lang="pt">DOCUMENTÁRIO- João Goulart - Dossiê Jango</title>
+    <desc lang="pt">Documentário sobre João Goulart, sua trajetória política, o contexto do golpe de 1964 e as controvérsias em torno de sua morte no exílio.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260704230543 -0300" stop="20260705002335 -0300" channel="htodocs">
+    <title lang="pt">Fungos Fantasticos - Cogumelos</title>
+    <desc lang="pt">Documentário sobre o fascinante mundo dos fungos e cogumelos, revelando sua importância ecológica, medicinal, alimentar e sua presença essencial nos ecossistemas.</desc>
     <credits>
       <director>HtoDocs</director>
     </credits>
