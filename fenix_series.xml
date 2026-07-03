@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Fenix EPG">
+  <channel id="fenix_series">
+    <display-name>Fenix Series</display-name>
+  </channel>
+</tv>
