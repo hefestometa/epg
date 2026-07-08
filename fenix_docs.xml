@@ -12,12 +12,10 @@
     </rating>
   </programme>
   <programme start="20260708001935 -0300" stop="20260708004154 -0300" channel="fenix_docs">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260708004154 -0300" stop="20260708010710 -0300" channel="fenix_docs">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -44,12 +42,11 @@
     </rating>
   </programme>
   <programme start="20260708015935 -0300" stop="20260708025804 -0300" channel="fenix_docs">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260708025804 -0300" stop="20260708035821 -0300" channel="fenix_docs">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -60,11 +57,13 @@
     </rating>
   </programme>
   <programme start="20260708035821 -0300" stop="20260708050931 -0300" channel="fenix_docs">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260708050931 -0300" stop="20260708054213 -0300" channel="fenix_docs">
@@ -116,12 +115,10 @@
     </rating>
   </programme>
   <programme start="20260708085322 -0300" stop="20260708100258 -0300" channel="fenix_docs">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260708100258 -0300" stop="20260708103527 -0300" channel="fenix_docs">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -156,12 +153,10 @@
     </rating>
   </programme>
   <programme start="20260708121359 -0300" stop="20260708123618 -0300" channel="fenix_docs">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260708123618 -0300" stop="20260708130134 -0300" channel="fenix_docs">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -188,12 +183,11 @@
     </rating>
   </programme>
   <programme start="20260708135359 -0300" stop="20260708145228 -0300" channel="fenix_docs">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260708145228 -0300" stop="20260708155245 -0300" channel="fenix_docs">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -204,11 +198,13 @@
     </rating>
   </programme>
   <programme start="20260708155245 -0300" stop="20260708170355 -0300" channel="fenix_docs">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260708170355 -0300" stop="20260708173637 -0300" channel="fenix_docs">
@@ -260,12 +256,10 @@
     </rating>
   </programme>
   <programme start="20260708204746 -0300" stop="20260708215722 -0300" channel="fenix_docs">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260708215722 -0300" stop="20260708222951 -0300" channel="fenix_docs">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -308,12 +302,10 @@
     </rating>
   </programme>
   <programme start="20260709001935 -0300" stop="20260709004154 -0300" channel="fenix_docs">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260709004154 -0300" stop="20260709010710 -0300" channel="fenix_docs">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -340,12 +332,11 @@
     </rating>
   </programme>
   <programme start="20260709015935 -0300" stop="20260709025804 -0300" channel="fenix_docs">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260709025804 -0300" stop="20260709035821 -0300" channel="fenix_docs">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -356,11 +347,13 @@
     </rating>
   </programme>
   <programme start="20260709035821 -0300" stop="20260709050931 -0300" channel="fenix_docs">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260709050931 -0300" stop="20260709054213 -0300" channel="fenix_docs">
@@ -412,12 +405,10 @@
     </rating>
   </programme>
   <programme start="20260709085322 -0300" stop="20260709100258 -0300" channel="fenix_docs">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260709100258 -0300" stop="20260709103527 -0300" channel="fenix_docs">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -452,12 +443,10 @@
     </rating>
   </programme>
   <programme start="20260709121359 -0300" stop="20260709123618 -0300" channel="fenix_docs">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260709123618 -0300" stop="20260709130134 -0300" channel="fenix_docs">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -484,12 +473,11 @@
     </rating>
   </programme>
   <programme start="20260709135359 -0300" stop="20260709145228 -0300" channel="fenix_docs">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260709145228 -0300" stop="20260709155245 -0300" channel="fenix_docs">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -500,11 +488,13 @@
     </rating>
   </programme>
   <programme start="20260709155245 -0300" stop="20260709170355 -0300" channel="fenix_docs">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260709170355 -0300" stop="20260709173637 -0300" channel="fenix_docs">
@@ -556,12 +546,10 @@
     </rating>
   </programme>
   <programme start="20260709204746 -0300" stop="20260709215722 -0300" channel="fenix_docs">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260709215722 -0300" stop="20260709222951 -0300" channel="fenix_docs">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -604,12 +592,10 @@
     </rating>
   </programme>
   <programme start="20260710001935 -0300" stop="20260710004154 -0300" channel="fenix_docs">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260710004154 -0300" stop="20260710010710 -0300" channel="fenix_docs">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -636,12 +622,11 @@
     </rating>
   </programme>
   <programme start="20260710015935 -0300" stop="20260710025804 -0300" channel="fenix_docs">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260710025804 -0300" stop="20260710035821 -0300" channel="fenix_docs">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -652,11 +637,13 @@
     </rating>
   </programme>
   <programme start="20260710035821 -0300" stop="20260710050931 -0300" channel="fenix_docs">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260710050931 -0300" stop="20260710054213 -0300" channel="fenix_docs">
@@ -708,12 +695,10 @@
     </rating>
   </programme>
   <programme start="20260710085322 -0300" stop="20260710100258 -0300" channel="fenix_docs">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260710100258 -0300" stop="20260710103527 -0300" channel="fenix_docs">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -748,12 +733,10 @@
     </rating>
   </programme>
   <programme start="20260710121359 -0300" stop="20260710123618 -0300" channel="fenix_docs">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260710123618 -0300" stop="20260710130134 -0300" channel="fenix_docs">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -780,12 +763,11 @@
     </rating>
   </programme>
   <programme start="20260710135359 -0300" stop="20260710145228 -0300" channel="fenix_docs">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260710145228 -0300" stop="20260710155245 -0300" channel="fenix_docs">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -796,11 +778,13 @@
     </rating>
   </programme>
   <programme start="20260710155245 -0300" stop="20260710170355 -0300" channel="fenix_docs">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260710170355 -0300" stop="20260710173637 -0300" channel="fenix_docs">
@@ -852,12 +836,10 @@
     </rating>
   </programme>
   <programme start="20260710204746 -0300" stop="20260710215722 -0300" channel="fenix_docs">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260710215722 -0300" stop="20260710222951 -0300" channel="fenix_docs">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -900,12 +882,10 @@
     </rating>
   </programme>
   <programme start="20260711001935 -0300" stop="20260711004154 -0300" channel="fenix_docs">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260711004154 -0300" stop="20260711010710 -0300" channel="fenix_docs">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -932,12 +912,11 @@
     </rating>
   </programme>
   <programme start="20260711015935 -0300" stop="20260711025804 -0300" channel="fenix_docs">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260711025804 -0300" stop="20260711035821 -0300" channel="fenix_docs">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -948,11 +927,13 @@
     </rating>
   </programme>
   <programme start="20260711035821 -0300" stop="20260711050931 -0300" channel="fenix_docs">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260711050931 -0300" stop="20260711054213 -0300" channel="fenix_docs">
@@ -1004,12 +985,10 @@
     </rating>
   </programme>
   <programme start="20260711085322 -0300" stop="20260711100258 -0300" channel="fenix_docs">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260711100258 -0300" stop="20260711103527 -0300" channel="fenix_docs">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -1044,12 +1023,10 @@
     </rating>
   </programme>
   <programme start="20260711121359 -0300" stop="20260711123618 -0300" channel="fenix_docs">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260711123618 -0300" stop="20260711130134 -0300" channel="fenix_docs">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -1076,12 +1053,11 @@
     </rating>
   </programme>
   <programme start="20260711135359 -0300" stop="20260711145228 -0300" channel="fenix_docs">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260711145228 -0300" stop="20260711155245 -0300" channel="fenix_docs">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -1092,11 +1068,13 @@
     </rating>
   </programme>
   <programme start="20260711155245 -0300" stop="20260711170355 -0300" channel="fenix_docs">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260711170355 -0300" stop="20260711173637 -0300" channel="fenix_docs">
@@ -1148,12 +1126,10 @@
     </rating>
   </programme>
   <programme start="20260711204746 -0300" stop="20260711215722 -0300" channel="fenix_docs">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260711215722 -0300" stop="20260711222951 -0300" channel="fenix_docs">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>

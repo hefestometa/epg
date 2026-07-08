@@ -152,11 +152,10 @@
   </programme>
   <programme start="20260708014420 -0300" stop="20260708023229 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260708023229 -0300" stop="20260708031616 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -175,11 +174,13 @@
     </rating>
   </programme>
   <programme start="20260708043823 -0300" stop="20260708064252 -0300" channel="fenix_filmes">
-    <title lang="pt">AKIRA</title>
-    <desc lang="pt">AKIRA</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Akira</title>
+    <desc lang="pt">Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</desc>
+    <category lang="pt">Animação, Ficção científica, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg"/>
+    <date>1988</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260708064252 -0300" stop="20260708072609 -0300" channel="fenix_filmes">
@@ -200,11 +201,10 @@
   </programme>
   <programme start="20260708082712 -0300" stop="20260708091521 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260708091521 -0300" stop="20260708095908 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -223,11 +223,13 @@
     </rating>
   </programme>
   <programme start="20260708112115 -0300" stop="20260708132544 -0300" channel="fenix_filmes">
-    <title lang="pt">AKIRA</title>
-    <desc lang="pt">AKIRA</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Akira</title>
+    <desc lang="pt">Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</desc>
+    <category lang="pt">Animação, Ficção científica, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg"/>
+    <date>1988</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260708132544 -0300" stop="20260708140901 -0300" channel="fenix_filmes">
@@ -248,11 +250,10 @@
   </programme>
   <programme start="20260708151004 -0300" stop="20260708155813 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260708155813 -0300" stop="20260708164200 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -271,11 +272,13 @@
     </rating>
   </programme>
   <programme start="20260708180407 -0300" stop="20260708200836 -0300" channel="fenix_filmes">
-    <title lang="pt">AKIRA</title>
-    <desc lang="pt">AKIRA</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Akira</title>
+    <desc lang="pt">Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</desc>
+    <category lang="pt">Animação, Ficção científica, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg"/>
+    <date>1988</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260708200836 -0300" stop="20260708205153 -0300" channel="fenix_filmes">
@@ -296,11 +299,10 @@
   </programme>
   <programme start="20260708215256 -0300" stop="20260708224105 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260708224105 -0300" stop="20260708232452 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -360,24 +362,27 @@
   </programme>
   <programme start="20260708080719 -0300" stop="20260708094342 -0300" channel="fenix_filmes">
     <title lang="pt">A Maldição da Floresta</title>
-    <desc lang="pt">A Maldição da Floresta</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">O longa conta a história de uma família inglesa que vai morar em uma parte isolada da Irlanda. O intuito do pai é estudar a floresta para futuras construções. Mas sua ação acaba perturbando seres demoníacos que vivem no local e começam uma série de ataques contra a família.</desc>
+    <category lang="pt">Terror, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260708094342 -0300" stop="20260708112129 -0300" channel="fenix_filmes">
-    <title lang="pt">DE REPENTE 30</title>
-    <desc lang="pt">DE REPENTE 30</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">De Repente 30</title>
+    <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
+    <category lang="pt">Comédia, Fantasia, Romance</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hZmL1NlCUb0GycCtAJKX1JaMjhx.jpg"/>
+    <date>2004</date>
     <rating system="BR">
-      <value>L</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20260708112129 -0300" stop="20260708132035 -0300" channel="fenix_filmes">
-    <title lang="pt">Chocolate</title>
-    <desc lang="pt">Chocolate</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+    <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
+    <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg"/>
+    <date>2005</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -408,19 +413,17 @@
   </programme>
   <programme start="20260708180953 -0300" stop="20260708194545 -0300" channel="fenix_filmes">
     <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">A Recruta Hollywood</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260708194545 -0300" stop="20260708213642 -0300" channel="fenix_filmes">
-    <title lang="pt">A Família</title>
-    <desc lang="pt">A Família</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Familia a la deriva</title>
+    <desc lang="pt">Familia a la deriva</desc>
+    <category lang="pt">Família, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
+    <date>2026</date>
   </programme>
   <programme start="20260708213642 -0300" stop="20260708235743 -0300" channel="fenix_filmes">
     <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
@@ -447,12 +450,10 @@
     </rating>
   </programme>
   <programme start="20260708001935 -0300" stop="20260708004154 -0300" channel="fenix_filmes">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260708004154 -0300" stop="20260708010710 -0300" channel="fenix_filmes">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -479,12 +480,11 @@
     </rating>
   </programme>
   <programme start="20260708015935 -0300" stop="20260708025804 -0300" channel="fenix_filmes">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260708025804 -0300" stop="20260708035821 -0300" channel="fenix_filmes">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -495,11 +495,13 @@
     </rating>
   </programme>
   <programme start="20260708035821 -0300" stop="20260708050931 -0300" channel="fenix_filmes">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260708050931 -0300" stop="20260708054213 -0300" channel="fenix_filmes">
@@ -551,12 +553,10 @@
     </rating>
   </programme>
   <programme start="20260708085322 -0300" stop="20260708100258 -0300" channel="fenix_filmes">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260708100258 -0300" stop="20260708103527 -0300" channel="fenix_filmes">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -591,12 +591,10 @@
     </rating>
   </programme>
   <programme start="20260708121359 -0300" stop="20260708123618 -0300" channel="fenix_filmes">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260708123618 -0300" stop="20260708130134 -0300" channel="fenix_filmes">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -623,12 +621,11 @@
     </rating>
   </programme>
   <programme start="20260708135359 -0300" stop="20260708145228 -0300" channel="fenix_filmes">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260708145228 -0300" stop="20260708155245 -0300" channel="fenix_filmes">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -639,11 +636,13 @@
     </rating>
   </programme>
   <programme start="20260708155245 -0300" stop="20260708170355 -0300" channel="fenix_filmes">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260708170355 -0300" stop="20260708173637 -0300" channel="fenix_filmes">
@@ -695,12 +694,10 @@
     </rating>
   </programme>
   <programme start="20260708204746 -0300" stop="20260708215722 -0300" channel="fenix_filmes">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260708215722 -0300" stop="20260708222951 -0300" channel="fenix_filmes">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -3498,11 +3495,10 @@
   </programme>
   <programme start="20260709014420 -0300" stop="20260709023229 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260709023229 -0300" stop="20260709031616 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -3521,11 +3517,13 @@
     </rating>
   </programme>
   <programme start="20260709043823 -0300" stop="20260709064252 -0300" channel="fenix_filmes">
-    <title lang="pt">AKIRA</title>
-    <desc lang="pt">AKIRA</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Akira</title>
+    <desc lang="pt">Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</desc>
+    <category lang="pt">Animação, Ficção científica, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg"/>
+    <date>1988</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260709064252 -0300" stop="20260709072609 -0300" channel="fenix_filmes">
@@ -3546,11 +3544,10 @@
   </programme>
   <programme start="20260709082712 -0300" stop="20260709091521 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260709091521 -0300" stop="20260709095908 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -3569,11 +3566,13 @@
     </rating>
   </programme>
   <programme start="20260709112115 -0300" stop="20260709132544 -0300" channel="fenix_filmes">
-    <title lang="pt">AKIRA</title>
-    <desc lang="pt">AKIRA</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Akira</title>
+    <desc lang="pt">Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</desc>
+    <category lang="pt">Animação, Ficção científica, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg"/>
+    <date>1988</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260709132544 -0300" stop="20260709140901 -0300" channel="fenix_filmes">
@@ -3594,11 +3593,10 @@
   </programme>
   <programme start="20260709151004 -0300" stop="20260709155813 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260709155813 -0300" stop="20260709164200 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -3617,11 +3615,13 @@
     </rating>
   </programme>
   <programme start="20260709180407 -0300" stop="20260709200836 -0300" channel="fenix_filmes">
-    <title lang="pt">AKIRA</title>
-    <desc lang="pt">AKIRA</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Akira</title>
+    <desc lang="pt">Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</desc>
+    <category lang="pt">Animação, Ficção científica, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg"/>
+    <date>1988</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260709200836 -0300" stop="20260709205153 -0300" channel="fenix_filmes">
@@ -3642,11 +3642,10 @@
   </programme>
   <programme start="20260709215256 -0300" stop="20260709224105 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260709224105 -0300" stop="20260709232452 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -3706,24 +3705,27 @@
   </programme>
   <programme start="20260709080719 -0300" stop="20260709094342 -0300" channel="fenix_filmes">
     <title lang="pt">A Maldição da Floresta</title>
-    <desc lang="pt">A Maldição da Floresta</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">O longa conta a história de uma família inglesa que vai morar em uma parte isolada da Irlanda. O intuito do pai é estudar a floresta para futuras construções. Mas sua ação acaba perturbando seres demoníacos que vivem no local e começam uma série de ataques contra a família.</desc>
+    <category lang="pt">Terror, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260709094342 -0300" stop="20260709112129 -0300" channel="fenix_filmes">
-    <title lang="pt">DE REPENTE 30</title>
-    <desc lang="pt">DE REPENTE 30</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">De Repente 30</title>
+    <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
+    <category lang="pt">Comédia, Fantasia, Romance</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hZmL1NlCUb0GycCtAJKX1JaMjhx.jpg"/>
+    <date>2004</date>
     <rating system="BR">
-      <value>L</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20260709112129 -0300" stop="20260709132035 -0300" channel="fenix_filmes">
-    <title lang="pt">Chocolate</title>
-    <desc lang="pt">Chocolate</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+    <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
+    <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg"/>
+    <date>2005</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -3754,19 +3756,17 @@
   </programme>
   <programme start="20260709180953 -0300" stop="20260709194545 -0300" channel="fenix_filmes">
     <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">A Recruta Hollywood</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260709194545 -0300" stop="20260709213642 -0300" channel="fenix_filmes">
-    <title lang="pt">A Família</title>
-    <desc lang="pt">A Família</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Familia a la deriva</title>
+    <desc lang="pt">Familia a la deriva</desc>
+    <category lang="pt">Família, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
+    <date>2026</date>
   </programme>
   <programme start="20260709213642 -0300" stop="20260709235743 -0300" channel="fenix_filmes">
     <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
@@ -3793,12 +3793,10 @@
     </rating>
   </programme>
   <programme start="20260709001935 -0300" stop="20260709004154 -0300" channel="fenix_filmes">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260709004154 -0300" stop="20260709010710 -0300" channel="fenix_filmes">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -3825,12 +3823,11 @@
     </rating>
   </programme>
   <programme start="20260709015935 -0300" stop="20260709025804 -0300" channel="fenix_filmes">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260709025804 -0300" stop="20260709035821 -0300" channel="fenix_filmes">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -3841,11 +3838,13 @@
     </rating>
   </programme>
   <programme start="20260709035821 -0300" stop="20260709050931 -0300" channel="fenix_filmes">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260709050931 -0300" stop="20260709054213 -0300" channel="fenix_filmes">
@@ -3897,12 +3896,10 @@
     </rating>
   </programme>
   <programme start="20260709085322 -0300" stop="20260709100258 -0300" channel="fenix_filmes">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260709100258 -0300" stop="20260709103527 -0300" channel="fenix_filmes">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -3937,12 +3934,10 @@
     </rating>
   </programme>
   <programme start="20260709121359 -0300" stop="20260709123618 -0300" channel="fenix_filmes">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260709123618 -0300" stop="20260709130134 -0300" channel="fenix_filmes">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -3969,12 +3964,11 @@
     </rating>
   </programme>
   <programme start="20260709135359 -0300" stop="20260709145228 -0300" channel="fenix_filmes">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260709145228 -0300" stop="20260709155245 -0300" channel="fenix_filmes">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -3985,11 +3979,13 @@
     </rating>
   </programme>
   <programme start="20260709155245 -0300" stop="20260709170355 -0300" channel="fenix_filmes">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260709170355 -0300" stop="20260709173637 -0300" channel="fenix_filmes">
@@ -4041,12 +4037,10 @@
     </rating>
   </programme>
   <programme start="20260709204746 -0300" stop="20260709215722 -0300" channel="fenix_filmes">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260709215722 -0300" stop="20260709222951 -0300" channel="fenix_filmes">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -6844,11 +6838,10 @@
   </programme>
   <programme start="20260710014420 -0300" stop="20260710023229 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260710023229 -0300" stop="20260710031616 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -6867,11 +6860,13 @@
     </rating>
   </programme>
   <programme start="20260710043823 -0300" stop="20260710064252 -0300" channel="fenix_filmes">
-    <title lang="pt">AKIRA</title>
-    <desc lang="pt">AKIRA</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Akira</title>
+    <desc lang="pt">Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</desc>
+    <category lang="pt">Animação, Ficção científica, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg"/>
+    <date>1988</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260710064252 -0300" stop="20260710072609 -0300" channel="fenix_filmes">
@@ -6892,11 +6887,10 @@
   </programme>
   <programme start="20260710082712 -0300" stop="20260710091521 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260710091521 -0300" stop="20260710095908 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -6915,11 +6909,13 @@
     </rating>
   </programme>
   <programme start="20260710112115 -0300" stop="20260710132544 -0300" channel="fenix_filmes">
-    <title lang="pt">AKIRA</title>
-    <desc lang="pt">AKIRA</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Akira</title>
+    <desc lang="pt">Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</desc>
+    <category lang="pt">Animação, Ficção científica, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg"/>
+    <date>1988</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260710132544 -0300" stop="20260710140901 -0300" channel="fenix_filmes">
@@ -6940,11 +6936,10 @@
   </programme>
   <programme start="20260710151004 -0300" stop="20260710155813 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260710155813 -0300" stop="20260710164200 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -6963,11 +6958,13 @@
     </rating>
   </programme>
   <programme start="20260710180407 -0300" stop="20260710200836 -0300" channel="fenix_filmes">
-    <title lang="pt">AKIRA</title>
-    <desc lang="pt">AKIRA</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Akira</title>
+    <desc lang="pt">Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</desc>
+    <category lang="pt">Animação, Ficção científica, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg"/>
+    <date>1988</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260710200836 -0300" stop="20260710205153 -0300" channel="fenix_filmes">
@@ -6988,11 +6985,10 @@
   </programme>
   <programme start="20260710215256 -0300" stop="20260710224105 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260710224105 -0300" stop="20260710232452 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -7052,24 +7048,27 @@
   </programme>
   <programme start="20260710080719 -0300" stop="20260710094342 -0300" channel="fenix_filmes">
     <title lang="pt">A Maldição da Floresta</title>
-    <desc lang="pt">A Maldição da Floresta</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">O longa conta a história de uma família inglesa que vai morar em uma parte isolada da Irlanda. O intuito do pai é estudar a floresta para futuras construções. Mas sua ação acaba perturbando seres demoníacos que vivem no local e começam uma série de ataques contra a família.</desc>
+    <category lang="pt">Terror, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260710094342 -0300" stop="20260710112129 -0300" channel="fenix_filmes">
-    <title lang="pt">DE REPENTE 30</title>
-    <desc lang="pt">DE REPENTE 30</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">De Repente 30</title>
+    <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
+    <category lang="pt">Comédia, Fantasia, Romance</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hZmL1NlCUb0GycCtAJKX1JaMjhx.jpg"/>
+    <date>2004</date>
     <rating system="BR">
-      <value>L</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20260710112129 -0300" stop="20260710132035 -0300" channel="fenix_filmes">
-    <title lang="pt">Chocolate</title>
-    <desc lang="pt">Chocolate</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+    <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
+    <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg"/>
+    <date>2005</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -7100,19 +7099,17 @@
   </programme>
   <programme start="20260710180953 -0300" stop="20260710194545 -0300" channel="fenix_filmes">
     <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">A Recruta Hollywood</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260710194545 -0300" stop="20260710213642 -0300" channel="fenix_filmes">
-    <title lang="pt">A Família</title>
-    <desc lang="pt">A Família</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Familia a la deriva</title>
+    <desc lang="pt">Familia a la deriva</desc>
+    <category lang="pt">Família, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
+    <date>2026</date>
   </programme>
   <programme start="20260710213642 -0300" stop="20260710235743 -0300" channel="fenix_filmes">
     <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
@@ -7139,12 +7136,10 @@
     </rating>
   </programme>
   <programme start="20260710001935 -0300" stop="20260710004154 -0300" channel="fenix_filmes">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260710004154 -0300" stop="20260710010710 -0300" channel="fenix_filmes">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -7171,12 +7166,11 @@
     </rating>
   </programme>
   <programme start="20260710015935 -0300" stop="20260710025804 -0300" channel="fenix_filmes">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260710025804 -0300" stop="20260710035821 -0300" channel="fenix_filmes">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -7187,11 +7181,13 @@
     </rating>
   </programme>
   <programme start="20260710035821 -0300" stop="20260710050931 -0300" channel="fenix_filmes">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260710050931 -0300" stop="20260710054213 -0300" channel="fenix_filmes">
@@ -7243,12 +7239,10 @@
     </rating>
   </programme>
   <programme start="20260710085322 -0300" stop="20260710100258 -0300" channel="fenix_filmes">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260710100258 -0300" stop="20260710103527 -0300" channel="fenix_filmes">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -7283,12 +7277,10 @@
     </rating>
   </programme>
   <programme start="20260710121359 -0300" stop="20260710123618 -0300" channel="fenix_filmes">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260710123618 -0300" stop="20260710130134 -0300" channel="fenix_filmes">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -7315,12 +7307,11 @@
     </rating>
   </programme>
   <programme start="20260710135359 -0300" stop="20260710145228 -0300" channel="fenix_filmes">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260710145228 -0300" stop="20260710155245 -0300" channel="fenix_filmes">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -7331,11 +7322,13 @@
     </rating>
   </programme>
   <programme start="20260710155245 -0300" stop="20260710170355 -0300" channel="fenix_filmes">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260710170355 -0300" stop="20260710173637 -0300" channel="fenix_filmes">
@@ -7387,12 +7380,10 @@
     </rating>
   </programme>
   <programme start="20260710204746 -0300" stop="20260710215722 -0300" channel="fenix_filmes">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260710215722 -0300" stop="20260710222951 -0300" channel="fenix_filmes">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -10190,11 +10181,10 @@
   </programme>
   <programme start="20260711014420 -0300" stop="20260711023229 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260711023229 -0300" stop="20260711031616 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -10213,11 +10203,13 @@
     </rating>
   </programme>
   <programme start="20260711043823 -0300" stop="20260711064252 -0300" channel="fenix_filmes">
-    <title lang="pt">AKIRA</title>
-    <desc lang="pt">AKIRA</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Akira</title>
+    <desc lang="pt">Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</desc>
+    <category lang="pt">Animação, Ficção científica, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg"/>
+    <date>1988</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260711064252 -0300" stop="20260711072609 -0300" channel="fenix_filmes">
@@ -10238,11 +10230,10 @@
   </programme>
   <programme start="20260711082712 -0300" stop="20260711091521 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260711091521 -0300" stop="20260711095908 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -10261,11 +10252,13 @@
     </rating>
   </programme>
   <programme start="20260711112115 -0300" stop="20260711132544 -0300" channel="fenix_filmes">
-    <title lang="pt">AKIRA</title>
-    <desc lang="pt">AKIRA</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Akira</title>
+    <desc lang="pt">Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</desc>
+    <category lang="pt">Animação, Ficção científica, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg"/>
+    <date>1988</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260711132544 -0300" stop="20260711140901 -0300" channel="fenix_filmes">
@@ -10286,11 +10279,10 @@
   </programme>
   <programme start="20260711151004 -0300" stop="20260711155813 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260711155813 -0300" stop="20260711164200 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -10309,11 +10301,13 @@
     </rating>
   </programme>
   <programme start="20260711180407 -0300" stop="20260711200836 -0300" channel="fenix_filmes">
-    <title lang="pt">AKIRA</title>
-    <desc lang="pt">AKIRA</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Akira</title>
+    <desc lang="pt">Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar, foi construída Neo-Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda e Tetsuo são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia, Tetsuo encontra Takashi, uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e, antes de receber a ajuda dos amigos, é levado por integrantes do exército, liderados pelo coronel Shikishima. A partir de então, Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei, uma garota envolvida com espiões, que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</desc>
+    <category lang="pt">Animação, Ficção científica, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/tbwwTQ3EqSdotbQ3ZcIl6vKBv7q.jpg"/>
+    <date>1988</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260711200836 -0300" stop="20260711205153 -0300" channel="fenix_filmes">
@@ -10334,11 +10328,10 @@
   </programme>
   <programme start="20260711215256 -0300" stop="20260711224105 -0300" channel="fenix_filmes">
     <title lang="pt">Geist</title>
-    <desc lang="pt">Geist</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Um pescador náufrago é levado a um segredo obscuro neste curto thriller.</desc>
+    <category lang="pt">Animação, Drama, Terror</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lJ2Aqd9XEHYZWhee3uRAJUhM00C.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260711224105 -0300" stop="20260711232452 -0300" channel="fenix_filmes">
     <title lang="pt">Us Manga Detonator Orgun</title>
@@ -10398,24 +10391,27 @@
   </programme>
   <programme start="20260711080719 -0300" stop="20260711094342 -0300" channel="fenix_filmes">
     <title lang="pt">A Maldição da Floresta</title>
-    <desc lang="pt">A Maldição da Floresta</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">O longa conta a história de uma família inglesa que vai morar em uma parte isolada da Irlanda. O intuito do pai é estudar a floresta para futuras construções. Mas sua ação acaba perturbando seres demoníacos que vivem no local e começam uma série de ataques contra a família.</desc>
+    <category lang="pt">Terror, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260711094342 -0300" stop="20260711112129 -0300" channel="fenix_filmes">
-    <title lang="pt">DE REPENTE 30</title>
-    <desc lang="pt">DE REPENTE 30</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">De Repente 30</title>
+    <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
+    <category lang="pt">Comédia, Fantasia, Romance</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hZmL1NlCUb0GycCtAJKX1JaMjhx.jpg"/>
+    <date>2004</date>
     <rating system="BR">
-      <value>L</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20260711112129 -0300" stop="20260711132035 -0300" channel="fenix_filmes">
-    <title lang="pt">Chocolate</title>
-    <desc lang="pt">Chocolate</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+    <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
+    <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg"/>
+    <date>2005</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -10446,19 +10442,17 @@
   </programme>
   <programme start="20260711180953 -0300" stop="20260711194545 -0300" channel="fenix_filmes">
     <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">A Recruta Hollywood</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260711194545 -0300" stop="20260711213642 -0300" channel="fenix_filmes">
-    <title lang="pt">A Família</title>
-    <desc lang="pt">A Família</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Familia a la deriva</title>
+    <desc lang="pt">Familia a la deriva</desc>
+    <category lang="pt">Família, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
+    <date>2026</date>
   </programme>
   <programme start="20260711213642 -0300" stop="20260711235743 -0300" channel="fenix_filmes">
     <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
@@ -10485,12 +10479,10 @@
     </rating>
   </programme>
   <programme start="20260711001935 -0300" stop="20260711004154 -0300" channel="fenix_filmes">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260711004154 -0300" stop="20260711010710 -0300" channel="fenix_filmes">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -10517,12 +10509,11 @@
     </rating>
   </programme>
   <programme start="20260711015935 -0300" stop="20260711025804 -0300" channel="fenix_filmes">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260711025804 -0300" stop="20260711035821 -0300" channel="fenix_filmes">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -10533,11 +10524,13 @@
     </rating>
   </programme>
   <programme start="20260711035821 -0300" stop="20260711050931 -0300" channel="fenix_filmes">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260711050931 -0300" stop="20260711054213 -0300" channel="fenix_filmes">
@@ -10589,12 +10582,10 @@
     </rating>
   </programme>
   <programme start="20260711085322 -0300" stop="20260711100258 -0300" channel="fenix_filmes">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260711100258 -0300" stop="20260711103527 -0300" channel="fenix_filmes">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
@@ -10629,12 +10620,10 @@
     </rating>
   </programme>
   <programme start="20260711121359 -0300" stop="20260711123618 -0300" channel="fenix_filmes">
-    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
-    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</title>
+    <desc lang="pt">Big Food: O Poder das Indústrias de Ultraprocessados</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ozu1iuNznQt3tkFOhGycMdPbOwh.jpg"/>
   </programme>
   <programme start="20260711123618 -0300" stop="20260711130134 -0300" channel="fenix_filmes">
     <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
@@ -10661,12 +10650,11 @@
     </rating>
   </programme>
   <programme start="20260711135359 -0300" stop="20260711145228 -0300" channel="fenix_filmes">
-    <title lang="pt">ORIGIN</title>
-    <desc lang="pt">ORIGIN</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Origin</title>
+    <desc lang="pt">O sistema tácito que moldou a América e narra como as vidas hoje são definidas por uma hierarquia de divisões humanas.</desc>
+    <category lang="pt">Drama, História</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dY0m1fypdNPp61kcmLdsk7KIR7C.jpg"/>
+    <date>2023</date>
   </programme>
   <programme start="20260711145228 -0300" stop="20260711155245 -0300" channel="fenix_filmes">
     <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
@@ -10677,11 +10665,13 @@
     </rating>
   </programme>
   <programme start="20260711155245 -0300" stop="20260711170355 -0300" channel="fenix_filmes">
-    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
-    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>
+    <desc lang="pt">Conheça a verdadeira história de Marcelo Nascimento da Rocha, contada por ele mesmo. Se fazendo passar por policial ou dono de uma das maiores empresas do Brasil, Marcelo levou uma vida repleta de mentiras e golpes, enganando autoridades e a mídia.</desc>
+    <category lang="pt">Documentário</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dFU9ynBQLNTYT3YldJdaoofYxCC.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>L</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260711170355 -0300" stop="20260711173637 -0300" channel="fenix_filmes">
@@ -10733,12 +10723,10 @@
     </rating>
   </programme>
   <programme start="20260711204746 -0300" stop="20260711215722 -0300" channel="fenix_filmes">
-    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
-    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Mestre Bimba, a Capoeira Iluminada</title>
+    <desc lang="pt">Mestre Bimba, a Capoeira Iluminada</desc>
+    <category lang="pt">Drama, Documentário</category>
+    <date>2005</date>
   </programme>
   <programme start="20260711215722 -0300" stop="20260711222951 -0300" channel="fenix_filmes">
     <title lang="pt">Despojos de Guerra  Laços de Sangue</title>

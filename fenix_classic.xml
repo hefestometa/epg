@@ -45,24 +45,27 @@
   </programme>
   <programme start="20260708080719 -0300" stop="20260708094342 -0300" channel="fenix_classic">
     <title lang="pt">A Maldição da Floresta</title>
-    <desc lang="pt">A Maldição da Floresta</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">O longa conta a história de uma família inglesa que vai morar em uma parte isolada da Irlanda. O intuito do pai é estudar a floresta para futuras construções. Mas sua ação acaba perturbando seres demoníacos que vivem no local e começam uma série de ataques contra a família.</desc>
+    <category lang="pt">Terror, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260708094342 -0300" stop="20260708112129 -0300" channel="fenix_classic">
-    <title lang="pt">DE REPENTE 30</title>
-    <desc lang="pt">DE REPENTE 30</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">De Repente 30</title>
+    <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
+    <category lang="pt">Comédia, Fantasia, Romance</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hZmL1NlCUb0GycCtAJKX1JaMjhx.jpg"/>
+    <date>2004</date>
     <rating system="BR">
-      <value>L</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20260708112129 -0300" stop="20260708132035 -0300" channel="fenix_classic">
-    <title lang="pt">Chocolate</title>
-    <desc lang="pt">Chocolate</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+    <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
+    <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg"/>
+    <date>2005</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -93,19 +96,17 @@
   </programme>
   <programme start="20260708180953 -0300" stop="20260708194545 -0300" channel="fenix_classic">
     <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">A Recruta Hollywood</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260708194545 -0300" stop="20260708213642 -0300" channel="fenix_classic">
-    <title lang="pt">A Família</title>
-    <desc lang="pt">A Família</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Familia a la deriva</title>
+    <desc lang="pt">Familia a la deriva</desc>
+    <category lang="pt">Família, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
+    <date>2026</date>
   </programme>
   <programme start="20260708213642 -0300" stop="20260708235743 -0300" channel="fenix_classic">
     <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
@@ -165,24 +166,27 @@
   </programme>
   <programme start="20260709080719 -0300" stop="20260709094342 -0300" channel="fenix_classic">
     <title lang="pt">A Maldição da Floresta</title>
-    <desc lang="pt">A Maldição da Floresta</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">O longa conta a história de uma família inglesa que vai morar em uma parte isolada da Irlanda. O intuito do pai é estudar a floresta para futuras construções. Mas sua ação acaba perturbando seres demoníacos que vivem no local e começam uma série de ataques contra a família.</desc>
+    <category lang="pt">Terror, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260709094342 -0300" stop="20260709112129 -0300" channel="fenix_classic">
-    <title lang="pt">DE REPENTE 30</title>
-    <desc lang="pt">DE REPENTE 30</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">De Repente 30</title>
+    <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
+    <category lang="pt">Comédia, Fantasia, Romance</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hZmL1NlCUb0GycCtAJKX1JaMjhx.jpg"/>
+    <date>2004</date>
     <rating system="BR">
-      <value>L</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20260709112129 -0300" stop="20260709132035 -0300" channel="fenix_classic">
-    <title lang="pt">Chocolate</title>
-    <desc lang="pt">Chocolate</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+    <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
+    <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg"/>
+    <date>2005</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -213,19 +217,17 @@
   </programme>
   <programme start="20260709180953 -0300" stop="20260709194545 -0300" channel="fenix_classic">
     <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">A Recruta Hollywood</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260709194545 -0300" stop="20260709213642 -0300" channel="fenix_classic">
-    <title lang="pt">A Família</title>
-    <desc lang="pt">A Família</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Familia a la deriva</title>
+    <desc lang="pt">Familia a la deriva</desc>
+    <category lang="pt">Família, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
+    <date>2026</date>
   </programme>
   <programme start="20260709213642 -0300" stop="20260709235743 -0300" channel="fenix_classic">
     <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
@@ -285,24 +287,27 @@
   </programme>
   <programme start="20260710080719 -0300" stop="20260710094342 -0300" channel="fenix_classic">
     <title lang="pt">A Maldição da Floresta</title>
-    <desc lang="pt">A Maldição da Floresta</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">O longa conta a história de uma família inglesa que vai morar em uma parte isolada da Irlanda. O intuito do pai é estudar a floresta para futuras construções. Mas sua ação acaba perturbando seres demoníacos que vivem no local e começam uma série de ataques contra a família.</desc>
+    <category lang="pt">Terror, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260710094342 -0300" stop="20260710112129 -0300" channel="fenix_classic">
-    <title lang="pt">DE REPENTE 30</title>
-    <desc lang="pt">DE REPENTE 30</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">De Repente 30</title>
+    <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
+    <category lang="pt">Comédia, Fantasia, Romance</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hZmL1NlCUb0GycCtAJKX1JaMjhx.jpg"/>
+    <date>2004</date>
     <rating system="BR">
-      <value>L</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20260710112129 -0300" stop="20260710132035 -0300" channel="fenix_classic">
-    <title lang="pt">Chocolate</title>
-    <desc lang="pt">Chocolate</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+    <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
+    <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg"/>
+    <date>2005</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -333,19 +338,17 @@
   </programme>
   <programme start="20260710180953 -0300" stop="20260710194545 -0300" channel="fenix_classic">
     <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">A Recruta Hollywood</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260710194545 -0300" stop="20260710213642 -0300" channel="fenix_classic">
-    <title lang="pt">A Família</title>
-    <desc lang="pt">A Família</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Familia a la deriva</title>
+    <desc lang="pt">Familia a la deriva</desc>
+    <category lang="pt">Família, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
+    <date>2026</date>
   </programme>
   <programme start="20260710213642 -0300" stop="20260710235743 -0300" channel="fenix_classic">
     <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
@@ -405,24 +408,27 @@
   </programme>
   <programme start="20260711080719 -0300" stop="20260711094342 -0300" channel="fenix_classic">
     <title lang="pt">A Maldição da Floresta</title>
-    <desc lang="pt">A Maldição da Floresta</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">O longa conta a história de uma família inglesa que vai morar em uma parte isolada da Irlanda. O intuito do pai é estudar a floresta para futuras construções. Mas sua ação acaba perturbando seres demoníacos que vivem no local e começam uma série de ataques contra a família.</desc>
+    <category lang="pt">Terror, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
+    <date>2015</date>
   </programme>
   <programme start="20260711094342 -0300" stop="20260711112129 -0300" channel="fenix_classic">
-    <title lang="pt">DE REPENTE 30</title>
-    <desc lang="pt">DE REPENTE 30</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">De Repente 30</title>
+    <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
+    <category lang="pt">Comédia, Fantasia, Romance</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hZmL1NlCUb0GycCtAJKX1JaMjhx.jpg"/>
+    <date>2004</date>
     <rating system="BR">
-      <value>L</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20260711112129 -0300" stop="20260711132035 -0300" channel="fenix_classic">
-    <title lang="pt">Chocolate</title>
-    <desc lang="pt">Chocolate</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+    <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
+    <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/vSl1u0z4TCKL4VPVyr6KDtZibYT.jpg"/>
+    <date>2005</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -453,19 +459,17 @@
   </programme>
   <programme start="20260711180953 -0300" stop="20260711194545 -0300" channel="fenix_classic">
     <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">A Recruta Hollywood</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
+    <date>2008</date>
   </programme>
   <programme start="20260711194545 -0300" stop="20260711213642 -0300" channel="fenix_classic">
-    <title lang="pt">A Família</title>
-    <desc lang="pt">A Família</desc>
-    <category lang="pt">Fenix</category>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
+    <title lang="pt">Familia a la deriva</title>
+    <desc lang="pt">Familia a la deriva</desc>
+    <category lang="pt">Família, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
+    <date>2026</date>
   </programme>
   <programme start="20260711213642 -0300" stop="20260711235743 -0300" channel="fenix_classic">
     <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
