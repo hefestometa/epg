@@ -3,4 +3,512 @@
   <channel id="fenix_plus">
     <display-name>Fenix Plus</display-name>
   </channel>
+  <programme start="20260708000000 -0300" stop="20260708013342 -0300" channel="fenix_plus">
+    <title lang="pt">127 Horas</title>
+    <desc lang="pt">Ao explorar um cânion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas opções, as quais o levam a uma situação angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civilização.</desc>
+    <category lang="pt">Aventura, Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qxAzFpo0mDW3ZLvJEAKTz3Pc6Tv.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260708013342 -0300" stop="20260708030607 -0300" channel="fenix_plus">
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260708030607 -0300" stop="20260708044632 -0300" channel="fenix_plus">
+    <title lang="pt">Corrida Mortal 2</title>
+    <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
+    <category lang="pt">Ação, Thriller, Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260708044632 -0300" stop="20260708062358 -0300" channel="fenix_plus">
+    <title lang="pt">Chat: A Sala Negra</title>
+    <desc lang="pt">William é um jovem de 17 anos que resolve criar um chat para adolescentes de sua idade. Lá, eles podem conversar sobre traumas, problemas e frustrações. Mas o que esses jovens não sabem é que William pode estar manipulando todos eles, e o resultado pode ser fatal.</desc>
+    <category lang="pt">Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260708062358 -0300" stop="20260708082105 -0300" channel="fenix_plus">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
+    <category lang="pt">Ação, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260708082105 -0300" stop="20260708094914 -0300" channel="fenix_plus">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke é um dog alemão adolescente de 90 quilos muito bagunceiro, que mora com a família Winslow. Quando os Winslows mudam-se para Califórnia, Marmaduke apaixona-se pela linda afegã Jezebel e terá de passar por vários desafios para aprender que o caráter e a beleza interior são as verdadeiras provas de um ‘TOP DOG”.</desc>
+    <category lang="pt">Família, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260708094914 -0300" stop="20260708112031 -0300" channel="fenix_plus">
+    <title lang="pt">Viagem do Medo</title>
+    <desc lang="pt">Ellie (Odette Annable) e Stephanie (Amber Heard) são duas amigas americanas que estão passando as férias na Argentina. Elas querem conhecer o que o país tem de mais exótico a oferecer. Enquanto exploram o interior do país, Ellie acaba sendo raptada e envolvida em um terrível jogo de violência, exploração sexual e medo.</desc>
+    <category lang="pt">Mistério, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260708112031 -0300" stop="20260708124543 -0300" channel="fenix_plus">
+    <title lang="pt">Naruto Shippuden O Filme: A Torre Perdida</title>
+    <desc lang="pt">Designado para uma missão para capturar Mukade, Naruto Uzumaki viaja para as ruínas de outra gloriosa histórica Rouran, onde persegue e encurrala o ninja. Mukade revelou a linha dormente dentro das ruínas, ele amplia o poder da linha temporal, causando uma luz para envolver Naruto, enviando-lhe vinte anos no passado. Quando Naruto acorda, ele entra em contato com seu pai.</desc>
+    <category lang="pt">Aventura, Ação, Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4IEBeghOA0tBE5gBiqoBU1ZlHUY.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260708124543 -0300" stop="20260708142111 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260708142111 -0300" stop="20260708155837 -0300" channel="fenix_plus">
+    <title lang="pt">Apartamento 2012 - A Insfestação</title>
+    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
+    <category lang="pt">Fenix</category>
+  </programme>
+  <programme start="20260708155837 -0300" stop="20260708173219 -0300" channel="fenix_plus">
+    <title lang="pt">127 Horas</title>
+    <desc lang="pt">Ao explorar um cânion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas opções, as quais o levam a uma situação angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civilização.</desc>
+    <category lang="pt">Aventura, Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qxAzFpo0mDW3ZLvJEAKTz3Pc6Tv.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260708173219 -0300" stop="20260708190444 -0300" channel="fenix_plus">
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260708190444 -0300" stop="20260708204509 -0300" channel="fenix_plus">
+    <title lang="pt">Corrida Mortal 2</title>
+    <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
+    <category lang="pt">Ação, Thriller, Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260708204509 -0300" stop="20260708222235 -0300" channel="fenix_plus">
+    <title lang="pt">Chat: A Sala Negra</title>
+    <desc lang="pt">William é um jovem de 17 anos que resolve criar um chat para adolescentes de sua idade. Lá, eles podem conversar sobre traumas, problemas e frustrações. Mas o que esses jovens não sabem é que William pode estar manipulando todos eles, e o resultado pode ser fatal.</desc>
+    <category lang="pt">Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260708222235 -0300" stop="20260709001942 -0300" channel="fenix_plus">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
+    <category lang="pt">Ação, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260709000000 -0300" stop="20260709013342 -0300" channel="fenix_plus">
+    <title lang="pt">127 Horas</title>
+    <desc lang="pt">Ao explorar um cânion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas opções, as quais o levam a uma situação angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civilização.</desc>
+    <category lang="pt">Aventura, Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qxAzFpo0mDW3ZLvJEAKTz3Pc6Tv.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260709013342 -0300" stop="20260709030607 -0300" channel="fenix_plus">
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260709030607 -0300" stop="20260709044632 -0300" channel="fenix_plus">
+    <title lang="pt">Corrida Mortal 2</title>
+    <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
+    <category lang="pt">Ação, Thriller, Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260709044632 -0300" stop="20260709062358 -0300" channel="fenix_plus">
+    <title lang="pt">Chat: A Sala Negra</title>
+    <desc lang="pt">William é um jovem de 17 anos que resolve criar um chat para adolescentes de sua idade. Lá, eles podem conversar sobre traumas, problemas e frustrações. Mas o que esses jovens não sabem é que William pode estar manipulando todos eles, e o resultado pode ser fatal.</desc>
+    <category lang="pt">Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260709062358 -0300" stop="20260709082105 -0300" channel="fenix_plus">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
+    <category lang="pt">Ação, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260709082105 -0300" stop="20260709094914 -0300" channel="fenix_plus">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke é um dog alemão adolescente de 90 quilos muito bagunceiro, que mora com a família Winslow. Quando os Winslows mudam-se para Califórnia, Marmaduke apaixona-se pela linda afegã Jezebel e terá de passar por vários desafios para aprender que o caráter e a beleza interior são as verdadeiras provas de um ‘TOP DOG”.</desc>
+    <category lang="pt">Família, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260709094914 -0300" stop="20260709112031 -0300" channel="fenix_plus">
+    <title lang="pt">Viagem do Medo</title>
+    <desc lang="pt">Ellie (Odette Annable) e Stephanie (Amber Heard) são duas amigas americanas que estão passando as férias na Argentina. Elas querem conhecer o que o país tem de mais exótico a oferecer. Enquanto exploram o interior do país, Ellie acaba sendo raptada e envolvida em um terrível jogo de violência, exploração sexual e medo.</desc>
+    <category lang="pt">Mistério, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260709112031 -0300" stop="20260709124543 -0300" channel="fenix_plus">
+    <title lang="pt">Naruto Shippuden O Filme: A Torre Perdida</title>
+    <desc lang="pt">Designado para uma missão para capturar Mukade, Naruto Uzumaki viaja para as ruínas de outra gloriosa histórica Rouran, onde persegue e encurrala o ninja. Mukade revelou a linha dormente dentro das ruínas, ele amplia o poder da linha temporal, causando uma luz para envolver Naruto, enviando-lhe vinte anos no passado. Quando Naruto acorda, ele entra em contato com seu pai.</desc>
+    <category lang="pt">Aventura, Ação, Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4IEBeghOA0tBE5gBiqoBU1ZlHUY.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260709124543 -0300" stop="20260709142111 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260709142111 -0300" stop="20260709155837 -0300" channel="fenix_plus">
+    <title lang="pt">Apartamento 2012 - A Insfestação</title>
+    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
+    <category lang="pt">Fenix</category>
+  </programme>
+  <programme start="20260709155837 -0300" stop="20260709173219 -0300" channel="fenix_plus">
+    <title lang="pt">127 Horas</title>
+    <desc lang="pt">Ao explorar um cânion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas opções, as quais o levam a uma situação angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civilização.</desc>
+    <category lang="pt">Aventura, Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qxAzFpo0mDW3ZLvJEAKTz3Pc6Tv.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260709173219 -0300" stop="20260709190444 -0300" channel="fenix_plus">
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260709190444 -0300" stop="20260709204509 -0300" channel="fenix_plus">
+    <title lang="pt">Corrida Mortal 2</title>
+    <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
+    <category lang="pt">Ação, Thriller, Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260709204509 -0300" stop="20260709222235 -0300" channel="fenix_plus">
+    <title lang="pt">Chat: A Sala Negra</title>
+    <desc lang="pt">William é um jovem de 17 anos que resolve criar um chat para adolescentes de sua idade. Lá, eles podem conversar sobre traumas, problemas e frustrações. Mas o que esses jovens não sabem é que William pode estar manipulando todos eles, e o resultado pode ser fatal.</desc>
+    <category lang="pt">Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260709222235 -0300" stop="20260710001942 -0300" channel="fenix_plus">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
+    <category lang="pt">Ação, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260710000000 -0300" stop="20260710013342 -0300" channel="fenix_plus">
+    <title lang="pt">127 Horas</title>
+    <desc lang="pt">Ao explorar um cânion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas opções, as quais o levam a uma situação angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civilização.</desc>
+    <category lang="pt">Aventura, Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qxAzFpo0mDW3ZLvJEAKTz3Pc6Tv.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260710013342 -0300" stop="20260710030607 -0300" channel="fenix_plus">
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260710030607 -0300" stop="20260710044632 -0300" channel="fenix_plus">
+    <title lang="pt">Corrida Mortal 2</title>
+    <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
+    <category lang="pt">Ação, Thriller, Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260710044632 -0300" stop="20260710062358 -0300" channel="fenix_plus">
+    <title lang="pt">Chat: A Sala Negra</title>
+    <desc lang="pt">William é um jovem de 17 anos que resolve criar um chat para adolescentes de sua idade. Lá, eles podem conversar sobre traumas, problemas e frustrações. Mas o que esses jovens não sabem é que William pode estar manipulando todos eles, e o resultado pode ser fatal.</desc>
+    <category lang="pt">Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260710062358 -0300" stop="20260710082105 -0300" channel="fenix_plus">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
+    <category lang="pt">Ação, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260710082105 -0300" stop="20260710094914 -0300" channel="fenix_plus">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke é um dog alemão adolescente de 90 quilos muito bagunceiro, que mora com a família Winslow. Quando os Winslows mudam-se para Califórnia, Marmaduke apaixona-se pela linda afegã Jezebel e terá de passar por vários desafios para aprender que o caráter e a beleza interior são as verdadeiras provas de um ‘TOP DOG”.</desc>
+    <category lang="pt">Família, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260710094914 -0300" stop="20260710112031 -0300" channel="fenix_plus">
+    <title lang="pt">Viagem do Medo</title>
+    <desc lang="pt">Ellie (Odette Annable) e Stephanie (Amber Heard) são duas amigas americanas que estão passando as férias na Argentina. Elas querem conhecer o que o país tem de mais exótico a oferecer. Enquanto exploram o interior do país, Ellie acaba sendo raptada e envolvida em um terrível jogo de violência, exploração sexual e medo.</desc>
+    <category lang="pt">Mistério, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260710112031 -0300" stop="20260710124543 -0300" channel="fenix_plus">
+    <title lang="pt">Naruto Shippuden O Filme: A Torre Perdida</title>
+    <desc lang="pt">Designado para uma missão para capturar Mukade, Naruto Uzumaki viaja para as ruínas de outra gloriosa histórica Rouran, onde persegue e encurrala o ninja. Mukade revelou a linha dormente dentro das ruínas, ele amplia o poder da linha temporal, causando uma luz para envolver Naruto, enviando-lhe vinte anos no passado. Quando Naruto acorda, ele entra em contato com seu pai.</desc>
+    <category lang="pt">Aventura, Ação, Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4IEBeghOA0tBE5gBiqoBU1ZlHUY.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260710124543 -0300" stop="20260710142111 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260710142111 -0300" stop="20260710155837 -0300" channel="fenix_plus">
+    <title lang="pt">Apartamento 2012 - A Insfestação</title>
+    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
+    <category lang="pt">Fenix</category>
+  </programme>
+  <programme start="20260710155837 -0300" stop="20260710173219 -0300" channel="fenix_plus">
+    <title lang="pt">127 Horas</title>
+    <desc lang="pt">Ao explorar um cânion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas opções, as quais o levam a uma situação angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civilização.</desc>
+    <category lang="pt">Aventura, Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qxAzFpo0mDW3ZLvJEAKTz3Pc6Tv.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260710173219 -0300" stop="20260710190444 -0300" channel="fenix_plus">
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260710190444 -0300" stop="20260710204509 -0300" channel="fenix_plus">
+    <title lang="pt">Corrida Mortal 2</title>
+    <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
+    <category lang="pt">Ação, Thriller, Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260710204509 -0300" stop="20260710222235 -0300" channel="fenix_plus">
+    <title lang="pt">Chat: A Sala Negra</title>
+    <desc lang="pt">William é um jovem de 17 anos que resolve criar um chat para adolescentes de sua idade. Lá, eles podem conversar sobre traumas, problemas e frustrações. Mas o que esses jovens não sabem é que William pode estar manipulando todos eles, e o resultado pode ser fatal.</desc>
+    <category lang="pt">Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260710222235 -0300" stop="20260711001942 -0300" channel="fenix_plus">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
+    <category lang="pt">Ação, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260711000000 -0300" stop="20260711013342 -0300" channel="fenix_plus">
+    <title lang="pt">127 Horas</title>
+    <desc lang="pt">Ao explorar um cânion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas opções, as quais o levam a uma situação angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civilização.</desc>
+    <category lang="pt">Aventura, Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qxAzFpo0mDW3ZLvJEAKTz3Pc6Tv.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260711013342 -0300" stop="20260711030607 -0300" channel="fenix_plus">
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260711030607 -0300" stop="20260711044632 -0300" channel="fenix_plus">
+    <title lang="pt">Corrida Mortal 2</title>
+    <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
+    <category lang="pt">Ação, Thriller, Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260711044632 -0300" stop="20260711062358 -0300" channel="fenix_plus">
+    <title lang="pt">Chat: A Sala Negra</title>
+    <desc lang="pt">William é um jovem de 17 anos que resolve criar um chat para adolescentes de sua idade. Lá, eles podem conversar sobre traumas, problemas e frustrações. Mas o que esses jovens não sabem é que William pode estar manipulando todos eles, e o resultado pode ser fatal.</desc>
+    <category lang="pt">Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260711062358 -0300" stop="20260711082105 -0300" channel="fenix_plus">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
+    <category lang="pt">Ação, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260711082105 -0300" stop="20260711094914 -0300" channel="fenix_plus">
+    <title lang="pt">Marmaduke</title>
+    <desc lang="pt">Marmaduke é um dog alemão adolescente de 90 quilos muito bagunceiro, que mora com a família Winslow. Quando os Winslows mudam-se para Califórnia, Marmaduke apaixona-se pela linda afegã Jezebel e terá de passar por vários desafios para aprender que o caráter e a beleza interior são as verdadeiras provas de um ‘TOP DOG”.</desc>
+    <category lang="pt">Família, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260711094914 -0300" stop="20260711112031 -0300" channel="fenix_plus">
+    <title lang="pt">Viagem do Medo</title>
+    <desc lang="pt">Ellie (Odette Annable) e Stephanie (Amber Heard) são duas amigas americanas que estão passando as férias na Argentina. Elas querem conhecer o que o país tem de mais exótico a oferecer. Enquanto exploram o interior do país, Ellie acaba sendo raptada e envolvida em um terrível jogo de violência, exploração sexual e medo.</desc>
+    <category lang="pt">Mistério, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260711112031 -0300" stop="20260711124543 -0300" channel="fenix_plus">
+    <title lang="pt">Naruto Shippuden O Filme: A Torre Perdida</title>
+    <desc lang="pt">Designado para uma missão para capturar Mukade, Naruto Uzumaki viaja para as ruínas de outra gloriosa histórica Rouran, onde persegue e encurrala o ninja. Mukade revelou a linha dormente dentro das ruínas, ele amplia o poder da linha temporal, causando uma luz para envolver Naruto, enviando-lhe vinte anos no passado. Quando Naruto acorda, ele entra em contato com seu pai.</desc>
+    <category lang="pt">Aventura, Ação, Animação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4IEBeghOA0tBE5gBiqoBU1ZlHUY.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260711124543 -0300" stop="20260711142111 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260711142111 -0300" stop="20260711155837 -0300" channel="fenix_plus">
+    <title lang="pt">Apartamento 2012 - A Insfestação</title>
+    <desc lang="pt">Apartamento 2012 - A Insfestação</desc>
+    <category lang="pt">Fenix</category>
+  </programme>
+  <programme start="20260711155837 -0300" stop="20260711173219 -0300" channel="fenix_plus">
+    <title lang="pt">127 Horas</title>
+    <desc lang="pt">Ao explorar um cânion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas opções, as quais o levam a uma situação angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civilização.</desc>
+    <category lang="pt">Aventura, Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qxAzFpo0mDW3ZLvJEAKTz3Pc6Tv.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260711173219 -0300" stop="20260711190444 -0300" channel="fenix_plus">
+    <title lang="pt">A Mentira</title>
+    <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
+    <category lang="pt">Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5ThseiB0z6fz1hyw2Ofv9o8frmD.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260711190444 -0300" stop="20260711204509 -0300" channel="fenix_plus">
+    <title lang="pt">Corrida Mortal 2</title>
+    <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
+    <category lang="pt">Ação, Thriller, Ficção científica</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260711204509 -0300" stop="20260711222235 -0300" channel="fenix_plus">
+    <title lang="pt">Chat: A Sala Negra</title>
+    <desc lang="pt">William é um jovem de 17 anos que resolve criar um chat para adolescentes de sua idade. Lá, eles podem conversar sobre traumas, problemas e frustrações. Mas o que esses jovens não sabem é que William pode estar manipulando todos eles, e o resultado pode ser fatal.</desc>
+    <category lang="pt">Drama, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
+    <date>2010</date>
+  </programme>
+  <programme start="20260711222235 -0300" stop="20260712001942 -0300" channel="fenix_plus">
+    <title lang="pt">Encontro Explosivo</title>
+    <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
+    <category lang="pt">Ação, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/ovgL7y93qKZpOWLlmYsZPf8HzYM.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
 </tv>

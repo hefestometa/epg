@@ -3,4 +3,1124 @@
   <channel id="fenix_series">
     <display-name>Fenix Series</display-name>
   </channel>
+  <programme start="20260708000000 -0300" stop="20260708004243 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708004243 -0300" stop="20260708012355 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708012355 -0300" stop="20260708020552 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep4</title>
+    <desc lang="pt">24 HORAS    T1 Ep4</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708020552 -0300" stop="20260708024841 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep6</title>
+    <desc lang="pt">24 HORAS    T1 Ep6</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708024841 -0300" stop="20260708033006 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep21</title>
+    <desc lang="pt">24 HORAS    T1 Ep21</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708033006 -0300" stop="20260708041248 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep7</title>
+    <desc lang="pt">24 HORAS    T1 Ep7</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708041248 -0300" stop="20260708045538 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep8</title>
+    <desc lang="pt">24 HORAS    T1 Ep8</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708045538 -0300" stop="20260708053820 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep11</title>
+    <desc lang="pt">24 HORAS    T1 Ep11</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708053820 -0300" stop="20260708062112 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep9</title>
+    <desc lang="pt">24 HORAS    T1 Ep9</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708062112 -0300" stop="20260708070306 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep5</title>
+    <desc lang="pt">24 HORAS    T1 Ep5</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708070306 -0300" stop="20260708074537 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep3</title>
+    <desc lang="pt">24 HORAS    T1 Ep3</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708074537 -0300" stop="20260708082820 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708082820 -0300" stop="20260708090932 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708090932 -0300" stop="20260708095129 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep4</title>
+    <desc lang="pt">24 HORAS    T1 Ep4</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708095129 -0300" stop="20260708103418 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep6</title>
+    <desc lang="pt">24 HORAS    T1 Ep6</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708103418 -0300" stop="20260708111543 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep21</title>
+    <desc lang="pt">24 HORAS    T1 Ep21</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708111543 -0300" stop="20260708115825 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep7</title>
+    <desc lang="pt">24 HORAS    T1 Ep7</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708115825 -0300" stop="20260708124115 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep8</title>
+    <desc lang="pt">24 HORAS    T1 Ep8</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708124115 -0300" stop="20260708132357 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep11</title>
+    <desc lang="pt">24 HORAS    T1 Ep11</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708132357 -0300" stop="20260708140649 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep9</title>
+    <desc lang="pt">24 HORAS    T1 Ep9</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708140649 -0300" stop="20260708144843 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep5</title>
+    <desc lang="pt">24 HORAS    T1 Ep5</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708144843 -0300" stop="20260708153114 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep3</title>
+    <desc lang="pt">24 HORAS    T1 Ep3</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708153114 -0300" stop="20260708161357 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708161357 -0300" stop="20260708165509 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708165509 -0300" stop="20260708173706 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep4</title>
+    <desc lang="pt">24 HORAS    T1 Ep4</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708173706 -0300" stop="20260708181955 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep6</title>
+    <desc lang="pt">24 HORAS    T1 Ep6</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708181955 -0300" stop="20260708190120 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep21</title>
+    <desc lang="pt">24 HORAS    T1 Ep21</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708190120 -0300" stop="20260708194402 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep7</title>
+    <desc lang="pt">24 HORAS    T1 Ep7</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708194402 -0300" stop="20260708202652 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep8</title>
+    <desc lang="pt">24 HORAS    T1 Ep8</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708202652 -0300" stop="20260708210934 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep11</title>
+    <desc lang="pt">24 HORAS    T1 Ep11</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708210934 -0300" stop="20260708215226 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep9</title>
+    <desc lang="pt">24 HORAS    T1 Ep9</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708215226 -0300" stop="20260708223420 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep5</title>
+    <desc lang="pt">24 HORAS    T1 Ep5</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708223420 -0300" stop="20260708231651 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep3</title>
+    <desc lang="pt">24 HORAS    T1 Ep3</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708231651 -0300" stop="20260708235934 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708235934 -0300" stop="20260709004046 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709000000 -0300" stop="20260709004243 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709004243 -0300" stop="20260709012355 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709012355 -0300" stop="20260709020552 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep4</title>
+    <desc lang="pt">24 HORAS    T1 Ep4</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709020552 -0300" stop="20260709024841 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep6</title>
+    <desc lang="pt">24 HORAS    T1 Ep6</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709024841 -0300" stop="20260709033006 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep21</title>
+    <desc lang="pt">24 HORAS    T1 Ep21</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709033006 -0300" stop="20260709041248 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep7</title>
+    <desc lang="pt">24 HORAS    T1 Ep7</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709041248 -0300" stop="20260709045538 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep8</title>
+    <desc lang="pt">24 HORAS    T1 Ep8</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709045538 -0300" stop="20260709053820 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep11</title>
+    <desc lang="pt">24 HORAS    T1 Ep11</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709053820 -0300" stop="20260709062112 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep9</title>
+    <desc lang="pt">24 HORAS    T1 Ep9</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709062112 -0300" stop="20260709070306 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep5</title>
+    <desc lang="pt">24 HORAS    T1 Ep5</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709070306 -0300" stop="20260709074537 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep3</title>
+    <desc lang="pt">24 HORAS    T1 Ep3</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709074537 -0300" stop="20260709082820 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709082820 -0300" stop="20260709090932 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709090932 -0300" stop="20260709095129 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep4</title>
+    <desc lang="pt">24 HORAS    T1 Ep4</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709095129 -0300" stop="20260709103418 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep6</title>
+    <desc lang="pt">24 HORAS    T1 Ep6</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709103418 -0300" stop="20260709111543 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep21</title>
+    <desc lang="pt">24 HORAS    T1 Ep21</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709111543 -0300" stop="20260709115825 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep7</title>
+    <desc lang="pt">24 HORAS    T1 Ep7</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709115825 -0300" stop="20260709124115 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep8</title>
+    <desc lang="pt">24 HORAS    T1 Ep8</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709124115 -0300" stop="20260709132357 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep11</title>
+    <desc lang="pt">24 HORAS    T1 Ep11</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709132357 -0300" stop="20260709140649 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep9</title>
+    <desc lang="pt">24 HORAS    T1 Ep9</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709140649 -0300" stop="20260709144843 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep5</title>
+    <desc lang="pt">24 HORAS    T1 Ep5</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709144843 -0300" stop="20260709153114 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep3</title>
+    <desc lang="pt">24 HORAS    T1 Ep3</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709153114 -0300" stop="20260709161357 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709161357 -0300" stop="20260709165509 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709165509 -0300" stop="20260709173706 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep4</title>
+    <desc lang="pt">24 HORAS    T1 Ep4</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709173706 -0300" stop="20260709181955 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep6</title>
+    <desc lang="pt">24 HORAS    T1 Ep6</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709181955 -0300" stop="20260709190120 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep21</title>
+    <desc lang="pt">24 HORAS    T1 Ep21</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709190120 -0300" stop="20260709194402 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep7</title>
+    <desc lang="pt">24 HORAS    T1 Ep7</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709194402 -0300" stop="20260709202652 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep8</title>
+    <desc lang="pt">24 HORAS    T1 Ep8</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709202652 -0300" stop="20260709210934 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep11</title>
+    <desc lang="pt">24 HORAS    T1 Ep11</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709210934 -0300" stop="20260709215226 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep9</title>
+    <desc lang="pt">24 HORAS    T1 Ep9</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709215226 -0300" stop="20260709223420 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep5</title>
+    <desc lang="pt">24 HORAS    T1 Ep5</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709223420 -0300" stop="20260709231651 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep3</title>
+    <desc lang="pt">24 HORAS    T1 Ep3</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709231651 -0300" stop="20260709235934 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709235934 -0300" stop="20260710004046 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710000000 -0300" stop="20260710004243 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710004243 -0300" stop="20260710012355 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710012355 -0300" stop="20260710020552 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep4</title>
+    <desc lang="pt">24 HORAS    T1 Ep4</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710020552 -0300" stop="20260710024841 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep6</title>
+    <desc lang="pt">24 HORAS    T1 Ep6</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710024841 -0300" stop="20260710033006 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep21</title>
+    <desc lang="pt">24 HORAS    T1 Ep21</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710033006 -0300" stop="20260710041248 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep7</title>
+    <desc lang="pt">24 HORAS    T1 Ep7</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710041248 -0300" stop="20260710045538 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep8</title>
+    <desc lang="pt">24 HORAS    T1 Ep8</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710045538 -0300" stop="20260710053820 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep11</title>
+    <desc lang="pt">24 HORAS    T1 Ep11</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710053820 -0300" stop="20260710062112 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep9</title>
+    <desc lang="pt">24 HORAS    T1 Ep9</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710062112 -0300" stop="20260710070306 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep5</title>
+    <desc lang="pt">24 HORAS    T1 Ep5</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710070306 -0300" stop="20260710074537 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep3</title>
+    <desc lang="pt">24 HORAS    T1 Ep3</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710074537 -0300" stop="20260710082820 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710082820 -0300" stop="20260710090932 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710090932 -0300" stop="20260710095129 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep4</title>
+    <desc lang="pt">24 HORAS    T1 Ep4</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710095129 -0300" stop="20260710103418 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep6</title>
+    <desc lang="pt">24 HORAS    T1 Ep6</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710103418 -0300" stop="20260710111543 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep21</title>
+    <desc lang="pt">24 HORAS    T1 Ep21</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710111543 -0300" stop="20260710115825 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep7</title>
+    <desc lang="pt">24 HORAS    T1 Ep7</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710115825 -0300" stop="20260710124115 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep8</title>
+    <desc lang="pt">24 HORAS    T1 Ep8</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710124115 -0300" stop="20260710132357 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep11</title>
+    <desc lang="pt">24 HORAS    T1 Ep11</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710132357 -0300" stop="20260710140649 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep9</title>
+    <desc lang="pt">24 HORAS    T1 Ep9</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710140649 -0300" stop="20260710144843 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep5</title>
+    <desc lang="pt">24 HORAS    T1 Ep5</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710144843 -0300" stop="20260710153114 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep3</title>
+    <desc lang="pt">24 HORAS    T1 Ep3</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710153114 -0300" stop="20260710161357 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710161357 -0300" stop="20260710165509 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710165509 -0300" stop="20260710173706 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep4</title>
+    <desc lang="pt">24 HORAS    T1 Ep4</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710173706 -0300" stop="20260710181955 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep6</title>
+    <desc lang="pt">24 HORAS    T1 Ep6</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710181955 -0300" stop="20260710190120 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep21</title>
+    <desc lang="pt">24 HORAS    T1 Ep21</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710190120 -0300" stop="20260710194402 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep7</title>
+    <desc lang="pt">24 HORAS    T1 Ep7</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710194402 -0300" stop="20260710202652 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep8</title>
+    <desc lang="pt">24 HORAS    T1 Ep8</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710202652 -0300" stop="20260710210934 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep11</title>
+    <desc lang="pt">24 HORAS    T1 Ep11</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710210934 -0300" stop="20260710215226 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep9</title>
+    <desc lang="pt">24 HORAS    T1 Ep9</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710215226 -0300" stop="20260710223420 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep5</title>
+    <desc lang="pt">24 HORAS    T1 Ep5</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710223420 -0300" stop="20260710231651 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep3</title>
+    <desc lang="pt">24 HORAS    T1 Ep3</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710231651 -0300" stop="20260710235934 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710235934 -0300" stop="20260711004046 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711000000 -0300" stop="20260711004243 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711004243 -0300" stop="20260711012355 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711012355 -0300" stop="20260711020552 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep4</title>
+    <desc lang="pt">24 HORAS    T1 Ep4</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711020552 -0300" stop="20260711024841 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep6</title>
+    <desc lang="pt">24 HORAS    T1 Ep6</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711024841 -0300" stop="20260711033006 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep21</title>
+    <desc lang="pt">24 HORAS    T1 Ep21</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711033006 -0300" stop="20260711041248 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep7</title>
+    <desc lang="pt">24 HORAS    T1 Ep7</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711041248 -0300" stop="20260711045538 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep8</title>
+    <desc lang="pt">24 HORAS    T1 Ep8</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711045538 -0300" stop="20260711053820 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep11</title>
+    <desc lang="pt">24 HORAS    T1 Ep11</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711053820 -0300" stop="20260711062112 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep9</title>
+    <desc lang="pt">24 HORAS    T1 Ep9</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711062112 -0300" stop="20260711070306 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep5</title>
+    <desc lang="pt">24 HORAS    T1 Ep5</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711070306 -0300" stop="20260711074537 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep3</title>
+    <desc lang="pt">24 HORAS    T1 Ep3</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711074537 -0300" stop="20260711082820 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711082820 -0300" stop="20260711090932 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711090932 -0300" stop="20260711095129 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep4</title>
+    <desc lang="pt">24 HORAS    T1 Ep4</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711095129 -0300" stop="20260711103418 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep6</title>
+    <desc lang="pt">24 HORAS    T1 Ep6</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711103418 -0300" stop="20260711111543 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep21</title>
+    <desc lang="pt">24 HORAS    T1 Ep21</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711111543 -0300" stop="20260711115825 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep7</title>
+    <desc lang="pt">24 HORAS    T1 Ep7</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711115825 -0300" stop="20260711124115 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep8</title>
+    <desc lang="pt">24 HORAS    T1 Ep8</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711124115 -0300" stop="20260711132357 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep11</title>
+    <desc lang="pt">24 HORAS    T1 Ep11</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711132357 -0300" stop="20260711140649 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep9</title>
+    <desc lang="pt">24 HORAS    T1 Ep9</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711140649 -0300" stop="20260711144843 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep5</title>
+    <desc lang="pt">24 HORAS    T1 Ep5</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711144843 -0300" stop="20260711153114 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep3</title>
+    <desc lang="pt">24 HORAS    T1 Ep3</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711153114 -0300" stop="20260711161357 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711161357 -0300" stop="20260711165509 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711165509 -0300" stop="20260711173706 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep4</title>
+    <desc lang="pt">24 HORAS    T1 Ep4</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711173706 -0300" stop="20260711181955 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep6</title>
+    <desc lang="pt">24 HORAS    T1 Ep6</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711181955 -0300" stop="20260711190120 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep21</title>
+    <desc lang="pt">24 HORAS    T1 Ep21</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711190120 -0300" stop="20260711194402 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep7</title>
+    <desc lang="pt">24 HORAS    T1 Ep7</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711194402 -0300" stop="20260711202652 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep8</title>
+    <desc lang="pt">24 HORAS    T1 Ep8</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711202652 -0300" stop="20260711210934 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep11</title>
+    <desc lang="pt">24 HORAS    T1 Ep11</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711210934 -0300" stop="20260711215226 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep9</title>
+    <desc lang="pt">24 HORAS    T1 Ep9</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711215226 -0300" stop="20260711223420 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep5</title>
+    <desc lang="pt">24 HORAS    T1 Ep5</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711223420 -0300" stop="20260711231651 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep3</title>
+    <desc lang="pt">24 HORAS    T1 Ep3</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711231651 -0300" stop="20260711235934 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep1</title>
+    <desc lang="pt">24 HORAS    T1 Ep1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711235934 -0300" stop="20260712004046 -0300" channel="fenix_series">
+    <title lang="pt">24 HORAS    T1 Ep2</title>
+    <desc lang="pt">24 HORAS    T1 Ep2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>

@@ -3,4 +3,484 @@
   <channel id="fenix_classic">
     <display-name>Fenix Classic</display-name>
   </channel>
+  <programme start="20260708000000 -0300" stop="20260708012638 -0300" channel="fenix_classic">
+    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
+    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708012638 -0300" stop="20260708025849 -0300" channel="fenix_classic">
+    <title lang="pt">10,000 Dólares para Django   Faroeste</title>
+    <desc lang="pt">10,000 Dólares para Django   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708025849 -0300" stop="20260708043849 -0300" channel="fenix_classic">
+    <title lang="pt">15 Forcas para um Assassino   Faroeste</title>
+    <desc lang="pt">15 Forcas para um Assassino   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708043849 -0300" stop="20260708061805 -0300" channel="fenix_classic">
+    <title lang="pt">A Lei do Bravo   Faroeste</title>
+    <desc lang="pt">A Lei do Bravo   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708061805 -0300" stop="20260708080719 -0300" channel="fenix_classic">
+    <title lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</title>
+    <desc lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708080719 -0300" stop="20260708094342 -0300" channel="fenix_classic">
+    <title lang="pt">A Maldição da Floresta</title>
+    <desc lang="pt">A Maldição da Floresta</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708094342 -0300" stop="20260708112129 -0300" channel="fenix_classic">
+    <title lang="pt">DE REPENTE 30</title>
+    <desc lang="pt">DE REPENTE 30</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708112129 -0300" stop="20260708132035 -0300" channel="fenix_classic">
+    <title lang="pt">Chocolate</title>
+    <desc lang="pt">Chocolate</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708132035 -0300" stop="20260708151405 -0300" channel="fenix_classic">
+    <title lang="pt">Amnésia Online</title>
+    <desc lang="pt">Amnésia Online</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708151405 -0300" stop="20260708163610 -0300" channel="fenix_classic">
+    <title lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</title>
+    <desc lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708163610 -0300" stop="20260708180953 -0300" channel="fenix_classic">
+    <title lang="pt">A Vida por um Dolar   Spaghetti Western   Faroeste</title>
+    <desc lang="pt">A Vida por um Dolar   Spaghetti Western   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708180953 -0300" stop="20260708194545 -0300" channel="fenix_classic">
+    <title lang="pt">A Recruta Hollywood</title>
+    <desc lang="pt">A Recruta Hollywood</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708194545 -0300" stop="20260708213642 -0300" channel="fenix_classic">
+    <title lang="pt">A Família</title>
+    <desc lang="pt">A Família</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708213642 -0300" stop="20260708235743 -0300" channel="fenix_classic">
+    <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
+    <desc lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708235743 -0300" stop="20260709012421 -0300" channel="fenix_classic">
+    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
+    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709000000 -0300" stop="20260709012638 -0300" channel="fenix_classic">
+    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
+    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709012638 -0300" stop="20260709025849 -0300" channel="fenix_classic">
+    <title lang="pt">10,000 Dólares para Django   Faroeste</title>
+    <desc lang="pt">10,000 Dólares para Django   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709025849 -0300" stop="20260709043849 -0300" channel="fenix_classic">
+    <title lang="pt">15 Forcas para um Assassino   Faroeste</title>
+    <desc lang="pt">15 Forcas para um Assassino   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709043849 -0300" stop="20260709061805 -0300" channel="fenix_classic">
+    <title lang="pt">A Lei do Bravo   Faroeste</title>
+    <desc lang="pt">A Lei do Bravo   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709061805 -0300" stop="20260709080719 -0300" channel="fenix_classic">
+    <title lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</title>
+    <desc lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709080719 -0300" stop="20260709094342 -0300" channel="fenix_classic">
+    <title lang="pt">A Maldição da Floresta</title>
+    <desc lang="pt">A Maldição da Floresta</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709094342 -0300" stop="20260709112129 -0300" channel="fenix_classic">
+    <title lang="pt">DE REPENTE 30</title>
+    <desc lang="pt">DE REPENTE 30</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709112129 -0300" stop="20260709132035 -0300" channel="fenix_classic">
+    <title lang="pt">Chocolate</title>
+    <desc lang="pt">Chocolate</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709132035 -0300" stop="20260709151405 -0300" channel="fenix_classic">
+    <title lang="pt">Amnésia Online</title>
+    <desc lang="pt">Amnésia Online</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709151405 -0300" stop="20260709163610 -0300" channel="fenix_classic">
+    <title lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</title>
+    <desc lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709163610 -0300" stop="20260709180953 -0300" channel="fenix_classic">
+    <title lang="pt">A Vida por um Dolar   Spaghetti Western   Faroeste</title>
+    <desc lang="pt">A Vida por um Dolar   Spaghetti Western   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709180953 -0300" stop="20260709194545 -0300" channel="fenix_classic">
+    <title lang="pt">A Recruta Hollywood</title>
+    <desc lang="pt">A Recruta Hollywood</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709194545 -0300" stop="20260709213642 -0300" channel="fenix_classic">
+    <title lang="pt">A Família</title>
+    <desc lang="pt">A Família</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709213642 -0300" stop="20260709235743 -0300" channel="fenix_classic">
+    <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
+    <desc lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709235743 -0300" stop="20260710012421 -0300" channel="fenix_classic">
+    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
+    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710000000 -0300" stop="20260710012638 -0300" channel="fenix_classic">
+    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
+    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710012638 -0300" stop="20260710025849 -0300" channel="fenix_classic">
+    <title lang="pt">10,000 Dólares para Django   Faroeste</title>
+    <desc lang="pt">10,000 Dólares para Django   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710025849 -0300" stop="20260710043849 -0300" channel="fenix_classic">
+    <title lang="pt">15 Forcas para um Assassino   Faroeste</title>
+    <desc lang="pt">15 Forcas para um Assassino   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710043849 -0300" stop="20260710061805 -0300" channel="fenix_classic">
+    <title lang="pt">A Lei do Bravo   Faroeste</title>
+    <desc lang="pt">A Lei do Bravo   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710061805 -0300" stop="20260710080719 -0300" channel="fenix_classic">
+    <title lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</title>
+    <desc lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710080719 -0300" stop="20260710094342 -0300" channel="fenix_classic">
+    <title lang="pt">A Maldição da Floresta</title>
+    <desc lang="pt">A Maldição da Floresta</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710094342 -0300" stop="20260710112129 -0300" channel="fenix_classic">
+    <title lang="pt">DE REPENTE 30</title>
+    <desc lang="pt">DE REPENTE 30</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710112129 -0300" stop="20260710132035 -0300" channel="fenix_classic">
+    <title lang="pt">Chocolate</title>
+    <desc lang="pt">Chocolate</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710132035 -0300" stop="20260710151405 -0300" channel="fenix_classic">
+    <title lang="pt">Amnésia Online</title>
+    <desc lang="pt">Amnésia Online</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710151405 -0300" stop="20260710163610 -0300" channel="fenix_classic">
+    <title lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</title>
+    <desc lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710163610 -0300" stop="20260710180953 -0300" channel="fenix_classic">
+    <title lang="pt">A Vida por um Dolar   Spaghetti Western   Faroeste</title>
+    <desc lang="pt">A Vida por um Dolar   Spaghetti Western   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710180953 -0300" stop="20260710194545 -0300" channel="fenix_classic">
+    <title lang="pt">A Recruta Hollywood</title>
+    <desc lang="pt">A Recruta Hollywood</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710194545 -0300" stop="20260710213642 -0300" channel="fenix_classic">
+    <title lang="pt">A Família</title>
+    <desc lang="pt">A Família</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710213642 -0300" stop="20260710235743 -0300" channel="fenix_classic">
+    <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
+    <desc lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710235743 -0300" stop="20260711012421 -0300" channel="fenix_classic">
+    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
+    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711000000 -0300" stop="20260711012638 -0300" channel="fenix_classic">
+    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
+    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711012638 -0300" stop="20260711025849 -0300" channel="fenix_classic">
+    <title lang="pt">10,000 Dólares para Django   Faroeste</title>
+    <desc lang="pt">10,000 Dólares para Django   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711025849 -0300" stop="20260711043849 -0300" channel="fenix_classic">
+    <title lang="pt">15 Forcas para um Assassino   Faroeste</title>
+    <desc lang="pt">15 Forcas para um Assassino   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711043849 -0300" stop="20260711061805 -0300" channel="fenix_classic">
+    <title lang="pt">A Lei do Bravo   Faroeste</title>
+    <desc lang="pt">A Lei do Bravo   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711061805 -0300" stop="20260711080719 -0300" channel="fenix_classic">
+    <title lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</title>
+    <desc lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711080719 -0300" stop="20260711094342 -0300" channel="fenix_classic">
+    <title lang="pt">A Maldição da Floresta</title>
+    <desc lang="pt">A Maldição da Floresta</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711094342 -0300" stop="20260711112129 -0300" channel="fenix_classic">
+    <title lang="pt">DE REPENTE 30</title>
+    <desc lang="pt">DE REPENTE 30</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711112129 -0300" stop="20260711132035 -0300" channel="fenix_classic">
+    <title lang="pt">Chocolate</title>
+    <desc lang="pt">Chocolate</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711132035 -0300" stop="20260711151405 -0300" channel="fenix_classic">
+    <title lang="pt">Amnésia Online</title>
+    <desc lang="pt">Amnésia Online</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711151405 -0300" stop="20260711163610 -0300" channel="fenix_classic">
+    <title lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</title>
+    <desc lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711163610 -0300" stop="20260711180953 -0300" channel="fenix_classic">
+    <title lang="pt">A Vida por um Dolar   Spaghetti Western   Faroeste</title>
+    <desc lang="pt">A Vida por um Dolar   Spaghetti Western   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711180953 -0300" stop="20260711194545 -0300" channel="fenix_classic">
+    <title lang="pt">A Recruta Hollywood</title>
+    <desc lang="pt">A Recruta Hollywood</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711194545 -0300" stop="20260711213642 -0300" channel="fenix_classic">
+    <title lang="pt">A Família</title>
+    <desc lang="pt">A Família</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711213642 -0300" stop="20260711235743 -0300" channel="fenix_classic">
+    <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
+    <desc lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711235743 -0300" stop="20260712012421 -0300" channel="fenix_classic">
+    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
+    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>

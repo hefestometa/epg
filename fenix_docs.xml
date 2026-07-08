@@ -3,4 +3,1188 @@
   <channel id="fenix_docs">
     <display-name>Fenix Docs</display-name>
   </channel>
+  <programme start="20260708000000 -0300" stop="20260708001935 -0300" channel="fenix_docs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708001935 -0300" stop="20260708004154 -0300" channel="fenix_docs">
+    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708004154 -0300" stop="20260708010710 -0300" channel="fenix_docs">
+    <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
+    <desc lang="pt">Caminho de Peabiru   De Lá Pra Cá</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708010710 -0300" stop="20260708013442 -0300" channel="fenix_docs">
+    <title lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</title>
+    <desc lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708013442 -0300" stop="20260708015935 -0300" channel="fenix_docs">
+    <title lang="pt">O Mundo Independente das HQs</title>
+    <desc lang="pt">O Mundo Independente das HQs</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708015935 -0300" stop="20260708025804 -0300" channel="fenix_docs">
+    <title lang="pt">ORIGIN</title>
+    <desc lang="pt">ORIGIN</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708025804 -0300" stop="20260708035821 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708035821 -0300" stop="20260708050931 -0300" channel="fenix_docs">
+    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
+    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708050931 -0300" stop="20260708054213 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708054213 -0300" stop="20260708060730 -0300" channel="fenix_docs">
+    <title lang="pt">Tauary   Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary   Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708060730 -0300" stop="20260708065502 -0300" channel="fenix_docs">
+    <title lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</title>
+    <desc lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708065502 -0300" stop="20260708074134 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708074134 -0300" stop="20260708082806 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708082806 -0300" stop="20260708085322 -0300" channel="fenix_docs">
+    <title lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</title>
+    <desc lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708085322 -0300" stop="20260708100258 -0300" channel="fenix_docs">
+    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
+    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708100258 -0300" stop="20260708103527 -0300" channel="fenix_docs">
+    <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
+    <desc lang="pt">Despojos de Guerra  Laços de Sangue</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708103527 -0300" stop="20260708110704 -0300" channel="fenix_docs">
+    <title lang="pt">Chernobyl  A História Completa</title>
+    <desc lang="pt">Chernobyl  A História Completa</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708110704 -0300" stop="20260708115424 -0300" channel="fenix_docs">
+    <title lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</title>
+    <desc lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708115424 -0300" stop="20260708121359 -0300" channel="fenix_docs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708121359 -0300" stop="20260708123618 -0300" channel="fenix_docs">
+    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708123618 -0300" stop="20260708130134 -0300" channel="fenix_docs">
+    <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
+    <desc lang="pt">Caminho de Peabiru   De Lá Pra Cá</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708130134 -0300" stop="20260708132906 -0300" channel="fenix_docs">
+    <title lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</title>
+    <desc lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708132906 -0300" stop="20260708135359 -0300" channel="fenix_docs">
+    <title lang="pt">O Mundo Independente das HQs</title>
+    <desc lang="pt">O Mundo Independente das HQs</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708135359 -0300" stop="20260708145228 -0300" channel="fenix_docs">
+    <title lang="pt">ORIGIN</title>
+    <desc lang="pt">ORIGIN</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708145228 -0300" stop="20260708155245 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708155245 -0300" stop="20260708170355 -0300" channel="fenix_docs">
+    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
+    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708170355 -0300" stop="20260708173637 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708173637 -0300" stop="20260708180154 -0300" channel="fenix_docs">
+    <title lang="pt">Tauary   Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary   Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708180154 -0300" stop="20260708184926 -0300" channel="fenix_docs">
+    <title lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</title>
+    <desc lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708184926 -0300" stop="20260708193558 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708193558 -0300" stop="20260708202230 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708202230 -0300" stop="20260708204746 -0300" channel="fenix_docs">
+    <title lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</title>
+    <desc lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708204746 -0300" stop="20260708215722 -0300" channel="fenix_docs">
+    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
+    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708215722 -0300" stop="20260708222951 -0300" channel="fenix_docs">
+    <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
+    <desc lang="pt">Despojos de Guerra  Laços de Sangue</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708222951 -0300" stop="20260708230128 -0300" channel="fenix_docs">
+    <title lang="pt">Chernobyl  A História Completa</title>
+    <desc lang="pt">Chernobyl  A História Completa</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708230128 -0300" stop="20260708234848 -0300" channel="fenix_docs">
+    <title lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</title>
+    <desc lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708234848 -0300" stop="20260709000823 -0300" channel="fenix_docs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709000000 -0300" stop="20260709001935 -0300" channel="fenix_docs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709001935 -0300" stop="20260709004154 -0300" channel="fenix_docs">
+    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709004154 -0300" stop="20260709010710 -0300" channel="fenix_docs">
+    <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
+    <desc lang="pt">Caminho de Peabiru   De Lá Pra Cá</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709010710 -0300" stop="20260709013442 -0300" channel="fenix_docs">
+    <title lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</title>
+    <desc lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709013442 -0300" stop="20260709015935 -0300" channel="fenix_docs">
+    <title lang="pt">O Mundo Independente das HQs</title>
+    <desc lang="pt">O Mundo Independente das HQs</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709015935 -0300" stop="20260709025804 -0300" channel="fenix_docs">
+    <title lang="pt">ORIGIN</title>
+    <desc lang="pt">ORIGIN</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709025804 -0300" stop="20260709035821 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709035821 -0300" stop="20260709050931 -0300" channel="fenix_docs">
+    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
+    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709050931 -0300" stop="20260709054213 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709054213 -0300" stop="20260709060730 -0300" channel="fenix_docs">
+    <title lang="pt">Tauary   Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary   Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709060730 -0300" stop="20260709065502 -0300" channel="fenix_docs">
+    <title lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</title>
+    <desc lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709065502 -0300" stop="20260709074134 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709074134 -0300" stop="20260709082806 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709082806 -0300" stop="20260709085322 -0300" channel="fenix_docs">
+    <title lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</title>
+    <desc lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709085322 -0300" stop="20260709100258 -0300" channel="fenix_docs">
+    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
+    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709100258 -0300" stop="20260709103527 -0300" channel="fenix_docs">
+    <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
+    <desc lang="pt">Despojos de Guerra  Laços de Sangue</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709103527 -0300" stop="20260709110704 -0300" channel="fenix_docs">
+    <title lang="pt">Chernobyl  A História Completa</title>
+    <desc lang="pt">Chernobyl  A História Completa</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709110704 -0300" stop="20260709115424 -0300" channel="fenix_docs">
+    <title lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</title>
+    <desc lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709115424 -0300" stop="20260709121359 -0300" channel="fenix_docs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709121359 -0300" stop="20260709123618 -0300" channel="fenix_docs">
+    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709123618 -0300" stop="20260709130134 -0300" channel="fenix_docs">
+    <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
+    <desc lang="pt">Caminho de Peabiru   De Lá Pra Cá</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709130134 -0300" stop="20260709132906 -0300" channel="fenix_docs">
+    <title lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</title>
+    <desc lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709132906 -0300" stop="20260709135359 -0300" channel="fenix_docs">
+    <title lang="pt">O Mundo Independente das HQs</title>
+    <desc lang="pt">O Mundo Independente das HQs</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709135359 -0300" stop="20260709145228 -0300" channel="fenix_docs">
+    <title lang="pt">ORIGIN</title>
+    <desc lang="pt">ORIGIN</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709145228 -0300" stop="20260709155245 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709155245 -0300" stop="20260709170355 -0300" channel="fenix_docs">
+    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
+    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709170355 -0300" stop="20260709173637 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709173637 -0300" stop="20260709180154 -0300" channel="fenix_docs">
+    <title lang="pt">Tauary   Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary   Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709180154 -0300" stop="20260709184926 -0300" channel="fenix_docs">
+    <title lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</title>
+    <desc lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709184926 -0300" stop="20260709193558 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709193558 -0300" stop="20260709202230 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709202230 -0300" stop="20260709204746 -0300" channel="fenix_docs">
+    <title lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</title>
+    <desc lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709204746 -0300" stop="20260709215722 -0300" channel="fenix_docs">
+    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
+    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709215722 -0300" stop="20260709222951 -0300" channel="fenix_docs">
+    <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
+    <desc lang="pt">Despojos de Guerra  Laços de Sangue</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709222951 -0300" stop="20260709230128 -0300" channel="fenix_docs">
+    <title lang="pt">Chernobyl  A História Completa</title>
+    <desc lang="pt">Chernobyl  A História Completa</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709230128 -0300" stop="20260709234848 -0300" channel="fenix_docs">
+    <title lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</title>
+    <desc lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709234848 -0300" stop="20260710000823 -0300" channel="fenix_docs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710000000 -0300" stop="20260710001935 -0300" channel="fenix_docs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710001935 -0300" stop="20260710004154 -0300" channel="fenix_docs">
+    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710004154 -0300" stop="20260710010710 -0300" channel="fenix_docs">
+    <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
+    <desc lang="pt">Caminho de Peabiru   De Lá Pra Cá</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710010710 -0300" stop="20260710013442 -0300" channel="fenix_docs">
+    <title lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</title>
+    <desc lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710013442 -0300" stop="20260710015935 -0300" channel="fenix_docs">
+    <title lang="pt">O Mundo Independente das HQs</title>
+    <desc lang="pt">O Mundo Independente das HQs</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710015935 -0300" stop="20260710025804 -0300" channel="fenix_docs">
+    <title lang="pt">ORIGIN</title>
+    <desc lang="pt">ORIGIN</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710025804 -0300" stop="20260710035821 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710035821 -0300" stop="20260710050931 -0300" channel="fenix_docs">
+    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
+    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710050931 -0300" stop="20260710054213 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710054213 -0300" stop="20260710060730 -0300" channel="fenix_docs">
+    <title lang="pt">Tauary   Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary   Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710060730 -0300" stop="20260710065502 -0300" channel="fenix_docs">
+    <title lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</title>
+    <desc lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710065502 -0300" stop="20260710074134 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710074134 -0300" stop="20260710082806 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710082806 -0300" stop="20260710085322 -0300" channel="fenix_docs">
+    <title lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</title>
+    <desc lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710085322 -0300" stop="20260710100258 -0300" channel="fenix_docs">
+    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
+    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710100258 -0300" stop="20260710103527 -0300" channel="fenix_docs">
+    <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
+    <desc lang="pt">Despojos de Guerra  Laços de Sangue</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710103527 -0300" stop="20260710110704 -0300" channel="fenix_docs">
+    <title lang="pt">Chernobyl  A História Completa</title>
+    <desc lang="pt">Chernobyl  A História Completa</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710110704 -0300" stop="20260710115424 -0300" channel="fenix_docs">
+    <title lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</title>
+    <desc lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710115424 -0300" stop="20260710121359 -0300" channel="fenix_docs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710121359 -0300" stop="20260710123618 -0300" channel="fenix_docs">
+    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710123618 -0300" stop="20260710130134 -0300" channel="fenix_docs">
+    <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
+    <desc lang="pt">Caminho de Peabiru   De Lá Pra Cá</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710130134 -0300" stop="20260710132906 -0300" channel="fenix_docs">
+    <title lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</title>
+    <desc lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710132906 -0300" stop="20260710135359 -0300" channel="fenix_docs">
+    <title lang="pt">O Mundo Independente das HQs</title>
+    <desc lang="pt">O Mundo Independente das HQs</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710135359 -0300" stop="20260710145228 -0300" channel="fenix_docs">
+    <title lang="pt">ORIGIN</title>
+    <desc lang="pt">ORIGIN</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710145228 -0300" stop="20260710155245 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710155245 -0300" stop="20260710170355 -0300" channel="fenix_docs">
+    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
+    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710170355 -0300" stop="20260710173637 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710173637 -0300" stop="20260710180154 -0300" channel="fenix_docs">
+    <title lang="pt">Tauary   Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary   Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710180154 -0300" stop="20260710184926 -0300" channel="fenix_docs">
+    <title lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</title>
+    <desc lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710184926 -0300" stop="20260710193558 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710193558 -0300" stop="20260710202230 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710202230 -0300" stop="20260710204746 -0300" channel="fenix_docs">
+    <title lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</title>
+    <desc lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710204746 -0300" stop="20260710215722 -0300" channel="fenix_docs">
+    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
+    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710215722 -0300" stop="20260710222951 -0300" channel="fenix_docs">
+    <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
+    <desc lang="pt">Despojos de Guerra  Laços de Sangue</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710222951 -0300" stop="20260710230128 -0300" channel="fenix_docs">
+    <title lang="pt">Chernobyl  A História Completa</title>
+    <desc lang="pt">Chernobyl  A História Completa</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710230128 -0300" stop="20260710234848 -0300" channel="fenix_docs">
+    <title lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</title>
+    <desc lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710234848 -0300" stop="20260711000823 -0300" channel="fenix_docs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711000000 -0300" stop="20260711001935 -0300" channel="fenix_docs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711001935 -0300" stop="20260711004154 -0300" channel="fenix_docs">
+    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711004154 -0300" stop="20260711010710 -0300" channel="fenix_docs">
+    <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
+    <desc lang="pt">Caminho de Peabiru   De Lá Pra Cá</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711010710 -0300" stop="20260711013442 -0300" channel="fenix_docs">
+    <title lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</title>
+    <desc lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711013442 -0300" stop="20260711015935 -0300" channel="fenix_docs">
+    <title lang="pt">O Mundo Independente das HQs</title>
+    <desc lang="pt">O Mundo Independente das HQs</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711015935 -0300" stop="20260711025804 -0300" channel="fenix_docs">
+    <title lang="pt">ORIGIN</title>
+    <desc lang="pt">ORIGIN</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711025804 -0300" stop="20260711035821 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711035821 -0300" stop="20260711050931 -0300" channel="fenix_docs">
+    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
+    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711050931 -0300" stop="20260711054213 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711054213 -0300" stop="20260711060730 -0300" channel="fenix_docs">
+    <title lang="pt">Tauary   Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary   Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711060730 -0300" stop="20260711065502 -0300" channel="fenix_docs">
+    <title lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</title>
+    <desc lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711065502 -0300" stop="20260711074134 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711074134 -0300" stop="20260711082806 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711082806 -0300" stop="20260711085322 -0300" channel="fenix_docs">
+    <title lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</title>
+    <desc lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711085322 -0300" stop="20260711100258 -0300" channel="fenix_docs">
+    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
+    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711100258 -0300" stop="20260711103527 -0300" channel="fenix_docs">
+    <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
+    <desc lang="pt">Despojos de Guerra  Laços de Sangue</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711103527 -0300" stop="20260711110704 -0300" channel="fenix_docs">
+    <title lang="pt">Chernobyl  A História Completa</title>
+    <desc lang="pt">Chernobyl  A História Completa</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711110704 -0300" stop="20260711115424 -0300" channel="fenix_docs">
+    <title lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</title>
+    <desc lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711115424 -0300" stop="20260711121359 -0300" channel="fenix_docs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711121359 -0300" stop="20260711123618 -0300" channel="fenix_docs">
+    <title lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">BIG FOOD  O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711123618 -0300" stop="20260711130134 -0300" channel="fenix_docs">
+    <title lang="pt">Caminho de Peabiru   De Lá Pra Cá</title>
+    <desc lang="pt">Caminho de Peabiru   De Lá Pra Cá</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711130134 -0300" stop="20260711132906 -0300" channel="fenix_docs">
+    <title lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</title>
+    <desc lang="pt">Niède Guidon e as Origens do Homem Americano (1990)</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711132906 -0300" stop="20260711135359 -0300" channel="fenix_docs">
+    <title lang="pt">O Mundo Independente das HQs</title>
+    <desc lang="pt">O Mundo Independente das HQs</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711135359 -0300" stop="20260711145228 -0300" channel="fenix_docs">
+    <title lang="pt">ORIGIN</title>
+    <desc lang="pt">ORIGIN</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711145228 -0300" stop="20260711155245 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 1</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711155245 -0300" stop="20260711170355 -0300" channel="fenix_docs">
+    <title lang="pt">VIPs   Histórias Reais de um mentiroso</title>
+    <desc lang="pt">VIPs   Histórias Reais de um mentiroso</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711170355 -0300" stop="20260711173637 -0300" channel="fenix_docs">
+    <title lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</title>
+    <desc lang="pt">U 869   O Submarino perdido de Hitler   Parte 2</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711173637 -0300" stop="20260711180154 -0300" channel="fenix_docs">
+    <title lang="pt">Tauary   Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Tauary   Fazendo Arqueologia na Amazônia</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711180154 -0300" stop="20260711184926 -0300" channel="fenix_docs">
+    <title lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</title>
+    <desc lang="pt">Arábia ao Extremo   A Vida e a Morte nas Dunas   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711184926 -0300" stop="20260711193558 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711193558 -0300" stop="20260711202230 -0300" channel="fenix_docs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</title>
+    <desc lang="pt">CIVILIZAÇÕES PERDIDAS   CRETA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711202230 -0300" stop="20260711204746 -0300" channel="fenix_docs">
+    <title lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</title>
+    <desc lang="pt">Mata Atlântica  a floresta mais antiga da América do Sul   Nossos Biomas</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711204746 -0300" stop="20260711215722 -0300" channel="fenix_docs">
+    <title lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</title>
+    <desc lang="pt">Mestre Bimba   CAPOEIRA ILUMINADA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711215722 -0300" stop="20260711222951 -0300" channel="fenix_docs">
+    <title lang="pt">Despojos de Guerra  Laços de Sangue</title>
+    <desc lang="pt">Despojos de Guerra  Laços de Sangue</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711222951 -0300" stop="20260711230128 -0300" channel="fenix_docs">
+    <title lang="pt">Chernobyl  A História Completa</title>
+    <desc lang="pt">Chernobyl  A História Completa</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711230128 -0300" stop="20260711234848 -0300" channel="fenix_docs">
+    <title lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</title>
+    <desc lang="pt">África  Maravilhas do Mundo Marinho   Ep. 02   Lobos Marinhos Sul Africanos   Documentário Animal</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711234848 -0300" stop="20260712000823 -0300" channel="fenix_docs">
+    <title lang="pt">A inteligência dos pássaros</title>
+    <desc lang="pt">A inteligência dos pássaros</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>

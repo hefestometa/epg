@@ -3,4 +3,740 @@
   <channel id="fenix_anime">
     <display-name>Fenix Anime</display-name>
   </channel>
+  <programme start="20260708000000 -0300" stop="20260708004317 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708004317 -0300" stop="20260708014420 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708014420 -0300" stop="20260708023229 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708023229 -0300" stop="20260708031616 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708031616 -0300" stop="20260708043823 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708043823 -0300" stop="20260708064252 -0300" channel="fenix_anime">
+    <title lang="pt">AKIRA</title>
+    <desc lang="pt">AKIRA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708064252 -0300" stop="20260708072609 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708072609 -0300" stop="20260708082712 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708082712 -0300" stop="20260708091521 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708091521 -0300" stop="20260708095908 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708095908 -0300" stop="20260708112115 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708112115 -0300" stop="20260708132544 -0300" channel="fenix_anime">
+    <title lang="pt">AKIRA</title>
+    <desc lang="pt">AKIRA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708132544 -0300" stop="20260708140901 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708140901 -0300" stop="20260708151004 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708151004 -0300" stop="20260708155813 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708155813 -0300" stop="20260708164200 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708164200 -0300" stop="20260708180407 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708180407 -0300" stop="20260708200836 -0300" channel="fenix_anime">
+    <title lang="pt">AKIRA</title>
+    <desc lang="pt">AKIRA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708200836 -0300" stop="20260708205153 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708205153 -0300" stop="20260708215256 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708215256 -0300" stop="20260708224105 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708224105 -0300" stop="20260708232452 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260708232452 -0300" stop="20260709004659 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709000000 -0300" stop="20260709004317 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709004317 -0300" stop="20260709014420 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709014420 -0300" stop="20260709023229 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709023229 -0300" stop="20260709031616 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709031616 -0300" stop="20260709043823 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709043823 -0300" stop="20260709064252 -0300" channel="fenix_anime">
+    <title lang="pt">AKIRA</title>
+    <desc lang="pt">AKIRA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709064252 -0300" stop="20260709072609 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709072609 -0300" stop="20260709082712 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709082712 -0300" stop="20260709091521 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709091521 -0300" stop="20260709095908 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709095908 -0300" stop="20260709112115 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709112115 -0300" stop="20260709132544 -0300" channel="fenix_anime">
+    <title lang="pt">AKIRA</title>
+    <desc lang="pt">AKIRA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709132544 -0300" stop="20260709140901 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709140901 -0300" stop="20260709151004 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709151004 -0300" stop="20260709155813 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709155813 -0300" stop="20260709164200 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709164200 -0300" stop="20260709180407 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709180407 -0300" stop="20260709200836 -0300" channel="fenix_anime">
+    <title lang="pt">AKIRA</title>
+    <desc lang="pt">AKIRA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709200836 -0300" stop="20260709205153 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709205153 -0300" stop="20260709215256 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709215256 -0300" stop="20260709224105 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709224105 -0300" stop="20260709232452 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260709232452 -0300" stop="20260710004659 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710000000 -0300" stop="20260710004317 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710004317 -0300" stop="20260710014420 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710014420 -0300" stop="20260710023229 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710023229 -0300" stop="20260710031616 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710031616 -0300" stop="20260710043823 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710043823 -0300" stop="20260710064252 -0300" channel="fenix_anime">
+    <title lang="pt">AKIRA</title>
+    <desc lang="pt">AKIRA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710064252 -0300" stop="20260710072609 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710072609 -0300" stop="20260710082712 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710082712 -0300" stop="20260710091521 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710091521 -0300" stop="20260710095908 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710095908 -0300" stop="20260710112115 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710112115 -0300" stop="20260710132544 -0300" channel="fenix_anime">
+    <title lang="pt">AKIRA</title>
+    <desc lang="pt">AKIRA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710132544 -0300" stop="20260710140901 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710140901 -0300" stop="20260710151004 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710151004 -0300" stop="20260710155813 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710155813 -0300" stop="20260710164200 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710164200 -0300" stop="20260710180407 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710180407 -0300" stop="20260710200836 -0300" channel="fenix_anime">
+    <title lang="pt">AKIRA</title>
+    <desc lang="pt">AKIRA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710200836 -0300" stop="20260710205153 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710205153 -0300" stop="20260710215256 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710215256 -0300" stop="20260710224105 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710224105 -0300" stop="20260710232452 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260710232452 -0300" stop="20260711004659 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711000000 -0300" stop="20260711004317 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711004317 -0300" stop="20260711014420 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711014420 -0300" stop="20260711023229 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711023229 -0300" stop="20260711031616 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711031616 -0300" stop="20260711043823 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711043823 -0300" stop="20260711064252 -0300" channel="fenix_anime">
+    <title lang="pt">AKIRA</title>
+    <desc lang="pt">AKIRA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711064252 -0300" stop="20260711072609 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711072609 -0300" stop="20260711082712 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711082712 -0300" stop="20260711091521 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711091521 -0300" stop="20260711095908 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711095908 -0300" stop="20260711112115 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711112115 -0300" stop="20260711132544 -0300" channel="fenix_anime">
+    <title lang="pt">AKIRA</title>
+    <desc lang="pt">AKIRA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711132544 -0300" stop="20260711140901 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711140901 -0300" stop="20260711151004 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711151004 -0300" stop="20260711155813 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711155813 -0300" stop="20260711164200 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711164200 -0300" stop="20260711180407 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711180407 -0300" stop="20260711200836 -0300" channel="fenix_anime">
+    <title lang="pt">AKIRA</title>
+    <desc lang="pt">AKIRA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711200836 -0300" stop="20260711205153 -0300" channel="fenix_anime">
+    <title lang="pt">BAKI HAMA</title>
+    <desc lang="pt">BAKI HAMA</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711205153 -0300" stop="20260711215256 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</title>
+    <desc lang="pt">Hunter X Hunter Anime   A Médium e a Grande Guerra dos Paranormais   Aura, Chakras, Ectoplasma</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711215256 -0300" stop="20260711224105 -0300" channel="fenix_anime">
+    <title lang="pt">Geist</title>
+    <desc lang="pt">Geist</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711224105 -0300" stop="20260711232452 -0300" channel="fenix_anime">
+    <title lang="pt">Us Manga Detonator Orgun</title>
+    <desc lang="pt">Us Manga Detonator Orgun</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260711232452 -0300" stop="20260712004659 -0300" channel="fenix_anime">
+    <title lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</title>
+    <desc lang="pt">Hunter X Hunter Anime   Aura, Chakras, Ectoplasma, Mediunidade, Paranormal   Ep. 38, 39, 40 e 41</desc>
+    <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
 </tv>
