@@ -4,41 +4,51 @@
     <display-name>Fenix Classic</display-name>
   </channel>
   <programme start="20260708000000 -0300" stop="20260708012638 -0300" channel="fenix_classic">
-    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
-    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">3 Balas Para Ringo</title>
+    <desc lang="pt">A vida de Ringo Carson não está nada fácil. Primeiro, ele tem uma briga com seu melhor amigo, Frank Sanders, depois de salvar Jane a garota que ele ama de sequestradores mexicanos. Frank vai para a Guerra. Ringo se reconcilia com sua mãe, que precisa de sua arma para proteger as suas terras da ganância do banqueiro Daniels. Então, Frank retorna da Guerra e enfrenta Ringo que fica cego devido a um golpe na cabeça. Ringo trama sua vingança: ele terá de salvar sua esposa das garras do seu velho amigo, resgatar seu filho e acabar com Daniels.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2Gl1Umm54yjhd6ofpHexuG9IdkX.jpg"/>
+    <date>1966</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260708012638 -0300" stop="20260708025849 -0300" channel="fenix_classic">
-    <title lang="pt">10,000 Dólares para Django   Faroeste</title>
-    <desc lang="pt">10,000 Dólares para Django   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">10.000 Dólares para Django</title>
+    <desc lang="pt">Um famoso caçador de recompensas Django (Gary Hudson) recebe uma proposta de um rico fazendeiro para capturar Manoel, um perigoso pistoleiro que havia lhe roubado todo seu dinheiro e sequestrado sua filha. Mas o preço acertado com o fazendeiro e a recompensa pela captura do bandido ainda não são suficientes para pagar o trabalho de Django, que decide esperar o valor da recompensa aumentar. O que eles não faziam idéia é que as consequencias pela demora na captura de Manoel podiam causar em suas vidas. Um filme repleto de aventura e perseguição.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/k0Gf3jt2UKuFMn6DinA8WOQpY0U.jpg"/>
+    <date>1967</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260708025849 -0300" stop="20260708043849 -0300" channel="fenix_classic">
-    <title lang="pt">15 Forcas para um Assassino   Faroeste</title>
-    <desc lang="pt">15 Forcas para um Assassino   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">15 Forcas para um Assassino</title>
+    <desc lang="pt">Acusados de um crime hediondo que não cometeram, os membros de duas gangues rivais, perseguidos por uma multidão sanguinária, refugiam-se em um forte abandonado, levando dois reféns com eles.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/mTY6bKGvTy2xLEmwWL5d65WzDLl.jpg"/>
+    <date>1967</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260708043849 -0300" stop="20260708061805 -0300" channel="fenix_classic">
-    <title lang="pt">A Lei do Bravo   Faroeste</title>
-    <desc lang="pt">A Lei do Bravo   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Lei do Bravo</title>
+    <desc lang="pt">A história da missão de paz da cavalaria americana aos índios Cheyenne em Wyoming durante a década de 1870. A missão é ameaçada quando um inspetor civil faz amizade com o filho do chefe e se apaixona pela filha do chefe.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lFJZpnqAOrvVxbivn5IHkXUtDdG.jpg"/>
+    <date>1955</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260708061805 -0300" stop="20260708080719 -0300" channel="fenix_classic">
-    <title lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</title>
-    <desc lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Morte Anda a Cavalo</title>
+    <desc lang="pt">Ainda criança, Bill é a única testemunha do assassinato de toda a sua família por quatro assaltantes. Quinze anos depois, ele vai atrás dos assassinos em busca de vingança. Durante sua jornada, ele cruza o caminho de Ryan, um ex-condenado que acabou de sair da cadeia, e também quer se vingar dos bandidos que o colocaram na cadeia. Juntos os dois formam uma dupla nada comum em busca do mesmo objetivo.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/wDmw7D6zt65bBWQs2Cnx1j05EB2.jpg"/>
+    <date>1967</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -79,9 +89,11 @@
     </rating>
   </programme>
   <programme start="20260708151405 -0300" stop="20260708163610 -0300" channel="fenix_classic">
-    <title lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</title>
-    <desc lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Disparo para Matar</title>
+    <desc lang="pt">Uma mulher misteriosa convence dois cowboys a ajudá-la em um esquema de vingança.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oaySRq49jlCtoYjhoR7IhSga6Vm.jpg"/>
+    <date>1966</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -109,57 +121,71 @@
     <date>2026</date>
   </programme>
   <programme start="20260708213642 -0300" stop="20260708235743 -0300" channel="fenix_classic">
-    <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
-    <desc lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Face Oculta</title>
+    <desc lang="pt">Em fuga após o roubo de um banco no México, um dos assaltantes, Dad Longwort, vê a chance de ficar com o ouro roubado e abandonar seu cúmplice, Rio, para ser capturado. Após alguns anos, Rio escapa da prisão e começa a caçar seu ex-amigo, para se vingar. Dad agora se tornou um respeitável xerife na Califórnia, que teme o retorno de Rio.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lG3GFHevR0C56szIkv7broOId0k.jpg"/>
+    <date>1961</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260708235743 -0300" stop="20260709012421 -0300" channel="fenix_classic">
-    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
-    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">3 Balas Para Ringo</title>
+    <desc lang="pt">A vida de Ringo Carson não está nada fácil. Primeiro, ele tem uma briga com seu melhor amigo, Frank Sanders, depois de salvar Jane a garota que ele ama de sequestradores mexicanos. Frank vai para a Guerra. Ringo se reconcilia com sua mãe, que precisa de sua arma para proteger as suas terras da ganância do banqueiro Daniels. Então, Frank retorna da Guerra e enfrenta Ringo que fica cego devido a um golpe na cabeça. Ringo trama sua vingança: ele terá de salvar sua esposa das garras do seu velho amigo, resgatar seu filho e acabar com Daniels.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2Gl1Umm54yjhd6ofpHexuG9IdkX.jpg"/>
+    <date>1966</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260709000000 -0300" stop="20260709012638 -0300" channel="fenix_classic">
-    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
-    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">3 Balas Para Ringo</title>
+    <desc lang="pt">A vida de Ringo Carson não está nada fácil. Primeiro, ele tem uma briga com seu melhor amigo, Frank Sanders, depois de salvar Jane a garota que ele ama de sequestradores mexicanos. Frank vai para a Guerra. Ringo se reconcilia com sua mãe, que precisa de sua arma para proteger as suas terras da ganância do banqueiro Daniels. Então, Frank retorna da Guerra e enfrenta Ringo que fica cego devido a um golpe na cabeça. Ringo trama sua vingança: ele terá de salvar sua esposa das garras do seu velho amigo, resgatar seu filho e acabar com Daniels.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2Gl1Umm54yjhd6ofpHexuG9IdkX.jpg"/>
+    <date>1966</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260709012638 -0300" stop="20260709025849 -0300" channel="fenix_classic">
-    <title lang="pt">10,000 Dólares para Django   Faroeste</title>
-    <desc lang="pt">10,000 Dólares para Django   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">10.000 Dólares para Django</title>
+    <desc lang="pt">Um famoso caçador de recompensas Django (Gary Hudson) recebe uma proposta de um rico fazendeiro para capturar Manoel, um perigoso pistoleiro que havia lhe roubado todo seu dinheiro e sequestrado sua filha. Mas o preço acertado com o fazendeiro e a recompensa pela captura do bandido ainda não são suficientes para pagar o trabalho de Django, que decide esperar o valor da recompensa aumentar. O que eles não faziam idéia é que as consequencias pela demora na captura de Manoel podiam causar em suas vidas. Um filme repleto de aventura e perseguição.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/k0Gf3jt2UKuFMn6DinA8WOQpY0U.jpg"/>
+    <date>1967</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260709025849 -0300" stop="20260709043849 -0300" channel="fenix_classic">
-    <title lang="pt">15 Forcas para um Assassino   Faroeste</title>
-    <desc lang="pt">15 Forcas para um Assassino   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">15 Forcas para um Assassino</title>
+    <desc lang="pt">Acusados de um crime hediondo que não cometeram, os membros de duas gangues rivais, perseguidos por uma multidão sanguinária, refugiam-se em um forte abandonado, levando dois reféns com eles.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/mTY6bKGvTy2xLEmwWL5d65WzDLl.jpg"/>
+    <date>1967</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260709043849 -0300" stop="20260709061805 -0300" channel="fenix_classic">
-    <title lang="pt">A Lei do Bravo   Faroeste</title>
-    <desc lang="pt">A Lei do Bravo   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Lei do Bravo</title>
+    <desc lang="pt">A história da missão de paz da cavalaria americana aos índios Cheyenne em Wyoming durante a década de 1870. A missão é ameaçada quando um inspetor civil faz amizade com o filho do chefe e se apaixona pela filha do chefe.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lFJZpnqAOrvVxbivn5IHkXUtDdG.jpg"/>
+    <date>1955</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260709061805 -0300" stop="20260709080719 -0300" channel="fenix_classic">
-    <title lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</title>
-    <desc lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Morte Anda a Cavalo</title>
+    <desc lang="pt">Ainda criança, Bill é a única testemunha do assassinato de toda a sua família por quatro assaltantes. Quinze anos depois, ele vai atrás dos assassinos em busca de vingança. Durante sua jornada, ele cruza o caminho de Ryan, um ex-condenado que acabou de sair da cadeia, e também quer se vingar dos bandidos que o colocaram na cadeia. Juntos os dois formam uma dupla nada comum em busca do mesmo objetivo.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/wDmw7D6zt65bBWQs2Cnx1j05EB2.jpg"/>
+    <date>1967</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -200,9 +226,11 @@
     </rating>
   </programme>
   <programme start="20260709151405 -0300" stop="20260709163610 -0300" channel="fenix_classic">
-    <title lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</title>
-    <desc lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Disparo para Matar</title>
+    <desc lang="pt">Uma mulher misteriosa convence dois cowboys a ajudá-la em um esquema de vingança.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oaySRq49jlCtoYjhoR7IhSga6Vm.jpg"/>
+    <date>1966</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -230,57 +258,71 @@
     <date>2026</date>
   </programme>
   <programme start="20260709213642 -0300" stop="20260709235743 -0300" channel="fenix_classic">
-    <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
-    <desc lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Face Oculta</title>
+    <desc lang="pt">Em fuga após o roubo de um banco no México, um dos assaltantes, Dad Longwort, vê a chance de ficar com o ouro roubado e abandonar seu cúmplice, Rio, para ser capturado. Após alguns anos, Rio escapa da prisão e começa a caçar seu ex-amigo, para se vingar. Dad agora se tornou um respeitável xerife na Califórnia, que teme o retorno de Rio.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lG3GFHevR0C56szIkv7broOId0k.jpg"/>
+    <date>1961</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260709235743 -0300" stop="20260710012421 -0300" channel="fenix_classic">
-    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
-    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">3 Balas Para Ringo</title>
+    <desc lang="pt">A vida de Ringo Carson não está nada fácil. Primeiro, ele tem uma briga com seu melhor amigo, Frank Sanders, depois de salvar Jane a garota que ele ama de sequestradores mexicanos. Frank vai para a Guerra. Ringo se reconcilia com sua mãe, que precisa de sua arma para proteger as suas terras da ganância do banqueiro Daniels. Então, Frank retorna da Guerra e enfrenta Ringo que fica cego devido a um golpe na cabeça. Ringo trama sua vingança: ele terá de salvar sua esposa das garras do seu velho amigo, resgatar seu filho e acabar com Daniels.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2Gl1Umm54yjhd6ofpHexuG9IdkX.jpg"/>
+    <date>1966</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260710000000 -0300" stop="20260710012638 -0300" channel="fenix_classic">
-    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
-    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">3 Balas Para Ringo</title>
+    <desc lang="pt">A vida de Ringo Carson não está nada fácil. Primeiro, ele tem uma briga com seu melhor amigo, Frank Sanders, depois de salvar Jane a garota que ele ama de sequestradores mexicanos. Frank vai para a Guerra. Ringo se reconcilia com sua mãe, que precisa de sua arma para proteger as suas terras da ganância do banqueiro Daniels. Então, Frank retorna da Guerra e enfrenta Ringo que fica cego devido a um golpe na cabeça. Ringo trama sua vingança: ele terá de salvar sua esposa das garras do seu velho amigo, resgatar seu filho e acabar com Daniels.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2Gl1Umm54yjhd6ofpHexuG9IdkX.jpg"/>
+    <date>1966</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260710012638 -0300" stop="20260710025849 -0300" channel="fenix_classic">
-    <title lang="pt">10,000 Dólares para Django   Faroeste</title>
-    <desc lang="pt">10,000 Dólares para Django   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">10.000 Dólares para Django</title>
+    <desc lang="pt">Um famoso caçador de recompensas Django (Gary Hudson) recebe uma proposta de um rico fazendeiro para capturar Manoel, um perigoso pistoleiro que havia lhe roubado todo seu dinheiro e sequestrado sua filha. Mas o preço acertado com o fazendeiro e a recompensa pela captura do bandido ainda não são suficientes para pagar o trabalho de Django, que decide esperar o valor da recompensa aumentar. O que eles não faziam idéia é que as consequencias pela demora na captura de Manoel podiam causar em suas vidas. Um filme repleto de aventura e perseguição.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/k0Gf3jt2UKuFMn6DinA8WOQpY0U.jpg"/>
+    <date>1967</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260710025849 -0300" stop="20260710043849 -0300" channel="fenix_classic">
-    <title lang="pt">15 Forcas para um Assassino   Faroeste</title>
-    <desc lang="pt">15 Forcas para um Assassino   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">15 Forcas para um Assassino</title>
+    <desc lang="pt">Acusados de um crime hediondo que não cometeram, os membros de duas gangues rivais, perseguidos por uma multidão sanguinária, refugiam-se em um forte abandonado, levando dois reféns com eles.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/mTY6bKGvTy2xLEmwWL5d65WzDLl.jpg"/>
+    <date>1967</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260710043849 -0300" stop="20260710061805 -0300" channel="fenix_classic">
-    <title lang="pt">A Lei do Bravo   Faroeste</title>
-    <desc lang="pt">A Lei do Bravo   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Lei do Bravo</title>
+    <desc lang="pt">A história da missão de paz da cavalaria americana aos índios Cheyenne em Wyoming durante a década de 1870. A missão é ameaçada quando um inspetor civil faz amizade com o filho do chefe e se apaixona pela filha do chefe.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lFJZpnqAOrvVxbivn5IHkXUtDdG.jpg"/>
+    <date>1955</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260710061805 -0300" stop="20260710080719 -0300" channel="fenix_classic">
-    <title lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</title>
-    <desc lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Morte Anda a Cavalo</title>
+    <desc lang="pt">Ainda criança, Bill é a única testemunha do assassinato de toda a sua família por quatro assaltantes. Quinze anos depois, ele vai atrás dos assassinos em busca de vingança. Durante sua jornada, ele cruza o caminho de Ryan, um ex-condenado que acabou de sair da cadeia, e também quer se vingar dos bandidos que o colocaram na cadeia. Juntos os dois formam uma dupla nada comum em busca do mesmo objetivo.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/wDmw7D6zt65bBWQs2Cnx1j05EB2.jpg"/>
+    <date>1967</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -321,9 +363,11 @@
     </rating>
   </programme>
   <programme start="20260710151405 -0300" stop="20260710163610 -0300" channel="fenix_classic">
-    <title lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</title>
-    <desc lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Disparo para Matar</title>
+    <desc lang="pt">Uma mulher misteriosa convence dois cowboys a ajudá-la em um esquema de vingança.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oaySRq49jlCtoYjhoR7IhSga6Vm.jpg"/>
+    <date>1966</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -351,57 +395,71 @@
     <date>2026</date>
   </programme>
   <programme start="20260710213642 -0300" stop="20260710235743 -0300" channel="fenix_classic">
-    <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
-    <desc lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Face Oculta</title>
+    <desc lang="pt">Em fuga após o roubo de um banco no México, um dos assaltantes, Dad Longwort, vê a chance de ficar com o ouro roubado e abandonar seu cúmplice, Rio, para ser capturado. Após alguns anos, Rio escapa da prisão e começa a caçar seu ex-amigo, para se vingar. Dad agora se tornou um respeitável xerife na Califórnia, que teme o retorno de Rio.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lG3GFHevR0C56szIkv7broOId0k.jpg"/>
+    <date>1961</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260710235743 -0300" stop="20260711012421 -0300" channel="fenix_classic">
-    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
-    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">3 Balas Para Ringo</title>
+    <desc lang="pt">A vida de Ringo Carson não está nada fácil. Primeiro, ele tem uma briga com seu melhor amigo, Frank Sanders, depois de salvar Jane a garota que ele ama de sequestradores mexicanos. Frank vai para a Guerra. Ringo se reconcilia com sua mãe, que precisa de sua arma para proteger as suas terras da ganância do banqueiro Daniels. Então, Frank retorna da Guerra e enfrenta Ringo que fica cego devido a um golpe na cabeça. Ringo trama sua vingança: ele terá de salvar sua esposa das garras do seu velho amigo, resgatar seu filho e acabar com Daniels.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2Gl1Umm54yjhd6ofpHexuG9IdkX.jpg"/>
+    <date>1966</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260711000000 -0300" stop="20260711012638 -0300" channel="fenix_classic">
-    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
-    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">3 Balas Para Ringo</title>
+    <desc lang="pt">A vida de Ringo Carson não está nada fácil. Primeiro, ele tem uma briga com seu melhor amigo, Frank Sanders, depois de salvar Jane a garota que ele ama de sequestradores mexicanos. Frank vai para a Guerra. Ringo se reconcilia com sua mãe, que precisa de sua arma para proteger as suas terras da ganância do banqueiro Daniels. Então, Frank retorna da Guerra e enfrenta Ringo que fica cego devido a um golpe na cabeça. Ringo trama sua vingança: ele terá de salvar sua esposa das garras do seu velho amigo, resgatar seu filho e acabar com Daniels.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2Gl1Umm54yjhd6ofpHexuG9IdkX.jpg"/>
+    <date>1966</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260711012638 -0300" stop="20260711025849 -0300" channel="fenix_classic">
-    <title lang="pt">10,000 Dólares para Django   Faroeste</title>
-    <desc lang="pt">10,000 Dólares para Django   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">10.000 Dólares para Django</title>
+    <desc lang="pt">Um famoso caçador de recompensas Django (Gary Hudson) recebe uma proposta de um rico fazendeiro para capturar Manoel, um perigoso pistoleiro que havia lhe roubado todo seu dinheiro e sequestrado sua filha. Mas o preço acertado com o fazendeiro e a recompensa pela captura do bandido ainda não são suficientes para pagar o trabalho de Django, que decide esperar o valor da recompensa aumentar. O que eles não faziam idéia é que as consequencias pela demora na captura de Manoel podiam causar em suas vidas. Um filme repleto de aventura e perseguição.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/k0Gf3jt2UKuFMn6DinA8WOQpY0U.jpg"/>
+    <date>1967</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260711025849 -0300" stop="20260711043849 -0300" channel="fenix_classic">
-    <title lang="pt">15 Forcas para um Assassino   Faroeste</title>
-    <desc lang="pt">15 Forcas para um Assassino   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">15 Forcas para um Assassino</title>
+    <desc lang="pt">Acusados de um crime hediondo que não cometeram, os membros de duas gangues rivais, perseguidos por uma multidão sanguinária, refugiam-se em um forte abandonado, levando dois reféns com eles.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/mTY6bKGvTy2xLEmwWL5d65WzDLl.jpg"/>
+    <date>1967</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260711043849 -0300" stop="20260711061805 -0300" channel="fenix_classic">
-    <title lang="pt">A Lei do Bravo   Faroeste</title>
-    <desc lang="pt">A Lei do Bravo   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Lei do Bravo</title>
+    <desc lang="pt">A história da missão de paz da cavalaria americana aos índios Cheyenne em Wyoming durante a década de 1870. A missão é ameaçada quando um inspetor civil faz amizade com o filho do chefe e se apaixona pela filha do chefe.</desc>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lFJZpnqAOrvVxbivn5IHkXUtDdG.jpg"/>
+    <date>1955</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260711061805 -0300" stop="20260711080719 -0300" channel="fenix_classic">
-    <title lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</title>
-    <desc lang="pt">A Morte Anda A Cavalo   Lee Van Cleef   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Morte Anda a Cavalo</title>
+    <desc lang="pt">Ainda criança, Bill é a única testemunha do assassinato de toda a sua família por quatro assaltantes. Quinze anos depois, ele vai atrás dos assassinos em busca de vingança. Durante sua jornada, ele cruza o caminho de Ryan, um ex-condenado que acabou de sair da cadeia, e também quer se vingar dos bandidos que o colocaram na cadeia. Juntos os dois formam uma dupla nada comum em busca do mesmo objetivo.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/wDmw7D6zt65bBWQs2Cnx1j05EB2.jpg"/>
+    <date>1967</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -442,9 +500,11 @@
     </rating>
   </programme>
   <programme start="20260711151405 -0300" stop="20260711163610 -0300" channel="fenix_classic">
-    <title lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</title>
-    <desc lang="pt">A Vingança de um Pistoleiro   Jack Nicholson   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">Disparo para Matar</title>
+    <desc lang="pt">Uma mulher misteriosa convence dois cowboys a ajudá-la em um esquema de vingança.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oaySRq49jlCtoYjhoR7IhSga6Vm.jpg"/>
+    <date>1966</date>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -472,17 +532,21 @@
     <date>2026</date>
   </programme>
   <programme start="20260711213642 -0300" stop="20260711235743 -0300" channel="fenix_classic">
-    <title lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</title>
-    <desc lang="pt">A Face Oculta   MARLON BRANDO   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">A Face Oculta</title>
+    <desc lang="pt">Em fuga após o roubo de um banco no México, um dos assaltantes, Dad Longwort, vê a chance de ficar com o ouro roubado e abandonar seu cúmplice, Rio, para ser capturado. Após alguns anos, Rio escapa da prisão e começa a caçar seu ex-amigo, para se vingar. Dad agora se tornou um respeitável xerife na Califórnia, que teme o retorno de Rio.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lG3GFHevR0C56szIkv7broOId0k.jpg"/>
+    <date>1961</date>
     <rating system="BR">
       <value>L</value>
     </rating>
   </programme>
   <programme start="20260711235743 -0300" stop="20260712012421 -0300" channel="fenix_classic">
-    <title lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</title>
-    <desc lang="pt">3 balas para Ringo    Oeste selvagem   Faroeste</desc>
-    <category lang="pt">Fenix</category>
+    <title lang="pt">3 Balas Para Ringo</title>
+    <desc lang="pt">A vida de Ringo Carson não está nada fácil. Primeiro, ele tem uma briga com seu melhor amigo, Frank Sanders, depois de salvar Jane a garota que ele ama de sequestradores mexicanos. Frank vai para a Guerra. Ringo se reconcilia com sua mãe, que precisa de sua arma para proteger as suas terras da ganância do banqueiro Daniels. Então, Frank retorna da Guerra e enfrenta Ringo que fica cego devido a um golpe na cabeça. Ringo trama sua vingança: ele terá de salvar sua esposa das garras do seu velho amigo, resgatar seu filho e acabar com Daniels.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/2Gl1Umm54yjhd6ofpHexuG9IdkX.jpg"/>
+    <date>1966</date>
     <rating system="BR">
       <value>L</value>
     </rating>
