@@ -65763,4 +65763,641 @@ Essa prática tem gerado montanhas de resíduos, transformando algumas cidades d
       <value>L</value>
     </rating>
   </programme>
+  <programme start="20260802000000 -0300" stop="20260802023702 -0300" channel="htodocs">
+    <title lang="pt">Apocalypse- Stalin</title>
+    <desc lang="pt">Documentário histórico sobre Josef Stalin, sua ascensão ao poder, o regime soviético, a repressão política e seu papel nos grandes acontecimentos do século XX.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260802023702 -0300" stop="20260802032434 -0300" channel="htodocs">
+    <title lang="pt">Arábia ao Extremo - A Vida e a Morte nas Dunas - Documentário Animal</title>
+    <desc lang="pt">Documentário sobre a fauna do deserto árabe e as estratégias de sobrevivência de animais em um ambiente marcado por calor, areia e poucos recursos.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802032434 -0300" stop="20260802042944 -0300" channel="htodocs">
+    <title lang="pt">ATO 18 - Episódio 2- Festa da Selma</title>
+    <desc lang="pt">Episódio documental da série ATO 18, abordando acontecimentos políticos e sociais do Brasil recente por meio de relatos, registros e análise histórica.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260802042944 -0300" stop="20260802045203 -0300" channel="htodocs">
+    <title lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">Documentário que analisa o poder das indústrias de alimentos ultraprocessados, seus impactos na saúde pública, no consumo e nas escolhas alimentares da população.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2021</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802045203 -0300" stop="20260802054249 -0300" channel="htodocs">
+    <title lang="pt">Direitos Humanos Para Humanos</title>
+    <desc lang="pt">Documentário que discute direitos humanos, cidadania, justiça social e os desafios para garantir dignidade e igualdade em uma sociedade democrática.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802054249 -0300" stop="20260802065225 -0300" channel="htodocs">
+    <title lang="pt">Mestre Bimba - CAPOEIRA ILUMINADA</title>
+    <desc lang="pt">Documentário sobre Mestre Bimba, criador da Capoeira Regional, destacando sua trajetória, legado cultural e importância para a valorização da capoeira no Brasil.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2005</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802065225 -0300" stop="20260802075417 -0300" channel="htodocs">
+    <title lang="pt">PIXO</title>
+    <desc lang="pt">Documentário sobre a pichação urbana em São Paulo, acompanhando seus códigos, conflitos, estética, riscos e a relação entre arte, cidade e marginalidade.</desc>
+    <credits>
+      <director>João Wainer, Roberto T. Oliveira</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2009</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260802075417 -0300" stop="20260802084210 -0300" channel="htodocs">
+    <title lang="pt">Documentário Animal Dublado - O Deserto Extremo na Arábia</title>
+    <desc lang="pt">Documentário sobre a vida selvagem no deserto da Arábia, mostrando animais que sobrevivem em condições extremas de calor, seca e escassez de recursos.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802084210 -0300" stop="20260802094039 -0300" channel="htodocs">
+    <title lang="pt">ORIGIN</title>
+    <desc lang="pt">Documentário que propõe uma reflexão sobre origens, ciência, humanidade e transformação, explorando questões ligadas à vida, à história e ao conhecimento.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802094039 -0300" stop="20260802105149 -0300" channel="htodocs">
+    <title lang="pt">VIPs - Histórias Reais de um mentiroso</title>
+    <desc lang="pt">Documentário que apresenta a história real de um dos maiores impostores do Brasil, mostrando como sua capacidade de enganar pessoas chamou a atenção do país.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260802105149 -0300" stop="20260802115206 -0300" channel="htodocs">
+    <title lang="pt">U-869 - O Submarino perdido de Hitler - Parte 1</title>
+    <desc lang="pt">Primeira parte do documentário sobre o submarino alemão U-869, explorando sua história, desaparecimento e as investigações que levaram à descoberta de seus destroços.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802115206 -0300" stop="20260802142908 -0300" channel="htodocs">
+    <title lang="pt">Apocalypse- Stalin</title>
+    <desc lang="pt">Documentário histórico sobre Josef Stalin, sua ascensão ao poder, o regime soviético, a repressão política e seu papel nos grandes acontecimentos do século XX.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260802142908 -0300" stop="20260802151640 -0300" channel="htodocs">
+    <title lang="pt">Arábia ao Extremo - A Vida e a Morte nas Dunas - Documentário Animal</title>
+    <desc lang="pt">Documentário sobre a fauna do deserto árabe e as estratégias de sobrevivência de animais em um ambiente marcado por calor, areia e poucos recursos.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802151640 -0300" stop="20260802162150 -0300" channel="htodocs">
+    <title lang="pt">ATO 18 - Episódio 2- Festa da Selma</title>
+    <desc lang="pt">Episódio documental da série ATO 18, abordando acontecimentos políticos e sociais do Brasil recente por meio de relatos, registros e análise histórica.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260802162150 -0300" stop="20260802164409 -0300" channel="htodocs">
+    <title lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">Documentário que analisa o poder das indústrias de alimentos ultraprocessados, seus impactos na saúde pública, no consumo e nas escolhas alimentares da população.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2021</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802164409 -0300" stop="20260802173455 -0300" channel="htodocs">
+    <title lang="pt">Direitos Humanos Para Humanos</title>
+    <desc lang="pt">Documentário que discute direitos humanos, cidadania, justiça social e os desafios para garantir dignidade e igualdade em uma sociedade democrática.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802173455 -0300" stop="20260802184431 -0300" channel="htodocs">
+    <title lang="pt">Mestre Bimba - CAPOEIRA ILUMINADA</title>
+    <desc lang="pt">Documentário sobre Mestre Bimba, criador da Capoeira Regional, destacando sua trajetória, legado cultural e importância para a valorização da capoeira no Brasil.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2005</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802184431 -0300" stop="20260802194623 -0300" channel="htodocs">
+    <title lang="pt">PIXO</title>
+    <desc lang="pt">Documentário sobre a pichação urbana em São Paulo, acompanhando seus códigos, conflitos, estética, riscos e a relação entre arte, cidade e marginalidade.</desc>
+    <credits>
+      <director>João Wainer, Roberto T. Oliveira</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2009</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20260802194623 -0300" stop="20260802203416 -0300" channel="htodocs">
+    <title lang="pt">Documentário Animal Dublado - O Deserto Extremo na Arábia</title>
+    <desc lang="pt">Documentário sobre a vida selvagem no deserto da Arábia, mostrando animais que sobrevivem em condições extremas de calor, seca e escassez de recursos.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802203416 -0300" stop="20260802213245 -0300" channel="htodocs">
+    <title lang="pt">ORIGIN</title>
+    <desc lang="pt">Documentário que propõe uma reflexão sobre origens, ciência, humanidade e transformação, explorando questões ligadas à vida, à história e ao conhecimento.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260802213245 -0300" stop="20260802224355 -0300" channel="htodocs">
+    <title lang="pt">VIPs - Histórias Reais de um mentiroso</title>
+    <desc lang="pt">Documentário que apresenta a história real de um dos maiores impostores do Brasil, mostrando como sua capacidade de enganar pessoas chamou a atenção do país.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260802224355 -0300" stop="20260802234412 -0300" channel="htodocs">
+    <title lang="pt">U-869 - O Submarino perdido de Hitler - Parte 1</title>
+    <desc lang="pt">Primeira parte do documentário sobre o submarino alemão U-869, explorando sua história, desaparecimento e as investigações que levaram à descoberta de seus destroços.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803000000 -0300" stop="20260803011110 -0300" channel="htodocs">
+    <title lang="pt">VIPs - Histórias Reais de um mentiroso</title>
+    <desc lang="pt">Documentário que apresenta a história real de um dos maiores impostores do Brasil, mostrando como sua capacidade de enganar pessoas chamou a atenção do país.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260803011110 -0300" stop="20260803014352 -0300" channel="htodocs">
+    <title lang="pt">U-869 - O Submarino perdido de Hitler - Parte 2</title>
+    <desc lang="pt">Segunda parte do documentário sobre o submarino U-869, detalhando as expedições submarinas e os mistérios envolvendo sua missão durante a Segunda Guerra Mundial.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803014352 -0300" stop="20260803032152 -0300" channel="htodocs">
+    <title lang="pt">Terra</title>
+    <desc lang="pt">Documentário que apresenta a beleza do planeta, seus ecossistemas, paisagens naturais e a relação entre a humanidade e o meio ambiente.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2007</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803032152 -0300" stop="20260803045620 -0300" channel="htodocs">
+    <title lang="pt">Terra - Documentário Sobre a Terra e Sua Biodiversidade - Documentário Animal Dublado</title>
+    <desc lang="pt">Documentário sobre a diversidade da vida na Terra, explorando ecossistemas, animais, plantas e os desafios para a preservação da biodiversidade.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803045620 -0300" stop="20260803060625 -0300" channel="htodocs">
+    <title lang="pt">Sabotage - Nós</title>
+    <desc lang="pt">Documentário sobre a trajetória do rapper Sabotage, sua importância para o hip-hop brasileiro e o legado deixado para a música e a cultura das periferias.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260803060625 -0300" stop="20260803063118 -0300" channel="htodocs">
+    <title lang="pt">O Mundo Independente das HQs</title>
+    <desc lang="pt">Documentário sobre a produção independente de histórias em quadrinhos, apresentando autores, editoras, processos criativos e desafios do mercado brasileiro.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803063118 -0300" stop="20260803073130 -0300" channel="htodocs">
+    <title lang="pt">O silêncio dos homens</title>
+    <desc lang="pt">Documentário que investiga masculinidade, emoções e silêncio masculino, discutindo saúde mental, relações afetivas e os impactos dos padrões sociais sobre os homens.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2019</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803073130 -0300" stop="20260803081132 -0300" channel="htodocs">
+    <title lang="pt">AYRTON SENNA- O Último Ídolo do Brasi</title>
+    <desc lang="pt">Documentário sobre Ayrton Senna, sua carreira nas pistas, seu legado esportivo e sua importância como um dos maiores ídolos do automobilismo brasileiro.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803081132 -0300" stop="20260803083648 -0300" channel="htodocs">
+    <title lang="pt">Caminho de Peabiru - De Lá Pra Cá</title>
+    <desc lang="pt">Documentário sobre o lendário Caminho de Peabiru, uma rota ancestral que atravessava a América do Sul e conectava povos, territórios e culturas indígenas.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803083648 -0300" stop="20260803093007 -0300" channel="htodocs">
+    <title lang="pt">O Que é Umbanda</title>
+    <desc lang="pt">Documentário introdutório sobre a Umbanda, abordando suas origens, fundamentos, práticas, espiritualidade, entidades e importância cultural no Brasil.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803093007 -0300" stop="20260803100558 -0300" channel="htodocs">
+    <title lang="pt">Documentário A dona do terreiro</title>
+    <desc lang="pt">Documentário sobre religiosidade, ancestralidade e cultura afro-brasileira, acompanhando histórias ligadas à liderança espiritual e à vida em um terreiro.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803100558 -0300" stop="20260803104834 -0300" channel="htodocs">
+    <title lang="pt">A História da Internet - O Poder das Pessoas</title>
+    <desc lang="pt">Documentário sobre a evolução da internet e sua transformação em uma ferramenta de comunicação, mobilização social, conhecimento e participação popular.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803104834 -0300" stop="20260803111413 -0300" channel="htodocs">
+    <title lang="pt">Documentário - Escravidão no Brasil - Parte II</title>
+    <desc lang="pt">Segunda parte da série sobre a escravidão no Brasil, aprofundando as formas de exploração, resistência e organização social durante o período escravista.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260803111413 -0300" stop="20260803122523 -0300" channel="htodocs">
+    <title lang="pt">VIPs - Histórias Reais de um mentiroso</title>
+    <desc lang="pt">Documentário que apresenta a história real de um dos maiores impostores do Brasil, mostrando como sua capacidade de enganar pessoas chamou a atenção do país.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260803122523 -0300" stop="20260803125805 -0300" channel="htodocs">
+    <title lang="pt">U-869 - O Submarino perdido de Hitler - Parte 2</title>
+    <desc lang="pt">Segunda parte do documentário sobre o submarino U-869, detalhando as expedições submarinas e os mistérios envolvendo sua missão durante a Segunda Guerra Mundial.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803125805 -0300" stop="20260803143605 -0300" channel="htodocs">
+    <title lang="pt">Terra</title>
+    <desc lang="pt">Documentário que apresenta a beleza do planeta, seus ecossistemas, paisagens naturais e a relação entre a humanidade e o meio ambiente.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2007</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803143605 -0300" stop="20260803161033 -0300" channel="htodocs">
+    <title lang="pt">Terra - Documentário Sobre a Terra e Sua Biodiversidade - Documentário Animal Dublado</title>
+    <desc lang="pt">Documentário sobre a diversidade da vida na Terra, explorando ecossistemas, animais, plantas e os desafios para a preservação da biodiversidade.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803161033 -0300" stop="20260803172038 -0300" channel="htodocs">
+    <title lang="pt">Sabotage - Nós</title>
+    <desc lang="pt">Documentário sobre a trajetória do rapper Sabotage, sua importância para o hip-hop brasileiro e o legado deixado para a música e a cultura das periferias.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260803172038 -0300" stop="20260803174531 -0300" channel="htodocs">
+    <title lang="pt">O Mundo Independente das HQs</title>
+    <desc lang="pt">Documentário sobre a produção independente de histórias em quadrinhos, apresentando autores, editoras, processos criativos e desafios do mercado brasileiro.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803174531 -0300" stop="20260803184543 -0300" channel="htodocs">
+    <title lang="pt">O silêncio dos homens</title>
+    <desc lang="pt">Documentário que investiga masculinidade, emoções e silêncio masculino, discutindo saúde mental, relações afetivas e os impactos dos padrões sociais sobre os homens.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2019</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803184543 -0300" stop="20260803192545 -0300" channel="htodocs">
+    <title lang="pt">AYRTON SENNA- O Último Ídolo do Brasi</title>
+    <desc lang="pt">Documentário sobre Ayrton Senna, sua carreira nas pistas, seu legado esportivo e sua importância como um dos maiores ídolos do automobilismo brasileiro.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803192545 -0300" stop="20260803195101 -0300" channel="htodocs">
+    <title lang="pt">Caminho de Peabiru - De Lá Pra Cá</title>
+    <desc lang="pt">Documentário sobre o lendário Caminho de Peabiru, uma rota ancestral que atravessava a América do Sul e conectava povos, territórios e culturas indígenas.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803195101 -0300" stop="20260803204420 -0300" channel="htodocs">
+    <title lang="pt">O Que é Umbanda</title>
+    <desc lang="pt">Documentário introdutório sobre a Umbanda, abordando suas origens, fundamentos, práticas, espiritualidade, entidades e importância cultural no Brasil.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803204420 -0300" stop="20260803212011 -0300" channel="htodocs">
+    <title lang="pt">Documentário A dona do terreiro</title>
+    <desc lang="pt">Documentário sobre religiosidade, ancestralidade e cultura afro-brasileira, acompanhando histórias ligadas à liderança espiritual e à vida em um terreiro.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803212011 -0300" stop="20260803220247 -0300" channel="htodocs">
+    <title lang="pt">A História da Internet - O Poder das Pessoas</title>
+    <desc lang="pt">Documentário sobre a evolução da internet e sua transformação em uma ferramenta de comunicação, mobilização social, conhecimento e participação popular.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260803220247 -0300" stop="20260803222826 -0300" channel="htodocs">
+    <title lang="pt">Documentário - Escravidão no Brasil - Parte II</title>
+    <desc lang="pt">Segunda parte da série sobre a escravidão no Brasil, aprofundando as formas de exploração, resistência e organização social durante o período escravista.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260803222826 -0300" stop="20260803233936 -0300" channel="htodocs">
+    <title lang="pt">VIPs - Histórias Reais de um mentiroso</title>
+    <desc lang="pt">Documentário que apresenta a história real de um dos maiores impostores do Brasil, mostrando como sua capacidade de enganar pessoas chamou a atenção do país.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
 </tv>
