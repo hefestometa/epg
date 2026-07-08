@@ -66400,4 +66400,329 @@ Essa prática tem gerado montanhas de resíduos, transformando algumas cidades d
       <value>12</value>
     </rating>
   </programme>
+  <programme start="20260804000000 -0300" stop="20260804010510 -0300" channel="htodocs">
+    <title lang="pt">ATO 18 - O golpe contra Lula - Episódio 2- Festa da Selma</title>
+    <desc lang="pt">Segundo episódio documental sobre os bastidores políticos e jurídicos relacionados aos acontecimentos que marcaram a trajetória recente de Lula.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260804010510 -0300" stop="20260804012729 -0300" channel="htodocs">
+    <title lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">Documentário que analisa o poder das indústrias de alimentos ultraprocessados, seus impactos na saúde pública, no consumo e nas escolhas alimentares da população.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2021</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804012729 -0300" stop="20260804021542 -0300" channel="htodocs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS EGEU</title>
+    <desc lang="pt">Documentário sobre antigas civilizações do mar Egeu, explorando povos, ruínas, mitos, comércio marítimo e o legado deixado para a história mediterrânea.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804021542 -0300" stop="20260804024811 -0300" channel="htodocs">
+    <title lang="pt">Despojos de Guerra- Laços de Sangue</title>
+    <desc lang="pt">Documentário sobre memórias, heranças e consequências humanas de conflitos armados, explorando marcas deixadas pela guerra em famílias e sociedades.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260804024811 -0300" stop="20260804040603 -0300" channel="htodocs">
+    <title lang="pt">Fungos Fantasticos - Cogumelos</title>
+    <desc lang="pt">Documentário sobre o fascinante mundo dos fungos e cogumelos, revelando sua importância ecológica, medicinal, alimentar e sua presença essencial nos ecossistemas.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804040603 -0300" stop="20260804045636 -0300" channel="htodocs">
+    <title lang="pt">O Mundo Secreto dos Crustáceos</title>
+    <desc lang="pt">Documentário animal sobre crustáceos, revelando comportamentos, adaptações, ecossistemas e a importância desses seres para a vida marinha.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804045636 -0300" stop="20260804054955 -0300" channel="htodocs">
+    <title lang="pt">O Que é Umbanda</title>
+    <desc lang="pt">Documentário introdutório sobre a Umbanda, abordando suas origens, fundamentos, práticas, espiritualidade, entidades e importância cultural no Brasil.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804054955 -0300" stop="20260804072054 -0300" channel="htodocs">
+    <title lang="pt">Morro dos Prazeres</title>
+    <desc lang="pt">Documentário sobre a comunidade do Morro dos Prazeres, no Rio de Janeiro, abordando cotidiano, violência, desigualdade, resistência e vida comunitária.</desc>
+    <credits>
+      <director>Maria Augusta Ramos</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260804072054 -0300" stop="20260804083030 -0300" channel="htodocs">
+    <title lang="pt">Mestre Bimba - CAPOEIRA ILUMINADA</title>
+    <desc lang="pt">Documentário sobre Mestre Bimba, criador da Capoeira Regional, destacando sua trajetória, legado cultural e importância para a valorização da capoeira no Brasil.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2005</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804083030 -0300" stop="20260804085547 -0300" channel="htodocs">
+    <title lang="pt">Tauary - Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Documentário que acompanha pesquisas arqueológicas na Amazônia, revelando descobertas sobre povos antigos, patrimônio histórico e a ocupação humana da região.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804085547 -0300" stop="20260804095604 -0300" channel="htodocs">
+    <title lang="pt">U-869 - O Submarino perdido de Hitler - Parte 1</title>
+    <desc lang="pt">Primeira parte do documentário sobre o submarino alemão U-869, explorando sua história, desaparecimento e as investigações que levaram à descoberta de seus destroços.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804095604 -0300" stop="20260804110714 -0300" channel="htodocs">
+    <title lang="pt">VIPs - Histórias Reais de um mentiroso</title>
+    <desc lang="pt">Documentário que apresenta a história real de um dos maiores impostores do Brasil, mostrando como sua capacidade de enganar pessoas chamou a atenção do país.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260804110714 -0300" stop="20260804123428 -0300" channel="htodocs">
+    <title lang="pt">1943 a 1945 - Segunda Guerra Mundial - A Guerra no Ar</title>
+    <desc lang="pt">Documentário histórico sobre os anos finais da Segunda Guerra Mundial, destacando a importância da aviação, dos bombardeios estratégicos e das batalhas aéreas que marcaram o conflito.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://media.themoviedb.org/t/p/w220_and_h330_face/ninJss0fIqVTSgFeX62BYqd1TZD.jpg"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804123428 -0300" stop="20260804133938 -0300" channel="htodocs">
+    <title lang="pt">ATO 18 - O golpe contra Lula - Episódio 2- Festa da Selma</title>
+    <desc lang="pt">Segundo episódio documental sobre os bastidores políticos e jurídicos relacionados aos acontecimentos que marcaram a trajetória recente de Lula.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260804133938 -0300" stop="20260804140157 -0300" channel="htodocs">
+    <title lang="pt">BIG FOOD O PODER DAS INDÚSTRIAS DE ULTRAPROCESSADOS</title>
+    <desc lang="pt">Documentário que analisa o poder das indústrias de alimentos ultraprocessados, seus impactos na saúde pública, no consumo e nas escolhas alimentares da população.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2021</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804140157 -0300" stop="20260804145010 -0300" channel="htodocs">
+    <title lang="pt">CIVILIZAÇÕES PERDIDAS EGEU</title>
+    <desc lang="pt">Documentário sobre antigas civilizações do mar Egeu, explorando povos, ruínas, mitos, comércio marítimo e o legado deixado para a história mediterrânea.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804145010 -0300" stop="20260804152239 -0300" channel="htodocs">
+    <title lang="pt">Despojos de Guerra- Laços de Sangue</title>
+    <desc lang="pt">Documentário sobre memórias, heranças e consequências humanas de conflitos armados, explorando marcas deixadas pela guerra em famílias e sociedades.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260804152239 -0300" stop="20260804164031 -0300" channel="htodocs">
+    <title lang="pt">Fungos Fantasticos - Cogumelos</title>
+    <desc lang="pt">Documentário sobre o fascinante mundo dos fungos e cogumelos, revelando sua importância ecológica, medicinal, alimentar e sua presença essencial nos ecossistemas.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804164031 -0300" stop="20260804173104 -0300" channel="htodocs">
+    <title lang="pt">O Mundo Secreto dos Crustáceos</title>
+    <desc lang="pt">Documentário animal sobre crustáceos, revelando comportamentos, adaptações, ecossistemas e a importância desses seres para a vida marinha.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804173104 -0300" stop="20260804182423 -0300" channel="htodocs">
+    <title lang="pt">O Que é Umbanda</title>
+    <desc lang="pt">Documentário introdutório sobre a Umbanda, abordando suas origens, fundamentos, práticas, espiritualidade, entidades e importância cultural no Brasil.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804182423 -0300" stop="20260804195522 -0300" channel="htodocs">
+    <title lang="pt">Morro dos Prazeres</title>
+    <desc lang="pt">Documentário sobre a comunidade do Morro dos Prazeres, no Rio de Janeiro, abordando cotidiano, violência, desigualdade, resistência e vida comunitária.</desc>
+    <credits>
+      <director>Maria Augusta Ramos</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20260804195522 -0300" stop="20260804210458 -0300" channel="htodocs">
+    <title lang="pt">Mestre Bimba - CAPOEIRA ILUMINADA</title>
+    <desc lang="pt">Documentário sobre Mestre Bimba, criador da Capoeira Regional, destacando sua trajetória, legado cultural e importância para a valorização da capoeira no Brasil.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2005</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804210458 -0300" stop="20260804213015 -0300" channel="htodocs">
+    <title lang="pt">Tauary - Fazendo Arqueologia na Amazônia</title>
+    <desc lang="pt">Documentário que acompanha pesquisas arqueológicas na Amazônia, revelando descobertas sobre povos antigos, patrimônio histórico e a ocupação humana da região.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804213015 -0300" stop="20260804223032 -0300" channel="htodocs">
+    <title lang="pt">U-869 - O Submarino perdido de Hitler - Parte 1</title>
+    <desc lang="pt">Primeira parte do documentário sobre o submarino alemão U-869, explorando sua história, desaparecimento e as investigações que levaram à descoberta de seus destroços.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20260804223032 -0300" stop="20260804234142 -0300" channel="htodocs">
+    <title lang="pt">VIPs - Histórias Reais de um mentiroso</title>
+    <desc lang="pt">Documentário que apresenta a história real de um dos maiores impostores do Brasil, mostrando como sua capacidade de enganar pessoas chamou a atenção do país.</desc>
+    <credits>
+      <director>HtoDocs</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <icon src="https://drive.google.com/thumbnail?id=1-ehyIfm1qrwvX26bf_SjWGRa32iIqDMt&amp;sz=w2000"/>
+    <date>2026</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
 </tv>
