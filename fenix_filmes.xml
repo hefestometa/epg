@@ -137,7 +137,7 @@
   <programme start="20260811015112 -0300" stop="20260811015202 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260811015202 -0300" stop="20260811034857 -0300" channel="fenix_filmes">
     <title lang="pt">Fique Rico ou Morra Tentando</title>
@@ -777,7 +777,7 @@
   <programme start="20260816000000 -0300" stop="20260816000010 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260816000010 -0300" stop="20260816013736 -0300" channel="fenix_filmes">
     <title lang="pt">Chat: A Sala Negra</title>
@@ -1199,7 +1199,7 @@
   <programme start="20260819085120 -0300" stop="20260819085210 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260819085210 -0300" stop="20260819102254 -0300" channel="fenix_filmes">
     <title lang="pt">Atividade Paranormal: Tóquio</title>
@@ -1258,7 +1258,7 @@
   <programme start="20260819193545 -0300" stop="20260819193555 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260819193555 -0300" stop="20260819211321 -0300" channel="fenix_filmes">
     <title lang="pt">Chat: A Sala Negra</title>
@@ -1909,7 +1909,7 @@
   <programme start="20260825000000 -0300" stop="20260825000010 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260825000010 -0300" stop="20260825014743 -0300" channel="fenix_filmes">
     <title lang="pt">Os Outros Caras</title>
@@ -2388,7 +2388,7 @@
   <programme start="20260828191432 -0300" stop="20260828191522 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260828191522 -0300" stop="20260828204914 -0300" channel="fenix_filmes">
     <title lang="pt">Vingança ao Anoitecer</title>
@@ -2706,7 +2706,7 @@
   <programme start="20260831090106 -0300" stop="20260831090116 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260831090116 -0300" stop="20260831104722 -0300" channel="fenix_filmes">
     <title lang="pt">Grandes Olhos</title>
@@ -3012,7 +3012,7 @@
   <programme start="20260902230109 -0300" stop="20260902230159 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260902230159 -0300" stop="20260903002711 -0300" channel="fenix_filmes">
     <title lang="pt">Naruto Shippuden O Filme: A Torre Perdida</title>
@@ -3475,12 +3475,12 @@
   <programme start="20260906104044 -0300" stop="20260906104134 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260906104134 -0300" stop="20260906104144 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260906104144 -0300" stop="20260906130145 -0300" channel="fenix_filmes">
     <title lang="pt">Karate Kid</title>
@@ -4418,7 +4418,7 @@
   <programme start="20260914000000 -0300" stop="20260914000010 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260914000010 -0300" stop="20260914014057 -0300" channel="fenix_filmes">
     <title lang="pt">B13-U 13º Distrito - Ultimato</title>
@@ -4821,7 +4821,7 @@
   <programme start="20260917033505 -0300" stop="20260917033555 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260917033555 -0300" stop="20260917051820 -0300" channel="fenix_filmes">
     <title lang="pt">Cão de Briga</title>
@@ -5166,7 +5166,7 @@
   <programme start="20260919212416 -0300" stop="20260919212426 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260919212426 -0300" stop="20260919225450 -0300" channel="fenix_filmes">
     <title lang="pt">Caçada ao Presidente</title>
@@ -5857,7 +5857,7 @@
   <programme start="20260925064356 -0300" stop="20260925064446 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20260925064446 -0300" stop="20260925083235 -0300" channel="fenix_filmes">
     <title lang="pt">Brilho Eterno de uma Mente sem Lembranças</title>
@@ -6667,7 +6667,7 @@
   <programme start="20261001195537 -0300" stop="20261001195547 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261001195547 -0300" stop="20261001213036 -0300" channel="fenix_filmes">
     <title lang="pt">Meu Malvado Favorito</title>
@@ -6682,7 +6682,7 @@
   <programme start="20261001213036 -0300" stop="20261001213126 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261001213126 -0300" stop="20261001232821 -0300" channel="fenix_filmes">
     <title lang="pt">Fique Rico ou Morra Tentando</title>
@@ -6751,7 +6751,7 @@
   <programme start="20261002092954 -0300" stop="20261002093004 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261002093004 -0300" stop="20261002112450 -0300" channel="fenix_filmes">
     <title lang="pt">Zona Verde</title>
@@ -7189,7 +7189,7 @@
   <programme start="20261006000000 -0300" stop="20261006000050 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261006000050 -0300" stop="20261006015033 -0300" channel="fenix_filmes">
     <title lang="pt">Elysium</title>
@@ -7977,7 +7977,7 @@
   <programme start="20261012032558 -0300" stop="20261012032648 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261012032648 -0300" stop="20261012052807 -0300" channel="fenix_filmes">
     <title lang="pt">Fúria em Alto Mar</title>
@@ -8251,7 +8251,7 @@
   <programme start="20261014080626 -0300" stop="20261014080636 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261014080636 -0300" stop="20261014092859 -0300" channel="fenix_filmes">
     <title lang="pt">Todo Mundo em Pânico 2</title>
@@ -8607,7 +8607,7 @@
   <programme start="20261017015312 -0300" stop="20261017015402 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261017015402 -0300" stop="20261017031710 -0300" channel="fenix_filmes">
     <title lang="pt">A Bela e a Fera: O Natal Encantado</title>
@@ -8672,7 +8672,7 @@
   <programme start="20261017123759 -0300" stop="20261017123809 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261017123809 -0300" stop="20261017141310 -0300" channel="fenix_filmes">
     <title lang="pt">Como Se Fosse a Primeira Vez</title>
@@ -9178,7 +9178,7 @@
   <programme start="20261021174810 -0300" stop="20261021174820 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261021174820 -0300" stop="20261021195924 -0300" channel="fenix_filmes">
     <title lang="pt">As Duas Faces de um Crime</title>
@@ -9213,7 +9213,7 @@
   <programme start="20261021232112 -0300" stop="20261021232202 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261021232202 -0300" stop="20261022005928 -0300" channel="fenix_filmes">
     <title lang="pt">Chat: A Sala Negra</title>
@@ -9974,7 +9974,7 @@
   <programme start="20261028000000 -0300" stop="20261028000010 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261028000010 -0300" stop="20261028014616 -0300" channel="fenix_filmes">
     <title lang="pt">Grandes Olhos</title>
@@ -10046,7 +10046,7 @@
   <programme start="20261028125751 -0300" stop="20261028125841 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261028125841 -0300" stop="20261028142104 -0300" channel="fenix_filmes">
     <title lang="pt">Todo Mundo em Pânico 2</title>
@@ -10963,7 +10963,7 @@
   <programme start="20261104195828 -0300" stop="20261104195838 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261104195838 -0300" stop="20261104212745 -0300" channel="fenix_filmes">
     <title lang="pt">Como Treinar o Seu Dragão</title>
@@ -11572,7 +11572,7 @@
   <programme start="20261109170541 -0300" stop="20261109170631 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261109170631 -0300" stop="20261109185207 -0300" channel="fenix_filmes">
     <title lang="pt">Confiar</title>
@@ -11905,7 +11905,7 @@
   <programme start="20261112073005 -0300" stop="20261112073055 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261112073055 -0300" stop="20261112091120 -0300" channel="fenix_filmes">
     <title lang="pt">Corrida Mortal 2</title>
@@ -12344,7 +12344,7 @@
   <programme start="20261115193729 -0300" stop="20261115193739 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261115193739 -0300" stop="20261115210336 -0300" channel="fenix_filmes">
     <title lang="pt">Apenas Duas Noites</title>
@@ -12603,7 +12603,7 @@
   <programme start="20261117200810 -0300" stop="20261117200900 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261117200900 -0300" stop="20261117214925 -0300" channel="fenix_filmes">
     <title lang="pt">Corrida Mortal 2</title>
@@ -13062,7 +13062,7 @@
   <programme start="20261121114941 -0300" stop="20261121114951 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261121114951 -0300" stop="20261121134303 -0300" channel="fenix_filmes">
     <title lang="pt">Extraordinário</title>
@@ -13785,7 +13785,7 @@
   <programme start="20261127065356 -0300" stop="20261127065406 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261127065406 -0300" stop="20261127092057 -0300" channel="fenix_filmes">
     <title lang="pt">Bad Boys for Life Volume 2</title>
@@ -13983,7 +13983,7 @@
   <programme start="20261128225029 -0300" stop="20261128225119 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261128225119 -0300" stop="20261129004554 -0300" channel="fenix_filmes">
     <title lang="pt">A Vida Secreta de Walter Mitty</title>
@@ -14206,7 +14206,7 @@
   <programme start="20261130153136 -0300" stop="20261130153146 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261130153146 -0300" stop="20261130172853 -0300" channel="fenix_filmes">
     <title lang="pt">Encontro Explosivo</title>
@@ -14497,7 +14497,7 @@
   <programme start="20261203030355 -0300" stop="20261203030445 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261203030445 -0300" stop="20261203043325 -0300" channel="fenix_filmes">
     <title lang="pt">Conta Comigo</title>
@@ -15434,7 +15434,7 @@
   <programme start="20261210115543 -0300" stop="20261210115633 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261210115633 -0300" stop="20261210140554 -0300" channel="fenix_filmes">
     <title lang="pt">Corajosos</title>
@@ -15655,7 +15655,7 @@
   <programme start="20261212054556 -0300" stop="20261212054606 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261212054606 -0300" stop="20261212075014 -0300" channel="fenix_filmes">
     <title lang="pt">Bad Boys Para Sempre</title>
@@ -16394,7 +16394,7 @@
   <programme start="20261218045649 -0300" stop="20261218045659 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261218045659 -0300" stop="20261218062743 -0300" channel="fenix_filmes">
     <title lang="pt">Atividade Paranormal: Tóquio</title>
@@ -16472,7 +16472,7 @@
   <programme start="20261218201930 -0300" stop="20261218202020 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261218202020 -0300" stop="20261218223516 -0300" channel="fenix_filmes">
     <title lang="pt">Corações de Ferro</title>
@@ -16699,7 +16699,7 @@
   <programme start="20261220113053 -0300" stop="20261220113103 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261220113103 -0300" stop="20261220131150 -0300" channel="fenix_filmes">
     <title lang="pt">B13-U 13º Distrito - Ultimato</title>
@@ -17222,7 +17222,7 @@
   <programme start="20261224163228 -0300" stop="20261224163318 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261224163318 -0300" stop="20261224180158 -0300" channel="fenix_filmes">
     <title lang="pt">Conta Comigo</title>
@@ -17347,7 +17347,7 @@
   <programme start="20261225165836 -0300" stop="20261225165846 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261225165846 -0300" stop="20261225190308 -0300" channel="fenix_filmes">
     <title lang="pt">Triplo X</title>
@@ -17837,7 +17837,7 @@
   <programme start="20261229162125 -0300" stop="20261229162215 -0300" channel="fenix_filmes">
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
-    <category lang="pt">Program</category>
+    <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261229162215 -0300" stop="20261229174603 -0300" channel="fenix_filmes">
     <title lang="pt">Borat: O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América</title>
