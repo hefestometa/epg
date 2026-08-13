@@ -629,6 +629,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260817031658 -0300" stop="20260817044619 -0300" channel="fenix_classic">
     <title lang="pt">O Xerife de Abilene</title>
@@ -706,6 +709,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260817160731 -0300" stop="20260817173121 -0300" channel="fenix_classic">
     <title lang="pt">Uma Pistola Para Cem Caixões</title>
@@ -928,11 +934,14 @@
     </rating>
   </programme>
   <programme start="20260819034310 -0300" stop="20260819053407 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260819053407 -0300" stop="20260819065306 -0300" channel="fenix_classic">
     <title lang="pt">A Morte não Conta os Dólares</title>
@@ -1890,6 +1899,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260825140814 -0300" stop="20260825153703 -0300" channel="fenix_classic">
     <title lang="pt">A Trilha dos Desalmados</title>
@@ -1942,11 +1954,14 @@
     </rating>
   </programme>
   <programme start="20260825213915 -0300" stop="20260825233012 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260825233012 -0300" stop="20260826011057 -0300" channel="fenix_classic">
     <title lang="pt">Rio Bravo</title>
@@ -2004,6 +2019,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260826080441 -0300" stop="20260826093533 -0300" channel="fenix_classic">
     <title lang="pt">Promessa de Sangue</title>
@@ -2946,11 +2964,14 @@
     </rating>
   </programme>
   <programme start="20260901104859 -0300" stop="20260901123956 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260901123956 -0300" stop="20260901135445 -0300" channel="fenix_classic">
     <title lang="pt">7 Homens Sem Destino</title>
@@ -3038,6 +3059,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260902013552 -0300" stop="20260902033631 -0300" channel="fenix_classic">
     <title lang="pt">Fukushima: Ameaça Nuclear</title>
@@ -3145,6 +3169,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260902203151 -0300" stop="20260902214640 -0300" channel="fenix_classic">
     <title lang="pt">7 Homens Sem Destino</title>
@@ -3812,6 +3839,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260907065545 -0300" stop="20260907084026 -0300" channel="fenix_classic">
     <title lang="pt">O 3º Andar: Terror na Rua Malasaña</title>
@@ -4079,6 +4109,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260909030242 -0300" stop="20260909042318 -0300" channel="fenix_classic">
     <title lang="pt">Caminhos Ásperos</title>
@@ -4631,11 +4664,14 @@
     </rating>
   </programme>
   <programme start="20260912182911 -0300" stop="20260912202008 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260912202008 -0300" stop="20260912214213 -0300" channel="fenix_classic">
     <title lang="pt">Disparo para Matar</title>
@@ -5723,6 +5759,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260920030810 -0300" stop="20260920043850 -0300" channel="fenix_classic">
     <title lang="pt">Tempo de Massacre</title>
@@ -5970,13 +6009,19 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260921194129 -0300" stop="20260921213226 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260921213226 -0300" stop="20260921230113 -0300" channel="fenix_classic">
     <title lang="pt">Má Companhia</title>
@@ -6609,11 +6654,14 @@
     </rating>
   </programme>
   <programme start="20260926000000 -0300" stop="20260926015057 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260926015057 -0300" stop="20260926031447 -0300" channel="fenix_classic">
     <title lang="pt">Uma Pistola Para Cem Caixões</title>
@@ -6761,6 +6809,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260927013623 -0300" stop="20260927033213 -0300" channel="fenix_classic">
     <title lang="pt">Laços de Família</title>
@@ -7628,6 +7679,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261002211626 -0300" stop="20261002224748 -0300" channel="fenix_classic">
     <title lang="pt">Ódio por Ódio</title>
@@ -7705,6 +7759,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261003095928 -0300" stop="20261003112735 -0300" channel="fenix_classic">
     <title lang="pt">Viva Sabata!</title>
@@ -7807,11 +7864,14 @@
     </rating>
   </programme>
   <programme start="20261004012326 -0300" stop="20261004031423 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261004031423 -0300" stop="20261004051745 -0300" channel="fenix_classic">
     <title lang="pt">Duro de Matar 2</title>
@@ -8709,6 +8769,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261010034541 -0300" stop="20261010054302 -0300" channel="fenix_classic">
     <title lang="pt">Os Quatro da Ave Maria</title>
@@ -9241,11 +9304,14 @@
     </rating>
   </programme>
   <programme start="20261013153642 -0300" stop="20261013172739 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261013172739 -0300" stop="20261013185723 -0300" channel="fenix_classic">
     <title lang="pt">A Saga Continua</title>
@@ -9633,6 +9699,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261016060857 -0300" stop="20261016073808 -0300" channel="fenix_classic">
     <title lang="pt">Duplex</title>
@@ -9790,6 +9859,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261017081546 -0300" stop="20261017100251 -0300" channel="fenix_classic">
     <title lang="pt">Equilibrium</title>
@@ -10522,11 +10594,14 @@
     </rating>
   </programme>
   <programme start="20261022063912 -0300" stop="20261022083009 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261022083009 -0300" stop="20261022100148 -0300" channel="fenix_classic">
     <title lang="pt">Quatro Pistoleiros de Santa Trinitá</title>
@@ -11274,6 +11349,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261027045710 -0300" stop="20261027061159 -0300" channel="fenix_classic">
     <title lang="pt">7 Homens Sem Destino</title>
@@ -11431,6 +11509,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261028062212 -0300" stop="20261028075853 -0300" channel="fenix_classic">
     <title lang="pt">Encontros ao Acaso</title>
@@ -12228,6 +12309,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261102131015 -0300" stop="20261102143932 -0300" channel="fenix_classic">
     <title lang="pt">O Mão de Ferro</title>
@@ -12295,6 +12379,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261103000000 -0300" stop="20261103013123 -0300" channel="fenix_classic">
     <title lang="pt">Adeus, Texas</title>
@@ -12447,11 +12534,14 @@
     </rating>
   </programme>
   <programme start="20261104000000 -0300" stop="20261104015057 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261104015057 -0300" stop="20261104031946 -0300" channel="fenix_classic">
     <title lang="pt">A Trilha dos Desalmados</title>
@@ -13059,6 +13149,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261108044747 -0300" stop="20261108061406 -0300" channel="fenix_classic">
     <title lang="pt">Flechas Ardentes</title>
@@ -13346,6 +13439,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261110013552 -0300" stop="20261110030148 -0300" channel="fenix_classic">
     <title lang="pt">Drums in the Deep South</title>
@@ -13958,11 +14054,14 @@
     </rating>
   </programme>
   <programme start="20261114024740 -0300" stop="20261114043837 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261114043837 -0300" stop="20261114060754 -0300" channel="fenix_classic">
     <title lang="pt">O Mão de Ferro</title>
@@ -15230,6 +15329,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261122155725 -0300" stop="20261122173641 -0300" channel="fenix_classic">
     <title lang="pt">A Lei do Bravo</title>
@@ -15272,11 +15374,14 @@
     </rating>
   </programme>
   <programme start="20261122225640 -0300" stop="20261123004737 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261123000000 -0300" stop="20261123012918 -0300" channel="fenix_classic">
     <title lang="pt">Vou, Vejo E Disparo</title>
@@ -15474,6 +15579,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261124063844 -0300" stop="20261124080503 -0300" channel="fenix_classic">
     <title lang="pt">Flechas Ardentes</title>
@@ -16151,6 +16259,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261128183801 -0300" stop="20261128200527 -0300" channel="fenix_classic">
     <title lang="pt">Uma Aventura e Tanto</title>
@@ -16393,11 +16504,14 @@
     </rating>
   </programme>
   <programme start="20261130073320 -0300" stop="20261130092417 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261130092417 -0300" stop="20261130105819 -0300" channel="fenix_classic">
     <title lang="pt">Em Seus Passos, O Que Faria Jesus?</title>
@@ -16505,6 +16619,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261201031151 -0300" stop="20261201045151 -0300" channel="fenix_classic">
     <title lang="pt">15 Forcas para um Assassino</title>
@@ -17072,6 +17189,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261205000000 -0300" stop="20261205012840 -0300" channel="fenix_classic">
     <title lang="pt">Dove si spara di più</title>
@@ -17249,6 +17369,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261206050449 -0300" stop="20261206070224 -0300" channel="fenix_classic">
     <title lang="pt">Sem Lei e Sem Alma</title>
@@ -18341,11 +18464,14 @@
     </rating>
   </programme>
   <programme start="20261213083756 -0300" stop="20261213102853 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261213102853 -0300" stop="20261213122908 -0300" channel="fenix_classic">
     <title lang="pt">Corre Homem, Corre</title>
@@ -18603,6 +18729,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261215031708 -0300" stop="20261215045348 -0300" channel="fenix_classic">
     <title lang="pt">Ligados Pelo Amor</title>
@@ -18790,6 +18919,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261216095351 -0300" stop="20261216113307 -0300" channel="fenix_classic">
     <title lang="pt">A Lei do Bravo</title>
@@ -18922,11 +19054,14 @@
     </rating>
   </programme>
   <programme start="20261217055022 -0300" stop="20261217074119 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261217074119 -0300" stop="20261217091241 -0300" channel="fenix_classic">
     <title lang="pt">Ódio por Ódio</title>
@@ -19884,6 +20019,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261223172850 -0300" stop="20261223190850 -0300" channel="fenix_classic">
     <title lang="pt">15 Forcas para um Assassino</title>
@@ -20636,11 +20774,14 @@
     </rating>
   </programme>
   <programme start="20261228163657 -0300" stop="20261228182754 -0300" channel="fenix_classic">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261228182754 -0300" stop="20261228195012 -0300" channel="fenix_classic">
     <title lang="pt">7 Pistolas para os MacGregor</title>
@@ -20688,6 +20829,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261229013552 -0300" stop="20261229030358 -0300" channel="fenix_classic">
     <title lang="pt">Django Desafia Sartana</title>
@@ -21045,6 +21189,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261231115515 -0300" stop="20261231132220 -0300" channel="fenix_classic">
     <title lang="pt">Segundas Intenções 2</title>
@@ -21072,6 +21219,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261231163123 -0300" stop="20261231175341 -0300" channel="fenix_classic">
     <title lang="pt">7 Pistolas para os MacGregor</title>

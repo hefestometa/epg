@@ -149,6 +149,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260813200137 -0300" stop="20260813204454 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E1 - Chuck Contra o Intersetorial</title>
@@ -284,6 +287,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260814125611 -0300" stop="20260814142605 -0300" channel="fenix_plus">
     <title lang="pt">O Solteirão</title>
@@ -464,11 +470,14 @@
     </rating>
   </programme>
   <programme start="20260815125416 -0300" stop="20260815144513 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260815144513 -0300" stop="20260815152740 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E20 - Irmãos de Sangue</title>
@@ -862,6 +871,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260817093841 -0300" stop="20260817102035 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E5 - 4:00 - 5:00</title>
@@ -944,11 +956,14 @@
     </rating>
   </programme>
   <programme start="20260817205501 -0300" stop="20260817224558 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260817224558 -0300" stop="20260818010659 -0300" channel="fenix_plus">
     <title lang="pt">A Face Oculta</title>
@@ -1016,6 +1031,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260818070530 -0300" stop="20260818085422 -0300" channel="fenix_plus">
     <title lang="pt">O Menino e a Guerra</title>
@@ -1116,6 +1134,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260818213511 -0300" stop="20260818233417 -0300" channel="fenix_plus">
     <title lang="pt">A Fantástica Fábrica de Chocolate</title>
@@ -1163,6 +1184,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260819041155 -0300" stop="20260819055220 -0300" channel="fenix_plus">
     <title lang="pt">Corrida Mortal 2</title>
@@ -1170,6 +1194,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260819055220 -0300" stop="20260819061511 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E20 - Alarme Falso</title>
@@ -1355,6 +1382,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260820015426 -0300" stop="20260820033213 -0300" channel="fenix_plus">
     <title lang="pt">De Repente 30</title>
@@ -1482,6 +1512,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260820174251 -0300" stop="20260820182608 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E1 - Chuck Contra o Intersetorial</title>
@@ -1519,6 +1552,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260821000000 -0300" stop="20260821012643 -0300" channel="fenix_plus">
     <title lang="pt">Guerra Biológica</title>
@@ -1624,6 +1660,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260821120545 -0300" stop="20260821140907 -0300" channel="fenix_plus">
     <title lang="pt">Duro de Matar 2</title>
@@ -1784,6 +1823,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260822073452 -0300" stop="20260822090854 -0300" channel="fenix_plus">
     <title lang="pt">Em Seus Passos, O Que Faria Jesus?</title>
@@ -1926,11 +1968,14 @@
     </rating>
   </programme>
   <programme start="20260823000000 -0300" stop="20260823015057 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260823015057 -0300" stop="20260823032214 -0300" channel="fenix_plus">
     <title lang="pt">Viagem do Medo</title>
@@ -1938,6 +1983,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260823032214 -0300" stop="20260823045557 -0300" channel="fenix_plus">
     <title lang="pt">A Vida por um Dolar</title>
@@ -2241,6 +2289,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260824161236 -0300" stop="20260824173441 -0300" channel="fenix_plus">
     <title lang="pt">Disparo para Matar</title>
@@ -2313,11 +2364,14 @@
     </rating>
   </programme>
   <programme start="20260825000000 -0300" stop="20260825015057 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260825015057 -0300" stop="20260825034647 -0300" channel="fenix_plus">
     <title lang="pt">Laços de Família</title>
@@ -2493,6 +2547,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260826000000 -0300" stop="20260826002118 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E10 - Charlie Fica Romântico</title>
@@ -2570,6 +2627,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260826103549 -0300" stop="20260826121212 -0300" channel="fenix_plus">
     <title lang="pt">A Maldição da Floresta</title>
@@ -2577,6 +2637,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260826121212 -0300" stop="20260826123349 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E11 - Tudo Pode Acontecer</title>
@@ -2654,6 +2717,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260826213551 -0300" stop="20260826232505 -0300" channel="fenix_plus">
     <title lang="pt">A Morte Anda a Cavalo</title>
@@ -2719,6 +2785,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260827055919 -0300" stop="20260827062232 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E22 - Nada Como o Show Business</title>
@@ -2904,6 +2973,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260828021819 -0300" stop="20260828035044 -0300" channel="fenix_plus">
     <title lang="pt">A Mentira</title>
@@ -3254,6 +3326,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260829182354 -0300" stop="20260829190625 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E3 - 2:00 - 3:00</title>
@@ -3541,6 +3616,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260831022222 -0300" stop="20260831034943 -0300" channel="fenix_plus">
     <title lang="pt">Espião por Acidente</title>
@@ -3716,11 +3794,14 @@
     </rating>
   </programme>
   <programme start="20260901010401 -0300" stop="20260901025458 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260901025458 -0300" stop="20260901033731 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E11 - Chuck Contra O Crown Victoria</title>
@@ -3796,6 +3877,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260901132133 -0300" stop="20260901144338 -0300" channel="fenix_plus">
     <title lang="pt">Disparo para Matar</title>
@@ -3921,6 +4005,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260902042630 -0300" stop="20260902050923 -0300" channel="fenix_plus">
     <title lang="pt">Grey-s-anatomy</title>
@@ -4006,6 +4093,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260902163329 -0300" stop="20260902165506 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E9 - Terminando e Quebrando</title>
@@ -4033,6 +4123,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260902184627 -0300" stop="20260902202029 -0300" channel="fenix_plus">
     <title lang="pt">Em Seus Passos, O Que Faria Jesus?</title>
@@ -4100,6 +4193,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260903014946 -0300" stop="20260903032946 -0300" channel="fenix_plus">
     <title lang="pt">15 Forcas para um Assassino</title>
@@ -4127,6 +4223,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260903070419 -0300" stop="20260903074739 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E8 - Fora Da Escuridão</title>
@@ -4414,6 +4513,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260904170624 -0300" stop="20260904172936 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E21 - Jogar e Coçar é Só Começar</title>
@@ -4456,11 +4558,14 @@
     </rating>
   </programme>
   <programme start="20260904221455 -0300" stop="20260905000552 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260905000000 -0300" stop="20260905004233 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E13 - Chuck Contra O Marlin</title>
@@ -4622,6 +4727,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260905192853 -0300" stop="20260905210104 -0300" channel="fenix_plus">
     <title lang="pt">10.000 Dólares para Django</title>
@@ -4732,6 +4840,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260906104532 -0300" stop="20260906110708 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E8 - Ele Disse, Ela Disse</title>
@@ -4759,6 +4870,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260906131937 -0300" stop="20260906134246 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E19 - A Droga é uma Droga</title>
@@ -5062,6 +5176,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260908000000 -0300" stop="20260908002137 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E11 - Tudo Pode Acontecer</title>
@@ -5149,6 +5266,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260908115738 -0300" stop="20260908123932 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E5 - 4:00 - 5:00</title>
@@ -5266,6 +5386,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260909014025 -0300" stop="20260909031751 -0300" channel="fenix_plus">
     <title lang="pt">Chat: A Sala Negra</title>
@@ -5273,6 +5396,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260909031751 -0300" stop="20260909045133 -0300" channel="fenix_plus">
     <title lang="pt">127 Horas</title>
@@ -5390,6 +5516,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260909182640 -0300" stop="20260909184808 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E8 - Charlie Revela o Segredo de um Paciente</title>
@@ -5487,6 +5616,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260910043412 -0300" stop="20260910060406 -0300" channel="fenix_plus">
     <title lang="pt">O Solteirão</title>
@@ -5509,11 +5641,14 @@
     </rating>
   </programme>
   <programme start="20260910064603 -0300" stop="20260910083700 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260910083700 -0300" stop="20260910090013 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E22 - Nada Como o Show Business</title>
@@ -5892,6 +6027,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260912073710 -0300" stop="20260912085915 -0300" channel="fenix_plus">
     <title lang="pt">Disparo para Matar</title>
@@ -5977,6 +6115,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260912171304 -0300" stop="20260912175537 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E11 - Chuck Contra O Crown Victoria</title>
@@ -6084,6 +6225,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260913063659 -0300" stop="20260913071930 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E3 - 2:00 - 3:00</title>
@@ -6169,11 +6313,14 @@
     </rating>
   </programme>
   <programme start="20260913161755 -0300" stop="20260913180852 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260913180852 -0300" stop="20260913194203 -0300" channel="fenix_plus">
     <title lang="pt">Escorregando Para a Glória</title>
@@ -6231,6 +6378,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260914032715 -0300" stop="20260914035006 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E20 - Alarme Falso</title>
@@ -6388,6 +6538,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260915020035 -0300" stop="20260915022347 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E21 - Jogar e Coçar é Só Começar</title>
@@ -6621,6 +6774,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260916030229 -0300" stop="20260916032357 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E8 - Charlie Revela o Segredo de um Paciente</title>
@@ -7096,11 +7252,14 @@
     </rating>
   </programme>
   <programme start="20260918112634 -0300" stop="20260918131731 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260918131731 -0300" stop="20260918145133 -0300" channel="fenix_plus">
     <title lang="pt">Em Seus Passos, O Que Faria Jesus?</title>
@@ -7304,6 +7463,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260919100829 -0300" stop="20260919114616 -0300" channel="fenix_plus">
     <title lang="pt">De Repente 30</title>
@@ -7361,6 +7523,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260919170100 -0300" stop="20260919185807 -0300" channel="fenix_plus">
     <title lang="pt">Encontro Explosivo</title>
@@ -7418,6 +7583,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260920014025 -0300" stop="20260920033508 -0300" channel="fenix_plus">
     <title lang="pt">Eu, Robô</title>
@@ -7465,6 +7633,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260920075923 -0300" stop="20260920092606 -0300" channel="fenix_plus">
     <title lang="pt">Guerra Biológica</title>
@@ -7502,6 +7673,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260920133325 -0300" stop="20260920141642 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E1 - Chuck Contra o Intersetorial</title>
@@ -7567,6 +7741,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260921000000 -0300" stop="20260921002251 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E20 - Alarme Falso</title>
@@ -7792,6 +7969,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260922014025 -0300" stop="20260922030902 -0300" channel="fenix_plus">
     <title lang="pt">Gigolô por Acidente</title>
@@ -7895,6 +8075,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260922152135 -0300" stop="20260922165901 -0300" channel="fenix_plus">
     <title lang="pt">Apartamento 2012 - A Insfestação</title>
@@ -7987,6 +8170,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260923053317 -0300" stop="20260923070528 -0300" channel="fenix_plus">
     <title lang="pt">10.000 Dólares para Django</title>
@@ -8019,11 +8205,14 @@
     </rating>
   </programme>
   <programme start="20260923092207 -0300" stop="20260923111304 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260923111304 -0300" stop="20260923115624 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E8 - Fora Da Escuridão</title>
@@ -8041,6 +8230,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260923133350 -0300" stop="20260923135527 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E1 - Piloto</title>
@@ -8078,6 +8270,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260923181026 -0300" stop="20260923193704 -0300" channel="fenix_plus">
     <title lang="pt">3 Balas Para Ringo</title>
@@ -8125,6 +8320,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260924000000 -0300" stop="20260924015553 -0300" channel="fenix_plus">
     <title lang="pt">Pais e Filhas</title>
@@ -8625,11 +8823,14 @@
     </rating>
   </programme>
   <programme start="20260926095432 -0300" stop="20260926114529 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260926114529 -0300" stop="20260926122849 -0300" channel="fenix_plus">
     <title lang="pt">Grey-s-anatomy</title>
@@ -8645,6 +8846,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260926140006 -0300" stop="20260926144233 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E21 - Isobel</title>
@@ -8740,6 +8944,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260926223140 -0300" stop="20260927002054 -0300" channel="fenix_plus">
     <title lang="pt">A Morte Anda a Cavalo</title>
@@ -8882,6 +9089,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260927161725 -0300" stop="20260927170006 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E24 - 23:00 - 00:00</title>
@@ -9035,6 +9245,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260928085439 -0300" stop="20260928101951 -0300" channel="fenix_plus">
     <title lang="pt">Naruto Shippuden O Filme: A Torre Perdida</title>
@@ -9242,6 +9455,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260929111019 -0300" stop="20260929124244 -0300" channel="fenix_plus">
     <title lang="pt">A Mentira</title>
@@ -9369,6 +9585,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260930055902 -0300" stop="20260930064135 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E13 - Chuck Contra O Marlin</title>
@@ -9456,6 +9675,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260930191925 -0300" stop="20260930211255 -0300" channel="fenix_plus">
     <title lang="pt">Amnésia</title>
@@ -9543,6 +9765,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261001061644 -0300" stop="20261001074453 -0300" channel="fenix_plus">
     <title lang="pt">Marmaduke</title>
@@ -9550,6 +9775,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261001074453 -0300" stop="20261001091610 -0300" channel="fenix_plus">
     <title lang="pt">Viagem do Medo</title>
@@ -9557,6 +9785,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261001091610 -0300" stop="20261001104248 -0300" channel="fenix_plus">
     <title lang="pt">3 Balas Para Ringo</title>
@@ -9687,11 +9918,14 @@
     </rating>
   </programme>
   <programme start="20261002010439 -0300" stop="20261002025536 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261002025536 -0300" stop="20261002033856 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E6 - Um Amigo De Pouco Talento</title>
@@ -9729,6 +9963,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261002083036 -0300" stop="20261002101036 -0300" channel="fenix_plus">
     <title lang="pt">15 Forcas para um Assassino</title>
@@ -10310,6 +10547,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261005014025 -0300" stop="20261005031751 -0300" channel="fenix_plus">
     <title lang="pt">Apartamento 2012 - A Insfestação</title>
@@ -10428,6 +10668,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261005155920 -0300" stop="20261005164237 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E12 - Chuck Contra A Amante Oculta</title>
@@ -10445,6 +10688,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261005181829 -0300" stop="20261005184005 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E8 - Ele Disse, Ela Disse</title>
@@ -10542,6 +10788,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261006034540 -0300" stop="20261006042822 -0300" channel="fenix_plus">
     <title lang="pt">Grey-s-anatomy</title>
@@ -10752,11 +11001,14 @@
     </rating>
   </programme>
   <programme start="20261007053116 -0300" stop="20261007072213 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261007072213 -0300" stop="20261007080454 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E24 - 23:00 - 00:00</title>
@@ -11012,6 +11264,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261008155723 -0300" stop="20261008164040 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E1 - Chuck Contra o Intersetorial</title>
@@ -11029,6 +11284,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261008182105 -0300" stop="20261008184414 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E19 - A Droga é uma Droga</title>
@@ -11076,6 +11334,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261009000000 -0300" stop="20261009013342 -0300" channel="fenix_plus">
     <title lang="pt">127 Horas</title>
@@ -11671,6 +11932,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261012012809 -0300" stop="20261012032359 -0300" channel="fenix_plus">
     <title lang="pt">Laços de Família</title>
@@ -11736,6 +12000,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261012111337 -0300" stop="20261012115630 -0300" channel="fenix_plus">
     <title lang="pt">Grey-s-anatomy</title>
@@ -11751,6 +12018,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261012133655 -0300" stop="20261012151247 -0300" channel="fenix_plus">
     <title lang="pt">A Recruta Hollywood</title>
@@ -11758,6 +12028,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261012151247 -0300" stop="20261012153424 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E1 - Piloto</title>
@@ -11855,6 +12128,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261013040808 -0300" stop="20261013045054 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E10 - Chuck Contra O Nêmesis</title>
@@ -11877,11 +12153,14 @@
     </rating>
   </programme>
   <programme start="20261013061732 -0300" stop="20261013080829 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261013080829 -0300" stop="20261013085056 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E21 - Isobel</title>
@@ -12117,13 +12396,19 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261014101135 -0300" stop="20261014120232 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261014120232 -0300" stop="20261014122523 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E20 - Alarme Falso</title>
@@ -12680,6 +12965,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261017090133 -0300" stop="20261017104133 -0300" channel="fenix_plus">
     <title lang="pt">15 Forcas para um Assassino</title>
@@ -12747,6 +13035,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261017181907 -0300" stop="20261017194716 -0300" channel="fenix_plus">
     <title lang="pt">Marmaduke</title>
@@ -12754,6 +13045,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261017194716 -0300" stop="20261017203033 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E12 - Chuck Contra A Amante Oculta</title>
@@ -12891,6 +13185,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261018120847 -0300" stop="20261018125114 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E21 - Isobel</title>
@@ -12948,6 +13245,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261018192924 -0300" stop="20261018205918 -0300" channel="fenix_plus">
     <title lang="pt">O Solteirão</title>
@@ -12983,6 +13283,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261019000000 -0300" stop="20261019012643 -0300" channel="fenix_plus">
     <title lang="pt">Guerra Biológica</title>
@@ -13138,6 +13441,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261019191816 -0300" stop="20261019205344 -0300" channel="fenix_plus">
     <title lang="pt">Enterrado Vivo</title>
@@ -13375,6 +13681,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261020203658 -0300" stop="20261020211940 -0300" channel="fenix_plus">
     <title lang="pt">Grey-s-anatomy</title>
@@ -13450,6 +13759,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261021021050 -0300" stop="20261021041412 -0300" channel="fenix_plus">
     <title lang="pt">Duro de Matar 2</title>
@@ -13487,6 +13799,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261021065342 -0300" stop="20261021073702 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E7 - Haja O Que Houver</title>
@@ -13639,6 +13954,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261022032521 -0300" stop="20261022034657 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E10 - Um Pouco de Romance</title>
@@ -13691,11 +14009,14 @@
     </rating>
   </programme>
   <programme start="20261022104522 -0300" stop="20261022123619 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261022123619 -0300" stop="20261022140345 -0300" channel="fenix_plus">
     <title lang="pt">Uma Aventura e Tanto</title>
@@ -13761,6 +14082,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261022204928 -0300" stop="20261022222609 -0300" channel="fenix_plus">
     <title lang="pt">Encontros ao Acaso</title>
@@ -13926,6 +14250,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261023195748 -0300" stop="20261023202057 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E18 - Alma Mater</title>
@@ -13991,6 +14318,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261024013623 -0300" stop="20261024021943 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E7 - Haja O Que Houver</title>
@@ -14108,6 +14438,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261024141723 -0300" stop="20261024155449 -0300" channel="fenix_plus">
     <title lang="pt">Chat: A Sala Negra</title>
@@ -14115,6 +14448,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261024155449 -0300" stop="20261024172700 -0300" channel="fenix_plus">
     <title lang="pt">10.000 Dólares para Django</title>
@@ -14320,6 +14656,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261025205804 -0300" stop="20261025211929 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E7 - Charlie e o Paciente Saído da Prisão</title>
@@ -14425,11 +14764,14 @@
     <category lang="pt">Fenix</category>
   </programme>
   <programme start="20261026090654 -0300" stop="20261026105751 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261026105751 -0300" stop="20261026111919 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E8 - Charlie Revela o Segredo de um Paciente</title>
@@ -14725,6 +15067,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261027201244 -0300" stop="20261027220910 -0300" channel="fenix_plus">
     <title lang="pt">Agente Infiltrada</title>
@@ -14912,6 +15257,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261028182517 -0300" stop="20261028190714 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E4 - 3:00 - 4:00</title>
@@ -14969,6 +15317,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261029012809 -0300" stop="20261029033925 -0300" channel="fenix_plus">
     <title lang="pt">Erin Brockovich: Uma Mulher de Talento</title>
@@ -15026,6 +15377,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261029095640 -0300" stop="20261029101952 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E23 - Lembranças do Passado</title>
@@ -15208,6 +15562,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261030101846 -0300" stop="20261030104158 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E21 - Jogar e Coçar é Só Começar</title>
@@ -15251,6 +15608,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261030151530 -0300" stop="20261030165446 -0300" channel="fenix_plus">
     <title lang="pt">A Lei do Bravo</title>
@@ -15323,11 +15683,14 @@
     </rating>
   </programme>
   <programme start="20261031020959 -0300" stop="20261031040056 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261031040056 -0300" stop="20261031053307 -0300" channel="fenix_plus">
     <title lang="pt">10.000 Dólares para Django</title>
@@ -15581,6 +15944,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261101051206 -0300" stop="20261101055523 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E1 - Chuck Contra o Intersetorial</title>
@@ -15718,6 +16084,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261102000000 -0300" stop="20261102013623 -0300" channel="fenix_plus">
     <title lang="pt">A Maldição da Floresta</title>
@@ -15725,6 +16094,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261102013623 -0300" stop="20261102021836 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E19 - Senhorita Mystic Falls</title>
@@ -15792,13 +16164,19 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261102095153 -0300" stop="20261102114250 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261102114250 -0300" stop="20261102122523 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E11 - Chuck Contra O Crown Victoria</title>
@@ -15944,6 +16322,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261103073815 -0300" stop="20261103093441 -0300" channel="fenix_plus">
     <title lang="pt">Agente Infiltrada</title>
@@ -16087,6 +16468,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261104013726 -0300" stop="20261104020037 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E1 - O Saldo das Férias de Verão</title>
@@ -16437,6 +16821,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261105162128 -0300" stop="20261105180609 -0300" channel="fenix_plus">
     <title lang="pt">O 3º Andar: Terror na Rua Malasaña</title>
@@ -16614,6 +17001,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261106160223 -0300" stop="20261106162348 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E7 - Charlie e o Paciente Saído da Prisão</title>
@@ -16831,6 +17221,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261107211717 -0300" stop="20261107213854 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E1 - Piloto</title>
@@ -17058,6 +17451,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261108183349 -0300" stop="20261108201305 -0300" channel="fenix_plus">
     <title lang="pt">A Lei do Bravo</title>
@@ -17276,6 +17672,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261110012809 -0300" stop="20261110032359 -0300" channel="fenix_plus">
     <title lang="pt">Laços de Família</title>
@@ -17303,6 +17702,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261110065434 -0300" stop="20261110085100 -0300" channel="fenix_plus">
     <title lang="pt">Agente Infiltrada</title>
@@ -17325,11 +17727,14 @@
     </rating>
   </programme>
   <programme start="20261110103352 -0300" stop="20261110122449 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261110122449 -0300" stop="20261110130742 -0300" channel="fenix_plus">
     <title lang="pt">Grey-s-anatomy</title>
@@ -17475,6 +17880,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261111024623 -0300" stop="20261111032940 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E12 - Chuck Contra A Amante Oculta</title>
@@ -17580,6 +17988,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261111160947 -0300" stop="20261111165059 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E2 - 1:00 - 2:00</title>
@@ -17720,11 +18131,14 @@
     </rating>
   </programme>
   <programme start="20261112073939 -0300" stop="20261112093036 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261112093036 -0300" stop="20261112112626 -0300" channel="fenix_plus">
     <title lang="pt">Laços de Família</title>
@@ -17810,6 +18224,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261112201119 -0300" stop="20261112205352 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E13 - Chuck Contra O Marlin</title>
@@ -17847,6 +18264,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261113000000 -0300" stop="20261113012837 -0300" channel="fenix_plus">
     <title lang="pt">Gigolô por Acidente</title>
@@ -17904,6 +18324,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261113091019 -0300" stop="20261113095312 -0300" channel="fenix_plus">
     <title lang="pt">Grey-s-anatomy</title>
@@ -18177,6 +18600,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261114183914 -0300" stop="20261114190227 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E22 - Nada Como o Show Business</title>
@@ -18359,6 +18785,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261115152356 -0300" stop="20261115160642 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E10 - Chuck Contra O Nêmesis</title>
@@ -18506,6 +18935,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261116073140 -0300" stop="20261116081421 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E24 - 23:00 - 00:00</title>
@@ -18533,6 +18965,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261116114634 -0300" stop="20261116131945 -0300" channel="fenix_plus">
     <title lang="pt">Escorregando Para a Glória</title>
@@ -18570,6 +19005,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261116174656 -0300" stop="20261116192656 -0300" channel="fenix_plus">
     <title lang="pt">15 Forcas para um Assassino</title>
@@ -18707,6 +19145,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261117103205 -0300" stop="20261117105342 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E9 - Terminando e Quebrando</title>
@@ -18779,11 +19220,14 @@
     </rating>
   </programme>
   <programme start="20261117181602 -0300" stop="20261117200659 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261117200659 -0300" stop="20261117204942 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E1 - 00:00 - 1:00</title>
@@ -19100,6 +19544,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261119133804 -0300" stop="20261119151356 -0300" channel="fenix_plus">
     <title lang="pt">A Recruta Hollywood</title>
@@ -19107,6 +19554,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261119151356 -0300" stop="20261119155629 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E13 - Chuck Contra O Marlin</title>
@@ -19398,6 +19848,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261120210423 -0300" stop="20261120225337 -0300" channel="fenix_plus">
     <title lang="pt">A Morte Anda a Cavalo</title>
@@ -19475,6 +19928,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261121070502 -0300" stop="20261121072630 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E8 - Charlie Revela o Segredo de um Paciente</title>
@@ -19682,11 +20138,14 @@
     </rating>
   </programme>
   <programme start="20261122063713 -0300" stop="20261122082810 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261122082810 -0300" stop="20261122103759 -0300" channel="fenix_plus">
     <title lang="pt">Mar em Fúria</title>
@@ -19920,6 +20379,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261123125343 -0300" stop="20261123131501 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E10 - Charlie Fica Romântico</title>
@@ -19937,6 +20399,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261123145053 -0300" stop="20261123163118 -0300" channel="fenix_plus">
     <title lang="pt">Corrida Mortal 2</title>
@@ -19944,6 +20409,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261123163118 -0300" stop="20261123183055 -0300" channel="fenix_plus">
     <title lang="pt">Efeito Borboleta</title>
@@ -20171,6 +20639,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261125000000 -0300" stop="20261125002313 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E22 - Nada Como o Show Business</title>
@@ -20188,6 +20659,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261125020039 -0300" stop="20261125032950 -0300" channel="fenix_plus">
     <title lang="pt">Duplex</title>
@@ -20235,11 +20709,14 @@
     </rating>
   </programme>
   <programme start="20261125074114 -0300" stop="20261125093211 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261125093211 -0300" stop="20261125110613 -0300" channel="fenix_plus">
     <title lang="pt">Em Seus Passos, O Que Faria Jesus?</title>
@@ -20397,6 +20874,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261126062041 -0300" stop="20261126070243 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E22 - O Dia dos Fundadores</title>
@@ -20602,6 +21082,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261127044326 -0300" stop="20261127052555 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E1 - Piloto</title>
@@ -20777,6 +21260,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261128013117 -0300" stop="20261128030904 -0300" channel="fenix_plus">
     <title lang="pt">De Repente 30</title>
@@ -20794,6 +21280,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261128044456 -0300" stop="20261128052709 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E19 - Senhorita Mystic Falls</title>
@@ -20941,6 +21430,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261128225805 -0300" stop="20261128234032 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E20 - Irmãos de Sangue</title>
@@ -21084,6 +21576,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261129164946 -0300" stop="20261129171114 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E9 - Charlie e a Visita do Pai</title>
@@ -21161,6 +21656,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261130000000 -0300" stop="20261130002136 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E10 - Um Pouco de Romance</title>
@@ -21296,6 +21794,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261130131842 -0300" stop="20261130152204 -0300" channel="fenix_plus">
     <title lang="pt">Duro de Matar 2</title>
@@ -21611,6 +22112,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261202040902 -0300" stop="20261202045129 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E20 - Irmãos de Sangue</title>
@@ -21708,6 +22212,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261202160055 -0300" stop="20261202164257 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E22 - O Dia dos Fundadores</title>
@@ -21956,13 +22463,19 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261204000000 -0300" stop="20261204015057 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261204015057 -0300" stop="20261204032439 -0300" channel="fenix_plus">
     <title lang="pt">127 Horas</title>
@@ -22005,11 +22518,14 @@
     </rating>
   </programme>
   <programme start="20261204053249 -0300" stop="20261204072346 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261204072346 -0300" stop="20261204084551 -0300" channel="fenix_plus">
     <title lang="pt">Disparo para Matar</title>
@@ -22411,6 +22927,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261206083220 -0300" stop="20261206102703 -0300" channel="fenix_plus">
     <title lang="pt">Eu, Robô</title>
@@ -22458,6 +22977,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261206153736 -0300" stop="20261206171502 -0300" channel="fenix_plus">
     <title lang="pt">Apartamento 2012 - A Insfestação</title>
@@ -22608,6 +23130,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261207124303 -0300" stop="20261207130554 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E20 - Alarme Falso</title>
@@ -22705,6 +23230,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261208015426 -0300" stop="20261208033152 -0300" channel="fenix_plus">
     <title lang="pt">Chat: A Sala Negra</title>
@@ -22712,6 +23240,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261208033152 -0300" stop="20261208052742 -0300" channel="fenix_plus">
     <title lang="pt">Laços de Família</title>
@@ -22749,6 +23280,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261208092016 -0300" stop="20261208100336 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E8 - Fora Da Escuridão</title>
@@ -22896,6 +23430,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261208233716 -0300" stop="20261209011058 -0300" channel="fenix_plus">
     <title lang="pt">127 Horas</title>
@@ -23093,6 +23630,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261209232224 -0300" stop="20261210010516 -0300" channel="fenix_plus">
     <title lang="pt">Nova York, Eu Te Amo</title>
@@ -23251,6 +23791,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261210170843 -0300" stop="20261210175129 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E10 - Chuck Contra O Nêmesis</title>
@@ -23273,11 +23816,14 @@
     </rating>
   </programme>
   <programme start="20261210183358 -0300" stop="20261210202455 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261210202455 -0300" stop="20261210204804 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E19 - A Droga é uma Droga</title>
@@ -23563,6 +24109,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261212061655 -0300" stop="20261212081248 -0300" channel="fenix_plus">
     <title lang="pt">Pais e Filhas</title>
@@ -23688,6 +24237,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261213013623 -0300" stop="20261213021904 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E24 - 23:00 - 00:00</title>
@@ -23725,6 +24277,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261213052358 -0300" stop="20261213074459 -0300" channel="fenix_plus">
     <title lang="pt">A Face Oculta</title>
@@ -23875,11 +24430,14 @@
     </rating>
   </programme>
   <programme start="20261213210154 -0300" stop="20261213225251 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261213225251 -0300" stop="20261214001929 -0300" channel="fenix_plus">
     <title lang="pt">3 Balas Para Ringo</title>
@@ -23937,6 +24495,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261214074115 -0300" stop="20261214091458 -0300" channel="fenix_plus">
     <title lang="pt">A Vida por um Dolar</title>
@@ -24074,6 +24635,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261214211231 -0300" stop="20261214230857 -0300" channel="fenix_plus">
     <title lang="pt">Agente Infiltrada</title>
@@ -24149,6 +24713,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261215081836 -0300" stop="20261215084148 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E24 - A Formatura</title>
@@ -24236,6 +24803,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261215195408 -0300" stop="20261215215115 -0300" channel="fenix_plus">
     <title lang="pt">Encontro Explosivo</title>
@@ -24293,6 +24863,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261216040804 -0300" stop="20261216053009 -0300" channel="fenix_plus">
     <title lang="pt">Disparo para Matar</title>
@@ -24593,6 +25166,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261217192707 -0300" stop="20261217200949 -0300" channel="fenix_plus">
     <title lang="pt">Grey-s-anatomy</title>
@@ -24758,6 +25334,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261218163737 -0300" stop="20261218182029 -0300" channel="fenix_plus">
     <title lang="pt">Nova York, Eu Te Amo</title>
@@ -24993,6 +25572,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261219175331 -0300" stop="20261219183525 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E5 - 4:00 - 5:00</title>
@@ -25063,11 +25645,14 @@
     </rating>
   </programme>
   <programme start="20261220004305 -0300" stop="20261220023402 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261220023402 -0300" stop="20261220025714 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E23 - Lembranças do Passado</title>
@@ -25200,6 +25785,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261220190422 -0300" stop="20261220194711 -0300" channel="fenix_plus">
     <title lang="pt">Grey-s-anatomy</title>
@@ -25265,6 +25853,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261221013117 -0300" stop="20261221021437 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E8 - Fora Da Escuridão</title>
@@ -25432,6 +26023,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261222000000 -0300" stop="20261222004229 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E1 - Piloto</title>
@@ -25499,6 +26093,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261222091914 -0300" stop="20261222104908 -0300" channel="fenix_plus">
     <title lang="pt">O Solteirão</title>
@@ -25654,6 +26251,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261223034025 -0300" stop="20261223051407 -0300" channel="fenix_plus">
     <title lang="pt">127 Horas</title>
@@ -25701,6 +26301,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261223093530 -0300" stop="20261223113120 -0300" channel="fenix_plus">
     <title lang="pt">Laços de Família</title>
@@ -26070,6 +26673,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261225092543 -0300" stop="20261225100812 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E1 - Piloto</title>
@@ -26112,11 +26718,14 @@
     </rating>
   </programme>
   <programme start="20261225132259 -0300" stop="20261225151356 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261225151356 -0300" stop="20261225164307 -0300" channel="fenix_plus">
     <title lang="pt">Duplex</title>
@@ -26184,6 +26793,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261226000000 -0300" stop="20261226004157 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E4 - 3:00 - 4:00</title>
@@ -26291,6 +26903,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261226124829 -0300" stop="20261226133146 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E1 - Chuck Contra o Intersetorial</title>
@@ -26368,6 +26983,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261226182803 -0300" stop="20261226200529 -0300" channel="fenix_plus">
     <title lang="pt">Apartamento 2012 - A Insfestação</title>
@@ -26578,6 +27196,9 @@
     <category lang="pt">Terror, Fantasia</category>
     <icon src="https://image.tmdb.org/t/p/w500/g0jIXTio4LMMSjppTHbcYPawews.jpg"/>
     <date>2015</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261227212532 -0300" stop="20261227214657 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E7 - Charlie e o Paciente Saído da Prisão</title>
@@ -26665,6 +27286,9 @@
     <category lang="pt">Ação, Thriller, Ficção científica</category>
     <icon src="https://image.tmdb.org/t/p/w500/yAsI91f1PbSN9BOZohQ8dsK9jLB.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261228063445 -0300" stop="20261228080847 -0300" channel="fenix_plus">
     <title lang="pt">Em Seus Passos, O Que Faria Jesus?</title>
@@ -26772,6 +27396,9 @@
     <category lang="pt">Família, Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/1zw9xuyC32s3CEQ7BbwfVMUWB3e.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261228180847 -0300" stop="20261228183156 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E18 - Alma Mater</title>
@@ -27023,6 +27650,9 @@
     <category lang="pt">Mistério, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/AdAC4YQfrmoINEM2YhCfpE2TFQi.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261230000000 -0300" stop="20261230012638 -0300" channel="fenix_plus">
     <title lang="pt">3 Balas Para Ringo</title>
@@ -27070,6 +27700,9 @@
     <category lang="pt">Comédia</category>
     <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
     <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261230055726 -0300" stop="20261230064046 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E8 - Fora Da Escuridão</title>
@@ -27167,11 +27800,14 @@
     </rating>
   </programme>
   <programme start="20261230175552 -0300" stop="20261230194649 -0300" channel="fenix_plus">
-    <title lang="pt">Familia a la deriva</title>
-    <desc lang="pt">Para compensar o tempo perdido com seus quatro filhos, um carismático vendedor de carros organiza uma viagem de iate pelo Caribe que rapidamente se transforma em uma aventura fora de controle, cheia de confusões, risadas e segundas chances.</desc>
-    <category lang="pt">Família, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/eH2FvInHc4hmOJQxdxMcVm8XNty.jpg"/>
-    <date>2026</date>
+    <title lang="pt">A Família</title>
+    <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
+    <category lang="pt">Crime, Comédia, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spSXJQOsh9LV3U4sFaZ8U8clN3m.jpg"/>
+    <date>2013</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261230194649 -0300" stop="20261230212941 -0300" channel="fenix_plus">
     <title lang="pt">Nova York, Eu Te Amo</title>
@@ -27349,6 +27985,9 @@
     <category lang="pt">Drama, Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/q2CODhvQOJtIYvIsypDEEGcXLvL.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261231213402 -0300" stop="20261231215714 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E23 - Lembranças do Passado</title>
