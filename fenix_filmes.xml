@@ -395,6 +395,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260816000010 -0300" stop="20260816013736 -0300" channel="fenix_filmes">
     <title lang="pt">Chat: A Sala Negra</title>
@@ -817,6 +820,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260819085210 -0300" stop="20260819102254 -0300" channel="fenix_filmes">
     <title lang="pt">Atividade Paranormal: Tóquio</title>
@@ -871,11 +877,17 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260819193545 -0300" stop="20260819193555 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260819193555 -0300" stop="20260819211321 -0300" channel="fenix_filmes">
     <title lang="pt">Chat: A Sala Negra</title>
@@ -1108,6 +1120,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260821162040 -0300" stop="20260821180759 -0300" channel="fenix_filmes">
     <title lang="pt">O Solteirão</title>
@@ -1437,6 +1452,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260824060818 -0300" stop="20260824075801 -0300" channel="fenix_filmes">
     <title lang="pt">Elysium</title>
@@ -1527,6 +1545,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260825000010 -0300" stop="20260825014743 -0300" channel="fenix_filmes">
     <title lang="pt">Os Outros Caras</title>
@@ -2006,6 +2027,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260828191522 -0300" stop="20260828204914 -0300" channel="fenix_filmes">
     <title lang="pt">Vingança ao Anoitecer</title>
@@ -2074,6 +2098,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260829083424 -0300" stop="20260829102536 -0300" channel="fenix_filmes">
     <title lang="pt">RED - Aposentados e Perigosos</title>
@@ -2265,6 +2292,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260830225605 -0300" stop="20260831004300 -0300" channel="fenix_filmes">
     <title lang="pt">O Último Mestre do Ar</title>
@@ -2324,6 +2354,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260831090116 -0300" stop="20260831104722 -0300" channel="fenix_filmes">
     <title lang="pt">Grandes Olhos</title>
@@ -2544,6 +2577,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260902062019 -0300" stop="20260902081748 -0300" channel="fenix_filmes">
     <title lang="pt">À Procura da Felicidade</title>
@@ -2630,6 +2666,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260902230159 -0300" stop="20260903002711 -0300" channel="fenix_filmes">
     <title lang="pt">Naruto Shippuden O Filme: A Torre Perdida</title>
@@ -3071,6 +3110,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260906065734 -0300" stop="20260906082818 -0300" channel="fenix_filmes">
     <title lang="pt">Atividade Paranormal: Tóquio</title>
@@ -3093,11 +3135,17 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260906104134 -0300" stop="20260906104144 -0300" channel="fenix_filmes">
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260906104144 -0300" stop="20260906130145 -0300" channel="fenix_filmes">
     <title lang="pt">Karate Kid</title>
@@ -3369,6 +3417,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260908143943 -0300" stop="20260908160531 -0300" channel="fenix_filmes">
     <title lang="pt">Santet: O Feitiço do Mal</title>
@@ -4011,6 +4062,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260913205505 -0300" stop="20260913224431 -0300" channel="fenix_filmes">
     <title lang="pt">Amizade Colorida</title>
@@ -4036,6 +4090,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260914000010 -0300" stop="20260914014057 -0300" channel="fenix_filmes">
     <title lang="pt">B13-U 13º Distrito - Ultimato</title>
@@ -4387,6 +4444,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260916201631 -0300" stop="20260916215944 -0300" channel="fenix_filmes">
     <title lang="pt">Carga Explosiva 3</title>
@@ -4439,6 +4499,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260917033555 -0300" stop="20260917051820 -0300" channel="fenix_filmes">
     <title lang="pt">Cão de Briga</title>
@@ -4784,6 +4847,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260919212426 -0300" stop="20260919225450 -0300" channel="fenix_filmes">
     <title lang="pt">Caçada ao Presidente</title>
@@ -4946,6 +5012,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260921030822 -0300" stop="20260921043900 -0300" channel="fenix_filmes">
     <title lang="pt">As Loucuras de Dick &amp; Jane</title>
@@ -5348,6 +5417,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260924070727 -0300" stop="20260924092606 -0300" channel="fenix_filmes">
     <title lang="pt">Ilha do Medo</title>
@@ -5475,6 +5547,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260925064446 -0300" stop="20260925083235 -0300" channel="fenix_filmes">
     <title lang="pt">Brilho Eterno de uma Mente sem Lembranças</title>
@@ -5521,6 +5596,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260925165403 -0300" stop="20260925183129 -0300" channel="fenix_filmes">
     <title lang="pt">Apartamento 2012 - A Insfestação</title>
@@ -5981,6 +6059,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260929093519 -0300" stop="20260929110543 -0300" channel="fenix_filmes">
     <title lang="pt">Caçada ao Presidente</title>
@@ -6285,6 +6366,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261001195547 -0300" stop="20261001213036 -0300" channel="fenix_filmes">
     <title lang="pt">Meu Malvado Favorito</title>
@@ -6300,6 +6384,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261001213126 -0300" stop="20261001232821 -0300" channel="fenix_filmes">
     <title lang="pt">Fique Rico ou Morra Tentando</title>
@@ -6307,6 +6394,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261001232821 -0300" stop="20261002005035 -0300" channel="fenix_filmes">
     <title lang="pt">Johnny: Todos Tem Uma Missão Especial</title>
@@ -6369,6 +6459,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261002093004 -0300" stop="20261002112450 -0300" channel="fenix_filmes">
     <title lang="pt">Zona Verde</title>
@@ -6807,6 +6900,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261006000050 -0300" stop="20261006015033 -0300" channel="fenix_filmes">
     <title lang="pt">Elysium</title>
@@ -6824,6 +6920,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261006032909 -0300" stop="20261006050410 -0300" channel="fenix_filmes">
     <title lang="pt">Como Se Fosse a Primeira Vez</title>
@@ -7241,6 +7340,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261009090151 -0300" stop="20261009105626 -0300" channel="fenix_filmes">
     <title lang="pt">A Vida Secreta de Walter Mitty</title>
@@ -7595,6 +7697,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261012032648 -0300" stop="20261012052807 -0300" channel="fenix_filmes">
     <title lang="pt">Fúria em Alto Mar</title>
@@ -7669,6 +7774,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261012191009 -0300" stop="20261012205742 -0300" channel="fenix_filmes">
     <title lang="pt">Os Outros Caras</title>
@@ -7869,6 +7977,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261014080636 -0300" stop="20261014092859 -0300" channel="fenix_filmes">
     <title lang="pt">Todo Mundo em Pânico 2</title>
@@ -8052,6 +8163,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261015185845 -0300" stop="20261015203227 -0300" channel="fenix_filmes">
     <title lang="pt">127 Horas</title>
@@ -8136,6 +8250,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261016111305 -0300" stop="20261016125911 -0300" channel="fenix_filmes">
     <title lang="pt">Grandes Olhos</title>
@@ -8225,6 +8342,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261017015402 -0300" stop="20261017031710 -0300" channel="fenix_filmes">
     <title lang="pt">A Bela e a Fera: O Natal Encantado</title>
@@ -8290,6 +8410,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261017123809 -0300" stop="20261017141310 -0300" channel="fenix_filmes">
     <title lang="pt">Como Se Fosse a Primeira Vez</title>
@@ -8767,6 +8890,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261021115700 -0300" stop="20261021135921 -0300" channel="fenix_filmes">
     <title lang="pt">Homens e Deuses</title>
@@ -8796,6 +8922,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261021174820 -0300" stop="20261021195924 -0300" channel="fenix_filmes">
     <title lang="pt">As Duas Faces de um Crime</title>
@@ -8831,6 +8960,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261021232202 -0300" stop="20261022005928 -0300" channel="fenix_filmes">
     <title lang="pt">Chat: A Sala Negra</title>
@@ -9079,6 +9211,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261023224559 -0300" stop="20261024002559 -0300" channel="fenix_filmes">
     <title lang="pt">Hudson Hawk, o Falcão Está à Solta</title>
@@ -9592,6 +9727,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261028000010 -0300" stop="20261028014616 -0300" channel="fenix_filmes">
     <title lang="pt">Grandes Olhos</title>
@@ -9664,6 +9802,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261028125841 -0300" stop="20261028142104 -0300" channel="fenix_filmes">
     <title lang="pt">Todo Mundo em Pânico 2</title>
@@ -9810,6 +9951,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261029165544 -0300" stop="20261029182608 -0300" channel="fenix_filmes">
     <title lang="pt">Caçada ao Presidente</title>
@@ -10049,6 +10193,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261031151443 -0300" stop="20261031171150 -0300" channel="fenix_filmes">
     <title lang="pt">Encontro Explosivo</title>
@@ -10581,6 +10728,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261104195838 -0300" stop="20261104212745 -0300" channel="fenix_filmes">
     <title lang="pt">Como Treinar o Seu Dragão</title>
@@ -10848,6 +10998,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261106223514 -0300" stop="20261107001003 -0300" channel="fenix_filmes">
     <title lang="pt">Meu Malvado Favorito</title>
@@ -11038,6 +11191,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261108103028 -0300" stop="20261108122514 -0300" channel="fenix_filmes">
     <title lang="pt">Zona Verde</title>
@@ -11190,6 +11346,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261109170631 -0300" stop="20261109185207 -0300" channel="fenix_filmes">
     <title lang="pt">Confiar</title>
@@ -11333,6 +11492,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261110202156 -0300" stop="20261110221118 -0300" channel="fenix_filmes">
     <title lang="pt">Nosso Lar</title>
@@ -11523,6 +11685,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261112073055 -0300" stop="20261112091120 -0300" channel="fenix_filmes">
     <title lang="pt">Corrida Mortal 2</title>
@@ -11920,6 +12085,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261115120220 -0300" stop="20261115134620 -0300" channel="fenix_filmes">
     <title lang="pt">Guerreiros do Amanhã</title>
@@ -11962,6 +12130,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261115193739 -0300" stop="20261115210336 -0300" channel="fenix_filmes">
     <title lang="pt">Apenas Duas Noites</title>
@@ -12221,6 +12392,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261117200900 -0300" stop="20261117214925 -0300" channel="fenix_filmes">
     <title lang="pt">Corrida Mortal 2</title>
@@ -12634,6 +12808,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261121032933 -0300" stop="20261121050809 -0300" channel="fenix_filmes">
     <title lang="pt">Ong-Bak 3</title>
@@ -12641,6 +12818,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261121050809 -0300" stop="20261121065718 -0300" channel="fenix_filmes">
     <title lang="pt">Operação Zodíaco</title>
@@ -12680,6 +12860,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261121114951 -0300" stop="20261121134303 -0300" channel="fenix_filmes">
     <title lang="pt">Extraordinário</title>
@@ -12874,6 +13057,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261123040117 -0300" stop="20261123053342 -0300" channel="fenix_filmes">
     <title lang="pt">A Mentira</title>
@@ -13403,6 +13589,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261127065406 -0300" stop="20261127092057 -0300" channel="fenix_filmes">
     <title lang="pt">Bad Boys for Life Volume 2</title>
@@ -13481,6 +13670,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261128000000 -0300" stop="20261128015314 -0300" channel="fenix_filmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -13601,6 +13793,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261128225119 -0300" stop="20261129004554 -0300" channel="fenix_filmes">
     <title lang="pt">A Vida Secreta de Walter Mitty</title>
@@ -13824,6 +14019,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261130153146 -0300" stop="20261130172853 -0300" channel="fenix_filmes">
     <title lang="pt">Encontro Explosivo</title>
@@ -14008,6 +14206,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261202053502 -0300" stop="20261202073529 -0300" channel="fenix_filmes">
     <title lang="pt">A Rede Social</title>
@@ -14115,6 +14316,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261203030445 -0300" stop="20261203043325 -0300" channel="fenix_filmes">
     <title lang="pt">Conta Comigo</title>
@@ -14285,6 +14489,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261204122426 -0300" stop="20261204135333 -0300" channel="fenix_filmes">
     <title lang="pt">Como Treinar o Seu Dragão</title>
@@ -14507,6 +14714,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261206050308 -0300" stop="20261206064034 -0300" channel="fenix_filmes">
     <title lang="pt">Chat: A Sala Negra</title>
@@ -15052,6 +15262,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261210115633 -0300" stop="20261210140554 -0300" channel="fenix_filmes">
     <title lang="pt">Corajosos</title>
@@ -15187,6 +15400,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261211141905 -0300" stop="20261211155003 -0300" channel="fenix_filmes">
     <title lang="pt">Táxi 4</title>
@@ -15273,6 +15489,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261212054606 -0300" stop="20261212075014 -0300" channel="fenix_filmes">
     <title lang="pt">Bad Boys Para Sempre</title>
@@ -15385,6 +15604,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261213054802 -0300" stop="20261213073115 -0300" channel="fenix_filmes">
     <title lang="pt">Carga Explosiva 3</title>
@@ -15907,6 +16129,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261217122843 -0300" stop="20261217141530 -0300" channel="fenix_filmes">
     <title lang="pt">A Nova Onda do Imperador</title>
@@ -16012,6 +16237,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261218045659 -0300" stop="20261218062743 -0300" channel="fenix_filmes">
     <title lang="pt">Atividade Paranormal: Tóquio</title>
@@ -16090,6 +16318,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261218202020 -0300" stop="20261218223516 -0300" channel="fenix_filmes">
     <title lang="pt">Corações de Ferro</title>
@@ -16317,6 +16548,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261220113103 -0300" stop="20261220131150 -0300" channel="fenix_filmes">
     <title lang="pt">B13-U 13º Distrito - Ultimato</title>
@@ -16397,6 +16631,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261221031325 -0300" stop="20261221051352 -0300" channel="fenix_filmes">
     <title lang="pt">A Rede Social</title>
@@ -16764,6 +17001,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261224015655 -0300" stop="20261224034059 -0300" channel="fenix_filmes">
     <title lang="pt">Salt</title>
@@ -16840,6 +17080,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261224163318 -0300" stop="20261224180158 -0300" channel="fenix_filmes">
     <title lang="pt">Conta Comigo</title>
@@ -16965,6 +17208,9 @@
     <title lang="pt">intro-fênix</title>
     <desc lang="pt">intro-fênix</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261225165846 -0300" stop="20261225190308 -0300" channel="fenix_filmes">
     <title lang="pt">Triplo X</title>
@@ -16999,6 +17245,9 @@
     <category lang="pt">Drama, Crime, Música</category>
     <icon src="https://image.tmdb.org/t/p/w500/lfBLbNmZ71R0FPvIu1zShJ6mxt0.jpg"/>
     <date>2005</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261226000000 -0300" stop="20261226013058 -0300" channel="fenix_filmes">
     <title lang="pt">Táxi 4</title>
@@ -17455,6 +17704,9 @@
     <title lang="pt">chamada-fênixtv</title>
     <desc lang="pt">chamada-fênixtv</desc>
     <category lang="pt">Fenix</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261229162215 -0300" stop="20261229174603 -0300" channel="fenix_filmes">
     <title lang="pt">Borat: O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América</title>
@@ -17683,6 +17935,9 @@
     <category lang="pt">Ação, Aventura, História</category>
     <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261231112752 -0300" stop="20261231132630 -0300" channel="fenix_filmes">
     <title lang="pt">Riddick 3</title>
