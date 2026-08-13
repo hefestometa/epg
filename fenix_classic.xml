@@ -440,7 +440,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20260815221717 -0300" stop="20260815234628 -0300" channel="fenix_classic">
@@ -1710,7 +1710,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20260824082659 -0300" stop="20260824095822 -0300" channel="fenix_classic">
@@ -2210,7 +2210,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260827120841 -0300" stop="20260827133607 -0300" channel="fenix_classic">
@@ -2870,7 +2870,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20260831212452 -0300" stop="20260831225423 -0300" channel="fenix_classic">
@@ -2920,7 +2920,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260901042727 -0300" stop="20260901054639 -0300" channel="fenix_classic">
@@ -3910,7 +3910,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20260907185801 -0300" stop="20260907203144 -0300" channel="fenix_classic">
@@ -4570,7 +4570,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260912042833 -0300" stop="20260912062459 -0300" channel="fenix_classic">
@@ -5290,7 +5290,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260917000000 -0300" stop="20260917012806 -0300" channel="fenix_classic">
@@ -5960,7 +5960,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20260921103404 -0300" stop="20260921124051 -0300" channel="fenix_classic">
@@ -6550,7 +6550,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20260925090207 -0300" stop="20260925102852 -0300" channel="fenix_classic">
@@ -6970,7 +6970,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20260928030020 -0300" stop="20260928042826 -0300" channel="fenix_classic">
@@ -7900,7 +7900,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20261004083854 -0300" stop="20261004102147 -0300" channel="fenix_classic">
@@ -8220,7 +8220,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20261006155528 -0300" stop="20261006172211 -0300" channel="fenix_classic">
@@ -9690,7 +9690,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20261016043234 -0300" stop="20261016060857 -0300" channel="fenix_classic">
@@ -9790,7 +9790,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20261016214601 -0300" stop="20261016230602 -0300" channel="fenix_classic">
@@ -10920,7 +10920,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20261024094833 -0300" stop="20261024114316 -0300" channel="fenix_classic">
@@ -11380,7 +11380,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20261027095043 -0300" stop="20261027112037 -0300" channel="fenix_classic">
@@ -12520,7 +12520,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20261103221045 -0300" stop="20261104002034 -0300" channel="fenix_classic">
@@ -13070,7 +13070,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20261107170930 -0300" stop="20261107183116 -0300" channel="fenix_classic">
@@ -13170,7 +13170,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20261108074432 -0300" stop="20261108091524 -0300" channel="fenix_classic">
@@ -13560,7 +13560,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20261110194530 -0300" stop="20261110212239 -0300" channel="fenix_classic">
@@ -14770,7 +14770,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20261118221602 -0300" stop="20261119001417 -0300" channel="fenix_classic">
@@ -15360,7 +15360,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20261122204651 -0300" stop="20261122225640 -0300" channel="fenix_classic">
@@ -16750,7 +16750,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20261202000000 -0300" stop="20261202015650 -0300" channel="fenix_classic">
@@ -17110,7 +17110,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20261204110638 -0300" stop="20261204123100 -0300" channel="fenix_classic">
@@ -17150,7 +17150,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20261204173450 -0300" stop="20261204190444 -0300" channel="fenix_classic">
@@ -17590,7 +17590,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20261207161716 -0300" stop="20261207181309 -0300" channel="fenix_classic">
@@ -19470,7 +19470,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20261219224022 -0300" stop="20261220002914 -0300" channel="fenix_classic">
@@ -19510,7 +19510,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20261220045700 -0300" stop="20261220061846 -0300" channel="fenix_classic">
@@ -20470,7 +20470,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg"/>
     <date>1953</date>
     <rating system="BR">
-      <value>Livre</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20261226175633 -0300" stop="20261226192756 -0300" channel="fenix_classic">
@@ -20970,7 +20970,7 @@
     <icon src="https://image.tmdb.org/t/p/w500/zSUQbjN2IqdYnHrUb0MIHkwDvbE.jpg"/>
     <date>1959</date>
     <rating system="BR">
-      <value>e 14</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20261230000000 -0300" stop="20261230014513 -0300" channel="fenix_classic">
