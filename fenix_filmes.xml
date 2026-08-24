@@ -2,6 +2,7 @@
 <tv generator-info-name="Fenix EPG">
   <channel id="fenix_filmes">
     <display-name>Fenix Filmes</display-name>
+    <icon src="http://191.168.2.155/fenix-logos/fenixmovies.png"/>
   </channel>
   <programme start="20260824000000 -0300" stop="20260824013038 -0300" channel="fenix_filmes">
     <title lang="pt">As Loucuras de Dick &amp; Jane</title>

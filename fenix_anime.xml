@@ -2,6 +2,7 @@
 <tv generator-info-name="Fenix EPG">
   <channel id="fenix_anime">
     <display-name>Fenix Anime</display-name>
+    <icon src="http://191.168.2.155/fenix-logos/fenixanime.png"/>
   </channel>
   <programme start="20260824000000 -0300" stop="20260824002350 -0300" channel="fenix_anime">
     <title lang="pt">Seirei Gensouki: Spirit Chronicles - T1E11 - Noiva de prata</title>
