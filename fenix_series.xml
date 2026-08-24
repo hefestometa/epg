@@ -2,7 +2,7 @@
 <tv generator-info-name="Fenix EPG">
   <channel id="fenix_series">
     <display-name>Fenix Series</display-name>
-    <icon src="http://191.168.2.155/fenix-logos/fenixseries.png"/>
+    <icon src="https://drive.google.com/thumbnail?id=1qGOCes4rPIBvpqkbZySbdqfPRm_cgyeT&amp;sz=w2000"/>
   </channel>
   <programme start="20260824000000 -0300" stop="20260824004114 -0300" channel="fenix_series">
     <title lang="pt">24 Horas - T1E23 - 22:00 - 23:00</title>

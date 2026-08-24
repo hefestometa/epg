@@ -2,7 +2,7 @@
 <tv generator-info-name="Fenix EPG">
   <channel id="fenix_classic">
     <display-name>Fenix Classic</display-name>
-    <icon src="http://191.168.2.155/fenix-logos/fenixclassic.png"/>
+    <icon src="https://drive.google.com/thumbnail?id=1H4VdXKKEnS9nNp_r5Ksd0-yPrMWGfDIn&amp;sz=w2000"/>
   </channel>
   <programme start="20260824000000 -0300" stop="20260824012921 -0300" channel="fenix_classic">
     <title lang="pt">O Xerife de Abilene</title>

@@ -2,7 +2,7 @@
 <tv generator-info-name="Fenix EPG">
   <channel id="fenix_docs">
     <display-name>Fenix Docs</display-name>
-    <icon src="http://191.168.2.155/fenix-logos/fenixdocs.png"/>
+    <icon src="https://drive.google.com/thumbnail?id=1LxqFMub5_dHbKrsJH0zCTon815TT_h70&amp;sz=w2000"/>
   </channel>
   <programme start="20260824000000 -0300" stop="20260824011110 -0300" channel="fenix_docs">
     <title lang="pt">VIPs: Histórias Reais de um Mentiroso</title>

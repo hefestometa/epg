@@ -2,7 +2,7 @@
 <tv generator-info-name="Fenix EPG">
   <channel id="fenix_plus">
     <display-name>Fenix Plus</display-name>
-    <icon src="http://191.168.2.155/fenix-logos/fenixplus.png"/>
+    <icon src="https://drive.google.com/thumbnail?id=17fM6d9ZDbekBE_fLx9FKWykqLL_QFHIx&amp;sz=w2000"/>
   </channel>
   <programme start="20260824000000 -0300" stop="20260824015937 -0300" channel="fenix_plus">
     <title lang="pt">Efeito Borboleta</title>
