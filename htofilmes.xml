@@ -991,9 +991,27 @@
     </rating>
   </programme>
   <programme start="20260502034848 -0300" stop="20260502060254 -0300" channel="htofilmes">
-    <title lang="pt">A Batalha De Riddick ruim</title>
-    <desc lang="pt">A Batalha De Riddick ruim</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Batalha de Riddick</title>
+    <desc lang="pt">Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.</desc>
+    <credits>
+      <director>David Twohy</director>
+      <actor>Vin Diesel</actor>
+      <actor>Colm Feore</actor>
+      <actor>Thandiwe Newton</actor>
+      <actor>Judi Dench</actor>
+      <actor>Karl Urban</actor>
+      <actor>Alexa Davalos</actor>
+      <actor>Linus Roache</actor>
+      <actor>Yorick van Wageningen</actor>
+      <actor>Nick Chinlund</actor>
+      <actor>Keith David</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg"/>
+    <date>2004</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260502060254 -0300" stop="20260502082535 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
@@ -2971,8 +2989,26 @@
   </programme>
   <programme start="20260509000000 -0300" stop="20260509013836 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260509013836 -0300" stop="20260509032745 -0300" channel="htofilmes">
     <title lang="pt">Operação Zodíaco</title>
@@ -3219,8 +3255,26 @@
   </programme>
   <programme start="20260509185239 -0300" stop="20260509203115 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260509203115 -0300" stop="20260509222024 -0300" channel="htofilmes">
     <title lang="pt">Operação Zodíaco</title>
@@ -9433,8 +9487,26 @@
   </programme>
   <programme start="20260529171557 -0300" stop="20260529185433 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260529185433 -0300" stop="20260529201656 -0300" channel="htofilmes">
     <title lang="pt">Todo Mundo em Pânico 2</title>
@@ -13131,8 +13203,26 @@
   </programme>
   <programme start="20260610171557 -0300" stop="20260610185433 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260610185433 -0300" stop="20260610201656 -0300" channel="htofilmes">
     <title lang="pt">Todo Mundo em Pânico 2</title>
@@ -13824,8 +13914,26 @@
   </programme>
   <programme start="20260612171557 -0300" stop="20260612185433 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260612185433 -0300" stop="20260612201656 -0300" channel="htofilmes">
     <title lang="pt">Todo Mundo em Pânico 2</title>
@@ -32846,9 +32954,27 @@
     </rating>
   </programme>
   <programme start="20260812034848 -0300" stop="20260812060254 -0300" channel="htofilmes">
-    <title lang="pt">A Batalha De Riddick ruim</title>
-    <desc lang="pt">A Batalha De Riddick ruim</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Batalha de Riddick</title>
+    <desc lang="pt">Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.</desc>
+    <credits>
+      <director>David Twohy</director>
+      <actor>Vin Diesel</actor>
+      <actor>Colm Feore</actor>
+      <actor>Thandiwe Newton</actor>
+      <actor>Judi Dench</actor>
+      <actor>Karl Urban</actor>
+      <actor>Alexa Davalos</actor>
+      <actor>Linus Roache</actor>
+      <actor>Yorick van Wageningen</actor>
+      <actor>Nick Chinlund</actor>
+      <actor>Keith David</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg"/>
+    <date>2004</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260812060254 -0300" stop="20260812082535 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
@@ -34826,8 +34952,26 @@
   </programme>
   <programme start="20260819000000 -0300" stop="20260819013836 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260819013836 -0300" stop="20260819032745 -0300" channel="htofilmes">
     <title lang="pt">Operação Zodíaco</title>
@@ -35074,8 +35218,26 @@
   </programme>
   <programme start="20260819185239 -0300" stop="20260819203115 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260819203115 -0300" stop="20260819222024 -0300" channel="htofilmes">
     <title lang="pt">Operação Zodíaco</title>
@@ -41288,8 +41450,26 @@
   </programme>
   <programme start="20260908171557 -0300" stop="20260908185433 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260908185433 -0300" stop="20260908201656 -0300" channel="htofilmes">
     <title lang="pt">Todo Mundo em Pânico 2</title>
@@ -44986,8 +45166,26 @@
   </programme>
   <programme start="20260920171557 -0300" stop="20260920185433 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260920185433 -0300" stop="20260920201656 -0300" channel="htofilmes">
     <title lang="pt">Todo Mundo em Pânico 2</title>
@@ -45679,8 +45877,26 @@
   </programme>
   <programme start="20260922171557 -0300" stop="20260922185433 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20260922185433 -0300" stop="20260922201656 -0300" channel="htofilmes">
     <title lang="pt">Todo Mundo em Pânico 2</title>
@@ -64701,9 +64917,27 @@
     </rating>
   </programme>
   <programme start="20261122034848 -0300" stop="20261122060254 -0300" channel="htofilmes">
-    <title lang="pt">A Batalha De Riddick ruim</title>
-    <desc lang="pt">A Batalha De Riddick ruim</desc>
-    <category lang="pt">Program</category>
+    <title lang="pt">A Batalha de Riddick</title>
+    <desc lang="pt">Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick, um homem solitário que vive exilado e fugindo de seus perseguidores.</desc>
+    <credits>
+      <director>David Twohy</director>
+      <actor>Vin Diesel</actor>
+      <actor>Colm Feore</actor>
+      <actor>Thandiwe Newton</actor>
+      <actor>Judi Dench</actor>
+      <actor>Karl Urban</actor>
+      <actor>Alexa Davalos</actor>
+      <actor>Linus Roache</actor>
+      <actor>Yorick van Wageningen</actor>
+      <actor>Nick Chinlund</actor>
+      <actor>Keith David</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dkl3u70N9aS16czdZyvKRlsbf6Y.jpg"/>
+    <date>2004</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20261122060254 -0300" stop="20261122082535 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
@@ -66681,8 +66915,26 @@
   </programme>
   <programme start="20261129000000 -0300" stop="20261129013836 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261129013836 -0300" stop="20261129032745 -0300" channel="htofilmes">
     <title lang="pt">Operação Zodíaco</title>
@@ -66929,8 +67181,26 @@
   </programme>
   <programme start="20261129185239 -0300" stop="20261129203115 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261129203115 -0300" stop="20261129222024 -0300" channel="htofilmes">
     <title lang="pt">Operação Zodíaco</title>
@@ -73143,8 +73413,26 @@
   </programme>
   <programme start="20261219171557 -0300" stop="20261219185433 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261219185433 -0300" stop="20261219201656 -0300" channel="htofilmes">
     <title lang="pt">Todo Mundo em Pânico 2</title>
@@ -76841,8 +77129,26 @@
   </programme>
   <programme start="20261231171557 -0300" stop="20261231185433 -0300" channel="htofilmes">
     <title lang="pt">Ong-Bak 3</title>
-    <desc lang="pt">Ong-Bak 3</desc>
-    <category lang="pt">Program</category>
+    <desc lang="pt">A lenda de Ong Bak 3 começa após Tien (Tony Jaa) perder suas habilidades de luta e de seu padrasto e chegar a morte.  Tien é devolvido à vida com a ajuda de Pim (Primrata Dechudom) Mhen (Petchai Wongkamlao) e moradores de Kana Khone.  Através da meditação Tien está de volta em sua melhor forma para combater o mal.</desc>
+    <credits>
+      <director>พันนา ฤทธิไกร, Tony Jaa</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primrata Dej-Udom</actor>
+      <actor>ชูพงษ์ ช่างปรุง</actor>
+      <actor>นิรุตติ์ ศิริจรรยา</actor>
+      <actor>เพ็ชรทาย วงษ์คำเหลา</actor>
+      <actor>ศรัณยู วงษ์กระจ่าง</actor>
+      <actor>สรพงษ์ ชาตรี</actor>
+      <actor>ชุมพร เทพพิทักษ์</actor>
+      <actor>สันติสุข พรหมศิริ</actor>
+      <actor>Patthama Panthong</actor>
+    </credits>
+    <category lang="pt">Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/lTqDxtCULmqS3fCtFkLLYaJYseN.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>18</value>
+    </rating>
   </programme>
   <programme start="20261231185433 -0300" stop="20261231201656 -0300" channel="htofilmes">
     <title lang="pt">Todo Mundo em Pânico 2</title>
