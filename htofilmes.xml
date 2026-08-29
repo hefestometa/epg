@@ -52,9 +52,25 @@
   <programme start="20260429033045 -0300" stop="20260429055326 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260429055326 -0300" stop="20260429074640 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -358,9 +374,25 @@
   <programme start="20260430033045 -0300" stop="20260430055326 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260430055326 -0300" stop="20260430074640 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -664,9 +696,25 @@
   <programme start="20260501033045 -0300" stop="20260501055326 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260501055326 -0300" stop="20260501074640 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -1016,9 +1064,25 @@
   <programme start="20260502060254 -0300" stop="20260502082535 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260502082535 -0300" stop="20260502101849 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -1368,9 +1432,25 @@
   <programme start="20260503103734 -0300" stop="20260503125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260503125000 -0300" stop="20260503142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -1830,9 +1910,25 @@
   <programme start="20260505000000 -0300" stop="20260505020939 -0300" channel="htofilmes">
     <title lang="pt">Bruce Lee, Meu Irmão</title>
     <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
+    <credits>
+      <director>文雋, 葉偉民</director>
+      <actor>李治廷</actor>
+      <actor>梁家輝</actor>
+      <actor>鍾麗緹</actor>
+      <actor>謝婷婷</actor>
+      <actor>张一山</actor>
+      <actor>叶璇</actor>
+      <actor>Angela Gong Mi</actor>
+      <actor>萬梓良</actor>
+      <actor>宋佳</actor>
+      <actor>陳奐仁</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260505020939 -0300" stop="20260505040838 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
@@ -2067,9 +2163,25 @@
   <programme start="20260505185124 -0300" stop="20260505210103 -0300" channel="htofilmes">
     <title lang="pt">Bruce Lee, Meu Irmão</title>
     <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
+    <credits>
+      <director>文雋, 葉偉民</director>
+      <actor>李治廷</actor>
+      <actor>梁家輝</actor>
+      <actor>鍾麗緹</actor>
+      <actor>謝婷婷</actor>
+      <actor>张一山</actor>
+      <actor>叶璇</actor>
+      <actor>Angela Gong Mi</actor>
+      <actor>萬梓良</actor>
+      <actor>宋佳</actor>
+      <actor>陳奐仁</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260505210103 -0300" stop="20260505230002 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
@@ -2189,9 +2301,25 @@
   <programme start="20260506060442 -0300" stop="20260506074251 -0300" channel="htofilmes">
     <title lang="pt">Cymbeline</title>
     <desc lang="pt">Cymbeline (Ed Harris) é líder de um clube de motociclistas envolvido com tráfico de drogas. Perseguido por policiais corruptos, ele sofre tentativas de ususpação do poder por parte da própria esposa (Milla Jovovich) e ainda precisa lidar com as questões da problemática filha, Imogen (Dakota Johnson).</desc>
+    <credits>
+      <director>Michael Almereyda</director>
+      <actor>Ed Harris</actor>
+      <actor>Dakota Johnson</actor>
+      <actor>Milla Jovovich</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Penn Badgley</actor>
+      <actor>Anton Yelchin</actor>
+      <actor>Bill Pullman</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Spencer Treat Clark</actor>
+      <actor>Peter Gerety</actor>
+    </credits>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/uNajzrrYttWofGj3zu672J3NUbA.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260506074251 -0300" stop="20260506093857 -0300" channel="htofilmes">
     <title lang="pt">De Volta para o Futuro</title>
@@ -2219,9 +2347,25 @@
   <programme start="20260506093857 -0300" stop="20260506111136 -0300" channel="htofilmes">
     <title lang="pt">Dupla Implacável</title>
     <desc lang="pt">James Reece (Jonathan Rhys Meyers) é o assistente pessoal do embaixador americano na França e leva uma vida pacata e confortável em Paris. Seu sonho é se tornar um agente da CIA, onde poderia ter mais ação ao realizar seu trabalho. Sua vida muda quando é designado como o novo parceiro de Charlie Wax (John Travolta), que precisa deter um ataque terrorista. A partir de então Charlie guia James em uma perseguição pelo submundo parisiense, para cumprir sua missão.</desc>
+    <credits>
+      <director>Pierre Morel</director>
+      <actor>John Travolta</actor>
+      <actor>Jonathan Rhys Meyers</actor>
+      <actor>Kasia Smutniak</actor>
+      <actor>Richard Durden</actor>
+      <actor>Bing Yin</actor>
+      <actor>Amber Rose Revah</actor>
+      <actor>Éric Godon</actor>
+      <actor>François Bredon</actor>
+      <actor>Chems Dahmani</actor>
+      <actor>Sami Darr</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/qpiASu5ZX5troHTXlhQGtOJ6lxb.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260506111136 -0300" stop="20260506130119 -0300" channel="htofilmes">
     <title lang="pt">Elysium</title>
@@ -2868,9 +3012,25 @@
   <programme start="20260508143931 -0300" stop="20260508160917 -0300" channel="htofilmes">
     <title lang="pt">O Primeiro Amor</title>
     <desc lang="pt">Juli e Bryce se conheceram aos sete anos de idade. Ela sempre admirou o menino, mas ele achava a vizinha meio estranha. Aos 13 tudo muda e ele começa a se apaixonar pela menina. Juntos, eles compartilharam diversas experiências amorosas, como o famoso primeiro beijo, que faz parte da vida de todo adolescente.</desc>
+    <credits>
+      <director>Rob Reiner</director>
+      <actor>Madeline Carroll</actor>
+      <actor>Callan McAuliffe</actor>
+      <actor>Rebecca De Mornay</actor>
+      <actor>Anthony Edwards</actor>
+      <actor>John Mahoney</actor>
+      <actor>Penelope Ann Miller</actor>
+      <actor>Aidan Quinn</actor>
+      <actor>Kevin Weisman</actor>
+      <actor>Morgan Lily</actor>
+      <actor>Ryan Ketzner</actor>
+    </credits>
     <category lang="pt">Romance</category>
     <icon src="https://image.tmdb.org/t/p/w500/uURMTc8sSswigTHpV42TV6xhRkh.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260508160917 -0300" stop="20260508175636 -0300" channel="htofilmes">
     <title lang="pt">O Solteirão</title>
@@ -3302,9 +3462,25 @@
   <programme start="20260510000000 -0300" stop="20260510022241 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260510022241 -0300" stop="20260510035506 -0300" channel="htofilmes">
     <title lang="pt">A Mentira</title>
@@ -3539,9 +3715,25 @@
   <programme start="20260510194831 -0300" stop="20260510221112 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260510221112 -0300" stop="20260510234337 -0300" channel="htofilmes">
     <title lang="pt">A Mentira</title>
@@ -3914,9 +4106,25 @@
   <programme start="20260512000000 -0300" stop="20260512022241 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260512022241 -0300" stop="20260512035506 -0300" channel="htofilmes">
     <title lang="pt">A Mentira</title>
@@ -4151,9 +4359,25 @@
   <programme start="20260512194831 -0300" stop="20260512221112 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260512221112 -0300" stop="20260512234337 -0300" channel="htofilmes">
     <title lang="pt">A Mentira</title>
@@ -5673,9 +5897,25 @@
   <programme start="20260517103734 -0300" stop="20260517125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260517125000 -0300" stop="20260517142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -8790,9 +9030,25 @@
   <programme start="20260527103734 -0300" stop="20260527125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260527125000 -0300" stop="20260527142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -9093,9 +9349,25 @@
   <programme start="20260528103734 -0300" stop="20260528125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260528125000 -0300" stop="20260528142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -10062,9 +10334,25 @@
   <programme start="20260531103734 -0300" stop="20260531125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260531125000 -0300" stop="20260531142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -32015,9 +32303,25 @@
   <programme start="20260809033045 -0300" stop="20260809055326 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260809055326 -0300" stop="20260809074640 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -32321,9 +32625,25 @@
   <programme start="20260810033045 -0300" stop="20260810055326 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260810055326 -0300" stop="20260810074640 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -32627,9 +32947,25 @@
   <programme start="20260811033045 -0300" stop="20260811055326 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260811055326 -0300" stop="20260811074640 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -32979,9 +33315,25 @@
   <programme start="20260812060254 -0300" stop="20260812082535 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260812082535 -0300" stop="20260812101849 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -33331,9 +33683,25 @@
   <programme start="20260813103734 -0300" stop="20260813125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260813125000 -0300" stop="20260813142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -33793,9 +34161,25 @@
   <programme start="20260815000000 -0300" stop="20260815020939 -0300" channel="htofilmes">
     <title lang="pt">Bruce Lee, Meu Irmão</title>
     <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
+    <credits>
+      <director>文雋, 葉偉民</director>
+      <actor>李治廷</actor>
+      <actor>梁家輝</actor>
+      <actor>鍾麗緹</actor>
+      <actor>謝婷婷</actor>
+      <actor>张一山</actor>
+      <actor>叶璇</actor>
+      <actor>Angela Gong Mi</actor>
+      <actor>萬梓良</actor>
+      <actor>宋佳</actor>
+      <actor>陳奐仁</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260815020939 -0300" stop="20260815040838 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
@@ -34030,9 +34414,25 @@
   <programme start="20260815185124 -0300" stop="20260815210103 -0300" channel="htofilmes">
     <title lang="pt">Bruce Lee, Meu Irmão</title>
     <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
+    <credits>
+      <director>文雋, 葉偉民</director>
+      <actor>李治廷</actor>
+      <actor>梁家輝</actor>
+      <actor>鍾麗緹</actor>
+      <actor>謝婷婷</actor>
+      <actor>张一山</actor>
+      <actor>叶璇</actor>
+      <actor>Angela Gong Mi</actor>
+      <actor>萬梓良</actor>
+      <actor>宋佳</actor>
+      <actor>陳奐仁</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260815210103 -0300" stop="20260815230002 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
@@ -34152,9 +34552,25 @@
   <programme start="20260816060442 -0300" stop="20260816074251 -0300" channel="htofilmes">
     <title lang="pt">Cymbeline</title>
     <desc lang="pt">Cymbeline (Ed Harris) é líder de um clube de motociclistas envolvido com tráfico de drogas. Perseguido por policiais corruptos, ele sofre tentativas de ususpação do poder por parte da própria esposa (Milla Jovovich) e ainda precisa lidar com as questões da problemática filha, Imogen (Dakota Johnson).</desc>
+    <credits>
+      <director>Michael Almereyda</director>
+      <actor>Ed Harris</actor>
+      <actor>Dakota Johnson</actor>
+      <actor>Milla Jovovich</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Penn Badgley</actor>
+      <actor>Anton Yelchin</actor>
+      <actor>Bill Pullman</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Spencer Treat Clark</actor>
+      <actor>Peter Gerety</actor>
+    </credits>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/uNajzrrYttWofGj3zu672J3NUbA.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260816074251 -0300" stop="20260816093857 -0300" channel="htofilmes">
     <title lang="pt">De Volta para o Futuro</title>
@@ -34182,9 +34598,25 @@
   <programme start="20260816093857 -0300" stop="20260816111136 -0300" channel="htofilmes">
     <title lang="pt">Dupla Implacável</title>
     <desc lang="pt">James Reece (Jonathan Rhys Meyers) é o assistente pessoal do embaixador americano na França e leva uma vida pacata e confortável em Paris. Seu sonho é se tornar um agente da CIA, onde poderia ter mais ação ao realizar seu trabalho. Sua vida muda quando é designado como o novo parceiro de Charlie Wax (John Travolta), que precisa deter um ataque terrorista. A partir de então Charlie guia James em uma perseguição pelo submundo parisiense, para cumprir sua missão.</desc>
+    <credits>
+      <director>Pierre Morel</director>
+      <actor>John Travolta</actor>
+      <actor>Jonathan Rhys Meyers</actor>
+      <actor>Kasia Smutniak</actor>
+      <actor>Richard Durden</actor>
+      <actor>Bing Yin</actor>
+      <actor>Amber Rose Revah</actor>
+      <actor>Éric Godon</actor>
+      <actor>François Bredon</actor>
+      <actor>Chems Dahmani</actor>
+      <actor>Sami Darr</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/qpiASu5ZX5troHTXlhQGtOJ6lxb.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20260816111136 -0300" stop="20260816130119 -0300" channel="htofilmes">
     <title lang="pt">Elysium</title>
@@ -34831,9 +35263,25 @@
   <programme start="20260818143931 -0300" stop="20260818160917 -0300" channel="htofilmes">
     <title lang="pt">O Primeiro Amor</title>
     <desc lang="pt">Juli e Bryce se conheceram aos sete anos de idade. Ela sempre admirou o menino, mas ele achava a vizinha meio estranha. Aos 13 tudo muda e ele começa a se apaixonar pela menina. Juntos, eles compartilharam diversas experiências amorosas, como o famoso primeiro beijo, que faz parte da vida de todo adolescente.</desc>
+    <credits>
+      <director>Rob Reiner</director>
+      <actor>Madeline Carroll</actor>
+      <actor>Callan McAuliffe</actor>
+      <actor>Rebecca De Mornay</actor>
+      <actor>Anthony Edwards</actor>
+      <actor>John Mahoney</actor>
+      <actor>Penelope Ann Miller</actor>
+      <actor>Aidan Quinn</actor>
+      <actor>Kevin Weisman</actor>
+      <actor>Morgan Lily</actor>
+      <actor>Ryan Ketzner</actor>
+    </credits>
     <category lang="pt">Romance</category>
     <icon src="https://image.tmdb.org/t/p/w500/uURMTc8sSswigTHpV42TV6xhRkh.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20260818160917 -0300" stop="20260818175636 -0300" channel="htofilmes">
     <title lang="pt">O Solteirão</title>
@@ -35265,9 +35713,25 @@
   <programme start="20260820000000 -0300" stop="20260820022241 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260820022241 -0300" stop="20260820035506 -0300" channel="htofilmes">
     <title lang="pt">A Mentira</title>
@@ -35502,9 +35966,25 @@
   <programme start="20260820194831 -0300" stop="20260820221112 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260820221112 -0300" stop="20260820234337 -0300" channel="htofilmes">
     <title lang="pt">A Mentira</title>
@@ -35877,9 +36357,25 @@
   <programme start="20260822000000 -0300" stop="20260822022241 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260822022241 -0300" stop="20260822035506 -0300" channel="htofilmes">
     <title lang="pt">A Mentira</title>
@@ -36114,9 +36610,25 @@
   <programme start="20260822194831 -0300" stop="20260822221112 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20260822221112 -0300" stop="20260822234337 -0300" channel="htofilmes">
     <title lang="pt">A Mentira</title>
@@ -37636,9 +38148,25 @@
   <programme start="20260827103734 -0300" stop="20260827125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260827125000 -0300" stop="20260827142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -40753,9 +41281,25 @@
   <programme start="20260906103734 -0300" stop="20260906125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260906125000 -0300" stop="20260906142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -41056,9 +41600,25 @@
   <programme start="20260907103734 -0300" stop="20260907125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260907125000 -0300" stop="20260907142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -42025,9 +42585,25 @@
   <programme start="20260910103734 -0300" stop="20260910125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20260910125000 -0300" stop="20260910142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -63978,9 +64554,25 @@
   <programme start="20261119033045 -0300" stop="20261119055326 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20261119055326 -0300" stop="20261119074640 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -64284,9 +64876,25 @@
   <programme start="20261120033045 -0300" stop="20261120055326 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20261120055326 -0300" stop="20261120074640 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -64590,9 +65198,25 @@
   <programme start="20261121033045 -0300" stop="20261121055326 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20261121055326 -0300" stop="20261121074640 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -64942,9 +65566,25 @@
   <programme start="20261122060254 -0300" stop="20261122082535 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20261122082535 -0300" stop="20261122101849 -0300" channel="htofilmes">
     <title lang="pt">A Bússola de Ouro</title>
@@ -65294,9 +65934,25 @@
   <programme start="20261123103734 -0300" stop="20261123125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261123125000 -0300" stop="20261123142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -65756,9 +66412,25 @@
   <programme start="20261125000000 -0300" stop="20261125020939 -0300" channel="htofilmes">
     <title lang="pt">Bruce Lee, Meu Irmão</title>
     <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
+    <credits>
+      <director>文雋, 葉偉民</director>
+      <actor>李治廷</actor>
+      <actor>梁家輝</actor>
+      <actor>鍾麗緹</actor>
+      <actor>謝婷婷</actor>
+      <actor>张一山</actor>
+      <actor>叶璇</actor>
+      <actor>Angela Gong Mi</actor>
+      <actor>萬梓良</actor>
+      <actor>宋佳</actor>
+      <actor>陳奐仁</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261125020939 -0300" stop="20261125040838 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
@@ -65993,9 +66665,25 @@
   <programme start="20261125185124 -0300" stop="20261125210103 -0300" channel="htofilmes">
     <title lang="pt">Bruce Lee, Meu Irmão</title>
     <desc lang="pt">Produzido por Robert Lee, irmão mais novo do lendário Bruce Lee, o filme recheado de cenas de ação, vem para mostrar a realidade do Dragão Chinês : Seu nascimento, sua família, sua infância e adolescência rebelde, seu início nas artes marciais e porquê o jovem Bruce, com 18 anos e apenas 100 dólares no bolso, foi para a América... O primeiro passo para a conquista do mundo.</desc>
+    <credits>
+      <director>文雋, 葉偉民</director>
+      <actor>李治廷</actor>
+      <actor>梁家輝</actor>
+      <actor>鍾麗緹</actor>
+      <actor>謝婷婷</actor>
+      <actor>张一山</actor>
+      <actor>叶璇</actor>
+      <actor>Angela Gong Mi</actor>
+      <actor>萬梓良</actor>
+      <actor>宋佳</actor>
+      <actor>陳奐仁</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/txXFfNeGguClbLIbbHRPjZTtVy7.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261125210103 -0300" stop="20261125230002 -0300" channel="htofilmes">
     <title lang="pt">Burlesque</title>
@@ -66115,9 +66803,25 @@
   <programme start="20261126060442 -0300" stop="20261126074251 -0300" channel="htofilmes">
     <title lang="pt">Cymbeline</title>
     <desc lang="pt">Cymbeline (Ed Harris) é líder de um clube de motociclistas envolvido com tráfico de drogas. Perseguido por policiais corruptos, ele sofre tentativas de ususpação do poder por parte da própria esposa (Milla Jovovich) e ainda precisa lidar com as questões da problemática filha, Imogen (Dakota Johnson).</desc>
+    <credits>
+      <director>Michael Almereyda</director>
+      <actor>Ed Harris</actor>
+      <actor>Dakota Johnson</actor>
+      <actor>Milla Jovovich</actor>
+      <actor>Ethan Hawke</actor>
+      <actor>Penn Badgley</actor>
+      <actor>Anton Yelchin</actor>
+      <actor>Bill Pullman</actor>
+      <actor>John Leguizamo</actor>
+      <actor>Spencer Treat Clark</actor>
+      <actor>Peter Gerety</actor>
+    </credits>
     <category lang="pt">Drama</category>
     <icon src="https://image.tmdb.org/t/p/w500/uNajzrrYttWofGj3zu672J3NUbA.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261126074251 -0300" stop="20261126093857 -0300" channel="htofilmes">
     <title lang="pt">De Volta para o Futuro</title>
@@ -66145,9 +66849,25 @@
   <programme start="20261126093857 -0300" stop="20261126111136 -0300" channel="htofilmes">
     <title lang="pt">Dupla Implacável</title>
     <desc lang="pt">James Reece (Jonathan Rhys Meyers) é o assistente pessoal do embaixador americano na França e leva uma vida pacata e confortável em Paris. Seu sonho é se tornar um agente da CIA, onde poderia ter mais ação ao realizar seu trabalho. Sua vida muda quando é designado como o novo parceiro de Charlie Wax (John Travolta), que precisa deter um ataque terrorista. A partir de então Charlie guia James em uma perseguição pelo submundo parisiense, para cumprir sua missão.</desc>
+    <credits>
+      <director>Pierre Morel</director>
+      <actor>John Travolta</actor>
+      <actor>Jonathan Rhys Meyers</actor>
+      <actor>Kasia Smutniak</actor>
+      <actor>Richard Durden</actor>
+      <actor>Bing Yin</actor>
+      <actor>Amber Rose Revah</actor>
+      <actor>Éric Godon</actor>
+      <actor>François Bredon</actor>
+      <actor>Chems Dahmani</actor>
+      <actor>Sami Darr</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/qpiASu5ZX5troHTXlhQGtOJ6lxb.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
   <programme start="20261126111136 -0300" stop="20261126130119 -0300" channel="htofilmes">
     <title lang="pt">Elysium</title>
@@ -66794,9 +67514,25 @@
   <programme start="20261128143931 -0300" stop="20261128160917 -0300" channel="htofilmes">
     <title lang="pt">O Primeiro Amor</title>
     <desc lang="pt">Juli e Bryce se conheceram aos sete anos de idade. Ela sempre admirou o menino, mas ele achava a vizinha meio estranha. Aos 13 tudo muda e ele começa a se apaixonar pela menina. Juntos, eles compartilharam diversas experiências amorosas, como o famoso primeiro beijo, que faz parte da vida de todo adolescente.</desc>
+    <credits>
+      <director>Rob Reiner</director>
+      <actor>Madeline Carroll</actor>
+      <actor>Callan McAuliffe</actor>
+      <actor>Rebecca De Mornay</actor>
+      <actor>Anthony Edwards</actor>
+      <actor>John Mahoney</actor>
+      <actor>Penelope Ann Miller</actor>
+      <actor>Aidan Quinn</actor>
+      <actor>Kevin Weisman</actor>
+      <actor>Morgan Lily</actor>
+      <actor>Ryan Ketzner</actor>
+    </credits>
     <category lang="pt">Romance</category>
     <icon src="https://image.tmdb.org/t/p/w500/uURMTc8sSswigTHpV42TV6xhRkh.jpg"/>
     <date>2010</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
   </programme>
   <programme start="20261128160917 -0300" stop="20261128175636 -0300" channel="htofilmes">
     <title lang="pt">O Solteirão</title>
@@ -67228,9 +67964,25 @@
   <programme start="20261130000000 -0300" stop="20261130022241 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20261130022241 -0300" stop="20261130035506 -0300" channel="htofilmes">
     <title lang="pt">A Mentira</title>
@@ -67465,9 +68217,25 @@
   <programme start="20261130194831 -0300" stop="20261130221112 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20261130221112 -0300" stop="20261130234337 -0300" channel="htofilmes">
     <title lang="pt">A Mentira</title>
@@ -67840,9 +68608,25 @@
   <programme start="20261202000000 -0300" stop="20261202022241 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20261202022241 -0300" stop="20261202035506 -0300" channel="htofilmes">
     <title lang="pt">A Mentira</title>
@@ -68077,9 +68861,25 @@
   <programme start="20261202194831 -0300" stop="20261202221112 -0300" channel="htofilmes">
     <title lang="pt">A Batalha na Montanha do Tigre</title>
     <desc lang="pt">Depois do final da Segunda Guerra Mundial, com a rendição dos japoneses, o Exército de Libertação Popular da China precisa retomar o controle de diversas áreas que são dominadas por rebeldes que ajudavam os inimigos a guardar armas, munição e outras provisões. Shao Jianbo, mais conhecido como Capitão 203, lidera um grupo de 30 homens cuja missão é chegar à Montanha do Tigre.</desc>
+    <credits>
+      <director>徐克</director>
+      <actor>張涵予</actor>
+      <actor>梁家輝</actor>
+      <actor>佟丽娅</actor>
+      <actor>林更新</actor>
+      <actor>余男</actor>
+      <actor>韩庚</actor>
+      <actor>谢苗</actor>
+      <actor>陈晓</actor>
+      <actor>韩飞行</actor>
+      <actor>释行宇</actor>
+    </credits>
     <category lang="pt">Thriller</category>
     <icon src="https://image.tmdb.org/t/p/w500/y4BKUU4daexpODw2m2TdXLiqp0o.jpg"/>
     <date>2014</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
   </programme>
   <programme start="20261202221112 -0300" stop="20261202234337 -0300" channel="htofilmes">
     <title lang="pt">A Mentira</title>
@@ -69599,9 +70399,25 @@
   <programme start="20261207103734 -0300" stop="20261207125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261207125000 -0300" stop="20261207142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -72716,9 +73532,25 @@
   <programme start="20261217103734 -0300" stop="20261217125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261217125000 -0300" stop="20261217142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -73019,9 +73851,25 @@
   <programme start="20261218103734 -0300" stop="20261218125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261218125000 -0300" stop="20261218142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
@@ -73988,9 +74836,25 @@
   <programme start="20261221103734 -0300" stop="20261221125000 -0300" channel="htofilmes">
     <title lang="pt">Além da Escuridão - Star Trek</title>
     <desc lang="pt">Quando a tripulação da Enterprise é chamada de volta para casa, eles descobrem que uma força de terror imparável vinda de dentro de sua própria organização detonou a frota e tudo o que ela representa, deixando nosso mundo em estado de crise. Com contas pessoais a acertar, o Capitão Kirk lidera uma caçada humana a um mundo em zona de guerra para capturar uma arma de destruição em massa de um homem só.</desc>
+    <credits>
+      <director>J.J. Abrams</director>
+      <actor>Chris Pine</actor>
+      <actor>Zachary Quinto</actor>
+      <actor>Zoe Saldaña</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Karl Urban</actor>
+      <actor>Simon Pegg</actor>
+      <actor>Bruce Greenwood</actor>
+      <actor>Peter Weller</actor>
+      <actor>Alice Eve</actor>
+      <actor>Anton Yelchin</actor>
+    </credits>
     <category lang="pt">Ação</category>
     <icon src="https://image.tmdb.org/t/p/w500/hHUHMuTwYBcQRMYK9z8jHZucnD3.jpg"/>
     <date>2013</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20261221125000 -0300" stop="20261221142708 -0300" channel="htofilmes">
     <title lang="pt">Ameaça Terrorista</title>
