@@ -54,17 +54,17 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261001044052 -0300" stop="20261001061644 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261001044052 -0300" stop="20261001061620 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261001061644 -0300" stop="20261001074453 -0300" channel="fenix_plus">
+  <programme start="20261001061620 -0300" stop="20261001074429 -0300" channel="fenix_plus">
     <title lang="pt">Marmaduke</title>
     <desc lang="pt">Marmaduke é um dog alemão adolescente de 90 quilos muito bagunceiro, que mora com a família Winslow. Quando os Winslows mudam-se para Califórnia, Marmaduke apaixona-se pela linda afegã Jezebel e terá de passar por vários desafios para aprender que o caráter e a beleza interior são as verdadeiras provas de um ‘TOP DOG”.</desc>
     <category lang="pt">Família, Comédia</category>
@@ -74,7 +74,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261001074453 -0300" stop="20261001091610 -0300" channel="fenix_plus">
+  <programme start="20261001074429 -0300" stop="20261001091546 -0300" channel="fenix_plus">
     <title lang="pt">Viagem do Medo</title>
     <desc lang="pt">Ellie (Odette Annable) e Stephanie (Amber Heard) são duas amigas americanas que estão passando as férias na Argentina. Elas querem conhecer o que o país tem de mais exótico a oferecer. Enquanto exploram o interior do país, Ellie acaba sendo raptada e envolvida em um terrível jogo de violência, exploração sexual e medo.</desc>
     <category lang="pt">Mistério, Thriller</category>
@@ -84,7 +84,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261001091610 -0300" stop="20261001104248 -0300" channel="fenix_plus">
+  <programme start="20261001091546 -0300" stop="20261001104224 -0300" channel="fenix_plus">
     <title lang="pt">3 Balas Para Ringo</title>
     <desc lang="pt">A vida de Ringo Carson não está nada fácil. Primeiro, ele tem uma briga com seu melhor amigo, Frank Sanders, depois de salvar Jane a garota que ele ama de sequestradores mexicanos. Frank vai para a Guerra. Ringo se reconcilia com sua mãe, que precisa de sua arma para proteger as suas terras da ganância do banqueiro Daniels. Então, Frank retorna da Guerra e enfrenta Ringo que fica cego devido a um golpe na cabeça. Ringo trama sua vingança: ele terá de salvar sua esposa das garras do seu velho amigo, resgatar seu filho e acabar com Daniels.</desc>
     <category lang="pt">Faroeste</category>
@@ -94,7 +94,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261001104248 -0300" stop="20261001121125 -0300" channel="fenix_plus">
+  <programme start="20261001104224 -0300" stop="20261001121101 -0300" channel="fenix_plus">
     <title lang="pt">Gigolô por Acidente</title>
     <desc lang="pt">Deuce Bigalow (Rob Schneider) é um sujeito sem sorte que limpa aquários para viver. Quando um garoto de programa de primeira classe o contrata para cuidar de seu peixe doente e ele, por acidente, quebra seu aquário de 6.000 dólares, Deuce se vê obrigado a trabalhar no novo ramo para poder pagar o conserto.</desc>
     <category lang="pt">Comédia, Romance</category>
@@ -104,7 +104,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261001121125 -0300" stop="20261001133830 -0300" channel="fenix_plus">
+  <programme start="20261001121101 -0300" stop="20261001133806 -0300" channel="fenix_plus">
     <title lang="pt">Segundas Intenções 2</title>
     <desc lang="pt">Quando se muda para a mansão da nova família de seu pai, Sebastian Valmont percebe que sua meia irmã Kathryn é mais inescrupulosa que ele. Enquanto ela faz planos maquiavélicos, ele se apaixona por Danielle, filha da diretora da escola onde estuda.</desc>
     <category lang="pt">Drama</category>
@@ -114,7 +114,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261001133830 -0300" stop="20261001142043 -0300" channel="fenix_plus">
+  <programme start="20261001133806 -0300" stop="20261001142019 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E19 - Senhorita Mystic Falls</title>
     <desc lang="pt">No dia da Festa de Gala dos Fundadores, Elena e Caroline competem pelo titulo de “Senhorita Mystic Falls” contra outras garotas, incluindo Tina Fell e Amber Bradley.</desc>
     <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
@@ -124,7 +124,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261001142043 -0300" stop="20261001155723 -0300" channel="fenix_plus">
+  <programme start="20261001142019 -0300" stop="20261001155659 -0300" channel="fenix_plus">
     <title lang="pt">Ligados Pelo Amor</title>
     <desc lang="pt">Esta comédia dramática apresenta um escritor de sucesso que se torna cada vez mais obcecado por sua ex-esposa, a ponto de criar problemas em sua nova família.</desc>
     <category lang="pt">Drama, Comédia, Romance</category>
@@ -134,7 +134,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261001155723 -0300" stop="20261001173106 -0300" channel="fenix_plus">
+  <programme start="20261001155659 -0300" stop="20261001173042 -0300" channel="fenix_plus">
     <title lang="pt">A Vida por um Dolar</title>
     <desc lang="pt">Um pistoleiro muito rápido foge de um rancheiro e os seus homens saem para o matar por matar o seu filho. O pistoleiro confunde-se com um antigo soldado confederado que tem conhecimento de ouro escondido. O único problema é que ele é também perseguido por soldados da União. Quando libertam um homem com parte do mapa para o ouro, são então também perseguidos por soldados espanhóis. Tudo isto leva a uma pequena cidade mexicana aterrorizada por soldados e liderada por um bom padre que também tem conhecimentos sobre o ouro.</desc>
     <category lang="pt">Faroeste, Cinema TV</category>
@@ -144,7 +144,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261001173106 -0300" stop="20261001181339 -0300" channel="fenix_plus">
+  <programme start="20261001173042 -0300" stop="20261001181315 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E11 - Chuck Contra O Crown Victoria</title>
     <desc lang="pt">Ainda se recuperando depois se dar conta de que Sarah ainda sente algo por Bryce, Chuck tem que assumir um disfarce como o marido de Sarah em uma missão para acabar com um falsificador e iatista com conexões políticas.</desc>
     <category lang="pt">Action &amp; Adventure, Comédia, Drama</category>
@@ -154,7 +154,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261001181339 -0300" stop="20261001185659 -0300" channel="fenix_plus">
+  <programme start="20261001181315 -0300" stop="20261001185635 -0300" channel="fenix_plus">
     <title lang="pt">Grey's Anatomy - T1E1 - Longa Noite, Longo Dia</title>
     <desc lang="pt">No seu primeiro ano de residência, Meredith Grey, filha de uma famosa cirurgiã, conhece seus colegas do Hospital Seattle Grace.</desc>
     <category lang="pt">Drama</category>
@@ -164,7 +164,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261001185659 -0300" stop="20261001205406 -0300" channel="fenix_plus">
+  <programme start="20261001185635 -0300" stop="20261001205342 -0300" channel="fenix_plus">
     <title lang="pt">Encontro Explosivo</title>
     <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
     <category lang="pt">Ação, Comédia</category>
@@ -174,7 +174,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261001205406 -0300" stop="20261001225728 -0300" channel="fenix_plus">
+  <programme start="20261001205342 -0300" stop="20261001225704 -0300" channel="fenix_plus">
     <title lang="pt">Duro de Matar 2</title>
     <desc lang="pt">Terroristas assumem o controle do aeroporto de Washington, visando libertar um preso político que está sendo extraditado, e ameaçam destruir várias aeronaves se as exigências deles não forem cumpridas. Mas a esposa de John McClane, um detetive de Nova York, se encontra em um dos aviões, assim o marido resolve enfrentar a quadrilha.</desc>
     <category lang="pt">Ação, Thriller</category>
@@ -184,7 +184,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261001225728 -0300" stop="20261002005354 -0300" channel="fenix_plus">
+  <programme start="20261001225704 -0300" stop="20261002005330 -0300" channel="fenix_plus">
     <title lang="pt">Agente Infiltrada</title>
     <desc lang="pt">Rachel é uma espiã da Mossad, Serviço de Inteligência Nacional de Israel. Após o funeral de seu pai, ela desaparece misteriosamente. A única pista sobre o seu paradeiro é uma ligação criptografada feita ao seu antigo mensageiro na Alemanha, Thomas. Ele é convocado para retornar à Israel a fim de descobrir a localização da ex-parceira, ao mesmo tempo em que precisa frear o programa nuclear do iraniano.</desc>
     <category lang="pt">Drama, Thriller</category>
@@ -994,17 +994,17 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261005164237 -0300" stop="20261005181829 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261005164237 -0300" stop="20261005181805 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261005181829 -0300" stop="20261005184005 -0300" channel="fenix_plus">
+  <programme start="20261005181805 -0300" stop="20261005183941 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E8 - Ele Disse, Ela Disse</title>
     <desc lang="pt">Michael e Janet não sabem escutar um ao outro.</desc>
     <category lang="pt">Comédia, Família, Drama</category>
@@ -1014,7 +1014,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261005184005 -0300" stop="20261005201752 -0300" channel="fenix_plus">
+  <programme start="20261005183941 -0300" stop="20261005201728 -0300" channel="fenix_plus">
     <title lang="pt">De Repente 30</title>
     <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
     <category lang="pt">Comédia, Fantasia, Romance</category>
@@ -1024,7 +1024,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261005201752 -0300" stop="20261005210019 -0300" channel="fenix_plus">
+  <programme start="20261005201728 -0300" stop="20261005205955 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E20 - Irmãos de Sangue</title>
     <desc lang="pt">Stefan se esforça para chegar a um acordo com seu passado, ele e Damon revelarão partes de sua história a Elena, até que ela finalmente descobre a verdade sobre como eles se tornaram vampiros.</desc>
     <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
@@ -1034,7 +1034,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261005210019 -0300" stop="20261005212144 -0300" channel="fenix_plus">
+  <programme start="20261005205955 -0300" stop="20261005212120 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E7 - Charlie e o Paciente Saído da Prisão</title>
     <desc lang="pt">Charlie e sua ex, Jennifer, estão tendo um problema sobre como Charlie ainda tenta administrar sua vida quando Cleo - uma das pacientes de Charlie de seu grupo de terapia de raiva na prisão - aparece em sua porta, recém-saída em liberdade condicional. Jennifer decide se vingar de Charlie namorando o ex-presidiário.</desc>
     <category lang="pt">Comédia</category>
@@ -1044,7 +1044,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261005212144 -0300" stop="20261005220341 -0300" channel="fenix_plus">
+  <programme start="20261005212120 -0300" stop="20261005220317 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E4 - 3:00 - 4:00</title>
     <desc lang="pt">A suspeita de Jack de que alguém dentro da agência está envolvido na tentativa de assassinato de David Palmer, acaba causando tensão entre um de seus mais próximos colaboradores. Jamey está próxima de conseguir uma pista que poderá colocar Jack novamente em campo, onde ele conhece uma prestativa policial que sabe de muita coisa. Mas os esforços da agência para descobrir algo sobre o caso Palmer enfrentam alguns empecilhos com o retorno de George Mason, que tenta brincar com as emoções de Nina, enquanto tenta descobrir onde Jack está. A luta de Kimberly e Janet pela sua liberdade toma um rumo trágico, enquanto Teri e York não tem tanta sorte quando eles são parados por um policial por excederem a velocidade. Além isso, David Palmer finalmente descobre que alguém está tentando matá-lo, a apenas poucas horas do dia das eleições primárias para presidente.</desc>
     <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
@@ -1054,7 +1054,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261005220341 -0300" stop="20261005234822 -0300" channel="fenix_plus">
+  <programme start="20261005220317 -0300" stop="20261005234758 -0300" channel="fenix_plus">
     <title lang="pt">O 3º Andar: Terror na Rua Malasaña</title>
     <desc lang="pt">Bairro Malasaña, Madri, Espanha, 1976. Enquanto a agitação política assola as ruas de todo o país, a família Olmedo chega à cidade grande e se instala em seu novo apartamento. Eles logo descobrem que não são os únicos que perambulam por seus corredores.</desc>
     <category lang="pt">Drama, Terror</category>
@@ -2354,17 +2354,17 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20261012133655 -0300" stop="20261012151247 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261012133655 -0300" stop="20261012151223 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261012151247 -0300" stop="20261012153424 -0300" channel="fenix_plus">
+  <programme start="20261012151223 -0300" stop="20261012153400 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E1 - Piloto</title>
     <desc lang="pt">Jay decide usar seu diploma da universidade e se inserir no mercado de trabalho e preocupa Mike.</desc>
     <category lang="pt">Comédia, Família, Drama</category>
@@ -2374,7 +2374,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261012153424 -0300" stop="20261012155600 -0300" channel="fenix_plus">
+  <programme start="20261012153400 -0300" stop="20261012155536 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E10 - Um Pouco de Romance</title>
     <desc lang="pt">Michael está se sentindo frustrado com sua relação amorosa quando seu irmão aparece.</desc>
     <category lang="pt">Comédia, Família, Drama</category>
@@ -2384,7 +2384,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261012155600 -0300" stop="20261012174305 -0300" channel="fenix_plus">
+  <programme start="20261012155536 -0300" stop="20261012174241 -0300" channel="fenix_plus">
     <title lang="pt">Equilibrium</title>
     <desc lang="pt">Num futuro incerto, a raça humana foi quase totalmente devastada da Terra. Para salvar o mundo, os governantes decidiram criar uma droga capaz de inibir o sentimento humano e garantir a paz para sempre. Em nome dessa sociedade perfeita, tudo que pudesse provocar qualquer sentimento foi destruído : livros, arte, música. Mas um grupo se nega a tomar a droga e agora a cidade está cercada de sacerdotes da lei, que vieram para exterminar os rebeldes. Até que o mais temido de todos, o sacerdote John Preston, resolve parar de tomar a droga. Com sentimentos, ele pode cair numa emboscada, a não ser que consiga manter o equilíbrio de suas novas emoções.</desc>
     <category lang="pt">Ação, Ficção científica, Thriller</category>
@@ -2394,7 +2394,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261012174305 -0300" stop="20261012192305 -0300" channel="fenix_plus">
+  <programme start="20261012174241 -0300" stop="20261012192241 -0300" channel="fenix_plus">
     <title lang="pt">15 Forcas para um Assassino</title>
     <desc lang="pt">Acusados de um crime hediondo que não cometeram, os membros de duas gangues rivais, perseguidos por uma multidão sanguinária, refugiam-se em um forte abandonado, levando dois reféns com eles.</desc>
     <category lang="pt">Faroeste</category>
@@ -2404,7 +2404,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261012192305 -0300" stop="20261012205142 -0300" channel="fenix_plus">
+  <programme start="20261012192241 -0300" stop="20261012205118 -0300" channel="fenix_plus">
     <title lang="pt">Gigolô por Acidente</title>
     <desc lang="pt">Deuce Bigalow (Rob Schneider) é um sujeito sem sorte que limpa aquários para viver. Quando um garoto de programa de primeira classe o contrata para cuidar de seu peixe doente e ele, por acidente, quebra seu aquário de 6.000 dólares, Deuce se vê obrigado a trabalhar no novo ramo para poder pagar o conserto.</desc>
     <category lang="pt">Comédia, Romance</category>
@@ -2414,7 +2414,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261012205142 -0300" stop="20261012221903 -0300" channel="fenix_plus">
+  <programme start="20261012205118 -0300" stop="20261012221839 -0300" channel="fenix_plus">
     <title lang="pt">Espião por Acidente</title>
     <desc lang="pt">Jackie, é um atrapalhado vendedor de uma loja de roupas esportivas que leva uma vida sem grandes emoções. Mas, quando ele vê um roubo de banco acontecer na sua frente, imediatamente entra em ação distribuindo pancadas e golpes mortais por todos os lados. Como resultado de toda publicidade alcançada por seu heroísmo, desperta a atenção de um estranho advogado que revela sua verdadeira identidade. Agora, ele quer conhecer seu pai que jamais pensou existir... um dos mais notáveis e respeitados espiões do mundo. Para desvendar os mistérios de sua família, ele terá que se passar por espião, o que poderá lhe render uma boa herança mas que definitivamente o colocará em mais confusões.</desc>
     <category lang="pt">Ação, Comédia, Thriller</category>
@@ -2424,7 +2424,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261012221903 -0300" stop="20261013001456 -0300" channel="fenix_plus">
+  <programme start="20261012221839 -0300" stop="20261013001432 -0300" channel="fenix_plus">
     <title lang="pt">Pais e Filhas</title>
     <desc lang="pt">Nova York, 1988. Novelista mentalmente instável tenta criar sozinho a filha de cinco anos após a morte da esposa. Vinte anos depois, a garota, já adulta, cuida de crianças com problemas psicológicos e ainda tenta entender sua complicada infância.</desc>
     <category lang="pt">Drama</category>
@@ -3524,37 +3524,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261018103255 -0300" stop="20261018120847 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261018120847 -0300" stop="20261018125114 -0300" channel="fenix_plus">
-    <title lang="pt">Diários de um Vampiro - T1E21 - Isobel</title>
-    <desc lang="pt">Isobel retorna à cidade e atordoa Alaric, com sua atitude. E ela exige que ele marque um encontro com Elena. Isobel recusa a responder a maioria das perguntas de Elena.</desc>
-    <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
-    <icon src="https://image.tmdb.org/t/p/w500/63Vhhqcz43QoMZ44TW9W29vzwGK.jpg"/>
-    <date>2010</date>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261018125114 -0300" stop="20261018133308 -0300" channel="fenix_plus">
-    <title lang="pt">24 Horas - T1E5 - 4:00 - 5:00</title>
-    <desc lang="pt">Logo após o tiroteio, Jack vai até o distrito policial tentar encontrar  alguma informação significativa de Greg Penicoff, mas Mason interfere em  sua investigação antes que ele possa descobrir algo. Enquanto York  encontra sua filha, Kimberly é entregue a Gaines e Kim conhece o chefe  dos sequestradores das garotas. Palmer marca um encontro com a repórter  Maureen Kingsley, na tentativa de descobrir quem são suas fontes.</desc>
-    <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
-    <icon src="https://image.tmdb.org/t/p/w500/5LCzVpCAJWWJCLkiqtVfN9M98xh.jpg"/>
-    <date>2001</date>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261018133308 -0300" stop="20261018150836 -0300" channel="fenix_plus">
+  <programme start="20261018103255 -0300" stop="20261018120823 -0300" channel="fenix_plus">
     <title lang="pt">Enterrado Vivo</title>
     <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
     <category lang="pt">Thriller</category>
@@ -3564,7 +3534,37 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261018150836 -0300" stop="20261018170915 -0300" channel="fenix_plus">
+  <programme start="20261018120823 -0300" stop="20261018125050 -0300" channel="fenix_plus">
+    <title lang="pt">Diários de um Vampiro - T1E21 - Isobel</title>
+    <desc lang="pt">Isobel retorna à cidade e atordoa Alaric, com sua atitude. E ela exige que ele marque um encontro com Elena. Isobel recusa a responder a maioria das perguntas de Elena.</desc>
+    <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
+    <icon src="https://image.tmdb.org/t/p/w500/63Vhhqcz43QoMZ44TW9W29vzwGK.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20261018125050 -0300" stop="20261018133244 -0300" channel="fenix_plus">
+    <title lang="pt">24 Horas - T1E5 - 4:00 - 5:00</title>
+    <desc lang="pt">Logo após o tiroteio, Jack vai até o distrito policial tentar encontrar  alguma informação significativa de Greg Penicoff, mas Mason interfere em  sua investigação antes que ele possa descobrir algo. Enquanto York  encontra sua filha, Kimberly é entregue a Gaines e Kim conhece o chefe  dos sequestradores das garotas. Palmer marca um encontro com a repórter  Maureen Kingsley, na tentativa de descobrir quem são suas fontes.</desc>
+    <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
+    <icon src="https://image.tmdb.org/t/p/w500/5LCzVpCAJWWJCLkiqtVfN9M98xh.jpg"/>
+    <date>2001</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20261018133244 -0300" stop="20261018150812 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261018150812 -0300" stop="20261018170851 -0300" channel="fenix_plus">
     <title lang="pt">Fukushima: Ameaça Nuclear</title>
     <desc lang="pt">Quando a usina nuclear de Fukushima é atingida por um terremoto seguido de um tsunami, a ameaça de explosão é iminente. Mesmo com risco de contaminação, engenheiros arriscam tudo para evitar um desastre de proporções incalculáveis.</desc>
     <category lang="pt">História, Drama, Ação</category>
@@ -3574,7 +3574,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261018170915 -0300" stop="20261018175158 -0300" channel="fenix_plus">
+  <programme start="20261018170851 -0300" stop="20261018175134 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E1 - 00:00 - 1:00</title>
     <desc lang="pt">Pouco tempo depois que Jack Bauer termina um jogo de xadrez com sua filha adolescente Kimberly, na madrugada do dia da eleição presidencial, ela foge de casa e Jack, que conduz a Unidade Governamental Anti-Terrorismo, é chamado imediatamente para voltar ao trabalho. Ele descobre que há um plano para assassinar o candidato à presidência David Palmer. Logo ele descobre que alguém dentro de sua própria agência pode estar envolvido nesse plano. Enquanto isso, Teri, a mulher de Jack, tenta encontar sua filha. E esses são apenas os primeiros minutos do dia...</desc>
     <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
@@ -3584,7 +3584,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261018175158 -0300" stop="20261018192924 -0300" channel="fenix_plus">
+  <programme start="20261018175134 -0300" stop="20261018192900 -0300" channel="fenix_plus">
     <title lang="pt">Chat: A Sala Negra</title>
     <desc lang="pt">William é um jovem de 17 anos que resolve criar um chat para adolescentes de sua idade. Lá, eles podem conversar sobre traumas, problemas e frustrações. Mas o que esses jovens não sabem é que William pode estar manipulando todos eles, e o resultado pode ser fatal.</desc>
     <category lang="pt">Drama, Thriller</category>
@@ -3594,7 +3594,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261018192924 -0300" stop="20261018205918 -0300" channel="fenix_plus">
+  <programme start="20261018192900 -0300" stop="20261018205854 -0300" channel="fenix_plus">
     <title lang="pt">O Solteirão</title>
     <desc lang="pt">Uma série de más decisões acaba com os negócios do revendedor de carros Ben Kalmen. Seu lado mulherengo lhe custa o casamento com Nancy e ele tem que se mudar de uma casa grande para um pequeno apartamento. Mesmo a atual namorada, Jordan, sabe que Ben está longe de ser perfeito.</desc>
     <category lang="pt">Comédia, Drama, Romance</category>
@@ -3604,7 +3604,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261018205918 -0300" stop="20261018214207 -0300" channel="fenix_plus">
+  <programme start="20261018205854 -0300" stop="20261018214143 -0300" channel="fenix_plus">
     <title lang="pt">Grey's Anatomy - T1E8 - Um Pedido de Ajuda</title>
     <desc lang="pt">Meredith fica desanimada com o que descobre sobre o passado de Derek.</desc>
     <category lang="pt">Drama</category>
@@ -3614,7 +3614,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261018214207 -0300" stop="20261018222434 -0300" channel="fenix_plus">
+  <programme start="20261018214143 -0300" stop="20261018222410 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E20 - Irmãos de Sangue</title>
     <desc lang="pt">Stefan se esforça para chegar a um acordo com seu passado, ele e Damon revelarão partes de sua história a Elena, até que ela finalmente descobre a verdade sobre como eles se tornaram vampiros.</desc>
     <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
@@ -3624,7 +3624,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261018222434 -0300" stop="20261018235551 -0300" channel="fenix_plus">
+  <programme start="20261018222410 -0300" stop="20261018235527 -0300" channel="fenix_plus">
     <title lang="pt">Viagem do Medo</title>
     <desc lang="pt">Ellie (Odette Annable) e Stephanie (Amber Heard) são duas amigas americanas que estão passando as férias na Argentina. Elas querem conhecer o que o país tem de mais exótico a oferecer. Enquanto exploram o interior do país, Ellie acaba sendo raptada e envolvida em um terrível jogo de violência, exploração sexual e medo.</desc>
     <category lang="pt">Mistério, Thriller</category>
@@ -4144,17 +4144,17 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261021051750 -0300" stop="20261021065342 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261021051750 -0300" stop="20261021065318 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261021065342 -0300" stop="20261021073702 -0300" channel="fenix_plus">
+  <programme start="20261021065318 -0300" stop="20261021073638 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E7 - Haja O Que Houver</title>
     <desc lang="pt">Heartland é um drama familiar que segue as irmãs Amy e Lou Fleming e seu avô Jack Bartlett com os altos e baixos da vida em um rancho de cavalos. A mãe de Lou e Amy foi morta em um acidente de carro, em que sua filha mais nova, Amy, também estava. Amy e Lou tentam continuar a manter o sonho de sua mãe vivo, curar cavalos com problemas de adestramento.</desc>
     <category lang="pt">Família, Drama, Comédia</category>
@@ -4164,7 +4164,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261021073702 -0300" stop="20261021094547 -0300" channel="fenix_plus">
+  <programme start="20261021073638 -0300" stop="20261021094523 -0300" channel="fenix_plus">
     <title lang="pt">Duro de Matar 4.0</title>
     <desc lang="pt">Os Estados Unidos sofrem um novo ataque terrorista, desta vez através da informática. Um hacker consegue invadir a infra-estrutura computadorizada que controla as comunicações, transporte e energia do país, ameaçando causar um gigantesco blecaute. O autor do ataque planejou todos os passos envolvidos, mas não contava que John McClane, um policial da velha guarda, fosse chamado para confrontá-lo.</desc>
     <category lang="pt">Ação, Thriller</category>
@@ -4174,7 +4174,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261021094547 -0300" stop="20261021114140 -0300" channel="fenix_plus">
+  <programme start="20261021094523 -0300" stop="20261021114116 -0300" channel="fenix_plus">
     <title lang="pt">Pais e Filhas</title>
     <desc lang="pt">Nova York, 1988. Novelista mentalmente instável tenta criar sozinho a filha de cinco anos após a morte da esposa. Vinte anos depois, a garota, já adulta, cuida de crianças com problemas psicológicos e ainda tenta entender sua complicada infância.</desc>
     <category lang="pt">Drama</category>
@@ -4184,7 +4184,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261021114140 -0300" stop="20261021134046 -0300" channel="fenix_plus">
+  <programme start="20261021114116 -0300" stop="20261021134022 -0300" channel="fenix_plus">
     <title lang="pt">A Fantástica Fábrica de Chocolate</title>
     <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
     <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
@@ -4194,7 +4194,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261021134046 -0300" stop="20261021154125 -0300" channel="fenix_plus">
+  <programme start="20261021134022 -0300" stop="20261021154101 -0300" channel="fenix_plus">
     <title lang="pt">Fukushima: Ameaça Nuclear</title>
     <desc lang="pt">Quando a usina nuclear de Fukushima é atingida por um terremoto seguido de um tsunami, a ameaça de explosão é iminente. Mesmo com risco de contaminação, engenheiros arriscam tudo para evitar um desastre de proporções incalculáveis.</desc>
     <category lang="pt">História, Drama, Ação</category>
@@ -4204,7 +4204,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261021154125 -0300" stop="20261021160253 -0300" channel="fenix_plus">
+  <programme start="20261021154101 -0300" stop="20261021160229 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E9 - Charlie e a Visita do Pai</title>
     <desc lang="pt">Charlie recebe uma visita inesperada de seu pai hipercrítico e valentão. No grupo de terapia, Charlie tenta ajudar Lacey com raiva na estrada.</desc>
     <category lang="pt">Comédia</category>
@@ -4214,7 +4214,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261021160253 -0300" stop="20261021173147 -0300" channel="fenix_plus">
+  <programme start="20261021160229 -0300" stop="20261021173123 -0300" channel="fenix_plus">
     <title lang="pt">Sob o Domínio dos Robôs</title>
     <desc lang="pt">Sob o Domínio dos Robôs mostra uma Terra completamente dominada por robôs de uma galáxia distante. Os sobreviventes do nosso planeta vivem presos em suas casas e devem usar implantes eletrônicos. Mas o surgimento de um herói pode fazer com que a humanidade consiga voltar ao que era.</desc>
     <category lang="pt">Ficção científica, Aventura, Ação</category>
@@ -4224,7 +4224,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261021173147 -0300" stop="20261021190412 -0300" channel="fenix_plus">
+  <programme start="20261021173123 -0300" stop="20261021190348 -0300" channel="fenix_plus">
     <title lang="pt">A Mentira</title>
     <desc lang="pt">Estimulada pela popular melhor amiga a revelar detalhes de seu fim de semana entediante, Olive (Emma Stone), uma adolescente certinha, decide apimentar um pouco os detalhes contando uma pequena mentira sobre a perda de sua virgindade. Quando a bisbilhoteira da escola ouve a conversa e espalha para todo o campus, Olive fica famosa repentinamente, mas pelas razões erradas.</desc>
     <category lang="pt">Comédia</category>
@@ -4234,7 +4234,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261021190412 -0300" stop="20261021204138 -0300" channel="fenix_plus">
+  <programme start="20261021190348 -0300" stop="20261021204114 -0300" channel="fenix_plus">
     <title lang="pt">Apartamento 212 - A Infestação</title>
     <desc lang="pt">Jennifer Conrad é uma jovem que planeja fugir de um relacionamento abusivo e recomeçar sua vida na cidade grande. No seu novo apartamento, ela percebe uma intensa infecção em sua pele após as primeiras noites de sono. Mas, o que parecia ser apenas uma alergia, logo se revela como um grave caso de possessão corporal por alguma espécie desconhecida de força maligna.</desc>
     <category lang="pt">Terror</category>
@@ -4244,7 +4244,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261021204138 -0300" stop="20261021212250 -0300" channel="fenix_plus">
+  <programme start="20261021204114 -0300" stop="20261021212226 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E2 - 1:00 - 2:00</title>
     <desc lang="pt">Jack consegue um cartão eletrônico contendo informações sobre Palmer; Teri e o pai de Janet procuram uma garota desaparecida; Ira Gaines tenta obter a cédula de identidade (RG) de Belkins.</desc>
     <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
@@ -4254,7 +4254,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261021212250 -0300" stop="20261021214559 -0300" channel="fenix_plus">
+  <programme start="20261021212226 -0300" stop="20261021214535 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E18 - Alma Mater</title>
     <desc lang="pt">Deprimido por ter perdido a chance de entrar na universidade dos seus sonhos, Carlton recebe a visita do seu anjo da guarda.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -4264,7 +4264,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261021214559 -0300" stop="20261021230804 -0300" channel="fenix_plus">
+  <programme start="20261021214535 -0300" stop="20261021230740 -0300" channel="fenix_plus">
     <title lang="pt">Disparo para Matar</title>
     <desc lang="pt">Uma mulher misteriosa convence dois cowboys a ajudá-la em um esquema de vingança.</desc>
     <category lang="pt">Faroeste</category>
@@ -4274,7 +4274,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261021230804 -0300" stop="20261022003442 -0300" channel="fenix_plus">
+  <programme start="20261021230740 -0300" stop="20261022003418 -0300" channel="fenix_plus">
     <title lang="pt">3 Balas Para Ringo</title>
     <desc lang="pt">A vida de Ringo Carson não está nada fácil. Primeiro, ele tem uma briga com seu melhor amigo, Frank Sanders, depois de salvar Jane a garota que ele ama de sequestradores mexicanos. Frank vai para a Guerra. Ringo se reconcilia com sua mãe, que precisa de sua arma para proteger as suas terras da ganância do banqueiro Daniels. Então, Frank retorna da Guerra e enfrenta Ringo que fica cego devido a um golpe na cabeça. Ringo trama sua vingança: ele terá de salvar sua esposa das garras do seu velho amigo, resgatar seu filho e acabar com Daniels.</desc>
     <category lang="pt">Faroeste</category>
@@ -4604,17 +4604,17 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261023182156 -0300" stop="20261023195748 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261023182156 -0300" stop="20261023195724 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261023195748 -0300" stop="20261023202057 -0300" channel="fenix_plus">
+  <programme start="20261023195724 -0300" stop="20261023202033 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E18 - Alma Mater</title>
     <desc lang="pt">Deprimido por ter perdido a chance de entrar na universidade dos seus sonhos, Carlton recebe a visita do seu anjo da guarda.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -4624,7 +4624,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261023202057 -0300" stop="20261023204410 -0300" channel="fenix_plus">
+  <programme start="20261023202033 -0300" stop="20261023204346 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E22 - Nada Como o Show Business</title>
     <desc lang="pt">Will enfrenta seu amigo Keith em uma competição de comédia.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -4634,7 +4634,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261023204410 -0300" stop="20261023221247 -0300" channel="fenix_plus">
+  <programme start="20261023204346 -0300" stop="20261023221223 -0300" channel="fenix_plus">
     <title lang="pt">Gigolô por Acidente</title>
     <desc lang="pt">Deuce Bigalow (Rob Schneider) é um sujeito sem sorte que limpa aquários para viver. Quando um garoto de programa de primeira classe o contrata para cuidar de seu peixe doente e ele, por acidente, quebra seu aquário de 6.000 dólares, Deuce se vê obrigado a trabalhar no novo ramo para poder pagar o conserto.</desc>
     <category lang="pt">Comédia, Romance</category>
@@ -4644,7 +4644,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261023221247 -0300" stop="20261023223424 -0300" channel="fenix_plus">
+  <programme start="20261023221223 -0300" stop="20261023223400 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E11 - Tudo Pode Acontecer</title>
     <desc lang="pt">Michael começa a aproveitar a vida de maneira exagerada.</desc>
     <category lang="pt">Comédia, Família, Drama</category>
@@ -4654,7 +4654,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261023223424 -0300" stop="20261023231713 -0300" channel="fenix_plus">
+  <programme start="20261023223400 -0300" stop="20261023231649 -0300" channel="fenix_plus">
     <title lang="pt">Grey's Anatomy - T1E8 - Um Pedido de Ajuda</title>
     <desc lang="pt">Meredith fica desanimada com o que descobre sobre o passado de Derek.</desc>
     <category lang="pt">Drama</category>
@@ -4664,7 +4664,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261023231713 -0300" stop="20261024005024 -0300" channel="fenix_plus">
+  <programme start="20261023231649 -0300" stop="20261024005000 -0300" channel="fenix_plus">
     <title lang="pt">Escorregando Para a Glória</title>
     <desc lang="pt">Na patinação no gelo em duplas o sucesso depende de uma mistura perfeita de força e sofisticação, coragem e arte, músculos e refinamento. O campeonato mundial do esporte costumava ocorrer em um universo elegante, até a explosão da rivalidade entre o astro Chazz Michael Michaels (Will Ferrell) e do garoto prodígio Jimmy MacElroy (Jon Heder). Chad e Jimmy já se enfrentaram em campeonatos anteriores, mas a rivalidade faz com que briguem em plena pista de patinação, o que faz com que o mascote seja incendiado. Como resultado, ambos são expulsos do esporte. Três anos e meio depois, ambos ainda não se adequaram fora do esporte. É quando eles decidem se reunir para realizar algo inédito: ser a 1ª dupla de homens da história da patinação no gelo.</desc>
     <category lang="pt">Comédia</category>
@@ -5744,77 +5744,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261029082048 -0300" stop="20261029095640 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261029095640 -0300" stop="20261029101952 -0300" channel="fenix_plus">
-    <title lang="pt">Um Maluco no Pedaço - T3E23 - Lembranças do Passado</title>
-    <desc lang="pt">Phil e Vivian se preparam para renovar os votos de casamento, e as crianças relembram momentos divertidos do passado.</desc>
-    <category lang="pt">Comédia, Família</category>
-    <icon src="https://image.tmdb.org/t/p/w500/yMAtPSiyOQcgViMK1iGkhL2kOrF.jpg"/>
-    <date>1993</date>
-    <rating system="BR">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261029101952 -0300" stop="20261029110312 -0300" channel="fenix_plus">
-    <title lang="pt">Heartland - T1E7 - Haja O Que Houver</title>
-    <desc lang="pt">Heartland é um drama familiar que segue as irmãs Amy e Lou Fleming e seu avô Jack Bartlett com os altos e baixos da vida em um rancho de cavalos. A mãe de Lou e Amy foi morta em um acidente de carro, em que sua filha mais nova, Amy, também estava. Amy e Lou tentam continuar a manter o sonho de sua mãe vivo, curar cavalos com problemas de adestramento.</desc>
-    <category lang="pt">Família, Drama, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/4Fe8jYxHNQNH3XA2MAdKYG0Q3ue.jpg"/>
-    <date>2008</date>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261029110312 -0300" stop="20261029130634 -0300" channel="fenix_plus">
-    <title lang="pt">Duro de Matar 2</title>
-    <desc lang="pt">Terroristas assumem o controle do aeroporto de Washington, visando libertar um preso político que está sendo extraditado, e ameaçam destruir várias aeronaves se as exigências deles não forem cumpridas. Mas a esposa de John McClane, um detetive de Nova York, se encontra em um dos aviões, assim o marido resolve enfrentar a quadrilha.</desc>
-    <category lang="pt">Ação, Thriller</category>
-    <icon src="https://image.tmdb.org/t/p/w500/spP1XGrhqvS8eDQz0xGr5L0jGpH.jpg"/>
-    <date>1990</date>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261029130634 -0300" stop="20261029132925 -0300" channel="fenix_plus">
-    <title lang="pt">Um Maluco no Pedaço - T3E20 - Alarme Falso</title>
-    <desc lang="pt">Vivian finalmente entra em trabalho de parto, mas ninguém está em casa para levá-la ao hospital.</desc>
-    <category lang="pt">Comédia, Família</category>
-    <icon src="https://image.tmdb.org/t/p/w500/w3heUzNENLcKXPsrvd0WFI73A0e.jpg"/>
-    <date>1993</date>
-    <rating system="BR">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20261029132925 -0300" stop="20261029151817 -0300" channel="fenix_plus">
-    <title lang="pt">O Menino e a Guerra</title>
-    <desc lang="pt">Durante as grades da Segunda Guerra Mundial, Jo, um jovem pastor, juntamente com a ajuda da viúva Horcada, ajuda a contrabandear crianças judias através da fronteira do sul da França para a Espanha.</desc>
-    <category lang="pt">Drama, Guerra</category>
-    <icon src="https://image.tmdb.org/t/p/w500/3TPp3xrwRy4X2LspK1rz5o9Ra3m.jpg"/>
-    <date>2020</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261029151817 -0300" stop="20261029165604 -0300" channel="fenix_plus">
-    <title lang="pt">De Repente 30</title>
-    <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
-    <category lang="pt">Comédia, Fantasia, Romance</category>
-    <icon src="https://image.tmdb.org/t/p/w500/hZmL1NlCUb0GycCtAJKX1JaMjhx.jpg"/>
-    <date>2004</date>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261029165604 -0300" stop="20261029183132 -0300" channel="fenix_plus">
+  <programme start="20261029082048 -0300" stop="20261029095616 -0300" channel="fenix_plus">
     <title lang="pt">Enterrado Vivo</title>
     <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
     <category lang="pt">Thriller</category>
@@ -5824,7 +5754,77 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261029183132 -0300" stop="20261029195853 -0300" channel="fenix_plus">
+  <programme start="20261029095616 -0300" stop="20261029101928 -0300" channel="fenix_plus">
+    <title lang="pt">Um Maluco no Pedaço - T3E23 - Lembranças do Passado</title>
+    <desc lang="pt">Phil e Vivian se preparam para renovar os votos de casamento, e as crianças relembram momentos divertidos do passado.</desc>
+    <category lang="pt">Comédia, Família</category>
+    <icon src="https://image.tmdb.org/t/p/w500/yMAtPSiyOQcgViMK1iGkhL2kOrF.jpg"/>
+    <date>1993</date>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20261029101928 -0300" stop="20261029110248 -0300" channel="fenix_plus">
+    <title lang="pt">Heartland - T1E7 - Haja O Que Houver</title>
+    <desc lang="pt">Heartland é um drama familiar que segue as irmãs Amy e Lou Fleming e seu avô Jack Bartlett com os altos e baixos da vida em um rancho de cavalos. A mãe de Lou e Amy foi morta em um acidente de carro, em que sua filha mais nova, Amy, também estava. Amy e Lou tentam continuar a manter o sonho de sua mãe vivo, curar cavalos com problemas de adestramento.</desc>
+    <category lang="pt">Família, Drama, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4Fe8jYxHNQNH3XA2MAdKYG0Q3ue.jpg"/>
+    <date>2008</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261029110248 -0300" stop="20261029130610 -0300" channel="fenix_plus">
+    <title lang="pt">Duro de Matar 2</title>
+    <desc lang="pt">Terroristas assumem o controle do aeroporto de Washington, visando libertar um preso político que está sendo extraditado, e ameaçam destruir várias aeronaves se as exigências deles não forem cumpridas. Mas a esposa de John McClane, um detetive de Nova York, se encontra em um dos aviões, assim o marido resolve enfrentar a quadrilha.</desc>
+    <category lang="pt">Ação, Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/spP1XGrhqvS8eDQz0xGr5L0jGpH.jpg"/>
+    <date>1990</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261029130610 -0300" stop="20261029132901 -0300" channel="fenix_plus">
+    <title lang="pt">Um Maluco no Pedaço - T3E20 - Alarme Falso</title>
+    <desc lang="pt">Vivian finalmente entra em trabalho de parto, mas ninguém está em casa para levá-la ao hospital.</desc>
+    <category lang="pt">Comédia, Família</category>
+    <icon src="https://image.tmdb.org/t/p/w500/w3heUzNENLcKXPsrvd0WFI73A0e.jpg"/>
+    <date>1993</date>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20261029132901 -0300" stop="20261029151753 -0300" channel="fenix_plus">
+    <title lang="pt">O Menino e a Guerra</title>
+    <desc lang="pt">Durante as grades da Segunda Guerra Mundial, Jo, um jovem pastor, juntamente com a ajuda da viúva Horcada, ajuda a contrabandear crianças judias através da fronteira do sul da França para a Espanha.</desc>
+    <category lang="pt">Drama, Guerra</category>
+    <icon src="https://image.tmdb.org/t/p/w500/3TPp3xrwRy4X2LspK1rz5o9Ra3m.jpg"/>
+    <date>2020</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261029151753 -0300" stop="20261029165540 -0300" channel="fenix_plus">
+    <title lang="pt">De Repente 30</title>
+    <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
+    <category lang="pt">Comédia, Fantasia, Romance</category>
+    <icon src="https://image.tmdb.org/t/p/w500/hZmL1NlCUb0GycCtAJKX1JaMjhx.jpg"/>
+    <date>2004</date>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20261029165540 -0300" stop="20261029183108 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261029183108 -0300" stop="20261029195829 -0300" channel="fenix_plus">
     <title lang="pt">Espião por Acidente</title>
     <desc lang="pt">Jackie, é um atrapalhado vendedor de uma loja de roupas esportivas que leva uma vida sem grandes emoções. Mas, quando ele vê um roubo de banco acontecer na sua frente, imediatamente entra em ação distribuindo pancadas e golpes mortais por todos os lados. Como resultado de toda publicidade alcançada por seu heroísmo, desperta a atenção de um estranho advogado que revela sua verdadeira identidade. Agora, ele quer conhecer seu pai que jamais pensou existir... um dos mais notáveis e respeitados espiões do mundo. Para desvendar os mistérios de sua família, ele terá que se passar por espião, o que poderá lhe render uma boa herança mas que definitivamente o colocará em mais confusões.</desc>
     <category lang="pt">Ação, Comédia, Thriller</category>
@@ -5834,7 +5834,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261029195853 -0300" stop="20261029215759 -0300" channel="fenix_plus">
+  <programme start="20261029195829 -0300" stop="20261029215735 -0300" channel="fenix_plus">
     <title lang="pt">A Fantástica Fábrica de Chocolate</title>
     <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
     <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
@@ -5844,7 +5844,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261029215759 -0300" stop="20261029232653 -0300" channel="fenix_plus">
+  <programme start="20261029215735 -0300" stop="20261029232629 -0300" channel="fenix_plus">
     <title lang="pt">Sob o Domínio dos Robôs</title>
     <desc lang="pt">Sob o Domínio dos Robôs mostra uma Terra completamente dominada por robôs de uma galáxia distante. Os sobreviventes do nosso planeta vivem presos em suas casas e devem usar implantes eletrônicos. Mas o surgimento de um herói pode fazer com que a humanidade consiga voltar ao que era.</desc>
     <category lang="pt">Ficção científica, Aventura, Ação</category>
@@ -5854,7 +5854,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261029232653 -0300" stop="20261030010055 -0300" channel="fenix_plus">
+  <programme start="20261029232629 -0300" stop="20261030010031 -0300" channel="fenix_plus">
     <title lang="pt">Em Seus Passos, O Que Faria Jesus?</title>
     <desc lang="pt">Raymond, que antes fora de uma próspera cidade, torna-se uma sombra de seu passado quando um empresário oportunista planeja substituir a igreja local por um cassino, corrompendo o clima saudável da cidade. Enquanto os moradores lutam por respostas, um homem, (John Schneider) chega a cidade apresentando uma questão mais importante; O que faria Jesus?</desc>
     <category lang="pt">Família</category>
@@ -6544,17 +6544,17 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261102081601 -0300" stop="20261102095153 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261102081601 -0300" stop="20261102095129 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261102095153 -0300" stop="20261102114250 -0300" channel="fenix_plus">
+  <programme start="20261102095129 -0300" stop="20261102114226 -0300" channel="fenix_plus">
     <title lang="pt">A Família</title>
     <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
     <category lang="pt">Crime, Comédia, Ação</category>
@@ -6564,7 +6564,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261102114250 -0300" stop="20261102122523 -0300" channel="fenix_plus">
+  <programme start="20261102114226 -0300" stop="20261102122459 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E11 - Chuck Contra O Crown Victoria</title>
     <desc lang="pt">Ainda se recuperando depois se dar conta de que Sarah ainda sente algo por Bryce, Chuck tem que assumir um disfarce como o marido de Sarah em uma missão para acabar com um falsificador e iatista com conexões políticas.</desc>
     <category lang="pt">Action &amp; Adventure, Comédia, Drama</category>
@@ -6574,7 +6574,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261102122523 -0300" stop="20261102130805 -0300" channel="fenix_plus">
+  <programme start="20261102122459 -0300" stop="20261102130741 -0300" channel="fenix_plus">
     <title lang="pt">Grey's Anatomy - T1E7 - Botão de Autodestruição</title>
     <desc lang="pt">Derek e Meredith tentam ser discretos, depois de passarem a noite juntos na casa dela.</desc>
     <category lang="pt">Drama</category>
@@ -6584,7 +6584,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261102130805 -0300" stop="20261102151754 -0300" channel="fenix_plus">
+  <programme start="20261102130741 -0300" stop="20261102151730 -0300" channel="fenix_plus">
     <title lang="pt">Mar em Fúria</title>
     <desc lang="pt">Pessoas corajosas arriscam suas vidas colocando seus barcos de pesca e navios de resgate contra as forças da natureza. Seus piores temores se tornam realidade no Halloween de 1991, quando são confrontados pela maior tempestade da história.</desc>
     <category lang="pt">Drama, Aventura, Ação</category>
@@ -6594,7 +6594,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261102151754 -0300" stop="20261102160023 -0300" channel="fenix_plus">
+  <programme start="20261102151730 -0300" stop="20261102155959 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E1 - Piloto</title>
     <desc lang="pt">Enquanto recupera da morte dos seus pais, a jovem de 17 anos Elena interessa-se por um novo aluno, Stefan, mas este esconde um segredo sombrio.</desc>
     <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
@@ -6604,7 +6604,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261102160023 -0300" stop="20261102180345 -0300" channel="fenix_plus">
+  <programme start="20261102155959 -0300" stop="20261102180321 -0300" channel="fenix_plus">
     <title lang="pt">Duro de Matar 2</title>
     <desc lang="pt">Terroristas assumem o controle do aeroporto de Washington, visando libertar um preso político que está sendo extraditado, e ameaçam destruir várias aeronaves se as exigências deles não forem cumpridas. Mas a esposa de John McClane, um detetive de Nova York, se encontra em um dos aviões, assim o marido resolve enfrentar a quadrilha.</desc>
     <category lang="pt">Ação, Thriller</category>
@@ -6614,7 +6614,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261102180345 -0300" stop="20261102195237 -0300" channel="fenix_plus">
+  <programme start="20261102180321 -0300" stop="20261102195213 -0300" channel="fenix_plus">
     <title lang="pt">O Menino e a Guerra</title>
     <desc lang="pt">Durante as grades da Segunda Guerra Mundial, Jo, um jovem pastor, juntamente com a ajuda da viúva Horcada, ajuda a contrabandear crianças judias através da fronteira do sul da França para a Espanha.</desc>
     <category lang="pt">Drama, Guerra</category>
@@ -6624,7 +6624,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261102195237 -0300" stop="20261102214830 -0300" channel="fenix_plus">
+  <programme start="20261102195213 -0300" stop="20261102214806 -0300" channel="fenix_plus">
     <title lang="pt">Pais e Filhas</title>
     <desc lang="pt">Nova York, 1988. Novelista mentalmente instável tenta criar sozinho a filha de cinco anos após a morte da esposa. Vinte anos depois, a garota, já adulta, cuida de crianças com problemas psicológicos e ainda tenta entender sua complicada infância.</desc>
     <category lang="pt">Drama</category>
@@ -6634,7 +6634,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261102214830 -0300" stop="20261102223150 -0300" channel="fenix_plus">
+  <programme start="20261102214806 -0300" stop="20261102223126 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E7 - Haja O Que Houver</title>
     <desc lang="pt">Heartland é um drama familiar que segue as irmãs Amy e Lou Fleming e seu avô Jack Bartlett com os altos e baixos da vida em um rancho de cavalos. A mãe de Lou e Amy foi morta em um acidente de carro, em que sua filha mais nova, Amy, também estava. Amy e Lou tentam continuar a manter o sonho de sua mãe vivo, curar cavalos com problemas de adestramento.</desc>
     <category lang="pt">Família, Drama, Comédia</category>
@@ -6644,7 +6644,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261102223150 -0300" stop="20261103003229 -0300" channel="fenix_plus">
+  <programme start="20261102223126 -0300" stop="20261103003205 -0300" channel="fenix_plus">
     <title lang="pt">Fukushima: Ameaça Nuclear</title>
     <desc lang="pt">Quando a usina nuclear de Fukushima é atingida por um terremoto seguido de um tsunami, a ameaça de explosão é iminente. Mesmo com risco de contaminação, engenheiros arriscam tudo para evitar um desastre de proporções incalculáveis.</desc>
     <category lang="pt">História, Drama, Ação</category>
@@ -8104,17 +8104,17 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261110051842 -0300" stop="20261110065434 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261110051842 -0300" stop="20261110065410 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261110065434 -0300" stop="20261110085100 -0300" channel="fenix_plus">
+  <programme start="20261110065410 -0300" stop="20261110085036 -0300" channel="fenix_plus">
     <title lang="pt">Agente Infiltrada</title>
     <desc lang="pt">Rachel é uma espiã da Mossad, Serviço de Inteligência Nacional de Israel. Após o funeral de seu pai, ela desaparece misteriosamente. A única pista sobre o seu paradeiro é uma ligação criptografada feita ao seu antigo mensageiro na Alemanha, Thomas. Ele é convocado para retornar à Israel a fim de descobrir a localização da ex-parceira, ao mesmo tempo em que precisa frear o programa nuclear do iraniano.</desc>
     <category lang="pt">Drama, Thriller</category>
@@ -8124,7 +8124,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110085100 -0300" stop="20261110103352 -0300" channel="fenix_plus">
+  <programme start="20261110085036 -0300" stop="20261110103328 -0300" channel="fenix_plus">
     <title lang="pt">Nova York, Eu Te Amo</title>
     <desc lang="pt">Onze curtas de diferentes diretores mostram que, em Nova York, o amor está em toda parte. As histórias se passam em bairros específicos da cidade, tecendo uma colcha de retalhos do que é a vida na metrópole mais emblemática de nosso tempo.</desc>
     <category lang="pt">Comédia, Drama, Romance</category>
@@ -8134,7 +8134,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110103352 -0300" stop="20261110122449 -0300" channel="fenix_plus">
+  <programme start="20261110103328 -0300" stop="20261110122425 -0300" channel="fenix_plus">
     <title lang="pt">A Família</title>
     <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
     <category lang="pt">Crime, Comédia, Ação</category>
@@ -8144,7 +8144,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261110122449 -0300" stop="20261110130742 -0300" channel="fenix_plus">
+  <programme start="20261110122425 -0300" stop="20261110130718 -0300" channel="fenix_plus">
     <title lang="pt">Grey's Anatomy - T1E9 - Quem Está Interessado em Quem?</title>
     <desc lang="pt">Uma DST se espalha por vários membros da equipe do hospital.</desc>
     <category lang="pt">Drama</category>
@@ -8154,7 +8154,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261110130742 -0300" stop="20261110135023 -0300" channel="fenix_plus">
+  <programme start="20261110130718 -0300" stop="20261110134959 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E24 - 23:00 - 00:00</title>
     <desc lang="pt">Sherry Palmer fica angustiada com o papel que ela tem que fazer frente à mídia para conseguir mais tempo para Jack. Quando Jack chega próximo ao local onde os Drazen estão, uma batalha se inicia. Enquanto isso, uma ligação telefônica dá a Jack uma informação que irá ajudá-lo a identificar o segundo traidor da UCT, e ele avisa Nina sobre sua descoberta. E enquanto a chance dos Drazen escaparem fica cada vez menor, André e Victor entram em desacordo sobre se devem ou não seguir uma parte de seus planos.</desc>
     <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
@@ -8164,7 +8164,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261110135023 -0300" stop="20261110141151 -0300" channel="fenix_plus">
+  <programme start="20261110134959 -0300" stop="20261110141127 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E9 - Charlie e a Visita do Pai</title>
     <desc lang="pt">Charlie recebe uma visita inesperada de seu pai hipercrítico e valentão. No grupo de terapia, Charlie tenta ajudar Lacey com raiva na estrada.</desc>
     <category lang="pt">Comédia</category>
@@ -8174,7 +8174,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261110141151 -0300" stop="20261110143327 -0300" channel="fenix_plus">
+  <programme start="20261110141127 -0300" stop="20261110143303 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E8 - Ele Disse, Ela Disse</title>
     <desc lang="pt">Michael e Janet não sabem escutar um ao outro.</desc>
     <category lang="pt">Comédia, Família, Drama</category>
@@ -8184,7 +8184,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261110143327 -0300" stop="20261110161327 -0300" channel="fenix_plus">
+  <programme start="20261110143303 -0300" stop="20261110161303 -0300" channel="fenix_plus">
     <title lang="pt">15 Forcas para um Assassino</title>
     <desc lang="pt">Acusados de um crime hediondo que não cometeram, os membros de duas gangues rivais, perseguidos por uma multidão sanguinária, refugiam-se em um forte abandonado, levando dois reféns com eles.</desc>
     <category lang="pt">Faroeste</category>
@@ -8194,7 +8194,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110161327 -0300" stop="20261110165600 -0300" channel="fenix_plus">
+  <programme start="20261110161303 -0300" stop="20261110165536 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E13 - Chuck Contra O Marlin</title>
     <desc lang="pt">Capitão Incrível (estrela convidada recorrente RYAN McPARTLIN) pede a Chuck a mão de Ellie em casamento, e então insiste para que Chuck guarde o anel até o pedido de casamento ser planejado.</desc>
     <category lang="pt">Action &amp; Adventure, Comédia, Drama</category>
@@ -8204,7 +8204,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261110165600 -0300" stop="20261110171718 -0300" channel="fenix_plus">
+  <programme start="20261110165536 -0300" stop="20261110171654 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E10 - Charlie Fica Romântico</title>
     <desc lang="pt">Depois de uma noite de sexo, Charlie inocentemente convida Kate para ir ao cinema. Ela interpreta o convite como um gesto romântico e corre para arrumar um encontro para ele com outra pessoa no dia seguinte, forçando os dois a analisarem a natureza de seu estranho relacionamento. Sam beija uma garota na escola e uma foto das duas cai no Facebook.</desc>
     <category lang="pt">Comédia</category>
@@ -8214,7 +8214,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261110171718 -0300" stop="20261110185505 -0300" channel="fenix_plus">
+  <programme start="20261110171654 -0300" stop="20261110185441 -0300" channel="fenix_plus">
     <title lang="pt">De Repente 30</title>
     <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
     <category lang="pt">Comédia, Fantasia, Romance</category>
@@ -8224,7 +8224,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261110185505 -0300" stop="20261110202716 -0300" channel="fenix_plus">
+  <programme start="20261110185441 -0300" stop="20261110202652 -0300" channel="fenix_plus">
     <title lang="pt">10.000 Dólares para Django</title>
     <desc lang="pt">Um famoso caçador de recompensas Django (Gary Hudson) recebe uma proposta de um rico fazendeiro para capturar Manoel, um perigoso pistoleiro que havia lhe roubado todo seu dinheiro e sequestrado sua filha. Mas o preço acertado com o fazendeiro e a recompensa pela captura do bandido ainda não são suficientes para pagar o trabalho de Django, que decide esperar o valor da recompensa aumentar. O que eles não faziam idéia é que as consequencias pela demora na captura de Manoel podiam causar em suas vidas. Um filme repleto de aventura e perseguição.</desc>
     <category lang="pt">Faroeste</category>
@@ -8234,7 +8234,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110202716 -0300" stop="20261110220356 -0300" channel="fenix_plus">
+  <programme start="20261110202652 -0300" stop="20261110220332 -0300" channel="fenix_plus">
     <title lang="pt">Ligados Pelo Amor</title>
     <desc lang="pt">Esta comédia dramática apresenta um escritor de sucesso que se torna cada vez mais obcecado por sua ex-esposa, a ponto de criar problemas em sua nova família.</desc>
     <category lang="pt">Drama, Comédia, Romance</category>
@@ -8244,7 +8244,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261110220356 -0300" stop="20261110222533 -0300" channel="fenix_plus">
+  <programme start="20261110220332 -0300" stop="20261110222509 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E9 - Terminando e Quebrando</title>
     <desc lang="pt">Michael Jr. continua sendo amigo do ex de Claire.</desc>
     <category lang="pt">Comédia, Família, Drama</category>
@@ -8254,7 +8254,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261110222533 -0300" stop="20261110235935 -0300" channel="fenix_plus">
+  <programme start="20261110222509 -0300" stop="20261110235911 -0300" channel="fenix_plus">
     <title lang="pt">Em Seus Passos, O Que Faria Jesus?</title>
     <desc lang="pt">Raymond, que antes fora de uma próspera cidade, torna-se uma sombra de seu passado quando um empresário oportunista planeja substituir a igreja local por um cassino, corrompendo o clima saudável da cidade. Enquanto os moradores lutam por respostas, um homem, (John Schneider) chega a cidade apresentando uma questão mais importante; O que faria Jesus?</desc>
     <category lang="pt">Família</category>
@@ -9014,17 +9014,17 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261114170322 -0300" stop="20261114183914 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261114170322 -0300" stop="20261114183850 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261114183914 -0300" stop="20261114190227 -0300" channel="fenix_plus">
+  <programme start="20261114183850 -0300" stop="20261114190203 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E22 - Nada Como o Show Business</title>
     <desc lang="pt">Will enfrenta seu amigo Keith em uma competição de comédia.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -9034,7 +9034,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261114190227 -0300" stop="20261114203609 -0300" channel="fenix_plus">
+  <programme start="20261114190203 -0300" stop="20261114203545 -0300" channel="fenix_plus">
     <title lang="pt">127 Horas</title>
     <desc lang="pt">Ao explorar um cânion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas opções, as quais o levam a uma situação angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civilização.</desc>
     <category lang="pt">Aventura, Drama, Thriller</category>
@@ -9044,7 +9044,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261114203609 -0300" stop="20261114223052 -0300" channel="fenix_plus">
+  <programme start="20261114203545 -0300" stop="20261114223028 -0300" channel="fenix_plus">
     <title lang="pt">Eu, Robô</title>
     <desc lang="pt">Em 2035, é comum robôs serem usados como empregados e assistentes dos humanos. Para manter a ordem , esses robôs possuem um código de programação que impede a violência contra humanos, a Lei dos Robóticos. Quando Dr. Miles aparece morto e o principal suspeito é justamente um robô, acredita-se na possibilidade de que os robôs tenham encontrado um meio de desativar a Lei dos Robóticos.</desc>
     <category lang="pt">Ação, Ficção científica</category>
@@ -9054,7 +9054,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261114223052 -0300" stop="20261114231319 -0300" channel="fenix_plus">
+  <programme start="20261114223028 -0300" stop="20261114231255 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E21 - Isobel</title>
     <desc lang="pt">Isobel retorna à cidade e atordoa Alaric, com sua atitude. E ela exige que ele marque um encontro com Elena. Isobel recusa a responder a maioria das perguntas de Elena.</desc>
     <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
@@ -9064,7 +9064,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261114231319 -0300" stop="20261115004721 -0300" channel="fenix_plus">
+  <programme start="20261114231255 -0300" stop="20261115004657 -0300" channel="fenix_plus">
     <title lang="pt">Em Seus Passos, O Que Faria Jesus?</title>
     <desc lang="pt">Raymond, que antes fora de uma próspera cidade, torna-se uma sombra de seu passado quando um empresário oportunista planeja substituir a igreja local por um cassino, corrompendo o clima saudável da cidade. Enquanto os moradores lutam por respostas, um homem, (John Schneider) chega a cidade apresentando uma questão mais importante; O que faria Jesus?</desc>
     <category lang="pt">Família</category>
@@ -9984,17 +9984,17 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261119133804 -0300" stop="20261119151356 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261119133804 -0300" stop="20261119151332 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261119151356 -0300" stop="20261119155629 -0300" channel="fenix_plus">
+  <programme start="20261119151332 -0300" stop="20261119155605 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E13 - Chuck Contra O Marlin</title>
     <desc lang="pt">Capitão Incrível (estrela convidada recorrente RYAN McPARTLIN) pede a Chuck a mão de Ellie em casamento, e então insiste para que Chuck guarde o anel até o pedido de casamento ser planejado.</desc>
     <category lang="pt">Action &amp; Adventure, Comédia, Drama</category>
@@ -10004,7 +10004,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261119155629 -0300" stop="20261119161806 -0300" channel="fenix_plus">
+  <programme start="20261119155605 -0300" stop="20261119161742 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E1 - Piloto</title>
     <desc lang="pt">Jay decide usar seu diploma da universidade e se inserir no mercado de trabalho e preocupa Mike.</desc>
     <category lang="pt">Comédia, Família, Drama</category>
@@ -10014,7 +10014,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261119161806 -0300" stop="20261119170037 -0300" channel="fenix_plus">
+  <programme start="20261119161742 -0300" stop="20261119170013 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E3 - 2:00 - 3:00</title>
     <desc lang="pt">Jack descobre que a senha do cartão está criptografada no computador de Nina; Gaines obtém de Mandy e Bridget a cédula de identidade (RG) de Belkins; Kimberly e Janet fogem de seus capturadores.</desc>
     <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
@@ -10024,7 +10024,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261119170037 -0300" stop="20261119190922 -0300" channel="fenix_plus">
+  <programme start="20261119170013 -0300" stop="20261119190858 -0300" channel="fenix_plus">
     <title lang="pt">Duro de Matar 4.0</title>
     <desc lang="pt">Os Estados Unidos sofrem um novo ataque terrorista, desta vez através da informática. Um hacker consegue invadir a infra-estrutura computadorizada que controla as comunicações, transporte e energia do país, ameaçando causar um gigantesco blecaute. O autor do ataque planejou todos os passos envolvidos, mas não contava que John McClane, um policial da velha guarda, fosse chamado para confrontá-lo.</desc>
     <category lang="pt">Ação, Thriller</category>
@@ -10034,7 +10034,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261119190922 -0300" stop="20261119205814 -0300" channel="fenix_plus">
+  <programme start="20261119190858 -0300" stop="20261119205750 -0300" channel="fenix_plus">
     <title lang="pt">O Menino e a Guerra</title>
     <desc lang="pt">Durante as grades da Segunda Guerra Mundial, Jo, um jovem pastor, juntamente com a ajuda da viúva Horcada, ajuda a contrabandear crianças judias através da fronteira do sul da França para a Espanha.</desc>
     <category lang="pt">Drama, Guerra</category>
@@ -10044,7 +10044,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261119205814 -0300" stop="20261119214011 -0300" channel="fenix_plus">
+  <programme start="20261119205750 -0300" stop="20261119213947 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E4 - 3:00 - 4:00</title>
     <desc lang="pt">A suspeita de Jack de que alguém dentro da agência está envolvido na tentativa de assassinato de David Palmer, acaba causando tensão entre um de seus mais próximos colaboradores. Jamey está próxima de conseguir uma pista que poderá colocar Jack novamente em campo, onde ele conhece uma prestativa policial que sabe de muita coisa. Mas os esforços da agência para descobrir algo sobre o caso Palmer enfrentam alguns empecilhos com o retorno de George Mason, que tenta brincar com as emoções de Nina, enquanto tenta descobrir onde Jack está. A luta de Kimberly e Janet pela sua liberdade toma um rumo trágico, enquanto Teri e York não tem tanta sorte quando eles são parados por um policial por excederem a velocidade. Além isso, David Palmer finalmente descobre que alguém está tentando matá-lo, a apenas poucas horas do dia das eleições primárias para presidente.</desc>
     <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
@@ -10054,7 +10054,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261119214011 -0300" stop="20261120000112 -0300" channel="fenix_plus">
+  <programme start="20261119213947 -0300" stop="20261120000048 -0300" channel="fenix_plus">
     <title lang="pt">A Face Oculta</title>
     <desc lang="pt">Em fuga após o roubo de um banco no México, um dos assaltantes, Dad Longwort, vê a chance de ficar com o ouro roubado e abandonar seu cúmplice, Rio, para ser capturado. Após alguns anos, Rio escapa da prisão e começa a caçar seu ex-amigo, para se vingar. Dad agora se tornou um respeitável xerife na Califórnia, que teme o retorno de Rio.</desc>
     <category lang="pt">Faroeste</category>
@@ -10844,17 +10844,17 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261123131501 -0300" stop="20261123145053 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261123131501 -0300" stop="20261123145029 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261123145053 -0300" stop="20261123163118 -0300" channel="fenix_plus">
+  <programme start="20261123145029 -0300" stop="20261123163054 -0300" channel="fenix_plus">
     <title lang="pt">Corrida Mortal 2</title>
     <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
     <category lang="pt">Ação, Thriller, Ficção científica</category>
@@ -10864,7 +10864,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20261123163118 -0300" stop="20261123183055 -0300" channel="fenix_plus">
+  <programme start="20261123163054 -0300" stop="20261123183031 -0300" channel="fenix_plus">
     <title lang="pt">Efeito Borboleta</title>
     <desc lang="pt">Evan é um jovem que luta para esquecer fatos de sua infância. Para isso, ele decide realizar uma regressão onde volta também fisicamente ao seu corpo de criança, tendo condições de alterar seu próprio passado. Porém, ao tentar consertar seus antigos problemas, ele acaba criando novos, já que toda mudança que realiza gera consequências em seu futuro.</desc>
     <category lang="pt">Ficção científica, Thriller</category>
@@ -10874,7 +10874,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261123183055 -0300" stop="20261123202648 -0300" channel="fenix_plus">
+  <programme start="20261123183031 -0300" stop="20261123202624 -0300" channel="fenix_plus">
     <title lang="pt">Pais e Filhas</title>
     <desc lang="pt">Nova York, 1988. Novelista mentalmente instável tenta criar sozinho a filha de cinco anos após a morte da esposa. Vinte anos depois, a garota, já adulta, cuida de crianças com problemas psicológicos e ainda tenta entender sua complicada infância.</desc>
     <category lang="pt">Drama</category>
@@ -10884,7 +10884,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261123202648 -0300" stop="20261123222727 -0300" channel="fenix_plus">
+  <programme start="20261123202624 -0300" stop="20261123222703 -0300" channel="fenix_plus">
     <title lang="pt">Fukushima: Ameaça Nuclear</title>
     <desc lang="pt">Quando a usina nuclear de Fukushima é atingida por um terremoto seguido de um tsunami, a ameaça de explosão é iminente. Mesmo com risco de contaminação, engenheiros arriscam tudo para evitar um desastre de proporções incalculáveis.</desc>
     <category lang="pt">História, Drama, Ação</category>
@@ -10894,7 +10894,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261123222727 -0300" stop="20261124001208 -0300" channel="fenix_plus">
+  <programme start="20261123222703 -0300" stop="20261124001144 -0300" channel="fenix_plus">
     <title lang="pt">O 3º Andar: Terror na Rua Malasaña</title>
     <desc lang="pt">Bairro Malasaña, Madri, Espanha, 1976. Enquanto a agitação política assola as ruas de todo o país, a família Olmedo chega à cidade grande e se instala em seu novo apartamento. Eles logo descobrem que não são os únicos que perambulam por seus corredores.</desc>
     <category lang="pt">Drama, Terror</category>
@@ -11734,17 +11734,17 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261128030904 -0300" stop="20261128044456 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261128030904 -0300" stop="20261128044432 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261128044456 -0300" stop="20261128052709 -0300" channel="fenix_plus">
+  <programme start="20261128044432 -0300" stop="20261128052645 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E19 - Senhorita Mystic Falls</title>
     <desc lang="pt">No dia da Festa de Gala dos Fundadores, Elena e Caroline competem pelo titulo de “Senhorita Mystic Falls” contra outras garotas, incluindo Tina Fell e Amber Bradley.</desc>
     <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
@@ -11754,7 +11754,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261128052709 -0300" stop="20261128055018 -0300" channel="fenix_plus">
+  <programme start="20261128052645 -0300" stop="20261128054954 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E18 - Alma Mater</title>
     <desc lang="pt">Deprimido por ter perdido a chance de entrar na universidade dos seus sonhos, Carlton recebe a visita do seu anjo da guarda.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -11764,7 +11764,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261128055018 -0300" stop="20261128063245 -0300" channel="fenix_plus">
+  <programme start="20261128054954 -0300" stop="20261128063221 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E21 - Isobel</title>
     <desc lang="pt">Isobel retorna à cidade e atordoa Alaric, com sua atitude. E ela exige que ele marque um encontro com Elena. Isobel recusa a responder a maioria das perguntas de Elena.</desc>
     <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
@@ -11774,7 +11774,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261128063245 -0300" stop="20261128065403 -0300" channel="fenix_plus">
+  <programme start="20261128063221 -0300" stop="20261128065339 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E10 - Charlie Fica Romântico</title>
     <desc lang="pt">Depois de uma noite de sexo, Charlie inocentemente convida Kate para ir ao cinema. Ela interpreta o convite como um gesto romântico e corre para arrumar um encontro para ele com outra pessoa no dia seguinte, forçando os dois a analisarem a natureza de seu estranho relacionamento. Sam beija uma garota na escola e uma foto das duas cai no Facebook.</desc>
     <category lang="pt">Comédia</category>
@@ -11784,7 +11784,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261128065403 -0300" stop="20261128071715 -0300" channel="fenix_plus">
+  <programme start="20261128065339 -0300" stop="20261128071651 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E23 - Lembranças do Passado</title>
     <desc lang="pt">Phil e Vivian se preparam para renovar os votos de casamento, e as crianças relembram momentos divertidos do passado.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -11794,7 +11794,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261128071715 -0300" stop="20261128073843 -0300" channel="fenix_plus">
+  <programme start="20261128071651 -0300" stop="20261128073819 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E9 - Charlie e a Visita do Pai</title>
     <desc lang="pt">Charlie recebe uma visita inesperada de seu pai hipercrítico e valentão. No grupo de terapia, Charlie tenta ajudar Lacey com raiva na estrada.</desc>
     <category lang="pt">Comédia</category>
@@ -11804,7 +11804,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261128073843 -0300" stop="20261128080156 -0300" channel="fenix_plus">
+  <programme start="20261128073819 -0300" stop="20261128080132 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E22 - Nada Como o Show Business</title>
     <desc lang="pt">Will enfrenta seu amigo Keith em uma competição de comédia.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -11814,7 +11814,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261128080156 -0300" stop="20261128095639 -0300" channel="fenix_plus">
+  <programme start="20261128080132 -0300" stop="20261128095615 -0300" channel="fenix_plus">
     <title lang="pt">Eu, Robô</title>
     <desc lang="pt">Em 2035, é comum robôs serem usados como empregados e assistentes dos humanos. Para manter a ordem , esses robôs possuem um código de programação que impede a violência contra humanos, a Lei dos Robóticos. Quando Dr. Miles aparece morto e o principal suspeito é justamente um robô, acredita-se na possibilidade de que os robôs tenham encontrado um meio de desativar a Lei dos Robóticos.</desc>
     <category lang="pt">Ação, Ficção científica</category>
@@ -11824,7 +11824,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261128095639 -0300" stop="20261128120849 -0300" channel="fenix_plus">
+  <programme start="20261128095615 -0300" stop="20261128120825 -0300" channel="fenix_plus">
     <title lang="pt">Duro de Matar</title>
     <desc lang="pt">O policial de Nova York John McClane está visitando sua família no Natal. Ele participa de uma confraternização de fim de ano na sede da empresa japonesa em que a esposa trabalha. A festa é interrompida por terroristas que invadem o edifício de luxo. McClane não demora a perceber que não há ninguém para salvá-los, a não ser ele próprio.</desc>
     <category lang="pt">Ação, Thriller</category>
@@ -11834,7 +11834,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261128120849 -0300" stop="20261128140442 -0300" channel="fenix_plus">
+  <programme start="20261128120825 -0300" stop="20261128140418 -0300" channel="fenix_plus">
     <title lang="pt">Pais e Filhas</title>
     <desc lang="pt">Nova York, 1988. Novelista mentalmente instável tenta criar sozinho a filha de cinco anos após a morte da esposa. Vinte anos depois, a garota, já adulta, cuida de crianças com problemas psicológicos e ainda tenta entender sua complicada infância.</desc>
     <category lang="pt">Drama</category>
@@ -11844,7 +11844,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261128140442 -0300" stop="20261128153120 -0300" channel="fenix_plus">
+  <programme start="20261128140418 -0300" stop="20261128153056 -0300" channel="fenix_plus">
     <title lang="pt">3 Balas Para Ringo</title>
     <desc lang="pt">A vida de Ringo Carson não está nada fácil. Primeiro, ele tem uma briga com seu melhor amigo, Frank Sanders, depois de salvar Jane a garota que ele ama de sequestradores mexicanos. Frank vai para a Guerra. Ringo se reconcilia com sua mãe, que precisa de sua arma para proteger as suas terras da ganância do banqueiro Daniels. Então, Frank retorna da Guerra e enfrenta Ringo que fica cego devido a um golpe na cabeça. Ringo trama sua vingança: ele terá de salvar sua esposa das garras do seu velho amigo, resgatar seu filho e acabar com Daniels.</desc>
     <category lang="pt">Faroeste</category>
@@ -11854,7 +11854,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261128153120 -0300" stop="20261128174236 -0300" channel="fenix_plus">
+  <programme start="20261128153056 -0300" stop="20261128174212 -0300" channel="fenix_plus">
     <title lang="pt">Erin Brockovich: Uma Mulher de Talento</title>
     <desc lang="pt">Uma mulher de verdade. Uma história real. Uma vitória de fato. Julia Roberts estrela como Erin Brockovich, uma decidida e jovem mãe que luta por justiça de todas as maneiras que conhece. Desesperada por um trabalho que sustente suas três crianças, ela convence o advogado Ed Masry a contratá-la e descobre espontaneamente um caso legal contra uma corporação gigante. Agora, Erin está determinada a encarar uma luta contra um poderoso adversário que nenhuma firma de advocacia havia ousado antes. E, diferente do patrão, Erin nunca espera um "não" como resposta. Assim os dois começam uma luta difícil e hilariante que irá pôr uma cidadezinha a seus pés e uma grande companhia de joelhos.</desc>
     <category lang="pt">Drama</category>
@@ -11864,7 +11864,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261128174236 -0300" stop="20261128192435 -0300" channel="fenix_plus">
+  <programme start="20261128174212 -0300" stop="20261128192411 -0300" channel="fenix_plus">
     <title lang="pt">Segunda Chance</title>
     <desc lang="pt">O policial Andreas (Nikolaj Coster-Waldau) leva uma vida tranquila com a sua esposa. Um dia, é acionado para intervir em uma briga doméstica comum, de um casal que tem um histórico de violência e de uso de drogas. Na casa do casal, ele descobre um bebê preso no closet . Andreas fica indignado com o tratamento dado à criança, mas as leis não permitem que a família perda a guarda do filho. Cada vez mais obcecado pelo caso, ele decide sequestrar o bebê por conta própria, levando-o para a sua casa. Começam então as investigações sobre o paradeiro do pequeno desaparecido.</desc>
     <category lang="pt">Thriller, Drama</category>
@@ -11874,7 +11874,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261128192435 -0300" stop="20261128212142 -0300" channel="fenix_plus">
+  <programme start="20261128192411 -0300" stop="20261128212118 -0300" channel="fenix_plus">
     <title lang="pt">Encontro Explosivo</title>
     <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
     <category lang="pt">Ação, Comédia</category>
@@ -11884,7 +11884,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261128212142 -0300" stop="20261128225805 -0300" channel="fenix_plus">
+  <programme start="20261128212118 -0300" stop="20261128225741 -0300" channel="fenix_plus">
     <title lang="pt">A Maldição da Floresta</title>
     <desc lang="pt">O longa conta a história de uma família inglesa que vai morar em uma parte isolada da Irlanda. O intuito do pai é estudar a floresta para futuras construções. Mas sua ação acaba perturbando seres demoníacos que vivem no local e começam uma série de ataques contra a família.</desc>
     <category lang="pt">Terror, Fantasia</category>
@@ -11894,7 +11894,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261128225805 -0300" stop="20261128234032 -0300" channel="fenix_plus">
+  <programme start="20261128225741 -0300" stop="20261128234008 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E20 - Irmãos de Sangue</title>
     <desc lang="pt">Stefan se esforça para chegar a um acordo com seu passado, ele e Damon revelarão partes de sua história a Elena, até que ela finalmente descobre a verdade sobre como eles se tornaram vampiros.</desc>
     <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
@@ -11904,7 +11904,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261128234032 -0300" stop="20261129002226 -0300" channel="fenix_plus">
+  <programme start="20261128234008 -0300" stop="20261129002202 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E5 - 4:00 - 5:00</title>
     <desc lang="pt">Logo após o tiroteio, Jack vai até o distrito policial tentar encontrar  alguma informação significativa de Greg Penicoff, mas Mason interfere em  sua investigação antes que ele possa descobrir algo. Enquanto York  encontra sua filha, Kimberly é entregue a Gaines e Kim conhece o chefe  dos sequestradores das garotas. Palmer marca um encontro com a repórter  Maureen Kingsley, na tentativa de descobrir quem são suas fontes.</desc>
     <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
@@ -12574,17 +12574,17 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261202023310 -0300" stop="20261202040902 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261202023310 -0300" stop="20261202040838 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261202040902 -0300" stop="20261202045129 -0300" channel="fenix_plus">
+  <programme start="20261202040838 -0300" stop="20261202045105 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E20 - Irmãos de Sangue</title>
     <desc lang="pt">Stefan se esforça para chegar a um acordo com seu passado, ele e Damon revelarão partes de sua história a Elena, até que ela finalmente descobre a verdade sobre como eles se tornaram vampiros.</desc>
     <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
@@ -12594,7 +12594,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261202045129 -0300" stop="20261202051254 -0300" channel="fenix_plus">
+  <programme start="20261202045105 -0300" stop="20261202051230 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E7 - Charlie e o Paciente Saído da Prisão</title>
     <desc lang="pt">Charlie e sua ex, Jennifer, estão tendo um problema sobre como Charlie ainda tenta administrar sua vida quando Cleo - uma das pacientes de Charlie de seu grupo de terapia de raiva na prisão - aparece em sua porta, recém-saída em liberdade condicional. Jennifer decide se vingar de Charlie namorando o ex-presidiário.</desc>
     <category lang="pt">Comédia</category>
@@ -12604,7 +12604,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261202051254 -0300" stop="20261202070146 -0300" channel="fenix_plus">
+  <programme start="20261202051230 -0300" stop="20261202070122 -0300" channel="fenix_plus">
     <title lang="pt">O Menino e a Guerra</title>
     <desc lang="pt">Durante as grades da Segunda Guerra Mundial, Jo, um jovem pastor, juntamente com a ajuda da viúva Horcada, ajuda a contrabandear crianças judias através da fronteira do sul da França para a Espanha.</desc>
     <category lang="pt">Drama, Guerra</category>
@@ -12614,7 +12614,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261202070146 -0300" stop="20261202083140 -0300" channel="fenix_plus">
+  <programme start="20261202070122 -0300" stop="20261202083116 -0300" channel="fenix_plus">
     <title lang="pt">O Solteirão</title>
     <desc lang="pt">Uma série de más decisões acaba com os negócios do revendedor de carros Ben Kalmen. Seu lado mulherengo lhe custa o casamento com Nancy e ele tem que se mudar de uma casa grande para um pequeno apartamento. Mesmo a atual namorada, Jordan, sabe que Ben está longe de ser perfeito.</desc>
     <category lang="pt">Comédia, Drama, Romance</category>
@@ -12624,7 +12624,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261202083140 -0300" stop="20261202104129 -0300" channel="fenix_plus">
+  <programme start="20261202083116 -0300" stop="20261202104105 -0300" channel="fenix_plus">
     <title lang="pt">Mar em Fúria</title>
     <desc lang="pt">Pessoas corajosas arriscam suas vidas colocando seus barcos de pesca e navios de resgate contra as forças da natureza. Seus piores temores se tornam realidade no Halloween de 1991, quando são confrontados pela maior tempestade da história.</desc>
     <category lang="pt">Drama, Aventura, Ação</category>
@@ -12634,7 +12634,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261202104129 -0300" stop="20261202120855 -0300" channel="fenix_plus">
+  <programme start="20261202104105 -0300" stop="20261202120831 -0300" channel="fenix_plus">
     <title lang="pt">Uma Aventura e Tanto</title>
     <desc lang="pt">A história do cão vira-lata Pluto, que aparece do nada e afeta a família Davis, que está lutando de muitas maneiras. Em pouco tempo, Pluto, o cão-maravilha consegue salvar uma criança, trazer conforto e companheirismo a um garoto doente de 9 anos, ajudar a restaurar um casamento e reparar um relacionamento desgastado de pai e filho. Pluto não é apenas um cão de guarda - ele é um anjo da guarda.</desc>
     <category lang="pt">Drama, Família</category>
@@ -12644,7 +12644,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261202120855 -0300" stop="20261202133407 -0300" channel="fenix_plus">
+  <programme start="20261202120831 -0300" stop="20261202133343 -0300" channel="fenix_plus">
     <title lang="pt">Naruto Shippuden O Filme: A Torre Perdida</title>
     <desc lang="pt">Designado para uma missão para capturar Mukade, Naruto Uzumaki viaja para as ruínas de outra gloriosa histórica Rouran, onde persegue e encurrala o ninja. Mukade revelou a linha dormente dentro das ruínas, ele amplia o poder da linha temporal, causando uma luz para envolver Naruto, enviando-lhe vinte anos no passado. Quando Naruto acorda, ele entra em contato com seu pai.</desc>
     <category lang="pt">Aventura, Ação, Animação</category>
@@ -12654,7 +12654,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261202133407 -0300" stop="20261202135719 -0300" channel="fenix_plus">
+  <programme start="20261202133343 -0300" stop="20261202135655 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E24 - A Formatura</title>
     <desc lang="pt">Para se formar, Will precisa passar em uma matéria de apreciação musical com crianças prodígio como suas colegas de turma.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -12664,7 +12664,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261202135719 -0300" stop="20261202142030 -0300" channel="fenix_plus">
+  <programme start="20261202135655 -0300" stop="20261202142006 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E1 - O Saldo das Férias de Verão</title>
     <desc lang="pt">Quando Will se recusa a cortar o cabelo e se vestir de forma mais conservadora, Phil o faz deixar a casa dos Banks.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -12674,7 +12674,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261202142030 -0300" stop="20261202160055 -0300" channel="fenix_plus">
+  <programme start="20261202142006 -0300" stop="20261202160031 -0300" channel="fenix_plus">
     <title lang="pt">Corrida Mortal 2</title>
     <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
     <category lang="pt">Ação, Thriller, Ficção científica</category>
@@ -12684,7 +12684,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20261202160055 -0300" stop="20261202164257 -0300" channel="fenix_plus">
+  <programme start="20261202160031 -0300" stop="20261202164233 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E22 - O Dia dos Fundadores</title>
     <desc lang="pt">O Dia dos Fundadores finalmente chegou, e todos estão ocupados com os preparativos de última hora para carros alegóricos e fogos de artifício.</desc>
     <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
@@ -12694,7 +12694,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261202164257 -0300" stop="20261202170606 -0300" channel="fenix_plus">
+  <programme start="20261202164233 -0300" stop="20261202170542 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E19 - A Droga é uma Droga</title>
     <desc lang="pt">Durante a formatura, Will acidentalmente dá a Carlton uma alta dose de uma droga ilegal.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -12704,7 +12704,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261202170606 -0300" stop="20261202174926 -0300" channel="fenix_plus">
+  <programme start="20261202170542 -0300" stop="20261202174902 -0300" channel="fenix_plus">
     <title lang="pt">Grey's Anatomy - T1E1 - Longa Noite, Longo Dia</title>
     <desc lang="pt">No seu primeiro ano de residência, Meredith Grey, filha de uma famosa cirurgiã, conhece seus colegas do Hospital Seattle Grace.</desc>
     <category lang="pt">Drama</category>
@@ -12714,7 +12714,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261202174926 -0300" stop="20261202194832 -0300" channel="fenix_plus">
+  <programme start="20261202174902 -0300" stop="20261202194808 -0300" channel="fenix_plus">
     <title lang="pt">A Fantástica Fábrica de Chocolate</title>
     <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
     <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
@@ -12724,7 +12724,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261202194832 -0300" stop="20261202214458 -0300" channel="fenix_plus">
+  <programme start="20261202194808 -0300" stop="20261202214434 -0300" channel="fenix_plus">
     <title lang="pt">Agente Infiltrada</title>
     <desc lang="pt">Rachel é uma espiã da Mossad, Serviço de Inteligência Nacional de Israel. Após o funeral de seu pai, ela desaparece misteriosamente. A única pista sobre o seu paradeiro é uma ligação criptografada feita ao seu antigo mensageiro na Alemanha, Thomas. Ele é convocado para retornar à Israel a fim de descobrir a localização da ex-parceira, ao mesmo tempo em que precisa frear o programa nuclear do iraniano.</desc>
     <category lang="pt">Drama, Thriller</category>
@@ -12734,7 +12734,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261202214458 -0300" stop="20261202232224 -0300" channel="fenix_plus">
+  <programme start="20261202214434 -0300" stop="20261202232200 -0300" channel="fenix_plus">
     <title lang="pt">Apartamento 212 - A Infestação</title>
     <desc lang="pt">Jennifer Conrad é uma jovem que planeja fugir de um relacionamento abusivo e recomeçar sua vida na cidade grande. No seu novo apartamento, ela percebe uma intensa infecção em sua pele após as primeiras noites de sono. Mas, o que parecia ser apenas uma alergia, logo se revela como um grave caso de possessão corporal por alguma espécie desconhecida de força maligna.</desc>
     <category lang="pt">Terror</category>
@@ -12744,7 +12744,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261202232224 -0300" stop="20261203000510 -0300" channel="fenix_plus">
+  <programme start="20261202232200 -0300" stop="20261203000446 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E10 - Chuck Contra O Nêmesis</title>
     <desc lang="pt">No Dia de Ação de Graças, Bryce (estrela convidada recorrente MATTHEW BOMER) retorna, depois de ter sido considerado morto.</desc>
     <category lang="pt">Action &amp; Adventure, Comédia, Drama</category>
@@ -13764,17 +13764,17 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261208074424 -0300" stop="20261208092016 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261208074424 -0300" stop="20261208091952 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261208092016 -0300" stop="20261208100336 -0300" channel="fenix_plus">
+  <programme start="20261208091952 -0300" stop="20261208100312 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E8 - Fora Da Escuridão</title>
     <desc lang="pt">Heartland é um drama familiar que segue as irmãs Amy e Lou Fleming e seu avô Jack Bartlett com os altos e baixos da vida em um rancho de cavalos. A mãe de Lou e Amy foi morta em um acidente de carro, em que sua filha mais nova, Amy, também estava. Amy e Lou tentam continuar a manter o sonho de sua mãe vivo, curar cavalos com problemas de adestramento.</desc>
     <category lang="pt">Família, Drama, Comédia</category>
@@ -13784,7 +13784,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261208100336 -0300" stop="20261208114123 -0300" channel="fenix_plus">
+  <programme start="20261208100312 -0300" stop="20261208114059 -0300" channel="fenix_plus">
     <title lang="pt">De Repente 30</title>
     <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
     <category lang="pt">Comédia, Fantasia, Romance</category>
@@ -13794,7 +13794,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261208114123 -0300" stop="20261208120300 -0300" channel="fenix_plus">
+  <programme start="20261208114059 -0300" stop="20261208120236 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E9 - Terminando e Quebrando</title>
     <desc lang="pt">Michael Jr. continua sendo amigo do ex de Claire.</desc>
     <category lang="pt">Comédia, Família, Drama</category>
@@ -13804,7 +13804,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261208120300 -0300" stop="20261208133005 -0300" channel="fenix_plus">
+  <programme start="20261208120236 -0300" stop="20261208132941 -0300" channel="fenix_plus">
     <title lang="pt">Segundas Intenções 2</title>
     <desc lang="pt">Quando se muda para a mansão da nova família de seu pai, Sebastian Valmont percebe que sua meia irmã Kathryn é mais inescrupulosa que ele. Enquanto ela faz planos maquiavélicos, ele se apaixona por Danielle, filha da diretora da escola onde estuda.</desc>
     <category lang="pt">Drama</category>
@@ -13814,7 +13814,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261208133005 -0300" stop="20261208135314 -0300" channel="fenix_plus">
+  <programme start="20261208132941 -0300" stop="20261208135250 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E18 - Alma Mater</title>
     <desc lang="pt">Deprimido por ter perdido a chance de entrar na universidade dos seus sonhos, Carlton recebe a visita do seu anjo da guarda.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -13824,7 +13824,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261208135314 -0300" stop="20261208155251 -0300" channel="fenix_plus">
+  <programme start="20261208135250 -0300" stop="20261208155227 -0300" channel="fenix_plus">
     <title lang="pt">Efeito Borboleta</title>
     <desc lang="pt">Evan é um jovem que luta para esquecer fatos de sua infância. Para isso, ele decide realizar uma regressão onde volta também fisicamente ao seu corpo de criança, tendo condições de alterar seu próprio passado. Porém, ao tentar consertar seus antigos problemas, ele acaba criando novos, já que toda mudança que realiza gera consequências em seu futuro.</desc>
     <category lang="pt">Ficção científica, Thriller</category>
@@ -13834,7 +13834,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261208155251 -0300" stop="20261208161603 -0300" channel="fenix_plus">
+  <programme start="20261208155227 -0300" stop="20261208161539 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E21 - Jogar e Coçar é Só Começar</title>
     <desc lang="pt">A caminho de uma visita à Universidade de Nevada, Will, Carlton e DJ Jazzy Jeff se envolvem em uma confusão com mal encarados em um cassino.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -13844,7 +13844,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261208161603 -0300" stop="20261208165832 -0300" channel="fenix_plus">
+  <programme start="20261208161539 -0300" stop="20261208165808 -0300" channel="fenix_plus">
     <title lang="pt">Diários de um Vampiro - T1E1 - Piloto</title>
     <desc lang="pt">Enquanto recupera da morte dos seus pais, a jovem de 17 anos Elena interessa-se por um novo aluno, Stefan, mas este esconde um segredo sombrio.</desc>
     <category lang="pt">Drama, Sci-Fi &amp; Fantasy</category>
@@ -13854,7 +13854,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261208165832 -0300" stop="20261208174026 -0300" channel="fenix_plus">
+  <programme start="20261208165808 -0300" stop="20261208174002 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E5 - 4:00 - 5:00</title>
     <desc lang="pt">Logo após o tiroteio, Jack vai até o distrito policial tentar encontrar  alguma informação significativa de Greg Penicoff, mas Mason interfere em  sua investigação antes que ele possa descobrir algo. Enquanto York  encontra sua filha, Kimberly é entregue a Gaines e Kim conhece o chefe  dos sequestradores das garotas. Palmer marca um encontro com a repórter  Maureen Kingsley, na tentativa de descobrir quem são suas fontes.</desc>
     <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
@@ -13864,7 +13864,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261208174026 -0300" stop="20261208191337 -0300" channel="fenix_plus">
+  <programme start="20261208174002 -0300" stop="20261208191313 -0300" channel="fenix_plus">
     <title lang="pt">Escorregando Para a Glória</title>
     <desc lang="pt">Na patinação no gelo em duplas o sucesso depende de uma mistura perfeita de força e sofisticação, coragem e arte, músculos e refinamento. O campeonato mundial do esporte costumava ocorrer em um universo elegante, até a explosão da rivalidade entre o astro Chazz Michael Michaels (Will Ferrell) e do garoto prodígio Jimmy MacElroy (Jon Heder). Chad e Jimmy já se enfrentaram em campeonatos anteriores, mas a rivalidade faz com que briguem em plena pista de patinação, o que faz com que o mascote seja incendiado. Como resultado, ambos são expulsos do esporte. Três anos e meio depois, ambos ainda não se adequaram fora do esporte. É quando eles decidem se reunir para realizar algo inédito: ser a 1ª dupla de homens da história da patinação no gelo.</desc>
     <category lang="pt">Comédia</category>
@@ -13874,7 +13874,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261208191337 -0300" stop="20261208193513 -0300" channel="fenix_plus">
+  <programme start="20261208191313 -0300" stop="20261208193449 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E10 - Um Pouco de Romance</title>
     <desc lang="pt">Michael está se sentindo frustrado com sua relação amorosa quando seu irmão aparece.</desc>
     <category lang="pt">Comédia, Família, Drama</category>
@@ -13884,7 +13884,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261208193513 -0300" stop="20261208195638 -0300" channel="fenix_plus">
+  <programme start="20261208193449 -0300" stop="20261208195614 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E7 - Charlie e o Paciente Saído da Prisão</title>
     <desc lang="pt">Charlie e sua ex, Jennifer, estão tendo um problema sobre como Charlie ainda tenta administrar sua vida quando Cleo - uma das pacientes de Charlie de seu grupo de terapia de raiva na prisão - aparece em sua porta, recém-saída em liberdade condicional. Jennifer decide se vingar de Charlie namorando o ex-presidiário.</desc>
     <category lang="pt">Comédia</category>
@@ -13894,7 +13894,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261208195638 -0300" stop="20261208212316 -0300" channel="fenix_plus">
+  <programme start="20261208195614 -0300" stop="20261208212252 -0300" channel="fenix_plus">
     <title lang="pt">3 Balas Para Ringo</title>
     <desc lang="pt">A vida de Ringo Carson não está nada fácil. Primeiro, ele tem uma briga com seu melhor amigo, Frank Sanders, depois de salvar Jane a garota que ele ama de sequestradores mexicanos. Frank vai para a Guerra. Ringo se reconcilia com sua mãe, que precisa de sua arma para proteger as suas terras da ganância do banqueiro Daniels. Então, Frank retorna da Guerra e enfrenta Ringo que fica cego devido a um golpe na cabeça. Ringo trama sua vingança: ele terá de salvar sua esposa das garras do seu velho amigo, resgatar seu filho e acabar com Daniels.</desc>
     <category lang="pt">Faroeste</category>
@@ -13904,7 +13904,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261208212316 -0300" stop="20261208220559 -0300" channel="fenix_plus">
+  <programme start="20261208212252 -0300" stop="20261208220535 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E1 - 00:00 - 1:00</title>
     <desc lang="pt">Pouco tempo depois que Jack Bauer termina um jogo de xadrez com sua filha adolescente Kimberly, na madrugada do dia da eleição presidencial, ela foge de casa e Jack, que conduz a Unidade Governamental Anti-Terrorismo, é chamado imediatamente para voltar ao trabalho. Ele descobre que há um plano para assassinar o candidato à presidência David Palmer. Logo ele descobre que alguém dentro de sua própria agência pode estar envolvido nesse plano. Enquanto isso, Teri, a mulher de Jack, tenta encontar sua filha. E esses são apenas os primeiros minutos do dia...</desc>
     <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
@@ -13914,7 +13914,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261208220559 -0300" stop="20261208233716 -0300" channel="fenix_plus">
+  <programme start="20261208220535 -0300" stop="20261208233652 -0300" channel="fenix_plus">
     <title lang="pt">Viagem do Medo</title>
     <desc lang="pt">Ellie (Odette Annable) e Stephanie (Amber Heard) são duas amigas americanas que estão passando as férias na Argentina. Elas querem conhecer o que o país tem de mais exótico a oferecer. Enquanto exploram o interior do país, Ellie acaba sendo raptada e envolvida em um terrível jogo de violência, exploração sexual e medo.</desc>
     <category lang="pt">Mistério, Thriller</category>
@@ -13924,7 +13924,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261208233716 -0300" stop="20261209011058 -0300" channel="fenix_plus">
+  <programme start="20261208233652 -0300" stop="20261209011034 -0300" channel="fenix_plus">
     <title lang="pt">127 Horas</title>
     <desc lang="pt">Ao explorar um cânion remoto em Utah, o alpinista e aventureiro Aron Ralston fica preso em uma fenda quando uma pedra cai. Nos cinco dias seguintes, Ralston examina sua vida e considera suas opções, as quais o levam a uma situação angustiante. Aron precisa tomar uma atitude para que possa se libertar e tentar voltar para a civilização.</desc>
     <category lang="pt">Aventura, Drama, Thriller</category>
@@ -14604,17 +14604,17 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261212044103 -0300" stop="20261212061655 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261212044103 -0300" stop="20261212061631 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261212061655 -0300" stop="20261212081248 -0300" channel="fenix_plus">
+  <programme start="20261212061631 -0300" stop="20261212081224 -0300" channel="fenix_plus">
     <title lang="pt">Pais e Filhas</title>
     <desc lang="pt">Nova York, 1988. Novelista mentalmente instável tenta criar sozinho a filha de cinco anos após a morte da esposa. Vinte anos depois, a garota, já adulta, cuida de crianças com problemas psicológicos e ainda tenta entender sua complicada infância.</desc>
     <category lang="pt">Drama</category>
@@ -14624,7 +14624,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261212081248 -0300" stop="20261212094650 -0300" channel="fenix_plus">
+  <programme start="20261212081224 -0300" stop="20261212094626 -0300" channel="fenix_plus">
     <title lang="pt">Em Seus Passos, O Que Faria Jesus?</title>
     <desc lang="pt">Raymond, que antes fora de uma próspera cidade, torna-se uma sombra de seu passado quando um empresário oportunista planeja substituir a igreja local por um cassino, corrompendo o clima saudável da cidade. Enquanto os moradores lutam por respostas, um homem, (John Schneider) chega a cidade apresentando uma questão mais importante; O que faria Jesus?</desc>
     <category lang="pt">Família</category>
@@ -14634,7 +14634,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261212094650 -0300" stop="20261212113131 -0300" channel="fenix_plus">
+  <programme start="20261212094626 -0300" stop="20261212113107 -0300" channel="fenix_plus">
     <title lang="pt">O 3º Andar: Terror na Rua Malasaña</title>
     <desc lang="pt">Bairro Malasaña, Madri, Espanha, 1976. Enquanto a agitação política assola as ruas de todo o país, a família Olmedo chega à cidade grande e se instala em seu novo apartamento. Eles logo descobrem que não são os únicos que perambulam por seus corredores.</desc>
     <category lang="pt">Drama, Terror</category>
@@ -14644,7 +14644,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261212113131 -0300" stop="20261212125857 -0300" channel="fenix_plus">
+  <programme start="20261212113107 -0300" stop="20261212125833 -0300" channel="fenix_plus">
     <title lang="pt">Uma Aventura e Tanto</title>
     <desc lang="pt">A história do cão vira-lata Pluto, que aparece do nada e afeta a família Davis, que está lutando de muitas maneiras. Em pouco tempo, Pluto, o cão-maravilha consegue salvar uma criança, trazer conforto e companheirismo a um garoto doente de 9 anos, ajudar a restaurar um casamento e reparar um relacionamento desgastado de pai e filho. Pluto não é apenas um cão de guarda - ele é um anjo da guarda.</desc>
     <category lang="pt">Drama, Família</category>
@@ -14654,7 +14654,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261212125857 -0300" stop="20261212145227 -0300" channel="fenix_plus">
+  <programme start="20261212125833 -0300" stop="20261212145203 -0300" channel="fenix_plus">
     <title lang="pt">Amnésia</title>
     <desc lang="pt">Leonard está caçando o homem que estuprou e matou sua esposa. Ele tem dificuldades em encontrar o assassino pois sofre de uma forma intratável de perda de memória. Mesmo que ele possa lembrar detalhes da vida antes do acidente, Leonard não consegue lembrar o que aconteceu quinze minutos atrás, onde está indo ou a razão.</desc>
     <category lang="pt">Mistério, Thriller</category>
@@ -14664,7 +14664,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261212145227 -0300" stop="20261212162908 -0300" channel="fenix_plus">
+  <programme start="20261212145203 -0300" stop="20261212162844 -0300" channel="fenix_plus">
     <title lang="pt">Encontros ao Acaso</title>
     <desc lang="pt">Lucy Fowler (Ashley Judd) é uma mulher trabalhadora e autodestrutiva, que realiza frequentes aventuras de uma só noite, sempre regada a muita bebida. Ao tentar mais uma vez se reaproximar do pai, Lowell (Scott Wilson), ela conhece Cal Percell (Jeffrey Donovan), que se mudou recentemente. Cal consegue enxergar em Lucy algo que ela própria não deseja reconhecer, o que faz com que se afaste dele. Desta forma Lucy precisa lidar sozinha com sua conturbada família e sua dificuldade em amadurecer e manter um relacionamento amoroso.</desc>
     <category lang="pt">Drama, Romance</category>
@@ -14674,7 +14674,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261212162908 -0300" stop="20261212180119 -0300" channel="fenix_plus">
+  <programme start="20261212162844 -0300" stop="20261212180055 -0300" channel="fenix_plus">
     <title lang="pt">10.000 Dólares para Django</title>
     <desc lang="pt">Um famoso caçador de recompensas Django (Gary Hudson) recebe uma proposta de um rico fazendeiro para capturar Manoel, um perigoso pistoleiro que havia lhe roubado todo seu dinheiro e sequestrado sua filha. Mas o preço acertado com o fazendeiro e a recompensa pela captura do bandido ainda não são suficientes para pagar o trabalho de Django, que decide esperar o valor da recompensa aumentar. O que eles não faziam idéia é que as consequencias pela demora na captura de Manoel podiam causar em suas vidas. Um filme repleto de aventura e perseguição.</desc>
     <category lang="pt">Faroeste</category>
@@ -14684,7 +14684,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261212180119 -0300" stop="20261212193030 -0300" channel="fenix_plus">
+  <programme start="20261212180055 -0300" stop="20261212193006 -0300" channel="fenix_plus">
     <title lang="pt">Duplex</title>
     <desc lang="pt">Alex Rose e Nancy Kendricks formam um jovem casal que tem um sonho de consumo: ter um belo duplex, na cidade de Nova York. Quando eles enfim encontram o apartamento dos seus sonhos, precisam enfrentar um problema: a antiga moradora, uma velhinha simpática, se recusa a deixar o local. Para conseguir o apartamento, Alex e Nancy tomam uma decisão radical e decidem matá-la.</desc>
     <category lang="pt">Comédia</category>
@@ -14694,7 +14694,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261212193030 -0300" stop="20261212201312 -0300" channel="fenix_plus">
+  <programme start="20261212193006 -0300" stop="20261212201248 -0300" channel="fenix_plus">
     <title lang="pt">Grey's Anatomy - T1E7 - Botão de Autodestruição</title>
     <desc lang="pt">Derek e Meredith tentam ser discretos, depois de passarem a noite juntos na casa dela.</desc>
     <category lang="pt">Drama</category>
@@ -14704,7 +14704,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261212201312 -0300" stop="20261212220226 -0300" channel="fenix_plus">
+  <programme start="20261212201248 -0300" stop="20261212220202 -0300" channel="fenix_plus">
     <title lang="pt">A Morte Anda a Cavalo</title>
     <desc lang="pt">Ainda criança, Bill é a única testemunha do assassinato de toda a sua família por quatro assaltantes. Quinze anos depois, ele vai atrás dos assassinos em busca de vingança. Durante sua jornada, ele cruza o caminho de Ryan, um ex-condenado que acabou de sair da cadeia, e também quer se vingar dos bandidos que o colocaram na cadeia. Juntos os dois formam uma dupla nada comum em busca do mesmo objetivo.</desc>
     <category lang="pt">Faroeste</category>
@@ -14714,7 +14714,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261212220226 -0300" stop="20261212222402 -0300" channel="fenix_plus">
+  <programme start="20261212220202 -0300" stop="20261212222338 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E10 - Um Pouco de Romance</title>
     <desc lang="pt">Michael está se sentindo frustrado com sua relação amorosa quando seu irmão aparece.</desc>
     <category lang="pt">Comédia, Família, Drama</category>
@@ -14724,7 +14724,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261212222402 -0300" stop="20261213000042 -0300" channel="fenix_plus">
+  <programme start="20261212222338 -0300" stop="20261213000018 -0300" channel="fenix_plus">
     <title lang="pt">Ligados Pelo Amor</title>
     <desc lang="pt">Esta comédia dramática apresenta um escritor de sucesso que se torna cada vez mais obcecado por sua ex-esposa, a ponto de criar problemas em sua nova família.</desc>
     <category lang="pt">Drama, Comédia, Romance</category>
@@ -15214,17 +15214,17 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261215064244 -0300" stop="20261215081836 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261215064244 -0300" stop="20261215081812 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261215081836 -0300" stop="20261215084148 -0300" channel="fenix_plus">
+  <programme start="20261215081812 -0300" stop="20261215084124 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E24 - A Formatura</title>
     <desc lang="pt">Para se formar, Will precisa passar em uma matéria de apreciação musical com crianças prodígio como suas colegas de turma.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -15234,7 +15234,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261215084148 -0300" stop="20261215090459 -0300" channel="fenix_plus">
+  <programme start="20261215084124 -0300" stop="20261215090435 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E1 - O Saldo das Férias de Verão</title>
     <desc lang="pt">Quando Will se recusa a cortar o cabelo e se vestir de forma mais conservadora, Phil o faz deixar a casa dos Banks.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -15244,7 +15244,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261215090459 -0300" stop="20261215103142 -0300" channel="fenix_plus">
+  <programme start="20261215090435 -0300" stop="20261215103118 -0300" channel="fenix_plus">
     <title lang="pt">Guerra Biológica</title>
     <desc lang="pt">O imunologista aposentado da CIA Wesley McClaren (Steven Seagal) mora isolado com a filha em uma vila da cidade de Montana. Tudo o que ele deseja é paz, porém, o grupo de militantes liderado por Floyd Crisolm (Gailard Sartain) abala a calmaria. Crisolm é precionado pelo FBI e acaba se entregando. O que as pessoas não esperavam era que ele deixaria uma arma química para explodir na região de McClare, deixando o local em quarentena. Agora, McClaren precisa salvar sua vida, a da filha e a dos pacatos moradores da vila.</desc>
     <category lang="pt">Ação, Thriller</category>
@@ -15254,7 +15254,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261215103142 -0300" stop="20261215123221 -0300" channel="fenix_plus">
+  <programme start="20261215103118 -0300" stop="20261215123157 -0300" channel="fenix_plus">
     <title lang="pt">Fukushima: Ameaça Nuclear</title>
     <desc lang="pt">Quando a usina nuclear de Fukushima é atingida por um terremoto seguido de um tsunami, a ameaça de explosão é iminente. Mesmo com risco de contaminação, engenheiros arriscam tudo para evitar um desastre de proporções incalculáveis.</desc>
     <category lang="pt">História, Drama, Ação</category>
@@ -15264,7 +15264,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261215123221 -0300" stop="20261215141926 -0300" channel="fenix_plus">
+  <programme start="20261215123157 -0300" stop="20261215141902 -0300" channel="fenix_plus">
     <title lang="pt">Equilibrium</title>
     <desc lang="pt">Num futuro incerto, a raça humana foi quase totalmente devastada da Terra. Para salvar o mundo, os governantes decidiram criar uma droga capaz de inibir o sentimento humano e garantir a paz para sempre. Em nome dessa sociedade perfeita, tudo que pudesse provocar qualquer sentimento foi destruído : livros, arte, música. Mas um grupo se nega a tomar a droga e agora a cidade está cercada de sacerdotes da lei, que vieram para exterminar os rebeldes. Até que o mais temido de todos, o sacerdote John Preston, resolve parar de tomar a droga. Com sentimentos, ele pode cair numa emboscada, a não ser que consiga manter o equilíbrio de suas novas emoções.</desc>
     <category lang="pt">Ação, Ficção científica, Thriller</category>
@@ -15274,7 +15274,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261215141926 -0300" stop="20261215150157 -0300" channel="fenix_plus">
+  <programme start="20261215141902 -0300" stop="20261215150133 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E3 - 2:00 - 3:00</title>
     <desc lang="pt">Jack descobre que a senha do cartão está criptografada no computador de Nina; Gaines obtém de Mandy e Bridget a cédula de identidade (RG) de Belkins; Kimberly e Janet fogem de seus capturadores.</desc>
     <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
@@ -15284,7 +15284,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261215150157 -0300" stop="20261215164638 -0300" channel="fenix_plus">
+  <programme start="20261215150133 -0300" stop="20261215164614 -0300" channel="fenix_plus">
     <title lang="pt">O 3º Andar: Terror na Rua Malasaña</title>
     <desc lang="pt">Bairro Malasaña, Madri, Espanha, 1976. Enquanto a agitação política assola as ruas de todo o país, a família Olmedo chega à cidade grande e se instala em seu novo apartamento. Eles logo descobrem que não são os únicos que perambulam por seus corredores.</desc>
     <category lang="pt">Drama, Terror</category>
@@ -15294,7 +15294,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261215164638 -0300" stop="20261215181343 -0300" channel="fenix_plus">
+  <programme start="20261215164614 -0300" stop="20261215181319 -0300" channel="fenix_plus">
     <title lang="pt">Segundas Intenções 2</title>
     <desc lang="pt">Quando se muda para a mansão da nova família de seu pai, Sebastian Valmont percebe que sua meia irmã Kathryn é mais inescrupulosa que ele. Enquanto ela faz planos maquiavélicos, ele se apaixona por Danielle, filha da diretora da escola onde estuda.</desc>
     <category lang="pt">Drama</category>
@@ -15304,7 +15304,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261215181343 -0300" stop="20261215195408 -0300" channel="fenix_plus">
+  <programme start="20261215181319 -0300" stop="20261215195344 -0300" channel="fenix_plus">
     <title lang="pt">Corrida Mortal 2</title>
     <desc lang="pt">Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.</desc>
     <category lang="pt">Ação, Thriller, Ficção científica</category>
@@ -15314,7 +15314,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20261215195408 -0300" stop="20261215215115 -0300" channel="fenix_plus">
+  <programme start="20261215195344 -0300" stop="20261215215051 -0300" channel="fenix_plus">
     <title lang="pt">Encontro Explosivo</title>
     <desc lang="pt">Roy Miller (Tom Cruise) é um agente que guarda consigo uma bateria especial, que jamais descarrega. O objeto é cobiçado pelo governo dos Estados Unidos, que enviou o agente Fitzgerald (Peter Sarsgaard) para obtê-lo, e Antonio (Jordi Mollà), um perigoso bandido espanhol. No aeroporto Miller usa June Havens (Cameron Diaz) para passar a bateria pela alfândega. June deseja apenas chegar o quanto antes para participar do casamento de sua irmã e, devido à pressa, consegue transferir seu voo para o mesmo de Miller. Só que no voo estão vários agentes destacados para eliminar Miller e recuperar a bateria, a qualquer custo.</desc>
     <category lang="pt">Ação, Comédia</category>
@@ -15324,7 +15324,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261215215115 -0300" stop="20261215232902 -0300" channel="fenix_plus">
+  <programme start="20261215215051 -0300" stop="20261215232838 -0300" channel="fenix_plus">
     <title lang="pt">De Repente 30</title>
     <desc lang="pt">Com a ajuda de um pó mágico, Jenna Rick, de 13 anos, se torna uma deslumbrante mulher de 30 anos da noite para o dia, com tudo que sempre quis, menos seu melhor amigo Matt. Agora, essa mulher madura precisa criar uma mágica própria para ajudar a garotinha dentro dela a recuperar o verdadeiro amor que deixou para trás.</desc>
     <category lang="pt">Comédia, Fantasia, Romance</category>
@@ -15334,7 +15334,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261215232902 -0300" stop="20261216010213 -0300" channel="fenix_plus">
+  <programme start="20261215232838 -0300" stop="20261216010149 -0300" channel="fenix_plus">
     <title lang="pt">Escorregando Para a Glória</title>
     <desc lang="pt">Na patinação no gelo em duplas o sucesso depende de uma mistura perfeita de força e sofisticação, coragem e arte, músculos e refinamento. O campeonato mundial do esporte costumava ocorrer em um universo elegante, até a explosão da rivalidade entre o astro Chazz Michael Michaels (Will Ferrell) e do garoto prodígio Jimmy MacElroy (Jon Heder). Chad e Jimmy já se enfrentaram em campeonatos anteriores, mas a rivalidade faz com que briguem em plena pista de patinação, o que faz com que o mascote seja incendiado. Como resultado, ambos são expulsos do esporte. Três anos e meio depois, ambos ainda não se adequaram fora do esporte. É quando eles decidem se reunir para realizar algo inédito: ser a 1ª dupla de homens da história da patinação no gelo.</desc>
     <category lang="pt">Comédia</category>
@@ -16304,17 +16304,17 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261220172830 -0300" stop="20261220190422 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261220172830 -0300" stop="20261220190358 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261220190422 -0300" stop="20261220194711 -0300" channel="fenix_plus">
+  <programme start="20261220190358 -0300" stop="20261220194647 -0300" channel="fenix_plus">
     <title lang="pt">Grey's Anatomy - T1E8 - Um Pedido de Ajuda</title>
     <desc lang="pt">Meredith fica desanimada com o que descobre sobre o passado de Derek.</desc>
     <category lang="pt">Drama</category>
@@ -16324,7 +16324,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261220194711 -0300" stop="20261220202944 -0300" channel="fenix_plus">
+  <programme start="20261220194647 -0300" stop="20261220202920 -0300" channel="fenix_plus">
     <title lang="pt">Chuck - T1E13 - Chuck Contra O Marlin</title>
     <desc lang="pt">Capitão Incrível (estrela convidada recorrente RYAN McPARTLIN) pede a Chuck a mão de Ellie em casamento, e então insiste para que Chuck guarde o anel até o pedido de casamento ser planejado.</desc>
     <category lang="pt">Action &amp; Adventure, Comédia, Drama</category>
@@ -16334,7 +16334,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261220202944 -0300" stop="20261220222850 -0300" channel="fenix_plus">
+  <programme start="20261220202920 -0300" stop="20261220222826 -0300" channel="fenix_plus">
     <title lang="pt">A Fantástica Fábrica de Chocolate</title>
     <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
     <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
@@ -16344,7 +16344,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261220222850 -0300" stop="20261220225026 -0300" channel="fenix_plus">
+  <programme start="20261220222826 -0300" stop="20261220225002 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E10 - Um Pouco de Romance</title>
     <desc lang="pt">Michael está se sentindo frustrado com sua relação amorosa quando seu irmão aparece.</desc>
     <category lang="pt">Comédia, Família, Drama</category>
@@ -16354,7 +16354,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261220225026 -0300" stop="20261220233328 -0300" channel="fenix_plus">
+  <programme start="20261220225002 -0300" stop="20261220233304 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E1 - Voltando Para Casa</title>
     <desc lang="pt">‎Amy e Lou Fleming, e seu avô Jack, lidam com a vida após a morte de sua mãe enquanto um novo fazendeiro, Ty Borden, vem viver e trabalhar em Heartland.‎</desc>
     <category lang="pt">Família, Drama, Comédia</category>
@@ -16364,7 +16364,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261220233328 -0300" stop="20261221001648 -0300" channel="fenix_plus">
+  <programme start="20261220233304 -0300" stop="20261221001624 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E6 - Um Amigo De Pouco Talento</title>
     <desc lang="pt">Heartland é um drama familiar que segue as irmãs Amy e Lou Fleming e seu avô Jack Bartlett com os altos e baixos da vida em um rancho de cavalos. A mãe de Lou e Amy foi morta em um acidente de carro, em que sua filha mais nova, Amy, também estava. Amy e Lou tentam continuar a manter o sonho de sua mãe vivo, curar cavalos com problemas de adestramento.</desc>
     <category lang="pt">Família, Drama, Comédia</category>
@@ -17324,14 +17324,14 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261225232116 -0300" stop="20261226005708 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261225232116 -0300" stop="20261226005644 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
   <programme start="20261226000000 -0300" stop="20261226004157 -0300" channel="fenix_plus">
@@ -18244,17 +18244,17 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261230042134 -0300" stop="20261230055726 -0300" channel="fenix_plus">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261230042134 -0300" stop="20261230055702 -0300" channel="fenix_plus">
+    <title lang="pt">Enterrado Vivo</title>
+    <desc lang="pt">Um motorista de caminhão civil no Iraque, Paul Conroy cai nas mãos de rebeldes. Não se sabe quanto tempo depois, Paul acorda em um caixão, com pouco mais além de um isqueiro, um telefone celular e sua ansiedade crescente. Com o oxigênio e a bateria acabando, Paul precisa lutar contra o pânico, o desespero e o delírio enquanto espera por um socorro que pode não chegar a tempo.</desc>
+    <category lang="pt">Thriller</category>
+    <icon src="https://image.tmdb.org/t/p/w500/rFPn5JeeGZJfDDY88NJ4usf3IPo.jpg"/>
+    <date>2010</date>
     <rating system="BR">
-      <value>12</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20261230055726 -0300" stop="20261230064046 -0300" channel="fenix_plus">
+  <programme start="20261230055702 -0300" stop="20261230064022 -0300" channel="fenix_plus">
     <title lang="pt">Heartland - T1E8 - Fora Da Escuridão</title>
     <desc lang="pt">Heartland é um drama familiar que segue as irmãs Amy e Lou Fleming e seu avô Jack Bartlett com os altos e baixos da vida em um rancho de cavalos. A mãe de Lou e Amy foi morta em um acidente de carro, em que sua filha mais nova, Amy, também estava. Amy e Lou tentam continuar a manter o sonho de sua mãe vivo, curar cavalos com problemas de adestramento.</desc>
     <category lang="pt">Família, Drama, Comédia</category>
@@ -18264,7 +18264,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261230064046 -0300" stop="20261230080807 -0300" channel="fenix_plus">
+  <programme start="20261230064022 -0300" stop="20261230080743 -0300" channel="fenix_plus">
     <title lang="pt">Espião por Acidente</title>
     <desc lang="pt">Jackie, é um atrapalhado vendedor de uma loja de roupas esportivas que leva uma vida sem grandes emoções. Mas, quando ele vê um roubo de banco acontecer na sua frente, imediatamente entra em ação distribuindo pancadas e golpes mortais por todos os lados. Como resultado de toda publicidade alcançada por seu heroísmo, desperta a atenção de um estranho advogado que revela sua verdadeira identidade. Agora, ele quer conhecer seu pai que jamais pensou existir... um dos mais notáveis e respeitados espiões do mundo. Para desvendar os mistérios de sua família, ele terá que se passar por espião, o que poderá lhe render uma boa herança mas que definitivamente o colocará em mais confusões.</desc>
     <category lang="pt">Ação, Comédia, Thriller</category>
@@ -18274,7 +18274,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261230080807 -0300" stop="20261230094533 -0300" channel="fenix_plus">
+  <programme start="20261230080743 -0300" stop="20261230094509 -0300" channel="fenix_plus">
     <title lang="pt">Apartamento 212 - A Infestação</title>
     <desc lang="pt">Jennifer Conrad é uma jovem que planeja fugir de um relacionamento abusivo e recomeçar sua vida na cidade grande. No seu novo apartamento, ela percebe uma intensa infecção em sua pele após as primeiras noites de sono. Mas, o que parecia ser apenas uma alergia, logo se revela como um grave caso de possessão corporal por alguma espécie desconhecida de força maligna.</desc>
     <category lang="pt">Terror</category>
@@ -18284,7 +18284,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261230094533 -0300" stop="20261230112449 -0300" channel="fenix_plus">
+  <programme start="20261230094509 -0300" stop="20261230112425 -0300" channel="fenix_plus">
     <title lang="pt">A Lei do Bravo</title>
     <desc lang="pt">A história da missão de paz da cavalaria americana aos índios Cheyenne em Wyoming durante a década de 1870. A missão é ameaçada quando um inspetor civil faz amizade com o filho do chefe e se apaixona pela filha do chefe.</desc>
     <category lang="pt">Ação</category>
@@ -18294,7 +18294,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261230112449 -0300" stop="20261230114626 -0300" channel="fenix_plus">
+  <programme start="20261230112425 -0300" stop="20261230114602 -0300" channel="fenix_plus">
     <title lang="pt">Eu, a Patroa e as Crianças - T1E9 - Terminando e Quebrando</title>
     <desc lang="pt">Michael Jr. continua sendo amigo do ex de Claire.</desc>
     <category lang="pt">Comédia, Família, Drama</category>
@@ -18304,7 +18304,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261230114626 -0300" stop="20261230120938 -0300" channel="fenix_plus">
+  <programme start="20261230114602 -0300" stop="20261230120914 -0300" channel="fenix_plus">
     <title lang="pt">Um Maluco no Pedaço - T3E24 - A Formatura</title>
     <desc lang="pt">Para se formar, Will precisa passar em uma matéria de apreciação musical com crianças prodígio como suas colegas de turma.</desc>
     <category lang="pt">Comédia, Família</category>
@@ -18314,7 +18314,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261230120938 -0300" stop="20261230125221 -0300" channel="fenix_plus">
+  <programme start="20261230120914 -0300" stop="20261230125157 -0300" channel="fenix_plus">
     <title lang="pt">24 Horas - T1E1 - 00:00 - 1:00</title>
     <desc lang="pt">Pouco tempo depois que Jack Bauer termina um jogo de xadrez com sua filha adolescente Kimberly, na madrugada do dia da eleição presidencial, ela foge de casa e Jack, que conduz a Unidade Governamental Anti-Terrorismo, é chamado imediatamente para voltar ao trabalho. Ele descobre que há um plano para assassinar o candidato à presidência David Palmer. Logo ele descobre que alguém dentro de sua própria agência pode estar envolvido nesse plano. Enquanto isso, Teri, a mulher de Jack, tenta encontar sua filha. E esses são apenas os primeiros minutos do dia...</desc>
     <category lang="pt">Action &amp; Adventure, Drama, Crime</category>
@@ -18324,7 +18324,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261230125221 -0300" stop="20261230144847 -0300" channel="fenix_plus">
+  <programme start="20261230125157 -0300" stop="20261230144823 -0300" channel="fenix_plus">
     <title lang="pt">Agente Infiltrada</title>
     <desc lang="pt">Rachel é uma espiã da Mossad, Serviço de Inteligência Nacional de Israel. Após o funeral de seu pai, ela desaparece misteriosamente. A única pista sobre o seu paradeiro é uma ligação criptografada feita ao seu antigo mensageiro na Alemanha, Thomas. Ele é convocado para retornar à Israel a fim de descobrir a localização da ex-parceira, ao mesmo tempo em que precisa frear o programa nuclear do iraniano.</desc>
     <category lang="pt">Drama, Thriller</category>
@@ -18334,7 +18334,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261230144847 -0300" stop="20261230162847 -0300" channel="fenix_plus">
+  <programme start="20261230144823 -0300" stop="20261230162823 -0300" channel="fenix_plus">
     <title lang="pt">15 Forcas para um Assassino</title>
     <desc lang="pt">Acusados de um crime hediondo que não cometeram, os membros de duas gangues rivais, perseguidos por uma multidão sanguinária, refugiam-se em um forte abandonado, levando dois reféns com eles.</desc>
     <category lang="pt">Faroeste</category>
@@ -18344,7 +18344,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261230162847 -0300" stop="20261230175552 -0300" channel="fenix_plus">
+  <programme start="20261230162823 -0300" stop="20261230175528 -0300" channel="fenix_plus">
     <title lang="pt">Segundas Intenções 2</title>
     <desc lang="pt">Quando se muda para a mansão da nova família de seu pai, Sebastian Valmont percebe que sua meia irmã Kathryn é mais inescrupulosa que ele. Enquanto ela faz planos maquiavélicos, ele se apaixona por Danielle, filha da diretora da escola onde estuda.</desc>
     <category lang="pt">Drama</category>
@@ -18354,7 +18354,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261230175552 -0300" stop="20261230194649 -0300" channel="fenix_plus">
+  <programme start="20261230175528 -0300" stop="20261230194625 -0300" channel="fenix_plus">
     <title lang="pt">A Família</title>
     <desc lang="pt">Após entrar para o programa de proteção à testemunha, uma família ligada à máfia é transferida para a França. De início, eles se adaptam à nova vida, mas aos poucos eles passam a resolver os problemas que surgem a seu modo. Ao mesmo tempo, líderes da máfia nos Estados Unidos procuram o grupo em busca de vingança. O agente do FBI Stansfield fará de tudo para protegê-los, mas nem sempre contará com a ajuda do pai da família, Fred Blake, nem dos outros membros.</desc>
     <category lang="pt">Crime, Comédia, Ação</category>
@@ -18364,7 +18364,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261230194649 -0300" stop="20261230212941 -0300" channel="fenix_plus">
+  <programme start="20261230194625 -0300" stop="20261230212917 -0300" channel="fenix_plus">
     <title lang="pt">Nova York, Eu Te Amo</title>
     <desc lang="pt">Onze curtas de diferentes diretores mostram que, em Nova York, o amor está em toda parte. As histórias se passam em bairros específicos da cidade, tecendo uma colcha de retalhos do que é a vida na metrópole mais emblemática de nosso tempo.</desc>
     <category lang="pt">Comédia, Drama, Romance</category>
@@ -18374,7 +18374,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261230212941 -0300" stop="20261230232847 -0300" channel="fenix_plus">
+  <programme start="20261230212917 -0300" stop="20261230232823 -0300" channel="fenix_plus">
     <title lang="pt">A Fantástica Fábrica de Chocolate</title>
     <desc lang="pt">Willy Wonka é o excêntrico dono da maior fábrica de doces do planeta, que decide realizar um concurso mundial para escolher um herdeiro para seu império. Cinco crianças de sorte, entre elas Charlie Bucket, encontram um convite dourado em barras de chocolate Wonka e com isso ganham uma visita guiada pela lendária fábrica de chocolate, que não era visitada por ninguém há quinze anos.</desc>
     <category lang="pt">Aventura, Comédia, Família, Fantasia</category>
@@ -18384,7 +18384,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261230232847 -0300" stop="20261230235015 -0300" channel="fenix_plus">
+  <programme start="20261230232823 -0300" stop="20261230234951 -0300" channel="fenix_plus">
     <title lang="pt">Tratamento de Choque - T1E9 - Charlie e a Visita do Pai</title>
     <desc lang="pt">Charlie recebe uma visita inesperada de seu pai hipercrítico e valentão. No grupo de terapia, Charlie tenta ajudar Lacey com raiva na estrada.</desc>
     <category lang="pt">Comédia</category>
