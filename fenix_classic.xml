@@ -284,17 +284,17 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261002194034 -0300" stop="20261002211626 -0300" channel="fenix_classic">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261002194034 -0300" stop="20261002211625 -0300" channel="fenix_classic">
+    <title lang="pt">E Deus Disse a Caim</title>
+    <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
+    <category lang="pt">Faroeste, Terror, Mistério</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4PxUOus0eCUUEKnM288Z0jZ745i.jpg"/>
+    <date>1970</date>
     <rating system="BR">
-      <value>12</value>
+      <value>L</value>
     </rating>
   </programme>
-  <programme start="20261002211626 -0300" stop="20261002224748 -0300" channel="fenix_classic">
+  <programme start="20261002211625 -0300" stop="20261002224747 -0300" channel="fenix_classic">
     <title lang="pt">Ódio por Ódio</title>
     <desc lang="pt">Maltrapilho, bondoso e independente, Miguel (Antonio Sabato) só pensa em se mudar para Nova York e ganhar dinheiro trabalhando para o “Coyote” (Fernando Sancho) um personagem do submundo. Cooper (John Ireland), envergonhado por ser um fora-da-lei, escondeu o produto de seu roubo e quer se mudar com sua esposa e filha para bem longe desse perigoso mundo. Porém, Moxon (Mirko Ellis) é seu impiedoso sócio. Os caminhos de Cooper e Miguel se cruzam quando Cooper e Moxon assaltam um banco, onde após matar os caixas, durante a fuga Moxon tenta trair Cooper. Tem inicio, uma explosiva história de vingança, perseguição, traição e assassinos de sangue frio.</desc>
     <category lang="pt">Faroeste</category>
@@ -304,7 +304,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261002224748 -0300" stop="20261003003322 -0300" channel="fenix_classic">
+  <programme start="20261002224747 -0300" stop="20261003003321 -0300" channel="fenix_classic">
     <title lang="pt">Jake Grandão</title>
     <desc lang="pt">Em 1909, o rancho McCandles é invadido por uma gangue de assassinos liderada pelo malvado John Fain. Eles raptam o pequeno Jacob McCandles e o levam pedindo um resgate de um milhão de dólares. Existe apenas um homem que é corajoso e inteligente o suficiente para trazê-lo de volta e este homem é Jake Grandão.</desc>
     <category lang="pt">Faroeste</category>
@@ -1374,17 +1374,17 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261010020949 -0300" stop="20261010034541 -0300" channel="fenix_classic">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261010020949 -0300" stop="20261010034540 -0300" channel="fenix_classic">
+    <title lang="pt">E Deus Disse a Caim</title>
+    <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
+    <category lang="pt">Faroeste, Terror, Mistério</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4PxUOus0eCUUEKnM288Z0jZ745i.jpg"/>
+    <date>1970</date>
     <rating system="BR">
-      <value>12</value>
+      <value>L</value>
     </rating>
   </programme>
-  <programme start="20261010034541 -0300" stop="20261010054302 -0300" channel="fenix_classic">
+  <programme start="20261010034540 -0300" stop="20261010054301 -0300" channel="fenix_classic">
     <title lang="pt">Os Quatro da Ave Maria</title>
     <desc lang="pt">Caco (Eli Watch) é um fora-da-lei que está prestes a ter sua sentença de morte executada. Harold, o presidente do banco de El Paso, vai até ele lhe fazer uma proposta: facilitar sua fuga caso ele recupere para o banqueiro o dinheiro que está com a dupla Cat (Terence Hill) e Hutch (Bud Spencer).</desc>
     <category lang="pt">Faroeste, Ação, Comédia</category>
@@ -1394,7 +1394,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261010054302 -0300" stop="20261010071204 -0300" channel="fenix_classic">
+  <programme start="20261010054301 -0300" stop="20261010071203 -0300" channel="fenix_classic">
     <title lang="pt">Peça Perdão a Deus, Não a Mim</title>
     <desc lang="pt">Enquanto Cjamango McDonald está longe de seu rancho, seis bandidos atacam e matam todos os membros de sua família. Rompido por essa tragédia, ele se propõe a se vingar. Um por um, ele mata os bandidos e aprende ao longo do caminho que um parente de sua esposa está envolvido nesse crime.</desc>
     <category lang="pt">Faroeste</category>
@@ -1404,7 +1404,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261010071204 -0300" stop="20261010090647 -0300" channel="fenix_classic">
+  <programme start="20261010071203 -0300" stop="20261010090646 -0300" channel="fenix_classic">
     <title lang="pt">Eu, Robô</title>
     <desc lang="pt">Em 2035, é comum robôs serem usados como empregados e assistentes dos humanos. Para manter a ordem , esses robôs possuem um código de programação que impede a violência contra humanos, a Lei dos Robóticos. Quando Dr. Miles aparece morto e o principal suspeito é justamente um robô, acredita-se na possibilidade de que os robôs tenham encontrado um meio de desativar a Lei dos Robóticos.</desc>
     <category lang="pt">Ação, Ficção científica</category>
@@ -1414,7 +1414,7 @@
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20261010090647 -0300" stop="20261010104406 -0300" channel="fenix_classic">
+  <programme start="20261010090646 -0300" stop="20261010104405 -0300" channel="fenix_classic">
     <title lang="pt">La regina dei tartari</title>
     <desc lang="pt">La regina dei tartari</desc>
     <category lang="pt">Ação, Aventura</category>
@@ -1424,7 +1424,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261010104406 -0300" stop="20261010123509 -0300" channel="fenix_classic">
+  <programme start="20261010104405 -0300" stop="20261010123508 -0300" channel="fenix_classic">
     <title lang="pt">O Tesouro dos Renegados</title>
     <desc lang="pt">Em sua primeira aventura cinematográfica, o chefe apache Winnetou e o montanhês Old Shatterhand perseguem uma gangue de bandidos assassinos que farão de tudo para encontrar o lendário tesouro de Silver Lake.</desc>
     <category lang="pt">Faroeste, Aventura</category>
@@ -1434,7 +1434,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261010123509 -0300" stop="20261010140453 -0300" channel="fenix_classic">
+  <programme start="20261010123508 -0300" stop="20261010140452 -0300" channel="fenix_classic">
     <title lang="pt">A Saga Continua</title>
     <desc lang="pt">Forester, um implacável barão do petróleo, quer criar uma guerra entre as tribos nativas americanas e os homens brancos. Old Shatterhand, Winnetou e seu ajudante Castlepool tentam evitar isso.</desc>
     <category lang="pt">Faroeste, Aventura</category>
@@ -1444,7 +1444,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261010140453 -0300" stop="20261010154330 -0300" channel="fenix_classic">
+  <programme start="20261010140452 -0300" stop="20261010154329 -0300" channel="fenix_classic">
     <title lang="pt">Carne Para Abutres</title>
     <desc lang="pt">Bandidos disfarçados de índios cometem crimes contra os colonos, mas Winnetou e o Velho Surehand estão determinados a desmascarar os criminosos e manter a paz entre colonos e índios.</desc>
     <category lang="pt">Aventura, Faroeste</category>
@@ -1454,7 +1454,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261010154330 -0300" stop="20261010174020 -0300" channel="fenix_classic">
+  <programme start="20261010154329 -0300" stop="20261010174019 -0300" channel="fenix_classic">
     <title lang="pt">Os Filhos de Katie Elder</title>
     <desc lang="pt">Os quatro filhos de Katie Elder voltam a sua cidade natal para o funeral da mãe. John, o mais velho, é um notório pistoleiro. Tom é o jogador, Matt, o mais quieto, e Bud, o mais novo. Chegando lá, eles descobrem que seu pai, bêbado, apostou a fazenda da família num jogo e foi morto na mesma noite. Apesar das recomendações do xerife, os irmãos resolvem investigar o caso. Morgan Hastings e seu filho Dave, únicas testemunhas do assassinato, matam o xerife para se protegerem e os Elder são considerados culpados. O xerife substituto, Ben Latta, se une aos Hastings contra os irmãos Elder.</desc>
     <category lang="pt">Faroeste</category>
@@ -1464,7 +1464,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261010174020 -0300" stop="20261010190951 -0300" channel="fenix_classic">
+  <programme start="20261010174019 -0300" stop="20261010190950 -0300" channel="fenix_classic">
     <title lang="pt">No Tempo das Diligências</title>
     <desc lang="pt">Oeste americano, final do século XIX. Uma diligência parte pela natureza selvagem, transportando uma mistura de personagens: um bandido infame, um médico bêbado, uma prostituta, um vendedor de uísque, a esposa de um oficial do Exército, um jogador, um gerente de banco, o xerife local e o motorista. Animosidades, pequenas diferenças e amizades inesperadas vêm à tona. A sorte deles piora quando descobrem que um grupo de invasores apaches, liderado por Gerônimo, está por perto.</desc>
     <category lang="pt">Faroeste</category>
@@ -1474,7 +1474,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261010190951 -0300" stop="20261010205432 -0300" channel="fenix_classic">
+  <programme start="20261010190950 -0300" stop="20261010205431 -0300" channel="fenix_classic">
     <title lang="pt">O 3º Andar: Terror na Rua Malasaña</title>
     <desc lang="pt">Bairro Malasaña, Madri, Espanha, 1976. Enquanto a agitação política assola as ruas de todo o país, a família Olmedo chega à cidade grande e se instala em seu novo apartamento. Eles logo descobrem que não são os únicos que perambulam por seus corredores.</desc>
     <category lang="pt">Drama, Terror</category>
@@ -1484,7 +1484,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261010205432 -0300" stop="20261010222743 -0300" channel="fenix_classic">
+  <programme start="20261010205431 -0300" stop="20261010222742 -0300" channel="fenix_classic">
     <title lang="pt">Escorregando Para a Glória</title>
     <desc lang="pt">Na patinação no gelo em duplas o sucesso depende de uma mistura perfeita de força e sofisticação, coragem e arte, músculos e refinamento. O campeonato mundial do esporte costumava ocorrer em um universo elegante, até a explosão da rivalidade entre o astro Chazz Michael Michaels (Will Ferrell) e do garoto prodígio Jimmy MacElroy (Jon Heder). Chad e Jimmy já se enfrentaram em campeonatos anteriores, mas a rivalidade faz com que briguem em plena pista de patinação, o que faz com que o mascote seja incendiado. Como resultado, ambos são expulsos do esporte. Três anos e meio depois, ambos ainda não se adequaram fora do esporte. É quando eles decidem se reunir para realizar algo inédito: ser a 1ª dupla de homens da história da patinação no gelo.</desc>
     <category lang="pt">Comédia</category>
@@ -1494,7 +1494,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261010222743 -0300" stop="20261010235509 -0300" channel="fenix_classic">
+  <programme start="20261010222742 -0300" stop="20261010235508 -0300" channel="fenix_classic">
     <title lang="pt">Uma Aventura e Tanto</title>
     <desc lang="pt">A história do cão vira-lata Pluto, que aparece do nada e afeta a família Davis, que está lutando de muitas maneiras. Em pouco tempo, Pluto, o cão-maravilha consegue salvar uma criança, trazer conforto e companheirismo a um garoto doente de 9 anos, ajudar a restaurar um casamento e reparar um relacionamento desgastado de pai e filho. Pluto não é apenas um cão de guarda - ele é um anjo da guarda.</desc>
     <category lang="pt">Drama, Família</category>
@@ -2464,17 +2464,17 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261017063954 -0300" stop="20261017081546 -0300" channel="fenix_classic">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261017063954 -0300" stop="20261017081545 -0300" channel="fenix_classic">
+    <title lang="pt">E Deus Disse a Caim</title>
+    <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
+    <category lang="pt">Faroeste, Terror, Mistério</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4PxUOus0eCUUEKnM288Z0jZ745i.jpg"/>
+    <date>1970</date>
     <rating system="BR">
-      <value>12</value>
+      <value>L</value>
     </rating>
   </programme>
-  <programme start="20261017081546 -0300" stop="20261017100251 -0300" channel="fenix_classic">
+  <programme start="20261017081545 -0300" stop="20261017100250 -0300" channel="fenix_classic">
     <title lang="pt">Equilibrium</title>
     <desc lang="pt">Num futuro incerto, a raça humana foi quase totalmente devastada da Terra. Para salvar o mundo, os governantes decidiram criar uma droga capaz de inibir o sentimento humano e garantir a paz para sempre. Em nome dessa sociedade perfeita, tudo que pudesse provocar qualquer sentimento foi destruído : livros, arte, música. Mas um grupo se nega a tomar a droga e agora a cidade está cercada de sacerdotes da lei, que vieram para exterminar os rebeldes. Até que o mais temido de todos, o sacerdote John Preston, resolve parar de tomar a droga. Com sentimentos, ele pode cair numa emboscada, a não ser que consiga manter o equilíbrio de suas novas emoções.</desc>
     <category lang="pt">Ação, Ficção científica, Thriller</category>
@@ -2484,7 +2484,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261017100251 -0300" stop="20261017121501 -0300" channel="fenix_classic">
+  <programme start="20261017100250 -0300" stop="20261017121500 -0300" channel="fenix_classic">
     <title lang="pt">Duro de Matar</title>
     <desc lang="pt">O policial de Nova York John McClane está visitando sua família no Natal. Ele participa de uma confraternização de fim de ano na sede da empresa japonesa em que a esposa trabalha. A festa é interrompida por terroristas que invadem o edifício de luxo. McClane não demora a perceber que não há ninguém para salvá-los, a não ser ele próprio.</desc>
     <category lang="pt">Ação, Thriller</category>
@@ -2494,7 +2494,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261017121501 -0300" stop="20261017135210 -0300" channel="fenix_classic">
+  <programme start="20261017121500 -0300" stop="20261017135209 -0300" channel="fenix_classic">
     <title lang="pt">As Aventuras de Buffalo Bill</title>
     <desc lang="pt">Cowboys lutam contra os proprietários de uma estação de coches e contra um grupo de índios para estabelecer uma rota de correio expresso, em 1860.</desc>
     <category lang="pt">Ação, Faroeste</category>
@@ -2504,7 +2504,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261017135210 -0300" stop="20261017155857 -0300" channel="fenix_classic">
+  <programme start="20261017135209 -0300" stop="20261017155856 -0300" channel="fenix_classic">
     <title lang="pt">Quando Um Homem É Homem</title>
     <desc lang="pt">George Washington McLintock, 'GW' para amigos e inimigos, é um barão de gado e o homem mais rico do território. Ele aguarda ansiosamente o retorno de sua filha, Becky, que esteve na escola nos últimos dois anos. Ele também está surpreso ao ver que sua esposa Katherine também retornou. Ela o deixara alguns anos antes sem realmente explicar o que ele fez, mas ela faz questão de dizer que ela voltou para levar sua filha de volta ao Capitólio do Estado com ela. O GW é altamente respeitado por todos, incluindo os agricultores que estão entrando nos territórios com concessões de terra gratuitas e os índios que estão sob ameaça de serem transferidos para outra reserva. Entre sua esposa, sua filha obstinada, e os funcionários do governo, o Agente das Terras picareta e o Agente dos Índios ladrão, GW tenta manter a paz e fazer o que é melhor para todos.</desc>
     <category lang="pt">Faroeste, Comédia</category>
@@ -2514,7 +2514,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261017155857 -0300" stop="20261017171816 -0300" channel="fenix_classic">
+  <programme start="20261017155856 -0300" stop="20261017171815 -0300" channel="fenix_classic">
     <title lang="pt">Uma Balada Para Django</title>
     <desc lang="pt">Um ainda jovem com pouca fama Wild Bill Hickok encontra-se com o pistoleiro Django na mesa de um Salloon. Django conta suas maiores aventuras ao jovem garoto que é um grande fã e do pistoleiro.</desc>
     <category lang="pt">Faroeste</category>
@@ -2524,7 +2524,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261017171816 -0300" stop="20261017191855 -0300" channel="fenix_classic">
+  <programme start="20261017171815 -0300" stop="20261017191854 -0300" channel="fenix_classic">
     <title lang="pt">Fukushima: Ameaça Nuclear</title>
     <desc lang="pt">Quando a usina nuclear de Fukushima é atingida por um terremoto seguido de um tsunami, a ameaça de explosão é iminente. Mesmo com risco de contaminação, engenheiros arriscam tudo para evitar um desastre de proporções incalculáveis.</desc>
     <category lang="pt">História, Drama, Ação</category>
@@ -2534,7 +2534,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261017191855 -0300" stop="20261017204749 -0300" channel="fenix_classic">
+  <programme start="20261017191854 -0300" stop="20261017204748 -0300" channel="fenix_classic">
     <title lang="pt">Sob o Domínio dos Robôs</title>
     <desc lang="pt">Sob o Domínio dos Robôs mostra uma Terra completamente dominada por robôs de uma galáxia distante. Os sobreviventes do nosso planeta vivem presos em suas casas e devem usar implantes eletrônicos. Mas o surgimento de um herói pode fazer com que a humanidade consiga voltar ao que era.</desc>
     <category lang="pt">Ficção científica, Aventura, Ação</category>
@@ -2544,7 +2544,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261017204749 -0300" stop="20261017222317 -0300" channel="fenix_classic">
+  <programme start="20261017204748 -0300" stop="20261017222316 -0300" channel="fenix_classic">
     <title lang="pt">O Longo Dia do Massacre</title>
     <desc lang="pt">Xerife é acusado de matar dois fazendeiros. Inocente, ele parte atrás do verdadeiro culpado, um bandido mexicano, enquanto é perseguido pelo novo xerife, que assumiu seu antigo posto.</desc>
     <category lang="pt">Faroeste</category>
@@ -2554,7 +2554,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261017222317 -0300" stop="20261018001420 -0300" channel="fenix_classic">
+  <programme start="20261017222316 -0300" stop="20261018001419 -0300" channel="fenix_classic">
     <title lang="pt">O Tesouro dos Renegados</title>
     <desc lang="pt">Em sua primeira aventura cinematográfica, o chefe apache Winnetou e o montanhês Old Shatterhand perseguem uma gangue de bandidos assassinos que farão de tudo para encontrar o lendário tesouro de Silver Lake.</desc>
     <category lang="pt">Faroeste, Aventura</category>
@@ -4114,17 +4114,17 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261028044620 -0300" stop="20261028062212 -0300" channel="fenix_classic">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261028044620 -0300" stop="20261028062211 -0300" channel="fenix_classic">
+    <title lang="pt">E Deus Disse a Caim</title>
+    <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
+    <category lang="pt">Faroeste, Terror, Mistério</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4PxUOus0eCUUEKnM288Z0jZ745i.jpg"/>
+    <date>1970</date>
     <rating system="BR">
-      <value>12</value>
+      <value>L</value>
     </rating>
   </programme>
-  <programme start="20261028062212 -0300" stop="20261028075853 -0300" channel="fenix_classic">
+  <programme start="20261028062211 -0300" stop="20261028075852 -0300" channel="fenix_classic">
     <title lang="pt">Encontros ao Acaso</title>
     <desc lang="pt">Lucy Fowler (Ashley Judd) é uma mulher trabalhadora e autodestrutiva, que realiza frequentes aventuras de uma só noite, sempre regada a muita bebida. Ao tentar mais uma vez se reaproximar do pai, Lowell (Scott Wilson), ela conhece Cal Percell (Jeffrey Donovan), que se mudou recentemente. Cal consegue enxergar em Lucy algo que ela própria não deseja reconhecer, o que faz com que se afaste dele. Desta forma Lucy precisa lidar sozinha com sua conturbada família e sua dificuldade em amadurecer e manter um relacionamento amoroso.</desc>
     <category lang="pt">Drama, Romance</category>
@@ -4134,7 +4134,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261028075853 -0300" stop="20261028092733 -0300" channel="fenix_classic">
+  <programme start="20261028075852 -0300" stop="20261028092732 -0300" channel="fenix_classic">
     <title lang="pt">Dove si spara di più</title>
     <desc lang="pt">Dove si spara di più</desc>
     <category lang="pt">Faroeste</category>
@@ -4144,7 +4144,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261028092733 -0300" stop="20261028111401 -0300" channel="fenix_classic">
+  <programme start="20261028092732 -0300" stop="20261028111400 -0300" channel="fenix_classic">
     <title lang="pt">Requiem Para Matar</title>
     <desc lang="pt">O único sobrevivente do massacre de sua família e seu povo, por um predador itinerante e sua ambiciosa mulher, um menino ferido carregará por toda sua vida marcas profundas que jamais irão apagar de sua memória. Anos mais tarde, já homem e com muita sede de vingança, Réquiem sai em busca de Fergusson, o exterminador de sua família. Ele terá a oportunidade de ficar face a face com aquele que deverá lhe prestar contas.</desc>
     <category lang="pt">Ação, Faroeste</category>
@@ -4154,7 +4154,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261028111401 -0300" stop="20261028123619 -0300" channel="fenix_classic">
+  <programme start="20261028111400 -0300" stop="20261028123618 -0300" channel="fenix_classic">
     <title lang="pt">7 Pistolas para os MacGregor</title>
     <desc lang="pt">O dono de um rancho, MacGregor, tem sete filhos e o mais velho, Gregor, lidera seus irmãos até Las Mesas, uma pequena cidade onde eles venderão cavalos. Lá, eles arranjam problemas com os moradores da cidade.</desc>
     <category lang="pt">Faroeste</category>
@@ -4164,7 +4164,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261028123619 -0300" stop="20261028141032 -0300" channel="fenix_classic">
+  <programme start="20261028123618 -0300" stop="20261028141031 -0300" channel="fenix_classic">
     <title lang="pt">Trovões na Fronteira</title>
     <desc lang="pt">Winnetou, sua irmã e um grupo de bravos guerreiros unem-se ao caçador Old Firehand para defender uma cidade ameaçada por quadrilha de mexicanos. Mais uma aventura cinematográfica do índio Winnetou, personagem criado por Karl May.</desc>
     <category lang="pt">Aventura, Faroeste, Ação</category>
@@ -4174,7 +4174,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261028141032 -0300" stop="20261028155134 -0300" channel="fenix_classic">
+  <programme start="20261028141031 -0300" stop="20261028155133 -0300" channel="fenix_classic">
     <title lang="pt">O Último Guerreiro</title>
     <desc lang="pt">O exército dos EUA está tentando fazer um tratado de paz com os apaches e movê-los para reservas na Flórida. Mas o retorno do filho dos apaches muda completamente a situação na região.</desc>
     <category lang="pt">Ação, Faroeste</category>
@@ -4184,7 +4184,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261028155134 -0300" stop="20261028171556 -0300" channel="fenix_classic">
+  <programme start="20261028155133 -0300" stop="20261028171555 -0300" channel="fenix_classic">
     <title lang="pt">Clint, O Estranho</title>
     <desc lang="pt">Clint Harrison é um pistoleiro que tem fugido por muitos anos de inimigos sedentos por vingança. Agora ele retorna a cidade que abandonara anos antes quando descobre que sua família teve que deixar a cidade e se mudar para tentar fugir de sua reputação. Com a intenção de corrigir os erros do passado, Clint sai em busca de sua família mas termina no meio de uma guerra entre simples fazendeiros e um rico rancheiro que deseja por suas mãos em suas terras mesmo que para isso seja necessário haver muita matança. Embora Clint tenha prometido a sua esposa nuncamais usar sua arma ele se vê obrigado a quebrar sua promessa quando os impiedosos homens do rancheiro começam a eliminar os fazendeiros numa série de ataques sanguinários.</desc>
     <category lang="pt">Faroeste</category>
@@ -4194,7 +4194,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261028171556 -0300" stop="20261028185145 -0300" channel="fenix_classic">
+  <programme start="20261028171555 -0300" stop="20261028185144 -0300" channel="fenix_classic">
     <title lang="pt">Trindade Violenta</title>
     <desc lang="pt">Após a Guerra Civil o ex-oficial Confederado Colt Saunders (Charlton Heston) conhece Lorna Hunter (Anne Baxter), uma dançarina de saloon que se faz passar por uma dama e até como esposa dele, quando Colt estava desacordado após uma briga. Acontece que ela soube manobrar tão bem a situação que Colt resolve casar repentinamente com ela. Eles vão morar em "Bar S", o rancho de Colt, que há 5 anos não tinha a presença do seu dono. Logo após chegar recebe uma má notícia, pois membros do "governo provisório" taxam em US$ 16 mil o rancho de Colt. Eles sabem que a dívida é impossível de ser paga e assim tem um pretexto para tomar o rancho. Para piorar, uma destas pessoas do "governo provisório" sabe do passado sombrio de Lorna. Além disto aparece Beauregard "Cinch" Saunders (Tom Tryon), o irmão de Colt, que é a ovelha negra da família.</desc>
     <category lang="pt">Faroeste</category>
@@ -4204,7 +4204,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261028185145 -0300" stop="20261028202116 -0300" channel="fenix_classic">
+  <programme start="20261028185144 -0300" stop="20261028202115 -0300" channel="fenix_classic">
     <title lang="pt">No Tempo das Diligências</title>
     <desc lang="pt">Oeste americano, final do século XIX. Uma diligência parte pela natureza selvagem, transportando uma mistura de personagens: um bandido infame, um médico bêbado, uma prostituta, um vendedor de uísque, a esposa de um oficial do Exército, um jogador, um gerente de banco, o xerife local e o motorista. Animosidades, pequenas diferenças e amizades inesperadas vêm à tona. A sorte deles piora quando descobrem que um grupo de invasores apaches, liderado por Gerônimo, está por perto.</desc>
     <category lang="pt">Faroeste</category>
@@ -4214,7 +4214,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261028202116 -0300" stop="20261028220408 -0300" channel="fenix_classic">
+  <programme start="20261028202115 -0300" stop="20261028220407 -0300" channel="fenix_classic">
     <title lang="pt">Nova York, Eu Te Amo</title>
     <desc lang="pt">Onze curtas de diferentes diretores mostram que, em Nova York, o amor está em toda parte. As histórias se passam em bairros específicos da cidade, tecendo uma colcha de retalhos do que é a vida na metrópole mais emblemática de nosso tempo.</desc>
     <category lang="pt">Comédia, Drama, Romance</category>
@@ -4224,7 +4224,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261028220408 -0300" stop="20261028234048 -0300" channel="fenix_classic">
+  <programme start="20261028220407 -0300" stop="20261028234047 -0300" channel="fenix_classic">
     <title lang="pt">Ligados Pelo Amor</title>
     <desc lang="pt">Esta comédia dramática apresenta um escritor de sucesso que se torna cada vez mais obcecado por sua ex-esposa, a ponto de criar problemas em sua nova família.</desc>
     <category lang="pt">Drama, Comédia, Romance</category>
@@ -4234,7 +4234,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20261028234048 -0300" stop="20261029014735 -0300" channel="fenix_classic">
+  <programme start="20261028234047 -0300" stop="20261029014734 -0300" channel="fenix_classic">
     <title lang="pt">Quando Um Homem É Homem</title>
     <desc lang="pt">George Washington McLintock, 'GW' para amigos e inimigos, é um barão de gado e o homem mais rico do território. Ele aguarda ansiosamente o retorno de sua filha, Becky, que esteve na escola nos últimos dois anos. Ele também está surpreso ao ver que sua esposa Katherine também retornou. Ela o deixara alguns anos antes sem realmente explicar o que ele fez, mas ela faz questão de dizer que ela voltou para levar sua filha de volta ao Capitólio do Estado com ela. O GW é altamente respeitado por todos, incluindo os agricultores que estão entrando nos territórios com concessões de terra gratuitas e os índios que estão sob ameaça de serem transferidos para outra reserva. Entre sua esposa, sua filha obstinada, e os funcionários do governo, o Agente das Terras picareta e o Agente dos Índios ladrão, GW tenta manter a paz e fazer o que é melhor para todos.</desc>
     <category lang="pt">Faroeste, Comédia</category>
@@ -4914,17 +4914,17 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261102113423 -0300" stop="20261102131015 -0300" channel="fenix_classic">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261102113423 -0300" stop="20261102131014 -0300" channel="fenix_classic">
+    <title lang="pt">E Deus Disse a Caim</title>
+    <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
+    <category lang="pt">Faroeste, Terror, Mistério</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4PxUOus0eCUUEKnM288Z0jZ745i.jpg"/>
+    <date>1970</date>
     <rating system="BR">
-      <value>12</value>
+      <value>L</value>
     </rating>
   </programme>
-  <programme start="20261102131015 -0300" stop="20261102143932 -0300" channel="fenix_classic">
+  <programme start="20261102131014 -0300" stop="20261102143931 -0300" channel="fenix_classic">
     <title lang="pt">O Mão de Ferro</title>
     <desc lang="pt">Old Surehand e Old Wabble estão perseguindo um assassino, mas no caminho eles também intervêm em uma disputa entre os comanches e os colonos.</desc>
     <category lang="pt">Aventura, Faroeste</category>
@@ -4934,7 +4934,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261102143932 -0300" stop="20261102160918 -0300" channel="fenix_classic">
+  <programme start="20261102143931 -0300" stop="20261102160917 -0300" channel="fenix_classic">
     <title lang="pt">Atire Para Viver e Reze Pelos Mortos</title>
     <desc lang="pt">Após ter sua família assassinada por um bandido, John Webb (Paul Sullivan) tem a chance de se vingar. Ele se transformou em um misterioso homem que vaga em busca da vingança, e esse seu sentimento vai levá-lo ao bando de Dan Hogan (Klaus Kinski), o perigoso bandido que matou sua família. Hogan está atrás de uma carga de ouro roubada e, sem saber, aceitará ser guiado por John Webb. É aí que Webb começa sua vingança, atacando de um por um os bandidos até não sobrar mais nada. Um filme de western com uma incrível fotografia e uma ótima e intrigante história.</desc>
     <category lang="pt">Ação, Faroeste</category>
@@ -4944,7 +4944,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261102160918 -0300" stop="20261102172407 -0300" channel="fenix_classic">
+  <programme start="20261102160917 -0300" stop="20261102172406 -0300" channel="fenix_classic">
     <title lang="pt">7 Homens Sem Destino</title>
     <desc lang="pt">Um ex-xerife, assombrado pela perda da esposa em um assalto ao Wells Fargo, parte em busca dos sete homens responsáveis pela morte dela. Ao longo do caminho, ele auxilia um casal que viaja de Kansas City para a Califórnia, no oeste, e é forçado a lidar com outro ex-bandido que ele já havia mandado para a prisão.</desc>
     <category lang="pt">Faroeste</category>
@@ -4954,7 +4954,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261102172407 -0300" stop="20261102192128 -0300" channel="fenix_classic">
+  <programme start="20261102172406 -0300" stop="20261102192127 -0300" channel="fenix_classic">
     <title lang="pt">Os Quatro da Ave Maria</title>
     <desc lang="pt">Caco (Eli Watch) é um fora-da-lei que está prestes a ter sua sentença de morte executada. Harold, o presidente do banco de El Paso, vai até ele lhe fazer uma proposta: facilitar sua fuga caso ele recupere para o banqueiro o dinheiro que está com a dupla Cat (Terence Hill) e Hutch (Bud Spencer).</desc>
     <category lang="pt">Faroeste, Ação, Comédia</category>
@@ -4964,7 +4964,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261102192128 -0300" stop="20261102210051 -0300" channel="fenix_classic">
+  <programme start="20261102192127 -0300" stop="20261102210050 -0300" channel="fenix_classic">
     <title lang="pt">Um Bandoleiro Chamado Black Jack</title>
     <desc lang="pt">Black Jack é o líder de uma quadrilha de assaltantes de banco. Após um roubo bem sucedido, seus parceiros se rebelam por não concordarem com a quantia que receberam. Começa, então, uma perseguição na qual Black Jack tenta escapar com todo o dinheiro.</desc>
     <category lang="pt">Faroeste</category>
@@ -4974,7 +4974,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261102210051 -0300" stop="20261102223131 -0300" channel="fenix_classic">
+  <programme start="20261102210050 -0300" stop="20261102223130 -0300" channel="fenix_classic">
     <title lang="pt">Tempo de Massacre</title>
     <desc lang="pt">Em 1866 Novo México, Tom Corbett é um prospector que é chamado de volta à sua cidade natal em Laramie Town, Texas, no legado de um velho amigo da família. Tom chega à cidade para o ver sob o controlo de um gangster implacável e ganancioso chamado Jason Scott, que é um filho psicótico e louco por homicídios, Junior Scott, dirige-o com medo com um bando de bandidos que matam qualquer um que protesta contra as suas tácticas comerciais. Tom encontra o seu irmão Jeff, um bêbado cuidado pela sua empregada de família Mercedes. Tom tenta então persuadir Jeff a ajudá-lo a derrubar os sádicos escoceses para que a cidade possa descansar em paz e harmonia novamente.</desc>
     <category lang="pt">Faroeste, Drama, Ação, Thriller</category>
@@ -4984,7 +4984,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261102223131 -0300" stop="20261103000754 -0300" channel="fenix_classic">
+  <programme start="20261102223130 -0300" stop="20261103000753 -0300" channel="fenix_classic">
     <title lang="pt">A Maldição da Floresta</title>
     <desc lang="pt">O longa conta a história de uma família inglesa que vai morar em uma parte isolada da Irlanda. O intuito do pai é estudar a floresta para futuras construções. Mas sua ação acaba perturbando seres demoníacos que vivem no local e começam uma série de ataques contra a família.</desc>
     <category lang="pt">Terror, Fantasia</category>
@@ -6044,17 +6044,17 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110000000 -0300" stop="20261110013552 -0300" channel="fenix_classic">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261110000000 -0300" stop="20261110013551 -0300" channel="fenix_classic">
+    <title lang="pt">E Deus Disse a Caim</title>
+    <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
+    <category lang="pt">Faroeste, Terror, Mistério</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4PxUOus0eCUUEKnM288Z0jZ745i.jpg"/>
+    <date>1970</date>
     <rating system="BR">
-      <value>12</value>
+      <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110013552 -0300" stop="20261110030148 -0300" channel="fenix_classic">
+  <programme start="20261110013551 -0300" stop="20261110030147 -0300" channel="fenix_classic">
     <title lang="pt">Drums in the Deep South</title>
     <desc lang="pt">Drums in the Deep South</desc>
     <category lang="pt">Faroeste</category>
@@ -6064,7 +6064,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110030148 -0300" stop="20261110042909 -0300" channel="fenix_classic">
+  <programme start="20261110030147 -0300" stop="20261110042908 -0300" channel="fenix_classic">
     <title lang="pt">Espião por Acidente</title>
     <desc lang="pt">Jackie, é um atrapalhado vendedor de uma loja de roupas esportivas que leva uma vida sem grandes emoções. Mas, quando ele vê um roubo de banco acontecer na sua frente, imediatamente entra em ação distribuindo pancadas e golpes mortais por todos os lados. Como resultado de toda publicidade alcançada por seu heroísmo, desperta a atenção de um estranho advogado que revela sua verdadeira identidade. Agora, ele quer conhecer seu pai que jamais pensou existir... um dos mais notáveis e respeitados espiões do mundo. Para desvendar os mistérios de sua família, ele terá que se passar por espião, o que poderá lhe render uma boa herança mas que definitivamente o colocará em mais confusões.</desc>
     <category lang="pt">Ação, Comédia, Thriller</category>
@@ -6074,7 +6074,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110042909 -0300" stop="20261110055321 -0300" channel="fenix_classic">
+  <programme start="20261110042908 -0300" stop="20261110055320 -0300" channel="fenix_classic">
     <title lang="pt">Billy, O Sanguinário</title>
     <desc lang="pt">Rapaz chega a uma cidade da fronteira mexicana e arranja emprego numa mina de ouro, mas tudo o que ele quer é descobrir quem assassinou seu pai.</desc>
     <category lang="pt">Faroeste</category>
@@ -6084,7 +6084,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110055321 -0300" stop="20261110072305 -0300" channel="fenix_classic">
+  <programme start="20261110055320 -0300" stop="20261110072304 -0300" channel="fenix_classic">
     <title lang="pt">A Saga Continua</title>
     <desc lang="pt">Forester, um implacável barão do petróleo, quer criar uma guerra entre as tribos nativas americanas e os homens brancos. Old Shatterhand, Winnetou e seu ajudante Castlepool tentam evitar isso.</desc>
     <category lang="pt">Faroeste, Aventura</category>
@@ -6094,7 +6094,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110072305 -0300" stop="20261110085444 -0300" channel="fenix_classic">
+  <programme start="20261110072304 -0300" stop="20261110085443 -0300" channel="fenix_classic">
     <title lang="pt">Quatro Pistoleiros de Santa Trinitá</title>
     <desc lang="pt">Quin e Gomez são dois vigaristas que estão envolvidos com tráfico de armas e outros negócios escuros numa cidade tomada por sangue e violência localizada no oeste americano. Para conseguir tomar posse de uma mina de ouro eles sequestram Sara, a verdadeira dona da mina. Porém, a chegada inesperada do xerife Thomas e de seu amigo George fazem com que os criminosos alterem seus planos. Isso desencadeia uma série de aconteceimentos que levam a um final sangrento onde George e Quin travam uma luta desesperada pela vida. Mas eles ainda vão encontrar a traição e a morte pelo caminho.</desc>
     <category lang="pt">Faroeste</category>
@@ -6104,7 +6104,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110085444 -0300" stop="20261110103518 -0300" channel="fenix_classic">
+  <programme start="20261110085443 -0300" stop="20261110103517 -0300" channel="fenix_classic">
     <title lang="pt">O Revólver de um Desconhecido</title>
     <desc lang="pt">Chuka (Rod taylor), é um pistoleiro cuja vida solitária o conduz até um forte do exército americano comandado pela desordem, um punhado de degenerados e pelo comandante Valois (John Mills), um alcoólatra meio louco. Cercados pelos famintos índios arapaho, que se preparam para massacrar os habitantes do forte, o coronel se recusa a aceitar os pedidos de Chuka e deixar os índios pegarem os alimentos de que necessitam. Com o coronel bêbado e inflexível, seus soldados se amotinam e seu sargento (Ernest Borgnine) o defende contra todos. Porém, com a perigosa presença de duas mulheres mexicanas que correm risco durante o massacre, Chuka faz tudo o que é possível para sobreviver e proteger o forte o ataque dos índios.</desc>
     <category lang="pt">Ação, Drama, Faroeste</category>
@@ -6114,7 +6114,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110103518 -0300" stop="20261110122050 -0300" channel="fenix_classic">
+  <programme start="20261110103517 -0300" stop="20261110122049 -0300" channel="fenix_classic">
     <title lang="pt">Johnny Guitar</title>
     <desc lang="pt">Viena construiu um saloon fora da cidade, e espera construir sua própria cidade quando a estrada de ferro chegar até lá, mas os moradores da cidade querem que ela se vá. Quando quatro homens roubam a diligência e matam um homem, os delegados da cidade, liderados por Emma Pequeno, vão até o saloon para pegar quatro amigos de Viena, o Dancin Kid e seus homens. Viena fica firme contra eles, e é auxiliada pela presença de um velho conhecido dela, Johnny Guitar, que não é o que parece.</desc>
     <category lang="pt">Faroeste</category>
@@ -6124,7 +6124,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261110122050 -0300" stop="20261110134930 -0300" channel="fenix_classic">
+  <programme start="20261110122049 -0300" stop="20261110134929 -0300" channel="fenix_classic">
     <title lang="pt">Dove si spara di più</title>
     <desc lang="pt">Dove si spara di più</desc>
     <category lang="pt">Faroeste</category>
@@ -6134,7 +6134,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110134930 -0300" stop="20261110150419 -0300" channel="fenix_classic">
+  <programme start="20261110134929 -0300" stop="20261110150418 -0300" channel="fenix_classic">
     <title lang="pt">7 Homens Sem Destino</title>
     <desc lang="pt">Um ex-xerife, assombrado pela perda da esposa em um assalto ao Wells Fargo, parte em busca dos sete homens responsáveis pela morte dela. Ao longo do caminho, ele auxilia um casal que viaja de Kansas City para a Califórnia, no oeste, e é forçado a lidar com outro ex-bandido que ele já havia mandado para a prisão.</desc>
     <category lang="pt">Faroeste</category>
@@ -6144,7 +6144,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110150419 -0300" stop="20261110162331 -0300" channel="fenix_classic">
+  <programme start="20261110150418 -0300" stop="20261110162330 -0300" channel="fenix_classic">
     <title lang="pt">O Retorno de Clint, O Estranho</title>
     <desc lang="pt">"O Retorno de Clint, O Estranho" de Alfonso Balcazar, é um Espaguete Western em seus melhores detalhes, mas com uma história normalmente encontrada nos Westerns americanos, onde o mocinho representando o bem luta contra o personagem que representa o mal. O filme trás o grande Klaus Kinski, em uma performance excepcional, além de músicas compostas por Ennio Morriconi. No filme, Clint, George Martin é o típico mocinho que tenta retornar ao convívio familiar após passar cinco anos vivendo a margem da lei. Cinco anos, após matar o assassino de seu irmão, Clint retorna para sua cidade, a qual encontra aterrorizada por uma gangue de criminosos inescrupulosos que querem roubar as terras dos pequenos e pobres fazendeiros. Além disso, um misterioso caçador de recompensa chamado Scott (Kisnki), tem seguido Clint em busca da recompensa por sua cabeça, e nesse cenário perfeito muitas balas vão voar...</desc>
     <category lang="pt">Faroeste</category>
@@ -6154,7 +6154,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110162331 -0300" stop="20261110175220 -0300" channel="fenix_classic">
+  <programme start="20261110162330 -0300" stop="20261110175219 -0300" channel="fenix_classic">
     <title lang="pt">A Trilha dos Desalmados</title>
     <desc lang="pt">Após a Guerra Civil, bandidos liderados por um renegado chamado Rollins, seguindo os colonos se deslocam para o oeste, e tenta destruir a amizade entre os brancos e os índios. Baseado na novela "Winnetou - The Red Gentleman", de Karl May, este filme completa a trilogia dedicada ao índio Winnetou.</desc>
     <category lang="pt">Aventura, Faroeste</category>
@@ -6164,7 +6164,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110175220 -0300" stop="20261110194530 -0300" channel="fenix_classic">
+  <programme start="20261110175219 -0300" stop="20261110194529 -0300" channel="fenix_classic">
     <title lang="pt">Os Brutos Também Amam</title>
     <desc lang="pt">O enigmático pistoleiro Shane chega a uma pequena cidade do Wyoming com a esperança de se estabelecer discretamente como trabalhador rural. Ao aceitar um emprego na fazenda de Joe Starrett, Shane se vê envolvido em uma batalha entre os moradores da cidade e o implacável barão do gado Rufus Ryker. A crescente atração de Shane pela esposa de Starrett, Marian, e seu carinho pelo filho deles, Joey, que idolatra Shane, forçam Shane a perceber que precisa frustrar os planos de Ryker.</desc>
     <category lang="pt">Drama, Faroeste</category>
@@ -6174,7 +6174,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110194530 -0300" stop="20261110212239 -0300" channel="fenix_classic">
+  <programme start="20261110194529 -0300" stop="20261110212238 -0300" channel="fenix_classic">
     <title lang="pt">As Aventuras de Buffalo Bill</title>
     <desc lang="pt">Cowboys lutam contra os proprietários de uma estação de coches e contra um grupo de índios para estabelecer uma rota de correio expresso, em 1860.</desc>
     <category lang="pt">Ação, Faroeste</category>
@@ -6184,7 +6184,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110212239 -0300" stop="20261110230345 -0300" channel="fenix_classic">
+  <programme start="20261110212238 -0300" stop="20261110230344 -0300" channel="fenix_classic">
     <title lang="pt">Quando a Mulher Se Atreve</title>
     <desc lang="pt">O cowboy Dan Somers e o magnata do petróleo Jim Hunk Gardner disputam os direitos de arrendamento de petróleo em terra indígena, bem como o amor de uma professora.</desc>
     <category lang="pt">Faroeste</category>
@@ -6194,7 +6194,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261110230345 -0300" stop="20261111003030 -0300" channel="fenix_classic">
+  <programme start="20261110230344 -0300" stop="20261111003029 -0300" channel="fenix_classic">
     <title lang="pt">Eu Sou Sartana</title>
     <desc lang="pt">Um roubo a banco é perfeitamente concluído e a culpa e autoria do crime cai acima do caçador de recompensas, Sartana, que não fez isso. Ele consegue informações de um dos membros do bando do assalto que estava preso de que as ordens vem da cidade de Polker Falls. Sartana agora terá o trabalho de provar sua inocência e se vingar do verdadeiro culpado.</desc>
     <category lang="pt">Faroeste, Mistério</category>
@@ -8184,107 +8184,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261124050252 -0300" stop="20261124063844 -0300" channel="fenix_classic">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261124063844 -0300" stop="20261124080503 -0300" channel="fenix_classic">
-    <title lang="pt">Flechas Ardentes</title>
-    <desc lang="pt">Old Surehand e Winnetou enfrentam um desonesto homem do petróleo, que engana colonos e índios. Baseado no romance "Der Ölprinz", de Karl May, este é o segundo filme com o personagem Old Surehand; o primeiro foi "Carne para Abutres", e o último, "O Mão de Ferro".</desc>
-    <category lang="pt">Aventura, Faroeste</category>
-    <icon src="https://image.tmdb.org/t/p/w500/zbi7PsU6x5rxvzOR53fnlvEsqr9.jpg"/>
-    <date>1965</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261124080503 -0300" stop="20261124092708 -0300" channel="fenix_classic">
-    <title lang="pt">Disparo para Matar</title>
-    <desc lang="pt">Uma mulher misteriosa convence dois cowboys a ajudá-la em um esquema de vingança.</desc>
-    <category lang="pt">Faroeste</category>
-    <icon src="https://image.tmdb.org/t/p/w500/oaySRq49jlCtoYjhoR7IhSga6Vm.jpg"/>
-    <date>1966</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261124092708 -0300" stop="20261124112358 -0300" channel="fenix_classic">
-    <title lang="pt">Os Filhos de Katie Elder</title>
-    <desc lang="pt">Os quatro filhos de Katie Elder voltam a sua cidade natal para o funeral da mãe. John, o mais velho, é um notório pistoleiro. Tom é o jogador, Matt, o mais quieto, e Bud, o mais novo. Chegando lá, eles descobrem que seu pai, bêbado, apostou a fazenda da família num jogo e foi morto na mesma noite. Apesar das recomendações do xerife, os irmãos resolvem investigar o caso. Morgan Hastings e seu filho Dave, únicas testemunhas do assassinato, matam o xerife para se protegerem e os Elder são considerados culpados. O xerife substituto, Ben Latta, se une aos Hastings contra os irmãos Elder.</desc>
-    <category lang="pt">Faroeste</category>
-    <icon src="https://image.tmdb.org/t/p/w500/n6ox5IniBxxx6ISTol5pm36WoFr.jpg"/>
-    <date>1965</date>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20261124112358 -0300" stop="20261124124647 -0300" channel="fenix_classic">
-    <title lang="pt">Shango: O Pistoleiro Implacável</title>
-    <desc lang="pt">Shango, um ex-soldado nortista, luta contra sanguinário major confederado que domina uma cidade.</desc>
-    <category lang="pt">Faroeste, Ação, Drama</category>
-    <icon src="https://image.tmdb.org/t/p/w500/3QE9OIqeaagmoMQ0eSYdVDturPz.jpg"/>
-    <date>1970</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261124124647 -0300" stop="20261124142940 -0300" channel="fenix_classic">
-    <title lang="pt">O Último Samurai do Oeste</title>
-    <desc lang="pt">O honesto advogado Black Jack Gideon (Eli Walach) envolve-se com na procura de um valioso e raro ponei japonês que foi “seqüestrado” e por quem o bando de desertores renegados exige uma fabulosa quantia de resgate. Acompanham em sua busca pelo pônei valioso o bandido e sedutor Swiss (Giuliano Gemma) e Sakura (Tomas Milian). Aventura que mistura o clima do velho oeste com as milenares artes orientais, o que o torna uma das mais divertidas aventuras de todos os tempos. Filme também conhecido pelo nome: O Último Samurai do Oeste</desc>
-    <category lang="pt">Faroeste, Aventura, Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/POCRYNGDDIWc8dlW08HR3BJt6k.jpg"/>
-    <date>1975</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261124142940 -0300" stop="20261124155402 -0300" channel="fenix_classic">
-    <title lang="pt">Clint, O Estranho</title>
-    <desc lang="pt">Clint Harrison é um pistoleiro que tem fugido por muitos anos de inimigos sedentos por vingança. Agora ele retorna a cidade que abandonara anos antes quando descobre que sua família teve que deixar a cidade e se mudar para tentar fugir de sua reputação. Com a intenção de corrigir os erros do passado, Clint sai em busca de sua família mas termina no meio de uma guerra entre simples fazendeiros e um rico rancheiro que deseja por suas mãos em suas terras mesmo que para isso seja necessário haver muita matança. Embora Clint tenha prometido a sua esposa nuncamais usar sua arma ele se vê obrigado a quebrar sua promessa quando os impiedosos homens do rancheiro começam a eliminar os fazendeiros numa série de ataques sanguinários.</desc>
-    <category lang="pt">Faroeste</category>
-    <icon src="https://image.tmdb.org/t/p/w500/dVWIJEeq5kSvDMk3odvaBggIxLI.jpg"/>
-    <date>1967</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261124155402 -0300" stop="20261124175649 -0300" channel="fenix_classic">
-    <title lang="pt">Bravura Indômita</title>
-    <desc lang="pt">Rooster Cogburn é um ex-xerife alcoólatra contratado por uma menina de 14 anos para vingar a morte de seu pai. Para pegar o criminoso, eles terão de entrar em um território indígena e enfrentar os comparsas do assassino que estão caçando, homens que não veem problema em matar uma adolescente.</desc>
-    <category lang="pt">Faroeste</category>
-    <icon src="https://image.tmdb.org/t/p/w500/3unRxrwRr1yKvN0GKgsftoYajiK.jpg"/>
-    <date>1969</date>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20261124175649 -0300" stop="20261124192015 -0300" channel="fenix_classic">
-    <title lang="pt">O Matador de Aluguel</title>
-    <desc lang="pt">Silver é um pistoleiro contratado para capturar os ladrões que assaltaram a diligência e levaram o dinheiro do banco. Seu plano é simples, mas arriscado: ele finge ser bandido para despertar a atenção dos ladrões.</desc>
-    <category lang="pt">Faroeste</category>
-    <icon src="https://image.tmdb.org/t/p/w500/AvtZEetQDuUg1h7nbwWnGJr5LqY.jpg"/>
-    <date>1967</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261124192015 -0300" stop="20261124205138 -0300" channel="fenix_classic">
-    <title lang="pt">Adeus, Texas</title>
-    <desc lang="pt">Ainda criança o pequeno Burt (Franco Nero) vê seu pai friamente assassinado e sua mãe cruelmente violentada por Cisco Delgado (José Suárez), um pistoleiro sádico e inescrupuloso. O tempo passou e agora Burt é o xerife de Widow Rock. Mas, durante todos estes anos a visão daquela cena de violência o atormenta a todo instante e agora é chegado o momento de vingança.</desc>
-    <category lang="pt">Faroeste, Ação</category>
-    <icon src="https://image.tmdb.org/t/p/w500/qOsDxAWMVSlOCUhZKDP5CO8Z8do.jpg"/>
-    <date>1966</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261124205138 -0300" stop="20261124222729 -0300" channel="fenix_classic">
+  <programme start="20261124050252 -0300" stop="20261124063843 -0300" channel="fenix_classic">
     <title lang="pt">E Deus Disse a Caim</title>
     <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
     <category lang="pt">Faroeste, Terror, Mistério</category>
@@ -8294,7 +8194,107 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261124222729 -0300" stop="20261124235947 -0300" channel="fenix_classic">
+  <programme start="20261124063843 -0300" stop="20261124080502 -0300" channel="fenix_classic">
+    <title lang="pt">Flechas Ardentes</title>
+    <desc lang="pt">Old Surehand e Winnetou enfrentam um desonesto homem do petróleo, que engana colonos e índios. Baseado no romance "Der Ölprinz", de Karl May, este é o segundo filme com o personagem Old Surehand; o primeiro foi "Carne para Abutres", e o último, "O Mão de Ferro".</desc>
+    <category lang="pt">Aventura, Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/zbi7PsU6x5rxvzOR53fnlvEsqr9.jpg"/>
+    <date>1965</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261124080502 -0300" stop="20261124092707 -0300" channel="fenix_classic">
+    <title lang="pt">Disparo para Matar</title>
+    <desc lang="pt">Uma mulher misteriosa convence dois cowboys a ajudá-la em um esquema de vingança.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/oaySRq49jlCtoYjhoR7IhSga6Vm.jpg"/>
+    <date>1966</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261124092707 -0300" stop="20261124112357 -0300" channel="fenix_classic">
+    <title lang="pt">Os Filhos de Katie Elder</title>
+    <desc lang="pt">Os quatro filhos de Katie Elder voltam a sua cidade natal para o funeral da mãe. John, o mais velho, é um notório pistoleiro. Tom é o jogador, Matt, o mais quieto, e Bud, o mais novo. Chegando lá, eles descobrem que seu pai, bêbado, apostou a fazenda da família num jogo e foi morto na mesma noite. Apesar das recomendações do xerife, os irmãos resolvem investigar o caso. Morgan Hastings e seu filho Dave, únicas testemunhas do assassinato, matam o xerife para se protegerem e os Elder são considerados culpados. O xerife substituto, Ben Latta, se une aos Hastings contra os irmãos Elder.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/n6ox5IniBxxx6ISTol5pm36WoFr.jpg"/>
+    <date>1965</date>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261124112357 -0300" stop="20261124124646 -0300" channel="fenix_classic">
+    <title lang="pt">Shango: O Pistoleiro Implacável</title>
+    <desc lang="pt">Shango, um ex-soldado nortista, luta contra sanguinário major confederado que domina uma cidade.</desc>
+    <category lang="pt">Faroeste, Ação, Drama</category>
+    <icon src="https://image.tmdb.org/t/p/w500/3QE9OIqeaagmoMQ0eSYdVDturPz.jpg"/>
+    <date>1970</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261124124646 -0300" stop="20261124142939 -0300" channel="fenix_classic">
+    <title lang="pt">O Último Samurai do Oeste</title>
+    <desc lang="pt">O honesto advogado Black Jack Gideon (Eli Walach) envolve-se com na procura de um valioso e raro ponei japonês que foi “seqüestrado” e por quem o bando de desertores renegados exige uma fabulosa quantia de resgate. Acompanham em sua busca pelo pônei valioso o bandido e sedutor Swiss (Giuliano Gemma) e Sakura (Tomas Milian). Aventura que mistura o clima do velho oeste com as milenares artes orientais, o que o torna uma das mais divertidas aventuras de todos os tempos. Filme também conhecido pelo nome: O Último Samurai do Oeste</desc>
+    <category lang="pt">Faroeste, Aventura, Comédia</category>
+    <icon src="https://image.tmdb.org/t/p/w500/POCRYNGDDIWc8dlW08HR3BJt6k.jpg"/>
+    <date>1975</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261124142939 -0300" stop="20261124155401 -0300" channel="fenix_classic">
+    <title lang="pt">Clint, O Estranho</title>
+    <desc lang="pt">Clint Harrison é um pistoleiro que tem fugido por muitos anos de inimigos sedentos por vingança. Agora ele retorna a cidade que abandonara anos antes quando descobre que sua família teve que deixar a cidade e se mudar para tentar fugir de sua reputação. Com a intenção de corrigir os erros do passado, Clint sai em busca de sua família mas termina no meio de uma guerra entre simples fazendeiros e um rico rancheiro que deseja por suas mãos em suas terras mesmo que para isso seja necessário haver muita matança. Embora Clint tenha prometido a sua esposa nuncamais usar sua arma ele se vê obrigado a quebrar sua promessa quando os impiedosos homens do rancheiro começam a eliminar os fazendeiros numa série de ataques sanguinários.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/dVWIJEeq5kSvDMk3odvaBggIxLI.jpg"/>
+    <date>1967</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261124155401 -0300" stop="20261124175648 -0300" channel="fenix_classic">
+    <title lang="pt">Bravura Indômita</title>
+    <desc lang="pt">Rooster Cogburn é um ex-xerife alcoólatra contratado por uma menina de 14 anos para vingar a morte de seu pai. Para pegar o criminoso, eles terão de entrar em um território indígena e enfrentar os comparsas do assassino que estão caçando, homens que não veem problema em matar uma adolescente.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/3unRxrwRr1yKvN0GKgsftoYajiK.jpg"/>
+    <date>1969</date>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20261124175648 -0300" stop="20261124192014 -0300" channel="fenix_classic">
+    <title lang="pt">O Matador de Aluguel</title>
+    <desc lang="pt">Silver é um pistoleiro contratado para capturar os ladrões que assaltaram a diligência e levaram o dinheiro do banco. Seu plano é simples, mas arriscado: ele finge ser bandido para despertar a atenção dos ladrões.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/AvtZEetQDuUg1h7nbwWnGJr5LqY.jpg"/>
+    <date>1967</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261124192014 -0300" stop="20261124205137 -0300" channel="fenix_classic">
+    <title lang="pt">Adeus, Texas</title>
+    <desc lang="pt">Ainda criança o pequeno Burt (Franco Nero) vê seu pai friamente assassinado e sua mãe cruelmente violentada por Cisco Delgado (José Suárez), um pistoleiro sádico e inescrupuloso. O tempo passou e agora Burt é o xerife de Widow Rock. Mas, durante todos estes anos a visão daquela cena de violência o atormenta a todo instante e agora é chegado o momento de vingança.</desc>
+    <category lang="pt">Faroeste, Ação</category>
+    <icon src="https://image.tmdb.org/t/p/w500/qOsDxAWMVSlOCUhZKDP5CO8Z8do.jpg"/>
+    <date>1966</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261124205137 -0300" stop="20261124222728 -0300" channel="fenix_classic">
+    <title lang="pt">E Deus Disse a Caim</title>
+    <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
+    <category lang="pt">Faroeste, Terror, Mistério</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4PxUOus0eCUUEKnM288Z0jZ745i.jpg"/>
+    <date>1970</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261124222728 -0300" stop="20261124235946 -0300" channel="fenix_classic">
     <title lang="pt">Os Cadáveres não Fazem Sombra</title>
     <desc lang="pt">Hunt Powers está sendo perseguido por um caçador de recompensas quando cavalga para uma cidade controlada por um proprietário de minas muito desagradável e muito necessitado de justiça.</desc>
     <category lang="pt">Faroeste</category>
@@ -8864,17 +8864,17 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261128170209 -0300" stop="20261128183801 -0300" channel="fenix_classic">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261128170209 -0300" stop="20261128183800 -0300" channel="fenix_classic">
+    <title lang="pt">E Deus Disse a Caim</title>
+    <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
+    <category lang="pt">Faroeste, Terror, Mistério</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4PxUOus0eCUUEKnM288Z0jZ745i.jpg"/>
+    <date>1970</date>
     <rating system="BR">
-      <value>12</value>
+      <value>L</value>
     </rating>
   </programme>
-  <programme start="20261128183801 -0300" stop="20261128200527 -0300" channel="fenix_classic">
+  <programme start="20261128183800 -0300" stop="20261128200526 -0300" channel="fenix_classic">
     <title lang="pt">Uma Aventura e Tanto</title>
     <desc lang="pt">A história do cão vira-lata Pluto, que aparece do nada e afeta a família Davis, que está lutando de muitas maneiras. Em pouco tempo, Pluto, o cão-maravilha consegue salvar uma criança, trazer conforto e companheirismo a um garoto doente de 9 anos, ajudar a restaurar um casamento e reparar um relacionamento desgastado de pai e filho. Pluto não é apenas um cão de guarda - ele é um anjo da guarda.</desc>
     <category lang="pt">Drama, Família</category>
@@ -8884,7 +8884,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261128200527 -0300" stop="20261128214612 -0300" channel="fenix_classic">
+  <programme start="20261128200526 -0300" stop="20261128214611 -0300" channel="fenix_classic">
     <title lang="pt">Rio Bravo</title>
     <desc lang="pt">Um oficial de cavalaria destacado no Rio Grande se depara com apaches invasores assassinos, um filho que é um recruta arriscado e sua esposa, de quem ele está separado há muitos anos.</desc>
     <category lang="pt">Faroeste</category>
@@ -8894,7 +8894,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261128214612 -0300" stop="20261128231501 -0300" channel="fenix_classic">
+  <programme start="20261128214611 -0300" stop="20261128231500 -0300" channel="fenix_classic">
     <title lang="pt">A Trilha dos Desalmados</title>
     <desc lang="pt">Após a Guerra Civil, bandidos liderados por um renegado chamado Rollins, seguindo os colonos se deslocam para o oeste, e tenta destruir a amizade entre os brancos e os índios. Baseado na novela "Winnetou - The Red Gentleman", de Karl May, este filme completa a trilogia dedicada ao índio Winnetou.</desc>
     <category lang="pt">Aventura, Faroeste</category>
@@ -8904,7 +8904,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261128231501 -0300" stop="20261129004914 -0300" channel="fenix_classic">
+  <programme start="20261128231500 -0300" stop="20261129004913 -0300" channel="fenix_classic">
     <title lang="pt">Trovões na Fronteira</title>
     <desc lang="pt">Winnetou, sua irmã e um grupo de bravos guerreiros unem-se ao caçador Old Firehand para defender uma cidade ameaçada por quadrilha de mexicanos. Mais uma aventura cinematográfica do índio Winnetou, personagem criado por Karl May.</desc>
     <category lang="pt">Aventura, Faroeste, Ação</category>
@@ -9794,14 +9794,14 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261204221946 -0300" stop="20261204235538 -0300" channel="fenix_classic">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261204221946 -0300" stop="20261204235537 -0300" channel="fenix_classic">
+    <title lang="pt">E Deus Disse a Caim</title>
+    <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
+    <category lang="pt">Faroeste, Terror, Mistério</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4PxUOus0eCUUEKnM288Z0jZ745i.jpg"/>
+    <date>1970</date>
     <rating system="BR">
-      <value>12</value>
+      <value>L</value>
     </rating>
   </programme>
   <programme start="20261205000000 -0300" stop="20261205012840 -0300" channel="fenix_classic">
@@ -11524,17 +11524,17 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20261216081759 -0300" stop="20261216095351 -0300" channel="fenix_classic">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261216081759 -0300" stop="20261216095350 -0300" channel="fenix_classic">
+    <title lang="pt">E Deus Disse a Caim</title>
+    <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
+    <category lang="pt">Faroeste, Terror, Mistério</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4PxUOus0eCUUEKnM288Z0jZ745i.jpg"/>
+    <date>1970</date>
     <rating system="BR">
-      <value>12</value>
+      <value>L</value>
     </rating>
   </programme>
-  <programme start="20261216095351 -0300" stop="20261216113307 -0300" channel="fenix_classic">
+  <programme start="20261216095350 -0300" stop="20261216113306 -0300" channel="fenix_classic">
     <title lang="pt">A Lei do Bravo</title>
     <desc lang="pt">A história da missão de paz da cavalaria americana aos índios Cheyenne em Wyoming durante a década de 1870. A missão é ameaçada quando um inspetor civil faz amizade com o filho do chefe e se apaixona pela filha do chefe.</desc>
     <category lang="pt">Ação</category>
@@ -11544,7 +11544,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261216113307 -0300" stop="20261216132410 -0300" channel="fenix_classic">
+  <programme start="20261216113306 -0300" stop="20261216132409 -0300" channel="fenix_classic">
     <title lang="pt">O Tesouro dos Renegados</title>
     <desc lang="pt">Em sua primeira aventura cinematográfica, o chefe apache Winnetou e o montanhês Old Shatterhand perseguem uma gangue de bandidos assassinos que farão de tudo para encontrar o lendário tesouro de Silver Lake.</desc>
     <category lang="pt">Faroeste, Aventura</category>
@@ -11554,7 +11554,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261216132410 -0300" stop="20261216145624 -0300" channel="fenix_classic">
+  <programme start="20261216132409 -0300" stop="20261216145623 -0300" channel="fenix_classic">
     <title lang="pt">O Matador de Elite</title>
     <desc lang="pt">Um capitão que lutava para impor e manter a ordem num povoado do Velho Oeste é assassinado por bandidos chefiados pelo terrível Coronel (Eduardo Fajardo). Agora, reinam soberanos na cidade, porém seus dias estão contados, pois Shamango (Anthony Steffen), um misterioso forasteiro de sangue frio e rápido no gatilho, surge na cidade para caçar bandidos e restabelecer a ordem.</desc>
     <category lang="pt">Faroeste</category>
@@ -11564,7 +11564,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261216145624 -0300" stop="20261216162716 -0300" channel="fenix_classic">
+  <programme start="20261216145623 -0300" stop="20261216162715 -0300" channel="fenix_classic">
     <title lang="pt">Promessa de Sangue</title>
     <desc lang="pt">Johnny Forest, Bounty Hunter, tenta realizar o Desejo Agonizante de sua mãe, que ele traga vivo seu irmão foragido, Clint. Na fuga de Jurago, um ex-parceiro que ele cruzou, Clint aceita a ajuda de Johnny e concorda em se render ..... por enquanto.</desc>
     <category lang="pt">Faroeste</category>
@@ -11574,7 +11574,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261216162716 -0300" stop="20261216180244 -0300" channel="fenix_classic">
+  <programme start="20261216162715 -0300" stop="20261216180243 -0300" channel="fenix_classic">
     <title lang="pt">O Longo Dia do Massacre</title>
     <desc lang="pt">Xerife é acusado de matar dois fazendeiros. Inocente, ele parte atrás do verdadeiro culpado, um bandido mexicano, enquanto é perseguido pelo novo xerife, que assumiu seu antigo posto.</desc>
     <category lang="pt">Faroeste</category>
@@ -11584,7 +11584,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261216180244 -0300" stop="20261216194818 -0300" channel="fenix_classic">
+  <programme start="20261216180243 -0300" stop="20261216194817 -0300" channel="fenix_classic">
     <title lang="pt">Jake Grandão</title>
     <desc lang="pt">Em 1909, o rancho McCandles é invadido por uma gangue de assassinos liderada pelo malvado John Fain. Eles raptam o pequeno Jacob McCandles e o levam pedindo um resgate de um milhão de dólares. Existe apenas um homem que é corajoso e inteligente o suficiente para trazê-lo de volta e este homem é Jake Grandão.</desc>
     <category lang="pt">Faroeste</category>
@@ -11594,7 +11594,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261216194818 -0300" stop="20261216213259 -0300" channel="fenix_classic">
+  <programme start="20261216194817 -0300" stop="20261216213258 -0300" channel="fenix_classic">
     <title lang="pt">O 3º Andar: Terror na Rua Malasaña</title>
     <desc lang="pt">Bairro Malasaña, Madri, Espanha, 1976. Enquanto a agitação política assola as ruas de todo o país, a família Olmedo chega à cidade grande e se instala em seu novo apartamento. Eles logo descobrem que não são os únicos que perambulam por seus corredores.</desc>
     <category lang="pt">Drama, Terror</category>
@@ -11604,7 +11604,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261216213259 -0300" stop="20261216230642 -0300" channel="fenix_classic">
+  <programme start="20261216213258 -0300" stop="20261216230641 -0300" channel="fenix_classic">
     <title lang="pt">A Vida por um Dolar</title>
     <desc lang="pt">Um pistoleiro muito rápido foge de um rancheiro e os seus homens saem para o matar por matar o seu filho. O pistoleiro confunde-se com um antigo soldado confederado que tem conhecimento de ouro escondido. O único problema é que ele é também perseguido por soldados da União. Quando libertam um homem com parte do mapa para o ouro, são então também perseguidos por soldados espanhóis. Tudo isto leva a uma pequena cidade mexicana aterrorizada por soldados e liderada por um bom padre que também tem conhecimentos sobre o ouro.</desc>
     <category lang="pt">Faroeste, Cinema TV</category>
@@ -11614,7 +11614,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261216230642 -0300" stop="20261217004307 -0300" channel="fenix_classic">
+  <programme start="20261216230641 -0300" stop="20261217004306 -0300" channel="fenix_classic">
     <title lang="pt">O Pistoleiro e a Bela Aventureira</title>
     <desc lang="pt">O Pistoleiro e a Bela Aventureira</desc>
     <category lang="pt">Aventura, Romance, Faroeste</category>
@@ -13434,27 +13434,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261229000000 -0300" stop="20261229013552 -0300" channel="fenix_classic">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20261229013552 -0300" stop="20261229030358 -0300" channel="fenix_classic">
-    <title lang="pt">Django Desafia Sartana</title>
-    <desc lang="pt">Após à caçada a um bandido, Django retorna à sua cidade e descobre que seu irmão Steve, acusado de roubar o banco, foi linchado. Django acredita que o verdadeiro culpado é Sartana, o suposto cúmplice de Steve. Apenas com o passar do tempo é que ele descobre que o verdadeiro autor do crime é uma importante figura local. Django e Sartana unem suas forças para puni-lo.</desc>
-    <category lang="pt">Faroeste</category>
-    <icon src="https://image.tmdb.org/t/p/w500/AqsbgQ290JbVbljVhe5JCySqiXU.jpg"/>
-    <date>1970</date>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
-  </programme>
-  <programme start="20261229030358 -0300" stop="20261229043949 -0300" channel="fenix_classic">
+  <programme start="20261229000000 -0300" stop="20261229013551 -0300" channel="fenix_classic">
     <title lang="pt">E Deus Disse a Caim</title>
     <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
     <category lang="pt">Faroeste, Terror, Mistério</category>
@@ -13464,7 +13444,27 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261229043949 -0300" stop="20261229061538 -0300" channel="fenix_classic">
+  <programme start="20261229013551 -0300" stop="20261229030357 -0300" channel="fenix_classic">
+    <title lang="pt">Django Desafia Sartana</title>
+    <desc lang="pt">Após à caçada a um bandido, Django retorna à sua cidade e descobre que seu irmão Steve, acusado de roubar o banco, foi linchado. Django acredita que o verdadeiro culpado é Sartana, o suposto cúmplice de Steve. Apenas com o passar do tempo é que ele descobre que o verdadeiro autor do crime é uma importante figura local. Django e Sartana unem suas forças para puni-lo.</desc>
+    <category lang="pt">Faroeste</category>
+    <icon src="https://image.tmdb.org/t/p/w500/AqsbgQ290JbVbljVhe5JCySqiXU.jpg"/>
+    <date>1970</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261229030357 -0300" stop="20261229043948 -0300" channel="fenix_classic">
+    <title lang="pt">E Deus Disse a Caim</title>
+    <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
+    <category lang="pt">Faroeste, Terror, Mistério</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4PxUOus0eCUUEKnM288Z0jZ745i.jpg"/>
+    <date>1970</date>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+  </programme>
+  <programme start="20261229043948 -0300" stop="20261229061537 -0300" channel="fenix_classic">
     <title lang="pt">Trindade Violenta</title>
     <desc lang="pt">Após a Guerra Civil o ex-oficial Confederado Colt Saunders (Charlton Heston) conhece Lorna Hunter (Anne Baxter), uma dançarina de saloon que se faz passar por uma dama e até como esposa dele, quando Colt estava desacordado após uma briga. Acontece que ela soube manobrar tão bem a situação que Colt resolve casar repentinamente com ela. Eles vão morar em "Bar S", o rancho de Colt, que há 5 anos não tinha a presença do seu dono. Logo após chegar recebe uma má notícia, pois membros do "governo provisório" taxam em US$ 16 mil o rancho de Colt. Eles sabem que a dívida é impossível de ser paga e assim tem um pretexto para tomar o rancho. Para piorar, uma destas pessoas do "governo provisório" sabe do passado sombrio de Lorna. Além disto aparece Beauregard "Cinch" Saunders (Tom Tryon), o irmão de Colt, que é a ovelha negra da família.</desc>
     <category lang="pt">Faroeste</category>
@@ -13474,7 +13474,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261229061538 -0300" stop="20261229074132 -0300" channel="fenix_classic">
+  <programme start="20261229061537 -0300" stop="20261229074131 -0300" channel="fenix_classic">
     <title lang="pt">Face a Face com o Diabo</title>
     <desc lang="pt">Um soldado confederado marginalizado protege uma mulher de bandidos que tentam roubar sua mina de ouro.</desc>
     <category lang="pt">Faroeste</category>
@@ -13484,7 +13484,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261229074132 -0300" stop="20261229092331 -0300" channel="fenix_classic">
+  <programme start="20261229074131 -0300" stop="20261229092330 -0300" channel="fenix_classic">
     <title lang="pt">Segunda Chance</title>
     <desc lang="pt">O policial Andreas (Nikolaj Coster-Waldau) leva uma vida tranquila com a sua esposa. Um dia, é acionado para intervir em uma briga doméstica comum, de um casal que tem um histórico de violência e de uso de drogas. Na casa do casal, ele descobre um bebê preso no closet . Andreas fica indignado com o tratamento dado à criança, mas as leis não permitem que a família perda a guarda do filho. Cada vez mais obcecado pelo caso, ele decide sequestrar o bebê por conta própria, levando-o para a sua casa. Começam então as investigações sobre o paradeiro do pequeno desaparecido.</desc>
     <category lang="pt">Thriller, Drama</category>
@@ -13494,7 +13494,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261229092331 -0300" stop="20261229110905 -0300" channel="fenix_classic">
+  <programme start="20261229092330 -0300" stop="20261229110904 -0300" channel="fenix_classic">
     <title lang="pt">Jake Grandão</title>
     <desc lang="pt">Em 1909, o rancho McCandles é invadido por uma gangue de assassinos liderada pelo malvado John Fain. Eles raptam o pequeno Jacob McCandles e o levam pedindo um resgate de um milhão de dólares. Existe apenas um homem que é corajoso e inteligente o suficiente para trazê-lo de volta e este homem é Jake Grandão.</desc>
     <category lang="pt">Faroeste</category>
@@ -13504,7 +13504,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261229110905 -0300" stop="20261229124742 -0300" channel="fenix_classic">
+  <programme start="20261229110904 -0300" stop="20261229124741 -0300" channel="fenix_classic">
     <title lang="pt">Carne Para Abutres</title>
     <desc lang="pt">Bandidos disfarçados de índios cometem crimes contra os colonos, mas Winnetou e o Velho Surehand estão determinados a desmascarar os criminosos e manter a paz entre colonos e índios.</desc>
     <category lang="pt">Aventura, Faroeste</category>
@@ -13514,7 +13514,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261229124742 -0300" stop="20261229140701 -0300" channel="fenix_classic">
+  <programme start="20261229124741 -0300" stop="20261229140700 -0300" channel="fenix_classic">
     <title lang="pt">Uma Balada Para Django</title>
     <desc lang="pt">Um ainda jovem com pouca fama Wild Bill Hickok encontra-se com o pistoleiro Django na mesa de um Salloon. Django conta suas maiores aventuras ao jovem garoto que é um grande fã e do pistoleiro.</desc>
     <category lang="pt">Faroeste</category>
@@ -13524,7 +13524,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261229140701 -0300" stop="20261229154624 -0300" channel="fenix_classic">
+  <programme start="20261229140700 -0300" stop="20261229154623 -0300" channel="fenix_classic">
     <title lang="pt">Um Bandoleiro Chamado Black Jack</title>
     <desc lang="pt">Black Jack é o líder de uma quadrilha de assaltantes de banco. Após um roubo bem sucedido, seus parceiros se rebelam por não concordarem com a quantia que receberam. Começa, então, uma perseguição na qual Black Jack tenta escapar com todo o dinheiro.</desc>
     <category lang="pt">Faroeste</category>
@@ -13534,7 +13534,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261229154624 -0300" stop="20261229170829 -0300" channel="fenix_classic">
+  <programme start="20261229154623 -0300" stop="20261229170828 -0300" channel="fenix_classic">
     <title lang="pt">Disparo para Matar</title>
     <desc lang="pt">Uma mulher misteriosa convence dois cowboys a ajudá-la em um esquema de vingança.</desc>
     <category lang="pt">Faroeste</category>
@@ -13544,7 +13544,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261229170829 -0300" stop="20261229190844 -0300" channel="fenix_classic">
+  <programme start="20261229170828 -0300" stop="20261229190843 -0300" channel="fenix_classic">
     <title lang="pt">Corre Homem, Corre</title>
     <desc lang="pt">O lendário Tomas Milian estrela como Cuchillo, um ladrão atirador de facas que foge de bandidos assassinos, agentes americanos sádicos, sua noiva de sangue quente e um xerife que se tornou caçador de recompensas, todos em busca de uma fortuna escondida em ouro que poderia financiar a Revolução Mexicana.</desc>
     <category lang="pt">Faroeste, Comédia, Aventura</category>
@@ -13554,7 +13554,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261229190844 -0300" stop="20261229210510 -0300" channel="fenix_classic">
+  <programme start="20261229190843 -0300" stop="20261229210509 -0300" channel="fenix_classic">
     <title lang="pt">Agente Infiltrada</title>
     <desc lang="pt">Rachel é uma espiã da Mossad, Serviço de Inteligência Nacional de Israel. Após o funeral de seu pai, ela desaparece misteriosamente. A única pista sobre o seu paradeiro é uma ligação criptografada feita ao seu antigo mensageiro na Alemanha, Thomas. Ele é convocado para retornar à Israel a fim de descobrir a localização da ex-parceira, ao mesmo tempo em que precisa frear o programa nuclear do iraniano.</desc>
     <category lang="pt">Drama, Thriller</category>
@@ -13564,7 +13564,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261229210510 -0300" stop="20261229223412 -0300" channel="fenix_classic">
+  <programme start="20261229210509 -0300" stop="20261229223411 -0300" channel="fenix_classic">
     <title lang="pt">Peça Perdão a Deus, Não a Mim</title>
     <desc lang="pt">Enquanto Cjamango McDonald está longe de seu rancho, seis bandidos atacam e matam todos os membros de sua família. Rompido por essa tragédia, ele se propõe a se vingar. Um por um, ele mata os bandidos e aprende ao longo do caminho que um parente de sua esposa está envolvido nesse crime.</desc>
     <category lang="pt">Faroeste</category>
@@ -13574,7 +13574,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261229223412 -0300" stop="20261230000438 -0300" channel="fenix_classic">
+  <programme start="20261229223411 -0300" stop="20261230000437 -0300" channel="fenix_classic">
     <title lang="pt">Duelo de Titãs</title>
     <desc lang="pt">A mulher índia do xerife Matt Morgan é violentada e morta por uma dupla de cowboys. As investigações de Morgan o levam a Gun Hill, cidade dominada pelo seu amigo e rico fazendeiro Craig Belden. Ele acaba descobrindo que um dos homens que procura é o jovem e mimado filho de Belden. Determinado a levá-lo para julgamento, Morgan entra em choque com seu amigo, que por sua vez tenta impedí-lo a todo custo.</desc>
     <category lang="pt">Faroeste</category>
@@ -13824,17 +13824,17 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261231145531 -0300" stop="20261231163123 -0300" channel="fenix_classic">
-    <title lang="pt">A Recruta Hollywood</title>
-    <desc lang="pt">Após perder todo o seu dinheiro e ser humilhada em público, a estrela Megan Valentine (Jessica Simpson) toma uma decisão radical. Ela se inscreve nas forças armadas dos Estados Unidos, sonhando que o treinamento possa transformar a sua vida de uma vez por todas.</desc>
-    <category lang="pt">Comédia</category>
-    <icon src="https://image.tmdb.org/t/p/w500/fEgU7o3AQmFbY083VGEIAVhIVkr.jpg"/>
-    <date>2008</date>
+  <programme start="20261231145531 -0300" stop="20261231163122 -0300" channel="fenix_classic">
+    <title lang="pt">E Deus Disse a Caim</title>
+    <desc lang="pt">Gary Hamilton é injustamente sentenciado a prisão. Acaba de ser libertado após receber um perdão presidencial, depois de ficar preso por 10 anos, prometendo a qualquer custo se vingar dos culpados pelo crime que foi forçado a pagar.</desc>
+    <category lang="pt">Faroeste, Terror, Mistério</category>
+    <icon src="https://image.tmdb.org/t/p/w500/4PxUOus0eCUUEKnM288Z0jZ745i.jpg"/>
+    <date>1970</date>
     <rating system="BR">
-      <value>12</value>
+      <value>L</value>
     </rating>
   </programme>
-  <programme start="20261231163123 -0300" stop="20261231175341 -0300" channel="fenix_classic">
+  <programme start="20261231163122 -0300" stop="20261231175340 -0300" channel="fenix_classic">
     <title lang="pt">7 Pistolas para os MacGregor</title>
     <desc lang="pt">O dono de um rancho, MacGregor, tem sete filhos e o mais velho, Gregor, lidera seus irmãos até Las Mesas, uma pequena cidade onde eles venderão cavalos. Lá, eles arranjam problemas com os moradores da cidade.</desc>
     <category lang="pt">Faroeste</category>
@@ -13844,7 +13844,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261231175341 -0300" stop="20261231193822 -0300" channel="fenix_classic">
+  <programme start="20261231175340 -0300" stop="20261231193821 -0300" channel="fenix_classic">
     <title lang="pt">O 3º Andar: Terror na Rua Malasaña</title>
     <desc lang="pt">Bairro Malasaña, Madri, Espanha, 1976. Enquanto a agitação política assola as ruas de todo o país, a família Olmedo chega à cidade grande e se instala em seu novo apartamento. Eles logo descobrem que não são os únicos que perambulam por seus corredores.</desc>
     <category lang="pt">Drama, Terror</category>
@@ -13854,7 +13854,7 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20261231193822 -0300" stop="20261231211206 -0300" channel="fenix_classic">
+  <programme start="20261231193821 -0300" stop="20261231211205 -0300" channel="fenix_classic">
     <title lang="pt">Os Bravos Fora-da-Lei</title>
     <desc lang="pt">Tobey Naylor foi um temido fora-da-lei que abandonou tudo para viver com seu filho Bryce, numa isolada fazenda. Mas sua tranqüilidade e vida terminam quando seu ex-parceiro Holden volta, subitamente, e assassina-o. Para vingar a morte do pai, Bryce une-se aos pistoleiros Lee e Torrance e descobre que Tobey Holden, Lee e Torrance foram parceiros no crime.Para limpar seus nomes, serviram à Guerra Civil e Holden foi mandado para a prisão, jurando vingar-se dos amigos que o abandonaram.</desc>
     <category lang="pt">Ação, Faroeste</category>
@@ -13864,7 +13864,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261231211206 -0300" stop="20261231224300 -0300" channel="fenix_classic">
+  <programme start="20261231211205 -0300" stop="20261231224259 -0300" channel="fenix_classic">
     <title lang="pt">Minnesota Clay</title>
     <desc lang="pt">Minnesota Clay é um pistoleiro que foi preso por um crime que não cometeu e que começou a perder a visão na cadeia. Sabendo que é a sua última chance de buscar vingança contra Fox, o ex-parceiro que lhe traiu, ele foge da prisão e vai em busca do rival, apenas para descobrir que ele tornou-se um xerife corrupto e domina toda uma cidade.</desc>
     <category lang="pt">Faroeste</category>
@@ -13874,7 +13874,7 @@
       <value>L</value>
     </rating>
   </programme>
-  <programme start="20261231224300 -0300" stop="20270101004021 -0300" channel="fenix_classic">
+  <programme start="20261231224259 -0300" stop="20270101004020 -0300" channel="fenix_classic">
     <title lang="pt">Os Quatro da Ave Maria</title>
     <desc lang="pt">Caco (Eli Watch) é um fora-da-lei que está prestes a ter sua sentença de morte executada. Harold, o presidente do banco de El Paso, vai até ele lhe fazer uma proposta: facilitar sua fuga caso ele recupere para o banqueiro o dinheiro que está com a dupla Cat (Terence Hill) e Hutch (Bud Spencer).</desc>
     <category lang="pt">Faroeste, Ação, Comédia</category>
